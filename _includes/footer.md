@@ -6,7 +6,7 @@
           <a href="aviso-de-privacidad" target="_self">Aviso de privacidad</a>
         </li>
         <li>
-          <a href="/" target="_self">Términos y condiciones</a>
+          <a href="terminos" target="_self">Términos y condiciones</a>
         </li>
       </ul>
     </div>

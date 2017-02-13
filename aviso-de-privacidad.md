@@ -8,7 +8,7 @@ id: aviso-de-privacidad
 <div class="container">
   <div class="row privacidad">
     <div class="col-md-12">
-      <h1>Aviso de privacidad</h1>
+      <h1>AVISO DE PRIVACIDAD</h1>
     </div>
 
     <div class="col-md-12">
