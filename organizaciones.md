@@ -50,7 +50,7 @@ id: organizaciones
   </div>
 
   <div class="row tres-puntos">
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center tres-puntos-title">
       <p><strong>Jetty no es un servicio de transporte tradicional:</strong></p>
     </div>
 
@@ -59,7 +59,7 @@ id: organizaciones
       <p><strong>Más barato</strong></p>
       <p>Ofrecemos un excelente servicio a un costo menor que las empresas de transporte privado.</p>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 text-center middle">
       <img src="img/sinplazos.svg">
       <p><strong>Sin plazo forzoso</strong></p>
       <p>No te pedimos firmar un contrato con un plazo forzoso.</p>

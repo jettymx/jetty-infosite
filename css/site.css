@@ -339,6 +339,45 @@ a.social-tw:hover{
   width: 50%;
 }
 
+.tres-puntos-title{
+  margin-bottom: 30px;
+}
+
+.middle{
+  border-left: 1px solid #7e8080;
+  border-right: 1px solid #7e8080;
+}
+
+/*////// QUIENES //////*/
+.header-quienes{
+  background: url('../img/Back_quienes.jpg') no-repeat;
+  background-size: 100%;
+  padding-bottom: 450px;
+}
+
+.header-content-quienes{
+ padding-top: 100px;
+}
+
+.header-quienes h1{
+  color: #7e8080;
+  text-transform: uppercase;
+}
+
+.header-quienes h2{
+  color: #7e8080;
+  margin-top: 50px;
+  font-weight: normal;
+}
+
+.quienes-content{
+  background: #49bda7;
+}
+
+.quienes-content p{
+  color: #ffffff;
+}
+
 /*////// PRIVACIDAD //////*/
 .privacidad h3{
   font-weight: 700;
