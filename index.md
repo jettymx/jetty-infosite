@@ -28,7 +28,7 @@ id: Home
       </div>
     </div>
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-md-10 col-md-offset-1 search">
         <form>
           <div class="row">
@@ -52,7 +52,7 @@ id: Home
           </div>
         </form>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>

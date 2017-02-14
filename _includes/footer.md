@@ -13,7 +13,7 @@
     <div class="col-md-2">
       <img src="img/logo-jetty-green.svg">
     </div>
-    <div class="col-md-12 social">
+    <div class="col-md-12 col-xs-12 social">
       <ul class="social">
         <li class="social-mobile">
           <a href="https://www.facebook.com/JettyMX/" target="_blank" class="social-fb"></a>

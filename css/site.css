@@ -40,6 +40,27 @@ p{
   width: 100px;
 }
 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background: transparent;
+}
+.navbar-default .navbar-toggle{
+  border: none;
+}
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #ffffff;
+}
+.navbar-toggle{
+  margin-right: 0;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  border: none;
+}
+.navbar-collapse{
+  border-top: 1px solid transparent;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0);
+}
+
 .footer{
   padding: 30px;
 }
@@ -157,6 +178,7 @@ a.social-tw:hover{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 100px;
+  background-position-y: -50px;
 }
 
 .header-content{
@@ -191,7 +213,7 @@ a.social-tw:hover{
   padding-right: 30px;
 }
 
-.search{
+/*.search{
   background: #ffffff;
   border-top: 5px solid #4abea7;
   box-shadow: 0px 5px 5px rgba(0,0,0,0.3);
@@ -208,7 +230,7 @@ a.social-tw:hover{
 
 .search .btn{
   margin-top: 0px;
-}
+}*/
 
 .como-funciona{
   padding-bottom: 200px;
@@ -268,11 +290,12 @@ a.social-tw:hover{
 .header-organizaciones{
   background: url('../img/Back_Organizaciones.jpg') no-repeat;
   background-size: 100%;
-  padding-bottom: 500px;
+  padding-bottom: 400px;
+  background-position-y: -100px;
 }
 
 .header-content-organizaciones{
- padding-top: 100px;
+  padding-top: 100px;
 }
 
 .header-organizaciones h1{
@@ -297,7 +320,7 @@ a.social-tw:hover{
 }
 
 .porque-content{
-  padding: 100px 0;
+  padding: 50px 0 100px 0;
 }
 
 .porque-title h3{
@@ -381,10 +404,11 @@ a.social-tw:hover{
 /*////// BENEFICIOS //////*/
 .beneficios{
   padding: 50px 0;
+  background: #49bda7;
 }
 
 .beneficios h1{
-  color: #7e8080;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -394,7 +418,7 @@ a.social-tw:hover{
 
 .beneficio{
   background: #4abea7;
-  border: 4px solid #ffffff;
+  /*border: 4px solid #ffffff;*/
   padding: 15px;
   min-height: 370px;
 }
@@ -431,8 +455,210 @@ a.social-tw:hover{
   width: 100%;
 }
 
-@media screen and (max-width: 992px){
-  .navbar-brand img{
-    width: 90px;
+@media screen and (min-width: 1500px){
+  .header{
+    background-position-y: -320px;
+  }
+
+  .header-organizaciones{
+    background-position-y: -300px;
+  }
+
+  .header-organizaciones{
+    padding-bottom: 500px;
+  }
+
+  .header-quienes{
+    background-position-y: 100%;
+  }
+
+  .porque-content{
+    padding-top: 0;
   }
 }
+
+@media only screen and (min-width:993px) and (max-width: 1499px) {
+  /*.header-quienes{
+    padding-bottom: 20%;
+  }*/
+}
+
+@media only screen and (min-width:1025px) and (max-width: 1400px) {
+  .header-quienes{
+    padding-bottom: 400px;
+  }
+
+  .header-organizaciones{
+    padding-bottom: 400px;
+  }
+
+}
+
+@media only screen and (min-width:769px) and (max-width: 1024px){
+  .header{
+    background-position-y: 0px;
+  }
+
+  .header-quienes{
+    padding-bottom: 12%;
+  }
+
+  .header-organizaciones{
+    background-size: 100%;
+    padding-bottom: 200px;
+    background-position-y: -100px;
+  }
+
+  .header-content-organizaciones{
+    padding-top: 0px;
+  }
+
+}
+
+@media screen and (max-width: 768px){
+  .header{
+    background-size: 200%;
+    padding-bottom: 100px;
+    background-position-y: -50px;
+  }
+
+  .header-content{
+   padding-top: 50px;
+  }
+
+  .header h1{
+    color: #7e8080;
+    text-transform: uppercase;
+  }
+
+  .header img{
+    width: 50%;
+    margin-left: 25%
+  }
+
+  .header .van img{
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 30px;
+  }
+
+  .header-quienes{
+    background-size: 200%;
+    padding-bottom: 200px;
+    background-position-y: -230px;
+  }
+
+  .header-organizaciones{
+    background-size: 100%;
+    padding-bottom: 200px;
+    background-position-y:0px;
+  }
+
+  .header-content-organizaciones{
+    padding-top: 50px;
+  }
+
+}
+
+@media screen and (max-width: 480px){
+  h1{
+    font-size: 28px;
+  }
+
+  h2{
+    font-size: 22px;
+  }
+  .header{
+    background-size: 300%;
+  }
+
+  .header-quienes{
+    background-size: 400%;
+    padding-bottom: 200px;
+    background-position-y: -270px;
+  }
+  .header-quienes h1{
+    font-size: 28px;
+  }
+
+  .header-content-quienes{
+    padding-top: 50px;
+  }
+
+  .header-organizaciones{
+    background-size: 210%;
+    padding-bottom: 200px;
+    background-position-y:0px;
+  }
+
+  .header-content-organizaciones{
+    padding-top: 50px;
+  }
+
+  .porque-content{
+    padding: 0px 0 100px 0;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .header-quienes{
+    padding-bottom: 100px;
+    background-position-y: -220px;
+  }
+
+  .header-content-quienes{
+    padding-top: 50px;
+  }
+  .porque-content{
+    padding: 0px 0 100px 0;
+  }
+}
+
+@media screen and (max-width: 320px){
+  h1{
+    font-size: 22px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+
+  p{
+    font-size: 16px;
+  }
+
+  .header{
+    background-size: 340%;
+  }
+
+  .header-quienes{
+    background-size: 430%;
+    padding-bottom: 120px;
+    background-position-y: -180px;
+  }
+
+  .header-content-quienes{
+    padding-top: 50px;
+  }
+
+   .header-organizaciones{
+    background-size: 250%;
+    padding-bottom: 150px;
+    background-position-y:0px;
+  }
+
+  .header-content-organizaciones{
+    padding-top: 50px;
+  }
+
+  .porque-content{
+    padding: 0px 0 100px 0;
+  }
+
+}
+
+/*@media only screen and (min-width:320px) and (max-width: 768px){
+  .header-quienes{
+    background-size: 210%;
+  }
+}*/
