@@ -9,7 +9,7 @@ id: organizaciones
   <div class="container header-content-organizaciones">
     <div class="row">
       <div class="col-md-8">
-        <h1>Seguridad, estrés, cansancio, costo, estacionamientos.</h1>
+        <h1>Seguridad, estrés, cansancio, costo, estacionamiento.</h1>
         <h2>Entendemos el desafío que representa el traslado cotidiano de tus colaboradores. Tenemos varias opciones para tu empresa o universidad. </h2>
         <a href="https://cledestino.typeform.com/to/XE4Rwj" target="_blank" class="btn btn-default btn-gray">Lo quiero en mi organización </a>
       </div>
