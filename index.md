@@ -139,8 +139,8 @@ id: Home
     </div>
 
     <div class="row buen-viaje-info">
-      <div class="col-md-4 col-md-offset-4">
-      <a href="#" class="btn btn-default btn-block btn-gray">Regístrate</a>
+      <div class="col-md-2 col-md-offset-5">
+      <a href="beneficios" class="btn btn-default btn-block btn-gray">¿Por qué?</a>
       </div>
     </div>
 

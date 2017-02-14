@@ -37,7 +37,7 @@ p{
 }
 
 .navbar-brand img{
-  max-width: 100px;
+  width: 100px;
 }
 
 .footer{
@@ -378,6 +378,35 @@ a.social-tw:hover{
   color: #ffffff;
 }
 
+/*////// BENEFICIOS //////*/
+.beneficios{
+  padding: 50px 0;
+}
+
+.beneficios h1{
+  color: #7e8080;
+  text-transform: uppercase;
+}
+
+.beneficios .uno{
+  margin: 40px 0;
+}
+
+.beneficio{
+  background: #4abea7;
+  border: 4px solid #ffffff;
+  padding: 15px;
+  min-height: 370px;
+}
+
+.beneficio img{
+  width: 50%;
+}
+
+.beneficio p{
+  color: #ffffff;
+}
+
 /*////// PRIVACIDAD //////*/
 .privacidad h3{
   font-weight: 700;
@@ -400,4 +429,10 @@ a.social-tw:hover{
 
 .space-greenUp img{
   width: 100%;
+}
+
+@media screen and (max-width: 992px){
+  .navbar-brand img{
+    width: 90px;
+  }
 }

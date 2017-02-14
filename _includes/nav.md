@@ -15,7 +15,6 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.html">Home</a></li>
-          <li><a href="#">Beneficios</a></li>
           <li><a href="#">Cobertura</a></li>
           <li><a href="organizaciones">Organizaciones</a></li>
           <li><a href="quienes">Quiénes somos</a></li>
