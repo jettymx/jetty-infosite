@@ -53,6 +53,9 @@ id: Beneficios
         </div>
       </div>
     </div>
+    <div class="col-md-4 col-md-offset-4">
+      <a href="#" class="btn btn-default btn-block btn-lg btn-gray">Danos tu ruta</a>
+    </div>
   </div>
 </div>
 

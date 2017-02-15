@@ -15,7 +15,8 @@ id: Home
         </h1>
         <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty queremos que cada uno de tus viajes sea un buen viaje.</p>
-        <a href="#" class="btn btn-default btn-green">Regístrate</a>
+        <a href="#" class="btn btn-default btn-lg btn-green">Danos tu ruta</a>
+        <p class="text-ruta"><i>Si se junta suficiente gente en tu ruta abriremos un servicio para atenderla</i></p>
       </div>
       <div class="col-md-5">
         <img src="img/logo-jetty-green.svg">
@@ -61,34 +62,43 @@ id: Home
 
 <div class="container-fluid backgreen-down">
   <div class="container">
-    <div class="row como-funciona">
-      <div class="col-xs-12 col-sm-12 col-md-offset-2 col-md-8">
-        <h1>Cómo<br>
-          <span>Funciona</span>
-        </h1>
-        <ul>
-          <li>
-            <img src="img/puntero-icon.svg"> 1. Dinos a dónde sales y a dónde vas
-          </li>
-          <li>
-            <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario,
-          </li>
-          <li>
-            <img src="img/asiento-icon.svg"> 3. Reserva tu asiento y paga,
-          </li>
-          <li>
-            <img src="img/peaton-icon.svg"> 4. Camina al punto de abordaje y súbete al Jetty.
-          </li>
-          <li>
-            <img src="img/audifonos-icon.svg"> 5. Relájate y disfruta de un buen viaje.
-          </li>
-          <li>
-            <a href="#" class="btn btn-default btn-green">Regístrate</a>
-          </li>
-        </ul>
-
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <div class="row como-funciona">
+        <div class="col-md-12">
+          <h1>Cómo <span>Funciona</span>
+          </h1>
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <img src="img/puntero-icon.svg"> 1. Dinos a dónde sales y a dónde vas
+            </li>
+            <li>
+              <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario,
+            </li>
+            <li>
+              <img src="img/asiento-icon.svg"> 3. Reserva tu asiento y paga,
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <img src="img/peaton-icon.svg"> 4. Camina al punto de abordaje y súbete al Jetty.
+            </li>
+            <li>
+              <img src="img/audifonos-icon.svg"> 5. Relájate y disfruta de un buen viaje.
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 col-md-offset-4">
+          <a href="#" class="btn btn-default btn-block btn-lg btn-green">Danos tu ruta</a>
+        </div>
       </div>
     </div>
+  </div>
+
   </div>
 </div>
 
@@ -139,8 +149,8 @@ id: Home
     </div>
 
     <div class="row buen-viaje-info">
-      <div class="col-md-2 col-md-offset-5">
-      <a href="beneficios" class="btn btn-default btn-block btn-gray">¿Por qué?</a>
+      <div class="col-md-4 col-md-offset-4">
+      <a href="beneficios" class="btn btn-default btn-block btn-lg btn-gray">Conoce más de nuestros beneficios</a>
       </div>
     </div>
 
