@@ -13,7 +13,7 @@ id: Home
         <h1>El transporte<br>
           <span>que mereces.</span>
         </h1>
-        <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
+        <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty queremos que cada uno de tus viajes sea un buen viaje.</p>
         <a href="#" class="btn btn-default btn-lg btn-green">Danos tu ruta</a>
         <p class="text-ruta"><i>Si se junta suficiente gente en tu ruta abriremos un servicio para atenderla</i></p>
@@ -29,6 +29,7 @@ id: Home
       </div>
     </div>
 
+    <!-- Search -->
     <!-- <div class="row">
       <div class="col-md-10 col-md-offset-1 search">
         <form>
