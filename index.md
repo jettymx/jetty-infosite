@@ -22,7 +22,7 @@ id: Home
         <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
         <p><strong>Si estás listo para el transporte que te mereces</strong></p>
-        <a href="#" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
+        <a href="cobertura" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
         <p class="text-ruta"><i>Jetty opera bajo demanda. Danos tu origen y tu destino y pronto abriremos un servicio para ti.</i></p>
       </div>
       <div class="col-md-6 van">
@@ -101,7 +101,7 @@ id: Home
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-4">
-          <a href="#" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
+          <a href="cobertura" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
         </div>
       </div>
     </div>
