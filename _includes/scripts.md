@@ -6,13 +6,20 @@
 
 <!-- Cambio de texto index -->
 <script type="text/javascript">
-  var texts = ["¿Te incomoda ir parado en el camión?", "¿Te da miedo viajar en transporte público?", "¿Te estresa ver como avanza el taxímetro y las tarifas dinámicas?"];
-    var count = 0;
-    function changeText() {
-        $("#example").text(texts[count]);
-        count < 3 ? count++ : count = 0;
-    }
-  setInterval(changeText, 3000);
+  // var texts = ["¿Te incomoda ir parado en el camión?", "¿Te da miedo viajar en transporte público?", "¿Te estresa ver como avanza el taxímetro y las tarifas dinámicas?"];
+  //   var count = 0;
+  //   function changeText() {
+  //       $("#example").text(texts[count]);
+  //       count < 3 ? count++ : count = 0;
+  //   }
+  // setInterval(changeText, 3000);
+</script>
+
+<script type="text/javascript">
+  $(function(){
+    $('.text-fadein h2:gt(0)').hide();
+    setInterval(function(){$('.text-fadein :first-child').fadeOut(1500).next('h2').fadeIn(1500).end().appendTo('.text-fadein');}, 5000);
+  });
 </script>
 
 <!-- TypeForm Organizaciones -->

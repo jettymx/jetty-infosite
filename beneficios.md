@@ -48,13 +48,13 @@ id: Beneficios
         </div>
         <div class="col-md-4 text-center beneficio">
           <img src="img/chofer.svg">
-          <p class="lead"><strong>Tener un conductor considerado.</strong></p>
+          <p class="lead"><strong>Tener un conductor profesional y considerado.</strong></p>
           <p>Todos nuestros conductores están altamente certificados para ofrecerles el mejor servicio.</p>
         </div>
       </div>
     </div>
     <div class="col-md-4 col-md-offset-4">
-      <a href="#" class="btn btn-default btn-block btn-lg btn-gray">Danos tu ruta</a>
+      <a href="#" class="btn btn-default btn-block btn-lg btn-gray">¿A dónde te llevamos?</a>
     </div>
   </div>
 </div>

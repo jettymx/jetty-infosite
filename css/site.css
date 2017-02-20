@@ -95,6 +95,19 @@ p{
   display: inline;
 }
 
+
+a.social-fb{
+  background-size: 58px !important;
+}
+
+a.social-tw{
+  background-size: 58px !important;
+}
+
+a.social-ins{
+  background-size: 58px !important;
+}
+
 .social-fb{
   width: 29px;
   height: 29px;
@@ -103,8 +116,10 @@ p{
   margin-left: 10px;
   display: inline-block;
   background: url('../img/redes.png') 0 0;
+  background-size: 58px;
   overflow: hidden;
 }
+
 
 a.social-fb:hover{
   background: url('../img/redes.png') -29px 0px;
@@ -118,11 +133,28 @@ a.social-fb:hover{
   margin-left: 10px;
   display: inline-block;
   background: url('../img/redes.png') 0 -29px;
+  background-size: 58px;
   overflow: hidden;
 }
 
 a.social-tw:hover{
   background: url('../img/redes.png') -29px -29px;
+}
+
+.social-ins{
+  width: 29px;
+  height: 29px;
+  padding: 0 !important;
+  margin-top: 20px;
+  margin-left: 10px;
+  display: inline-block;
+  background: url('../img/redes.png') 0 -58px;
+  background-size: 58px;
+  overflow: hidden;
+}
+
+a.social-ins:hover{
+  background: url('../img/redes.png') -87px -58px;
 }
 
 .btn-green{
@@ -179,8 +211,8 @@ a.social-tw:hover{
 .header{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
-  padding-bottom: 100px;
-  background-position-y: -50px;
+  padding-bottom: 200px;
+  background-position-y: -220px;
 }
 
 .header-content{
@@ -196,10 +228,17 @@ a.social-tw:hover{
   color: #a3a4a4;
 }
 
-.header h2{
-  color: #4bbea8;
-  margin-top: 25px;
+.text-fadein{
   height: 50px;
+  position: relative;
+  top: -20px;
+}
+
+.text-fadein h2 {
+  color: #4bbea8;
+  left:0;
+  position: absolute;
+  top:0;
 }
 
 .header p{
@@ -211,13 +250,14 @@ a.social-tw:hover{
 }
 
 .header .btn{
-  margin-top: 30px;
+  margin-top: 0px;
   padding-left: 30px;
   padding-right: 30px;
 }
 
 .text-ruta{
   font-size: 16px;
+  font-weight: 300;
   margin-top: 5px !important;
 }
 
@@ -292,6 +332,15 @@ a.social-tw:hover{
 
 .buen-viaje-info img{
   width: 60%;
+}
+
+/*////// COBERTURA //////*/
+.map iframe{
+  border: none;
+  height: 75%;
+  height: 75vh;
+  overflow: hidden;
+  width: 100%;
 }
 
 /*////// ORGANIZACIONES //////*/
@@ -380,6 +429,10 @@ a.social-tw:hover{
 }
 
 /*////// QUIENES //////*/
+.main-quienes{
+  background: #49bda7;
+}
+
 .header-quienes{
   background: url('../img/Back_Quienes.jpg') no-repeat;
   background-size: 100%;
@@ -465,7 +518,8 @@ a.social-tw:hover{
 
 @media screen and (min-width: 1500px){
   .header{
-    background-position-y: -320px;
+    background-position-y: -420px;
+    padding-bottom: 300px;
   }
 
   .header-organizaciones{

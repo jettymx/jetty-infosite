@@ -64,7 +64,7 @@ id: organizaciones
     <div class="col-md-4 text-center middle">
       <img src="img/sinplazos.svg">
       <p><strong>Sin plazo forzoso</strong></p>
-      <p>No te pedimos firmar un contrato con un plazo forzoso.</p>
+      <p>No te pedimos firmar un contrato.</p>
     </div>
     <div class="col-md-4 text-center">
       <img src="img/flexible.svg">

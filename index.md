@@ -9,25 +9,32 @@ id: Home
   <div class="container header-content">
 
     <div class="row">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h1>El transporte<br>
           <span>que mereces.</span>
         </h1>
-        <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
-        <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty queremos que cada uno de tus viajes sea un buen viaje.</p>
-        <a href="#" class="btn btn-default btn-lg btn-green">Danos tu ruta</a>
-        <p class="text-ruta"><i>Si se junta suficiente gente en tu ruta abriremos un servicio para atenderla</i></p>
+        <div class="text-fadein">
+           <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
+           <h2>¿Te incomoda ir parado en el camión</h2>
+           <h2>¿Te da miedo viajar en transporte público?</h2>
+           <h2>¿Te estresa ver como avanza el taxímetro y las tarifas dinámicas?</h2>
+        </div>
+        <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
+        <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
+        <p><strong>Si estás listo para el transporte que te mereces</strong></p>
+        <a href="#" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
+        <p class="text-ruta"><i>Jetty opera bajo demanda. Danos tu origen y tu destino y pronto abriremos un servicio para ti.</i></p>
       </div>
-      <div class="col-md-5">
-        <img src="img/logo-jetty-green.svg">
-      </div>
-    </div>
-
-    <div class="row van">
-      <div class="col-md-7 col-md-offset-5 text-right">
+      <div class="col-md-6 van">
         <img src="img/jetty-van.png" alt="Jetty Van">
       </div>
     </div>
+
+   <!--  <div class="row van">
+      <div class="col-md-7 col-md-offset-5 text-right">
+        <img src="img/jetty-van.png" alt="Jetty Van">
+      </div>
+    </div> -->
 
     <!-- Search -->
     <!-- <div class="row">
@@ -73,7 +80,7 @@ id: Home
         <div class="col-md-6">
           <ul>
             <li>
-              <img src="img/puntero-icon.svg"> 1. Dinos a dónde sales y a dónde vas
+              <img src="img/puntero-icon.svg"> 1. Dinos de dónde sales y a dónde vas
             </li>
             <li>
               <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario,
@@ -94,7 +101,7 @@ id: Home
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-4">
-          <a href="#" class="btn btn-default btn-block btn-lg btn-green">Danos tu ruta</a>
+          <a href="#" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
         </div>
       </div>
     </div>
@@ -136,7 +143,7 @@ id: Home
       <div class="col-md-10 col-md-offset-1">
         <div class="col-md-4 text-center">
           <img src="img/cartera.svg">
-          <p>No gastarte tu quincena en tus traslados.</p>
+          <p>No tener que gastar toda tu quincena en traslados.</p>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/laptop.svg">
@@ -144,7 +151,7 @@ id: Home
         </div>
         <div class="col-md-4 text-center">
           <img src="img/chofer.svg">
-          <p>Tener un conductor considerado.</p>
+          <p>Tener un conductor profesional y considerado</p>
         </div>
       </div>
     </div>
