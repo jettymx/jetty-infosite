@@ -15,9 +15,9 @@ id: Home
         </h1>
         <div class="text-fadein">
            <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
-           <h2>¿Te incomoda ir parado en el camión</h2>
+           <h2>¿Te incomoda ir parado en el camión?</h2>
            <h2>¿Te da miedo viajar en transporte público?</h2>
-           <h2>¿Te estresa ver como avanza el taxímetro y las tarifas dinámicas?</h2>
+           <h2>¿Te estresa ver cómo avanza el taxímetro y las tarifas dinámicas?</h2>
         </div>
         <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
@@ -151,7 +151,7 @@ id: Home
         </div>
         <div class="col-md-4 text-center">
           <img src="img/chofer.svg">
-          <p>Tener un conductor profesional y considerado</p>
+          <p>Tener un conductor profesional y considerado.</p>
         </div>
       </div>
     </div>
