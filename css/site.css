@@ -462,6 +462,24 @@ a.social-ins:hover{
   color: #ffffff;
 }
 
+.nosotros{
+  padding-bottom: 80px;
+}
+
+.nosotros h1{
+  color: #7e8080;
+  text-transform: uppercase;
+}
+
+.nosotros h3{
+  color: #7e8080;
+  margin-bottom: 40px;
+}
+
+.nosotros img{
+  width: 100%;
+}
+
 /*////// BENEFICIOS //////*/
 .beneficios{
   padding: 50px 0;

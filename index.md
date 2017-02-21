@@ -21,7 +21,7 @@ id: Home
         </div>
         <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
-        <p><strong>Si estás listo para el transporte que te mereces</strong></p>
+        <p><strong>Si estás listo para el transporte que te mereces.</strong></p>
         <a href="cobertura" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
         <p class="text-ruta"><i>Jetty opera bajo demanda. Danos tu origen y tu destino y pronto abriremos un servicio para ti.</i></p>
       </div>
@@ -80,13 +80,13 @@ id: Home
         <div class="col-md-6">
           <ul>
             <li>
-              <img src="img/puntero-icon.svg"> 1. Dinos de dónde sales y a dónde vas
+              <img src="img/puntero-icon.svg"> 1. Dinos de dónde sales y a dónde vas.
             </li>
             <li>
-              <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario,
+              <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario.
             </li>
             <li>
-              <img src="img/asiento-icon.svg"> 3. Reserva tu asiento y paga,
+              <img src="img/asiento-icon.svg"> 3. Reserva tu asiento y paga.
             </li>
           </ul>
         </div>
