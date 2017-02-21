@@ -52,32 +52,32 @@ id: quienes
     <div class="col-md-2">
       <p><strong>Onésimo Flores</strong></p>
       <p>Académico de MIT. Experto en transporte y desarrollo urbano.</p>
-      <img src="img/logos-1.jpg">
+      <img src="img/logos-1.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
       <p><strong>Alejandro Morales</strong></p>
       <p>Subdirector de proyectos de desarrollo urbano y movilidad.</p>
-      <img src="img/logos-2.jpg">
+      <img src="img/logos-2.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
       <p><strong>Diego Guzman</strong></p><br>
       <p>Project manager en arrendadoras GE Capital y Element.</p>
-      <img src="img/logos-3.jpg">
+      <img src="img/logos-3.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
       <p><strong>Cristina Palacios</strong></p>
       <p>Directora y fundadora de Aventones. Socia de INNKU.</p>
-      <img src="img/logos-4.jpg">
+      <img src="img/logos-4.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
       <p><strong>Célestin Soubrier</strong></p>
       <p>Director de marketing de Blablacar.</p><br>
-      <img src="img/logos-5.jpg">
+      <img src="img/logos-5.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
       <p><strong>INNKU</strong></p>
       <p>Empresa de desarrollo de software. >100 proyectos & 10 negocios.</p>
-      <img src="img/logos-6.jpg">
+      <img src="img/logos-6.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
   </div>
 </div>
