@@ -68,7 +68,8 @@ id: Home
 
 <div class="clearfix"></div>
 
-<div class="container-fluid backgreen-down">
+<!-- Cómo funciona lista -->
+<!-- <div class="container-fluid backgreen-down">
   <div class="container">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
@@ -107,6 +108,65 @@ id: Home
     </div>
   </div>
 
+  </div>
+</div> -->
+<div class="container-fluid backgreen-down">
+  <div class="conatiner como-funciona">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>Cómo <span>Funciona</span></h1>
+      </div>
+    </div>
+    <div class="row como-funciona-detail">
+      <div class="col-md-5"></div>
+      <div class="col-md-2 text-center"><img src="img/puntero-icon-circle.svg" class="hidden-xs"></div>
+      <div class="col-md-5">
+        <div class="">
+          <p class="lead right"><img src="img/puntero-icon.svg" class="hidden-sm hidden-md hidden-lg"> 1. Dinos de dónde sales y a dónde vas.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row como-funciona-detail">
+      <div class="col-md-5">
+        <div class="">
+          <p class="lead left"><img src="img/reloj-icon.svg" class="hidden-sm hidden-md hidden-lg"> 2. Escoge tu ruta y horario.</p>
+        </div>
+      </div>
+      <div class="col-md-2 text-center"><img src="img/reloj-icon-circle.svg" class="hidden-xs"></div>
+      <div class="col-md-5"></div>
+    </div>
+    <div class="row como-funciona-detail">
+      <div class="col-md-5"></div>
+      <div class="col-md-2 text-center"><img src="img/asiento-icon-circle.svg" class="hidden-xs"></div>
+      <div class="col-md-5">
+        <div class="">
+          <p class="lead right"><img src="img/asiento-icon.svg" class="hidden-sm hidden-md hidden-lg"> 3. Reserva tu asiento y paga.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row como-funciona-detail">
+      <div class="col-md-5">
+        <div class="">
+          <p class="lead left"><img src="img/peaton-icon.svg" class="hidden-sm hidden-md hidden-lg"> 4. Camina al punto de abordaje y súbete al Jetty.</p>
+        </div>
+      </div>
+      <div class="col-md-2 text-center"><img src="img/peaton-icon-circle.svg" class="hidden-xs"></div>
+      <div class="col-md-5"></div>
+    </div>
+    <div class="row como-funciona-detail">
+      <div class="col-md-5"></div>
+      <div class="col-md-2 text-center"><img src="img/audifonos-icon-circle.svg" class="hidden-xs"></div>
+      <div class="col-md-5">
+        <div class="">
+          <p class="lead right"><img src="img/audifonos-icon.svg" class="hidden-sm hidden-md hidden-lg">5. Relájate y disfruta de un buen viaje.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4">
+        <a href="cobertura" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
+      </div>
+    </div>
   </div>
 </div>
 
