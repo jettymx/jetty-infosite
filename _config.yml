@@ -16,7 +16,7 @@
 title: Jetty El transporte que mereces
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jetty acerca la tecnología a las redes existentes de transporte para eficientar y mejorar la calidad de los viajes ofrecidos.
+  Jetty crea tecnología para eficientar y mejorar la calidad del transporte.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
