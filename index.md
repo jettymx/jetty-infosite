@@ -21,93 +21,18 @@ id: Home
         </div>
         <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
         <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
-        <a href="cobertura" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
+        <a href="solicitud" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
       </div>
       <div class="col-md-6 van">
         <img src="img/jetty-van.png" alt="Jetty Van">
       </div>
     </div>
 
-   <!--  <div class="row van">
-      <div class="col-md-7 col-md-offset-5 text-right">
-        <img src="img/jetty-van.png" alt="Jetty Van">
-      </div>
-    </div> -->
-
-    <!-- Search -->
-    <!-- <div class="row">
-      <div class="col-md-10 col-md-offset-1 search">
-        <form>
-          <div class="row">
-            <div class="col-md-12">
-              <h3>¿A dónde quieres ir?</h3>
-            </div>
-
-            <div class="col-md-5">
-              <div class="form-group">
-                <input type="text" class="form-control" id="exampleInputName2" placeholder="Origen">
-              </div>
-            </div>
-            <div class="col-md-5">
-              <div class="form-group">
-                <input type="text" class="form-control" id="exampleInputName2" placeholder="Destino">
-              </div>
-            </div>
-            <div class="col-md-2">
-              <button type="submit" class="btn btn-default btn-block btn-green">Ver ruta</button>
-            </div>
-          </div>
-        </form>
-      </div>
-    </div> -->
-
   </div>
 </div>
 
 <div class="clearfix"></div>
 
-<!-- Cómo funciona lista -->
-<!-- <div class="container-fluid backgreen-down">
-  <div class="container">
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <div class="row como-funciona">
-        <div class="col-md-12">
-          <h1>Cómo <span>Funciona</span>
-          </h1>
-        </div>
-        <div class="col-md-6">
-          <ul>
-            <li>
-              <img src="img/puntero-icon.svg"> 1. Dinos de dónde sales y a dónde vas.
-            </li>
-            <li>
-              <img src="img/reloj-icon.svg"> 2. Escoge tu ruta y horario.
-            </li>
-            <li>
-              <img src="img/asiento-icon.svg"> 3. Reserva tu asiento y paga.
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <ul>
-            <li>
-              <img src="img/peaton-icon.svg"> 4. Camina al punto de abordaje y súbete al Jetty.
-            </li>
-            <li>
-              <img src="img/audifonos-icon.svg"> 5. Relájate y disfruta de un buen viaje.
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-4 col-md-offset-4">
-          <a href="cobertura" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  </div>
-</div> -->
 <div class="container-fluid backgreen-down">
   <div class="conatiner como-funciona">
     <div class="row">
@@ -162,7 +87,7 @@ id: Home
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4">
-        <a href="cobertura" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
+        <a href="solicitud" class="btn btn-default btn-block btn-lg btn-green">¿A dónde te llevamos?</a>
       </div>
     </div>
   </div>
