@@ -212,7 +212,7 @@ a.social-ins:hover{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 200px;
-  background-position-y: -220px;
+  background-position-y: -280px;
 }
 
 .header-content{
@@ -631,8 +631,12 @@ img.logos{
 
 @media screen and (min-width: 1500px){
   .header{
-    background-position-y: -420px;
+    background-position-y: -470px;
     padding-bottom: 300px;
+  }
+
+  .como-funciona{
+    padding-bottom: 350px;
   }
 
   .header-organizaciones{
@@ -671,7 +675,8 @@ img.logos{
 
 @media only screen and (min-width:769px) and (max-width: 1024px){
   .header{
-    background-position-y: 0px;
+    background-position-y: -100px;
+
   }
 
   .header-quienes{
@@ -694,7 +699,7 @@ img.logos{
   .header{
     background-size: 200%;
     padding-bottom: 100px;
-    background-position-y: -50px;
+    background-position-y: -130px;
   }
 
   .header-content{
@@ -799,6 +804,7 @@ img.logos{
   }
   .header{
     background-size: 300%;
+    background-position-y: -180px;
   }
 
   .header-quienes{
@@ -827,7 +833,7 @@ img.logos{
    /* Como funciona */
   .como-funciona{
     background: url('../img/back-line.png') no-repeat;
-    background-position: center 200px;
+    background-position: center 130px;
     background-size: 5px 50%;
     padding-bottom: 230px;
   }

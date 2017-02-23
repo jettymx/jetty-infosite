@@ -10,9 +10,6 @@ id: Home
 
     <div class="row">
       <div class="col-md-6">
-        <h1>El transporte<br>
-          <span>que mereces.</span>
-        </h1>
         <div class="text-fadein">
            <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
            <h2>¿Te incomoda ir parado en el camión?</h2>
