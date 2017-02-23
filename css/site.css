@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800');
 
-*{
+/**{
   border-radius: 0 !important;
-}
+}*/
 
 body{
   font-family: 'Nunito Sans', sans-serif;
@@ -17,6 +17,10 @@ p{
   font-size: 18px;
 }
 
+.btn{
+  border-radius: 0 !important;
+}
+
 .navbar{
   margin-bottom: 0;
   padding: 10px 0;
@@ -25,6 +29,7 @@ p{
 .navbar-default{
   background: #4abea7;
   border: none;
+  border-radius: 0 !important;
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -165,8 +170,8 @@ a.social-ins:hover{
   background: -webkit-linear-gradient(top, rgb(84,192,171) 0%,rgb(71,177,156) 100%);
   background: linear-gradient(to bottom, rgb(84,192,171) 0%,rgb(71,177,156) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54c0ab', endColorstr='#47b19c',GradientType=0 );
-  font-weight: 700;
-  font-size: 18px;
+  font-weight: 600;
+  font-size: 1.8em;
 }
 .btn-green:hover{
   background: rgb(62,157,138);
@@ -189,8 +194,8 @@ a.social-ins:hover{
   background: -webkit-linear-gradient(top, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
   background: linear-gradient(to bottom, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e8080', endColorstr='#696a6b',GradientType=0 );
-  font-weight: 700;
-  font-size: 18px;
+  font-weight: 600;
+  font-size: 1.8em;
 }
 
 .btn-gray:hover{
@@ -211,8 +216,8 @@ a.social-ins:hover{
 .header{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
-  padding-bottom: 200px;
-  background-position-y: -280px;
+  padding-bottom: 100px;
+  background-position-y: -320px;
 }
 
 .header-content{
@@ -236,13 +241,17 @@ a.social-ins:hover{
 
 .text-fadein h2 {
   color: #4bbea8;
+  font-size: 2.5em;
+  font-weight: 700;
   left:0;
   position: absolute;
   top:0;
 }
 
 .header p{
-  margin-top: 40px
+  font-size: 1.6em;
+  line-height: 1em;
+  margin-top: 4em;
 }
 
 .header .van img{
@@ -261,25 +270,6 @@ a.social-ins:hover{
   margin-top: 5px !important;
 }
 
-/*.search{
-  background: #ffffff;
-  border-top: 5px solid #4abea7;
-  box-shadow: 0px 5px 5px rgba(0,0,0,0.3);
-  margin-top: 50px;
-}
-
-.search h3{
-  color: #7e8080;
-}
-
-.search img{
-  width: 30px;
-}
-
-.search .btn{
-  margin-top: 0px;
-}*/
-
 .como-funciona{
   background: url('../img/back-line.png') no-repeat;
   background-position: center 130px;
@@ -297,21 +287,6 @@ a.social-ins:hover{
   color: #a3a4a4;
 }
 
-/*.como-funciona ul{
-  list-style: none;
-  padding: 0;
-}
-
-.como-funciona ul li{
-  color: #7e8080;
-  font-size: 18px;
-  line-height: 3em;
-}
-
-.como-funciona ul li img{
-  width: 50px;
-}*/
-
 .como-funciona-detail{
   margin-bottom: 20px;
 }
@@ -325,17 +300,19 @@ a.social-ins:hover{
   width: 70px;
 }
 
-.como-funciona-detail .left{
+.como-funciona-detail p {
   background: #f8f8f8;
   border: 1px solid #e7e7e7;
-  box-shadow: 0px 1px 4px rgba(0,0,0,0.2);
+  /*box-shadow: 0px 1px 4px rgba(0,0,0,0.2);*/
   position: relative;
-  right: -50px;
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 20px 20px;
   color: #4abea7;
-  font-weight: 700;
+  font-weight: 400;
+}
+
+.como-funciona-detail .left{
+  right: -50px;
+  text-align: right;
 }
 
 /* this CS forms the triangles */
@@ -365,16 +342,8 @@ a.social-ins:hover{
 }
 
 .como-funciona-detail .right{
-  background: #f8f8f8;
-  border: 1px solid #e7e7e7;
-  box-shadow: 0px 1px 4px rgba(0,0,0,0.2);
-  position: relative;
   left: -50px;
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  color: #4abea7;
-  font-weight: 700;
+  text-align: left;
 }
 
 /* this CS forms the triangles */
@@ -802,6 +771,11 @@ img.logos{
   h2{
     font-size: 22px;
   }
+
+  .btn-beneficios{
+    font-size: 1.2em;
+  }
+
   .header{
     background-size: 300%;
     background-position-y: -180px;
@@ -901,6 +875,14 @@ img.logos{
     font-size: 16px;
   }
 
+  .btn-beneficios{
+    font-size: 1.5em;
+  }
+
+  .btn-header{
+    font-size: 1em;
+  }
+
   .header{
     background-size: 340%;
   }
@@ -930,9 +912,3 @@ img.logos{
   }
 
 }
-
-/*@media only screen and (min-width:320px) and (max-width: 768px){
-  .header-quienes{
-    background-size: 210%;
-  }
-}*/

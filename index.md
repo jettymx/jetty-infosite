@@ -9,18 +9,17 @@ id: Home
   <div class="container header-content">
 
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-5">
         <div class="text-fadein">
            <h2>¿Estás cansado de perder horas atrás del volante en el tráfico?</h2>
            <h2>¿Te incomoda ir parado en el camión?</h2>
            <h2>¿Te da miedo viajar en transporte público?</h2>
            <h2>¿Te estresa ver cómo avanza el taxímetro y las tarifas dinámicas?</h2>
         </div>
-        <!--  <h2 id="example">¿Estás cansado de perder horas atrás del volante en el tráfico?</h2> -->
-        <p>Olvida esas preocupaciones y viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
-        <a href="solicitud" class="btn btn-default btn-lg btn-green">¿A dónde te llevamos?</a>
+        <p>Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
+        <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
       </div>
-      <div class="col-md-6 van">
+      <div class="col-md-7 van">
         <img src="img/jetty-van.png" alt="Jetty Van">
       </div>
     </div>
@@ -137,8 +136,8 @@ id: Home
     </div>
 
     <div class="row buen-viaje-info">
-      <div class="col-md-4 col-md-offset-4">
-      <a href="beneficios" class="btn btn-default btn-block btn-lg btn-gray">Conoce más de nuestros beneficios</a>
+      <div class="col-md-6 col-md-offset-3 text-center">
+      <a href="beneficios" class="btn btn-default btn-lg btn-gray btn-beneficios">Conoce más de nuestros beneficios</a>
       </div>
     </div>
 
