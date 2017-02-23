@@ -17,6 +17,10 @@ p{
   font-size: 18px;
 }
 
+.btn{
+  border-radius: 0 !important;
+}
+
 .navbar{
   margin-bottom: 0;
   padding: 10px 0;
@@ -25,6 +29,7 @@ p{
 .navbar-default{
   background: #4abea7;
   border: none;
+  border-radius: 0 !important;
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -212,7 +217,7 @@ a.social-ins:hover{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 100px;
-  background-position-y: -220px;
+  background-position-y: -320px;
 }
 
 .header-content{
@@ -265,25 +270,6 @@ a.social-ins:hover{
   margin-top: 5px !important;
 }
 
-/*.search{
-  background: #ffffff;
-  border-top: 5px solid #4abea7;
-  box-shadow: 0px 5px 5px rgba(0,0,0,0.3);
-  margin-top: 50px;
-}
-
-.search h3{
-  color: #7e8080;
-}
-
-.search img{
-  width: 30px;
-}
-
-.search .btn{
-  margin-top: 0px;
-}*/
-
 .como-funciona{
   background: url('../img/back-line.png') no-repeat;
   background-position: center 130px;
@@ -300,21 +286,6 @@ a.social-ins:hover{
 .como-funciona h1 span{
   color: #a3a4a4;
 }
-
-/*.como-funciona ul{
-  list-style: none;
-  padding: 0;
-}
-
-.como-funciona ul li{
-  color: #7e8080;
-  font-size: 18px;
-  line-height: 3em;
-}
-
-.como-funciona ul li img{
-  width: 50px;
-}*/
 
 .como-funciona-detail{
   margin-bottom: 20px;
@@ -800,6 +771,11 @@ img.logos{
   h2{
     font-size: 22px;
   }
+
+  .btn-beneficios{
+    font-size: 1.2em;
+  }
+
   .header{
     background-size: 300%;
     background-position-y: -180px;
@@ -899,6 +875,14 @@ img.logos{
     font-size: 16px;
   }
 
+  .btn-beneficios{
+    font-size: 1.5em;
+  }
+
+  .btn-header{
+    font-size: 1em;
+  }
+
   .header{
     background-size: 340%;
   }
@@ -928,9 +912,3 @@ img.logos{
   }
 
 }
-
-/*@media only screen and (min-width:320px) and (max-width: 768px){
-  .header-quienes{
-    background-size: 210%;
-  }
-}*/
