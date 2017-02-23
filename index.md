@@ -70,7 +70,7 @@ id: Home
     <div class="row como-funciona-detail">
       <div class="col-md-5">
         <div class="">
-          <p class="lead left"><img src="img/peaton-icon.svg" class="hidden-sm hidden-md hidden-lg"> 4. Camina al punto de abordaje y súbete al Jetty.</p>
+          <p class="lead left"><img src="img/peaton-icon.svg" class="hidden-sm hidden-md hidden-lg"> 4. Camina al punto de abordaje y súbete.</p>
         </div>
       </div>
       <div class="col-md-2 text-center"><img src="img/peaton-icon-circle.svg" class="hidden-xs"></div>

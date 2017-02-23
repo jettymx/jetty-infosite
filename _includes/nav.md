@@ -8,13 +8,13 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="/">
           <img src="img/logo-jetty.svg">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="/">Inicio</a></li>
           <li><a href="beneficios">Beneficios</a></li>
           <li><a href="organizaciones">Organizaciones</a></li>
           <li><a href="quienes">Quiénes somos</a></li>
