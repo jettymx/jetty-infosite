@@ -760,6 +760,9 @@ img.logos{
   .como-funciona-detail .left:before {
       display: none !important;
   }
+  .logo-footer img{
+    width: 60% !important;
+  }
 
 }
 
@@ -842,9 +845,15 @@ img.logos{
     padding-bottom: 20px;
   }
 
-
   .porque-content{
     padding: 0px 0 100px 0;
+  }
+  .map iframe{
+    border: none;
+    height: 100%;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
   }
 }
 

@@ -28,7 +28,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-2">
+    <div class="col-md-2 text-center logo-footer">
       <img src="img/logo-jetty-green.svg">
     </div>
   </div>
