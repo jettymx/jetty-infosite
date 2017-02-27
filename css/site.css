@@ -782,6 +782,7 @@ img.logos{
   .header{
     background-size: 300%;
     background-position-y: -180px;
+    padding-bottom: 50px !important;
   }
 
   .header-quienes{
@@ -799,12 +800,20 @@ img.logos{
 
   .header-organizaciones{
     background-size: 210%;
-    padding-bottom: 200px;
+    padding-bottom: 150px;
     background-position-y:0px;
+  }
+
+  .header-organizaciones .btn{
+    font-size: 1.2em;
   }
 
   .header-content-organizaciones{
     padding-top: 50px;
+  }
+
+  a.typeform-share.btn.btn-default.btn-gray{
+    font-size: 1.2em;
   }
 
    /* Como funciona */
@@ -856,20 +865,47 @@ img.logos{
     overflow: hidden;
     width: 100%;
   }
+
+  .como-funciona{
+    padding-bottom: 150px !important;
+  }
+
+  div.container.porque-content{
+    overflow: hidden;
+  }
+
+  .quienes-content .mountain{
+    margin-top: -100px;
+  }
+
 }
 
 @media screen and (max-width: 375px){
   .header-quienes{
     padding-bottom: 100px;
-    background-position-y: -220px;
+    background-position-y: -320px;
   }
 
   .header-content-quienes{
     padding-top: 50px;
   }
+
+  .header p{
+    margin-top: 5em;
+  }
+
+  .header-organizaciones{
+    padding-bottom: 100px;
+  }
+
   .porque-content{
     padding: 0px 0 100px 0;
   }
+
+  .beneficio{
+    min-height: 300px;
+  }
+
 }
 
 @media screen and (max-width: 320px){
@@ -884,6 +920,9 @@ img.logos{
   p{
     font-size: 16px;
   }
+  .btn-green{
+     font-size: 1.3em !important;
+  }
 
   .btn-beneficios{
     font-size: 1em;
@@ -895,6 +934,7 @@ img.logos{
 
   .header{
     background-size: 340%;
+    padding-bottom: 20px !important;
   }
 
   .header-quienes{
@@ -909,7 +949,7 @@ img.logos{
 
    .header-organizaciones{
     background-size: 250%;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     background-position-y:0px;
   }
 
@@ -919,6 +959,15 @@ img.logos{
 
   .porque-content{
     padding: 0px 0 100px 0;
+  }
+
+  .cuatro-puntos > .porque{
+    width: 310px;
+    margin-left: 20px;
+  }
+
+  .beneficios .btn{
+    font-size: 1.3em;
   }
 
 }

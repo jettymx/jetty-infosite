@@ -23,7 +23,7 @@ id: quienes
     <div class="container">
       <div class="row">
         <div class="col-md-4 col-md-offset-1 text-center">
-          <img src="img/mountain.svg">
+          <img src="img/mountain.svg" class="mountain">
           <p><strong>¿Nuestra misión?</strong></p>
           <p>Ofrecer un transporte digno: seguro, confiable y accesible.</p>
         </div>
