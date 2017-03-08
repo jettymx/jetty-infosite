@@ -25,7 +25,7 @@ id: quienes
         <div class="col-md-4 col-md-offset-1 text-center">
           <img src="img/mountain.svg" class="mountain">
           <p><strong>¿Nuestra misión?</strong></p>
-          <p>Ofrecer un transporte digno: seguro, confiable y accesible.</p>
+          <p>Ofrecer una alternativa de transporte privado, seguro, confiable y accesible.</p>
         </div>
         <div class="col-md-4 col-md-offset-2 text-center">
           <img src="img/angel.svg">
@@ -49,7 +49,7 @@ id: quienes
     </div>
   </div>
   <div class="row text-center">
-    <div class="col-md-2">
+    <div class="col-md-2 col-md-offset-1">
       <p><strong>Onésimo Flores</strong></p>
       <p>Académico de MIT. Experto en transporte y desarrollo urbano.</p>
       <img src="img/logos-1.jpg" class="logos" alt="Jetty, quiénes somos">
@@ -60,7 +60,7 @@ id: quienes
       <img src="img/logos-2.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
     <div class="col-md-2">
-      <p><strong>Diego Guzman</strong></p><br>
+      <p><strong>Diego Guzman</strong></p>
       <p>Project manager en arrendadoras GE Capital y Element.</p>
       <img src="img/logos-3.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
@@ -74,10 +74,10 @@ id: quienes
       <p>Director de marketing de Blablacar.</p><br>
       <img src="img/logos-5.jpg" class="logos" alt="Jetty, quiénes somos">
     </div>
-    <div class="col-md-2">
-      <p><strong>INNKU</strong></p>
-      <p>Empresa de desarrollo de software. >100 proyectos & 10 negocios.</p>
-      <img src="img/logos-6.jpg" class="logos" alt="Jetty, quiénes somos">
-    </div>
+  </div>
+  <div class="col-md-8 col-md-offset-2 text-center innku">
+    <img src="img/innku.png" alt="INNKU">
+    <p>Empresa de desarrollo de software. >100 proyectos & 10 negocios.</p>
+    <img src="img/logos-6.jpg" class="logos" alt="Innku, desarrollo de software">
   </div>
 </div>

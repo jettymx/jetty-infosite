@@ -23,7 +23,7 @@ id: Beneficios
         </div>
         <div class="col-md-4 text-center beneficio">
           <img src="img/rutas.svg">
-          <p class="lead"><strong>No perder tiempo en paradas o vueltas innecesarias.</strong></p>
+          <p class="lead"><strong>No perder tiempo en vueltas innecesarias.</strong></p>
           <p>En Jetty el conductor sabe dónde se suben y bajan los usuarios. </p>
         </div>
         <div class="col-md-4 text-center beneficio">
@@ -39,7 +39,7 @@ id: Beneficios
         <div class="col-md-4 text-center beneficio">
           <img src="img/cartera.svg">
           <p class="lead"><strong>No gastarte tu quincena en tus traslados.</strong></p>
-          <p>Jetty te cuesta 30% menos que llevar tu auto y 60% menos que pedir un taxi.</p>
+          <p>Jetty te cuesta 30% menos que llevar tu auto y 60% menos que otros servicios.</p>
         </div>
         <div class="col-md-4 text-center beneficio">
           <img src="img/laptop.svg">

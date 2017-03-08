@@ -109,7 +109,7 @@ id: Home
         </div>
         <div class="col-md-4 text-center">
           <img src="img/rutas.svg">
-          <p>No perder tiempo en paradas o vueltas innecesarias.</p>
+          <p>No perder tiempo en vueltas innecesarias.</p>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/reloj-zzz.svg">

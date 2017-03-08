@@ -3,6 +3,11 @@
 /**{
   border-radius: 0 !important;
 }*/
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 body{
   font-family: 'Nunito Sans', sans-serif;
@@ -250,7 +255,7 @@ a.social-ins:hover{
 
 .header p{
   font-size: 1.6em;
-  line-height: 1em;
+  line-height: 1.3em;
   margin-top: 4em;
 }
 
@@ -441,7 +446,7 @@ a.social-ins:hover{
 }
 
 .porque-content{
-  padding: 50px 0 100px 0;
+  padding: 0px 0 100px 0;
 }
 
 .porque-title h3{
@@ -500,7 +505,8 @@ a.social-ins:hover{
 .header-quienes{
   background: url('../img/Back_Quienes.jpg') no-repeat;
   background-size: 100%;
-  padding-bottom: 450px;
+  background-position-y: -100px;
+  padding-bottom: 350px;
 }
 
 .header-content-quienes{
@@ -532,12 +538,20 @@ a.social-ins:hover{
 
 .nosotros h1{
   color: #7e8080;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .nosotros h3{
   color: #7e8080;
   margin-bottom: 40px;
+}
+
+.innku{
+  margin-top: 50px;
+}
+
+.innku img{
+  width: 100px;
 }
 
 img.logos{
@@ -573,6 +587,37 @@ img.logos{
 .beneficio p{
   color: #ffffff;
 }
+
+/*////// CONDUCTOR O TRANSPORTISTA //////*/
+.conductor{
+  padding: 50px 0 0 0;
+  background: #49bda7;
+}
+
+.conductor h1{
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.conductor h2{
+  color: #ffffff;
+  font-weight: 400;
+  margin-top: 30px;
+}
+
+.conductor img{
+  width: 100%;
+}
+
+.proceso{
+  background: #49bda7;
+  color: #ffffff;
+}
+
+.proceso p{
+  color: #ffffff;
+}
+
 
 /*////// PRIVACIDAD //////*/
 .privacidad h3{
@@ -665,6 +710,25 @@ img.logos{
 }
 
 @media screen and (max-width: 768px){
+  .footer ul{
+    margin-left: 12%;
+    text-align: center;
+  }
+
+  .footer ul li{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .footer .logo-footer{
+    margin-top: 40px;
+  }
+
+  .logo-footer img{
+    width: 130px !important;
+  }
+
   .header{
     background-size: 200%;
     padding-bottom: 100px;
@@ -759,9 +823,6 @@ img.logos{
   .como-funciona-detail .left:after,
   .como-funciona-detail .left:before {
       display: none !important;
-  }
-  .logo-footer img{
-    width: 60% !important;
   }
 
 }

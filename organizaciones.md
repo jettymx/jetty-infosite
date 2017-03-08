@@ -42,7 +42,7 @@ id: organizaciones
     <div class="col-md-3 porque text-center">
       <img src="img/mundo.svg">
       <p><strong>Responsabilidad social</strong></p>
-      <p>Impulsa el uso de un transporte colectivo y reduce el impacto al medio ambiente.</p>
+      <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
     </div>
     <div class="col-md-3 porque text-center">
       <img src="img/alcancia.svg">
@@ -59,7 +59,7 @@ id: organizaciones
     <div class="col-md-4 text-center">
       <img src="img/barato.svg">
       <p><strong>Más barato</strong></p>
-      <p>Ofrecemos un excelente servicio a un costo menor que las empresas de transporte privado.</p>
+      <p>Ofrecemos un excelente servicio a un costo menor.</p>
     </div>
     <div class="col-md-4 text-center middle">
       <img src="img/sinplazos.svg">

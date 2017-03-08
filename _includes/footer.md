@@ -5,6 +5,12 @@
       <div class="row">
         <div class="col-md-12">
           <ul>
+            <!-- <li>
+              <a href="conductor" target="_self">¿Eres conductor, transportista?</a>
+            </li>
+            <li>
+              <a href="/" target="_self">Jetty a tu evento</a>
+            </li> -->
             <li>
               <a href="aviso-de-privacidad" target="_self">Aviso de privacidad</a>
             </li>
