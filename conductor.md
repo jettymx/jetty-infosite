@@ -28,10 +28,11 @@ id: conductor
 </div>
 
 <div class="container">
-  <div class="row">
+  <div class="row conductor-request">
     <div class="col-md-4 text-center">
       <div class="panel panel-default">
         <div class="panel-body">
+          <img src="img/icon-van.svg">
           <h2>Jetty te ofrece la posibilidad de:</h2>
           <p>Poner a trabajar tu vehículo de lunes a viernes. No tener que preocuparte por buscar clientes. Nosotros nos encargamos.</p>
         </div>
@@ -40,6 +41,7 @@ id: conductor
     <div class="col-md-4 text-center">
       <div class="panel panel-default">
         <div class="panel-body">
+          <img src="img/icon-calendar.svg">
           <h2>¿Cuáles son los requisitos para propietarios?</h2>
           <p>Tener un vehículo en buen estado, de no más de 5 años, con por lo menos 12 asientos y pasillo central.</p>
         </div>
@@ -48,6 +50,7 @@ id: conductor
     <div class="col-md-4 text-center">
       <div class="panel panel-default">
         <div class="panel-body">
+          <img src="img/icon-card.svg">
           <h2>¿Cuáles son los requisitos para conductores?</h2>
           <p>Tener o tramitar licencia tipo "C". </p>
         </div>

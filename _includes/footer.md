@@ -5,10 +5,10 @@
       <div class="row">
         <div class="col-md-12">
           <ul>
-            <!-- <li>
+            <li>
               <a href="conductor" target="_self">¿Eres conductor, transportista?</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="/" target="_self">Jetty a tu evento</a>
             </li> -->
             <li>
