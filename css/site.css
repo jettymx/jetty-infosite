@@ -825,6 +825,10 @@ img.logos{
       display: none !important;
   }
 
+  .number{
+    margin-bottom: 40px;
+  }
+
 }
 
 @media screen and (max-width: 480px){
