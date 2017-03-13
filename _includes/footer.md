@@ -12,6 +12,9 @@
               <a href="/" target="_self">Jetty a tu evento</a>
             </li> -->
             <li>
+              <a href="faqs" target="_self">FAQs</a>
+            </li>
+            <li>
               <a href="aviso-de-privacidad" target="_self">Aviso de privacidad</a>
             </li>
             <li>

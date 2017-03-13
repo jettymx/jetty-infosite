@@ -22,6 +22,15 @@ p{
   font-size: 18px;
 }
 
+a{
+  color: #4fbca7;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #7e8080;
+}
+
 .btn{
   border-radius: 0 !important;
 }
@@ -650,8 +659,28 @@ img.logos{
 
 
 /*////// PRIVACIDAD //////*/
+.privacidad {
+  padding-bottom: 80px;
+}
+
 .privacidad h3{
   font-weight: 700;
+  margin-top: 30px;
+}
+
+/*////// FAQs //////*/
+.privacidad ol{
+  font-size: 18px;
+  color: #7e8080;
+}
+
+.privacidad ol a{
+  color: #4fbca7;
+  text-decoration: none;
+}
+
+.privacidad ol a:hover{
+  color: #7e8080;
 }
 
 /*////// BACKS SUPPORT //////*/

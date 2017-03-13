@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jetty | El transporte que mereces
-description: Olvida esas preocupaciones y viaja cómodo y seguro.
+description: ¿Eres conductor o dueño  de un vehículo y quieres trabajar con nosotros?
 id: conductor
 ---
 
