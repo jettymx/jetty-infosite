@@ -605,6 +605,15 @@ img.logos{
   margin-top: 30px;
 }
 
+.conductor h3{
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.conductor p{
+  color: #ffffff;
+}
+
 .conductor img{
   width: 100%;
 }
@@ -618,6 +627,10 @@ img.logos{
   width: 100px;
 }
 
+.conductor-request .panel h2{
+  color: #6171ab;
+}
+
 .proceso{
   background: #49bda7;
   color: #ffffff;
@@ -625,6 +638,14 @@ img.logos{
 
 .proceso p{
   color: #ffffff;
+}
+
+.proceso p.lead{
+  margin-bottom: 5px;
+}
+
+.number{
+  margin-bottom: 40px;
 }
 
 

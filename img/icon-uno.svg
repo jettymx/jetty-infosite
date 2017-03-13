@@ -4,12 +4,13 @@
 	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#231F20;stroke-width:2.6996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:#231F20;}
-	.st2{font-family:'NunitoSans-Bold';}
-	.st3{font-size:26.9957px;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#231F20;}
 </style>
 <g>
 	<circle class="st0" cx="24.4" cy="25.5" r="21.9"/>
-	<text transform="matrix(1 0 0 1 16.3413 32.9336)" class="st1 st2 st3">1</text>
+	<g class="st1">
+		<path class="st2" d="M27,30.1h4.1v2.8H19.4v-2.8h4.1V17.9l-3.3,2l-1.4-2.5l5.6-3.4H27V30.1z"/>
+	</g>
 </g>
 </svg>

@@ -8,10 +8,21 @@ id: conductor
 <div class="container-fluid conductor">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h1>¿Eres conductor, transportista o dueño de un vehículo y quieres trabajar con nosotros?</h1>
-        <h2>Te ofrecemos la posibilidad de poner a trabajar tus unidades con Jetty</h2>
+      <div class="col-md-10 col-md-offset-1 text-center">
+        <h1>¿ERES CONDUCTOR O DUEÑO DE UN VEHÍCULO Y QUIERES TRABAJAR CON NOSOTROS?</h1>
+        <div class="row">
+          <div class="col-md-6 text-left">
+            <h3>Si tienes un vehículo...</h3>
+            <p>Buscamos vehículos en buen estado, de no más de 5 años, de hasta 24 asientos con pasillo central.</p>
+            <p>Jetty pone a trabajar tu vehículo de lunes a viernes. No tienes que preocuparte por buscar clientes. Nosotros nos encargamos.</p>
+          </div>
+          <div class="col-md-6 text-left">
+            <h3>Si eres un conductor...</h3>
+            <p>Siempre buscamos reclutar a conductores profesionales, responsables y con excelente trato.</p>
+          </div>
+        </div>
       </div>
+
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4 text-center">
@@ -41,7 +52,7 @@ id: conductor
     <div class="col-md-4 text-center">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="img/icon-calendar.svg">
+          <img src="img/icon-check.svg">
           <h2>¿Cuáles son los requisitos para propietarios?</h2>
           <p>Tener un vehículo en buen estado, de no más de 5 años, con por lo menos 12 asientos y pasillo central.</p>
         </div>
@@ -66,23 +77,25 @@ id: conductor
 <div class="conatiner-fluid proceso">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12 text-center">
         <h2>¿Cúal es el proceso?</h2>
         <br>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 number">
+      <div class="col-md-6 col-md-offset-3 number">
         <div class="row">
           <div class="col-md-2 col-xs-3 text-right">
             <img src="img/icon-uno.svg">
           </div>
           <div class="col-md-10 col-xs-9">
             <p class="lead">Llena este formulario:</p>
+            <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
+            <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
           </div>
         </div>
       </div>
-      <div class="col-md-4 number">
+      <div class="col-md-6 col-md-offset-3 number">
         <div class="row">
           <div class="col-md-2 col-xs-3 text-right">
             <img src="img/icon-dos.svg">
@@ -96,9 +109,8 @@ id: conductor
             </ul>
           </div>
         </div>
-
       </div>
-      <div class="col-md-4 number">
+      <div class="col-md-6 col-md-offset-3 number">
         <div class="row">
           <div class="col-md-2 col-xs-3 text-right">
             <img src="img/icon-tres.svg">
@@ -110,11 +122,8 @@ id: conductor
       </div>
     </div>
     <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Nosotros te ayudamos a sacar los permisos correspondientes para operar.</h3>
-        <br>
-        <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
-        <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+      <div class="col-md-12 text-center">
+        <h3>Nosotros te podemos dar asesoría para sacar los permisos que necesitas</h3>
       </div>
     </div>
   </div>
