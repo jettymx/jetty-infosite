@@ -8,9 +8,9 @@
             <li>
               <a href="conductor" target="_self">Trabaja con nosotros</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="/" target="_self">Jetty a tu evento</a>
-            </li>
+            </li> -->
             <li>
               <a href="aviso-de-privacidad" target="_self">Aviso de privacidad</a>
             </li>
