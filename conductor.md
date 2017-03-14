@@ -13,14 +13,16 @@ id: conductor
         <div class="row">
           <div class="col-md-6 text-left">
             <h3>Si tienes un vehículo...</h3>
-            <p>Buscamos vehículos en buen estado, de no más de 5 años, de hasta 24 asientos con pasillo central.</p>
             <p>Jetty pone a trabajar tu vehículo de lunes a viernes. No tienes que preocuparte por buscar clientes. Nosotros nos encargamos.</p>
+            <p>Buscamos vehículos en buen estado, de no más de 5 años, de hasta 24 asientos con pasillo central.</p>
           </div>
           <div class="col-md-6 text-left">
             <h3>Si eres un conductor...</h3>
             <p>Siempre buscamos reclutar a conductores profesionales, responsables y con excelente trato.</p>
+            <p>Como requisito, debes contar con una licencia tipo "C".</p>
           </div>
         </div>
+        <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
       </div>
 
     </div>
@@ -38,7 +40,7 @@ id: conductor
   <img src="img/back-green-up.png">
 </div>
 
-<div class="container">
+<!-- <div class="container">
   <div class="row conductor-request">
     <div class="col-md-4 text-center">
       <div class="panel panel-default">
@@ -68,11 +70,11 @@ id: conductor
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
-<div class="space-greenUp">
+<!-- <div class="space-greenUp">
   <img src="img/back-green-down.png">
-</div>
+</div> -->
 
 <div class="conatiner-fluid proceso">
   <div class="container">
@@ -91,7 +93,6 @@ id: conductor
           <div class="col-md-10 col-xs-9">
             <p class="lead">Llena este formulario:</p>
             <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
-            <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
           </div>
         </div>
       </div>
@@ -116,7 +117,7 @@ id: conductor
             <img src="img/icon-tres.svg">
           </div>
           <div class="col-md-10 col-xs-9">
-            <p class="lead">Se parte de Jetty</p>
+            <p class="lead">Únete a Jetty, la tecnología que cambiará la forma de transportarte en México</p>
           </div>
         </div>
       </div>
@@ -130,9 +131,9 @@ id: conductor
 </div>
 
 <div class="clearfix"></div>
-
+<!--
 <div class="space-greenUp">
   <img src="img/back-green-up.png">
-</div>
+</div> -->
 
-
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>

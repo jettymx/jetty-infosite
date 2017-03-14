@@ -84,6 +84,10 @@ a:hover{
   padding: 20px;
 }
 
+.footer .logo-footer img{
+  width: 140px;
+}
+
 .footer ul{
   list-style: none;
   margin: 0;
@@ -107,11 +111,16 @@ a:hover{
 
 .footer ul.social{
   list-style: none;
+  margin-top: 20px;
  /* text-align: center;*/
 }
 
 .footer ul.social li{
   display: inline;
+}
+
+.footer ul.submenu{
+  margin-top: 35px;
 }
 
 
@@ -621,10 +630,16 @@ img.logos{
 
 .conductor p{
   color: #ffffff;
+  margin-bottom: 20px;
 }
 
 .conductor img{
   width: 100%;
+}
+
+.conductor a{
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .conductor-request .panel{
@@ -641,14 +656,15 @@ img.logos{
 }
 
 .proceso{
-  background: #49bda7;
-  color: #ffffff;
+  /*background: #49bda7;
+  color: #ffffff;*/
+  margin-bottom: 80px;
 }
 
-.proceso p{
+/*.proceso p{
   color: #ffffff;
 }
-
+*/
 .proceso p.lead{
   margin-bottom: 5px;
 }
@@ -657,6 +673,14 @@ img.logos{
   margin-bottom: 40px;
 }
 
+.number img{
+  width: 40px;
+}
+
+.number ul li{
+  color: #7e8080;
+  font-size: 16px;
+}
 
 /*////// PRIVACIDAD //////*/
 .privacidad {
@@ -1007,6 +1031,12 @@ img.logos{
     margin-top: -100px;
   }
 
+
+  .number a{
+    font-size: 1em
+  }
+
+
 }
 
 @media screen and (max-width: 375px){
@@ -1097,6 +1127,10 @@ img.logos{
 
   .beneficios .btn{
     font-size: 1.3em;
+  }
+
+  .conductor a{
+    font-size: 1em
   }
 
 }
