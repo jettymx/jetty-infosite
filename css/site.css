@@ -1009,6 +1009,10 @@ img.logos{
     margin-bottom: 30px;
   }
 
+  .cobertura iframe{
+    height: 300px;
+  }
+
 }
 
 @media screen and (max-width: 480px){
