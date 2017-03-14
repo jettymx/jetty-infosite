@@ -18,6 +18,7 @@
           <li><a href="beneficios">Beneficios</a></li>
           <li><a href="organizaciones">Organizaciones</a></li>
           <li><a href="quienes">Quiénes somos</a></li>
+          <li><a href="cobertura">Cobertura</a></li>
         </ul>
       </div>
     </div>

@@ -777,6 +777,19 @@ img.logos{
   margin-top: 50px;
 }
 
+/*////// COBERTURA //////*/
+.cobertura{
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.cobertura iframe{
+  border: none;
+  height: 600px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  width: 100%;
+}
 
 @media screen and (min-width: 1500px){
   .header{
@@ -802,6 +815,10 @@ img.logos{
 
   .porque-content{
     padding-top: 0;
+  }
+
+  .header-eventos{
+    background-position-y: -500px;
   }
 }
 
@@ -845,6 +862,11 @@ img.logos{
 
   .header-content-organizaciones{
     padding-top: 0px;
+  }
+
+  .header-eventos{
+    padding-bottom: 250px;
+    background-position-y: -150px;
   }
 
 }
@@ -969,6 +991,16 @@ img.logos{
     margin-bottom: 40px;
   }
 
+  .header-eventos{
+    padding-bottom: 150px;
+    background-position-y: 0px;
+  }
+
+
+  .eventos img{
+    margin-bottom: 30px;
+  }
+
 }
 
 @media screen and (max-width: 480px){
@@ -1088,6 +1120,12 @@ img.logos{
     font-size: 1em
   }
 
+  .header-eventos{
+    background-size: 200%;
+    padding-bottom: 150px;
+    background-position-y: -50px;
+  }
+
 
 }
 
@@ -1115,6 +1153,12 @@ img.logos{
 
   .beneficio{
     min-height: 300px;
+  }
+
+  .header-eventos{
+    background-size: 200%;
+    padding-bottom: 150px;
+    background-position-y: 0px;
   }
 
 }
@@ -1183,6 +1227,12 @@ img.logos{
 
   .conductor a{
     font-size: 1em
+  }
+
+  .header-eventos{
+    background-size: 210%;
+    padding-bottom: 100px;
+    background-position-y: 0px;
   }
 
 }
