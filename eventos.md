@@ -21,11 +21,11 @@ id: eventos
 </div>
 
 <div class="container eventos">
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-md-12 text-center">
       <h2>Jetty es para tí.</h2>
     </div>
-  </div>
+  </div> -->
   <div class="row ">
     <div class="col-md-4 text-center">
       <img src="img/evento1.jpg">
@@ -41,7 +41,7 @@ id: eventos
   <div class="row">
     <div class="col-md-12 text-center">
       <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/t9Vmjl" data-mode="1" target="_blank">Reserva</a>
-        <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+      <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
     </div>
   </div>
 </div>
