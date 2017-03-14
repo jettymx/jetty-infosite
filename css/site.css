@@ -97,6 +97,7 @@ a:hover{
 
 .footer ul li{
   display: inline;
+  display: block;
   margin-right: 30px;
 }
 
@@ -725,6 +726,57 @@ img.logos{
 .space-greenUp img{
   width: 100%;
 }
+
+/*////// EVENTOS //////*/
+.header-eventos{
+  background: url('../img/back-eventos.jpg') no-repeat;
+  background-size: 100%;
+  padding-bottom: 350px;
+  background-position-y: -180px;
+}
+
+.header-content-eventos{
+  padding-top: 100px;
+}
+
+.header-eventos h1{
+  /*color: #ffffff;*/
+  text-transform: uppercase;
+}
+
+.header-eventos h2{
+  /*color: #ffffff;*/
+  margin-top: 25px;
+  font-weight: normal;
+}
+
+.header-eventos p{
+  margin-top: 30px
+}
+
+.header-eventos .btn{
+  margin-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.eventos{
+  margin-bottom: 50px;
+}
+
+.eventos h2{
+  margin-bottom: 50px;
+}
+
+.eventos img{
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  width: 80%;
+}
+
+.eventos a{
+  margin-top: 50px;
+}
+
 
 @media screen and (min-width: 1500px){
   .header{
