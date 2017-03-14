@@ -53,6 +53,9 @@
     <div class="col-md-4">
       <ul class="submenu">
         <li>
+          <a href="quienes">Quiénes somos</a>
+        </li>
+        <li>
           <a href="conductor" target="_self">Trabaja con nosotros</a>
         </li>
         <li>
