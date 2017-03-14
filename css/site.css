@@ -783,6 +783,14 @@ img.logos{
   margin-top: 30px;
 }
 
+.cobertura h1{
+  color: #7e8080;
+}
+
+.cobertura h2{
+  color: #7e8080;
+}
+
 .cobertura iframe{
   border: none;
   height: 600px;

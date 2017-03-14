@@ -8,7 +8,8 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center">
-      <h2>Estamos por lanzar nuestros servicios. Revisa nuestra área de cobertura:</h2>
+      <h1>Estamos por lanzar nuestros servicios.</h1>
+      <h2>Revisa nuestra área de cobertura:</h2>
     </div>
     <div class="col-md-12">
       <iframe src="https://www.google.com/maps/d/embed?mid=1PZSCmbdOt8umLKLw8Xn0oJzOQdI" ></iframe>
