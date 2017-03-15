@@ -46,23 +46,29 @@ id: quienes
     <div class="col-md-12 text-center">
       <h1>¿Por qué nosotros?</h1>
       <h3>Equipo multidisciplinario con experiencia en soluciones integrales para empresas de transporte.</h3>
+      <br>
+      <br>
     </div>
   </div>
   <div class="row text-center">
     <div class="col-md-3">
-      <p><strong>Onésimo Flores</strong></p>
+      <h3><strong>Onésimo Flores</strong></h3>
+      <p><strong>Socio fundador</strong></p>
       <p>Fue académico de MIT y es experto en transporte y desarrollo urbano.</p>
     </div>
     <div class="col-md-3">
-      <p><strong>Diego Guzman</strong></p>
+      <h3><strong>Diego Guzman</strong></h3>
+      <p><strong>Socia y directora</strong></p>
       <p>Project manager en grandes arrendadoras.</p>
     </div>
     <div class="col-md-3">
-      <p><strong>Cristina Palacios</strong></p>
+      <h3><strong>Cristina Palacios</strong></h3>
+      <p><strong>Director de Operaciones</strong></p>
       <p> Fue directora y fundadora de Aventones. Socia de www.innku.com.</p>
     </div>
     <div class="col-md-3">
-      <p><strong>Célestin Soubrier</strong></p>
+      <h3><strong>Célestin Soubrier</strong></h3>
+      <p><strong>Director de Marketing</strong></p>
       <p>Fue director de marketing en México de la empresa más grande de viaje compartidos.</p><br>
     </div>
   </div>
