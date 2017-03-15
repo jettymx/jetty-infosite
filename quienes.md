@@ -10,10 +10,10 @@ id: quienes
     <div class="container header-content-quienes">
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center">
-          <h1>Para eficientar y mejorar la calidad de tus viajes.</h1>
+          <h1>Creamos e implementamos soluciones tecnológicas para eficientar y mejorar la calidad del transporte.</h1>
         </div>
         <div class="col-md-10 col-md-offset-1 text-center">
-          <h2>Queremos que tengas un buen viaje. Siempre.</h2>
+          <h2>Queremos que tengas un <strong>Buen Viaje. Siempre.</strong></h2>
         </div>
       </div>
     </div>
@@ -59,22 +59,21 @@ id: quienes
     <div class="col-md-3">
       <h3><strong>Diego Guzman</strong></h3>
       <p><strong>Socia y directora</strong></p>
-      <p>Project manager en grandes arrendadoras.</p>
+      <p>Trabajó en arrendadoras y es experto en mejoras de calidad y reingeniería de procesos.</p>
     </div>
     <div class="col-md-3">
       <h3><strong>Cristina Palacios</strong></h3>
       <p><strong>Director de Operaciones</strong></p>
-      <p> Fue directora y fundadora de Aventones. Socia de www.innku.com.</p>
+      <p>Fue directora y fundadora de Aventones. Socia de www.innku.com.</p>
     </div>
     <div class="col-md-3">
       <h3><strong>Célestin Soubrier</strong></h3>
       <p><strong>Director de Marketing</strong></p>
-      <p>Fue director de marketing en México de la empresa más grande de viaje compartidos.</p><br>
+      <p>Fue director de marketing en México de la empresa más grande de viajes compartidos.</p><br>
     </div>
   </div>
   <div class="col-md-8 col-md-offset-2 text-center innku">
     <img src="img/innku.png" alt="INNKU">
-    <p>Empresa de desarrollo de software. >100 proyectos & 10 negocios.</p>
-    <!-- <img src="img/logos-6.jpg" class="logos" alt="Innku, desarrollo de software"> -->
+    <p>Empresa de desarrollo de software. Ha realizado más de 100 proyectos y es socia de 7 negocios de base tecnológica.</p>
   </div>
 </div>
