@@ -58,12 +58,12 @@ id: quienes
     </div>
     <div class="col-md-3">
       <h3><strong>Diego Guzman</strong></h3>
-      <p><strong>Socia y directora</strong></p>
+      <p><strong>Director de Operaciones</strong></p>
       <p>Trabajó en arrendadoras y es experto en mejoras de calidad y reingeniería de procesos.</p>
     </div>
     <div class="col-md-3">
       <h3><strong>Cristina Palacios</strong></h3>
-      <p><strong>Director de Operaciones</strong></p>
+      <p><strong>Socia y directora</strong></p>
       <p>Fue directora y fundadora de Aventones. Socia de www.innku.com.</p>
     </div>
     <div class="col-md-3">
