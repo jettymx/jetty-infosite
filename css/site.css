@@ -84,6 +84,10 @@ a:hover{
   padding: 20px;
 }
 
+.footer .logo-footer{
+  text-align: right;
+}
+
 .footer .logo-footer img{
   width: 140px;
 }
@@ -898,6 +902,7 @@ img.logos{
 
   .footer .logo-footer{
     margin-top: 40px;
+    text-align: center;
   }
 
   .logo-footer img{

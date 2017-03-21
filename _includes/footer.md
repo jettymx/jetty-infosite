@@ -78,7 +78,7 @@
       </ul>
     </div>
 
-    <div class="col-md-4 text-right logo-footer">
+    <div class="col-md-4 logo-footer">
       <img src="img/logo-jetty-green.svg">
     </div>
   </div>
