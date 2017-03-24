@@ -5,6 +5,8 @@
 
   <body class="back-organizaciones">
 
+    {% include googletag.html %}
+
     {% include nav.md %}
 
       {{ content }}
