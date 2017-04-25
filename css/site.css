@@ -3,10 +3,17 @@
 /**{
   border-radius: 0 !important;
 }*/
+
 * {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+#titleHead{
+  /*-webkit-animation-duration: 3s;*/
+  -webkit-animation-delay: .5s;
+  /*-webkit-animation-iteration-count: infinite;*/
 }
 
 body{
@@ -341,6 +348,7 @@ a.social-ins:hover{
 .como-funciona-detail .left{
   right: -50px;
   text-align: right;
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
 }
 
 /* this CS forms the triangles */
@@ -372,6 +380,7 @@ a.social-ins:hover{
 .como-funciona-detail .right{
   left: -50px;
   text-align: left;
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
 }
 
 /* this CS forms the triangles */
@@ -402,6 +411,7 @@ a.social-ins:hover{
 
 .content-buen-viaje{
   background: #49bda7;
+  overflow: hidden;
 }
 
 .buen-viaje h1{
@@ -469,7 +479,7 @@ a.social-ins:hover{
 }
 
 .porque-content{
-  padding: 0px 0 100px 0;
+  padding: 0px 0 100px 0;\overflow: hidden;
 }
 
 .porque-title h3{
@@ -716,6 +726,7 @@ img.logos{
 .backgreen-down{
   background: url('../img/back-green-down.png') no-repeat bottom;
   background-size: 100%;
+  overflow: hidden;
 }
 
 .backgreen-up{
@@ -889,6 +900,11 @@ img.logos{
 }
 
 @media screen and (max-width: 768px){
+  #titleHead{
+    /*-webkit-animation-duration: 3s;*/
+    -webkit-animation-delay: 0s;
+    /*-webkit-animation-iteration-count: infinite;*/
+  }
   .footer ul{
     margin-left: 12%;
     text-align: center;
@@ -1079,7 +1095,7 @@ img.logos{
   .como-funciona{
     background: url('../img/back-line.png') no-repeat;
     background-position: center 130px;
-    background-size: 5px 50%;
+    background-size: 5px 60%;
     padding-bottom: 350px;
   }
 

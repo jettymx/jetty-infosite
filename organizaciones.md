@@ -8,7 +8,7 @@ id: organizaciones
 <div class="header-organizaciones">
   <div class="container header-content-organizaciones">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-8" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="1000">
         <h1>Seguridad, estrés, cansancio, costo, estacionamiento.</h1>
         <h2>Entendemos el desafío que representa el traslado cotidiano de tus colaboradores. Tenemos varias opciones para tu empresa o universidad. </h2>
         <!-- <a href="https://cledestino.typeform.com/to/XE4Rwj" target="_blank" class="btn btn-default btn-gray">Lo quiero en mi organización </a> -->
@@ -22,29 +22,29 @@ id: organizaciones
 
 <div class="container porque-content">
   <div class="row">
-    <div class="col-md-12 text-center porque-title">
+    <div class="col-md-12 text-center porque-title" data-aos="fade-up">
       <h3>¿Por qué tus compañeros ganarían usando Jetty? </h3>
       <p>Mejora la productividad y el bienestar de todos.</p>
     </div>
   </div>
 
   <div class="row cuatro-puntos">
-    <div class="col-md-3 porque text-center">
+    <div class="col-md-3 porque text-center" data-aos="zoom-out-right" data-aos-duration="1000">
       <img src="img/manos.svg">
       <p><strong>Haz del traslado cotidiano un arma de reclutamiento</strong></p>
       <p>El transporte cotidiano es uno de los factores más importante para aceptar un trabajo.</p>
     </div>
-    <div class="col-md-3 porque text-center">
+    <div class="col-md-3 porque text-center" data-aos="zoom-out" data-aos-duration="500">
       <img src="img/engrane.svg">
       <p><strong>Aumenta la productividad</strong></p>
       <p>Descansar durante el viaje o ponerse al corriente de sus correos electrónicos, es Jetty.</p>
     </div>
-    <div class="col-md-3 porque text-center">
+    <div class="col-md-3 porque text-center" data-aos="zoom-out" data-aos-duration="500">
       <img src="img/mundo.svg">
       <p><strong>Responsabilidad social</strong></p>
       <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
     </div>
-    <div class="col-md-3 porque text-center">
+    <div class="col-md-3 porque text-center" data-aos="zoom-out-left" data-aos-duration="1000">
       <img src="img/alcancia.svg">
       <p><strong>Ahorra en estacionamientos</strong></p>
       <p>Menos cajones y más comedor o áreas de entretenimiento, con Jetty.</p>
@@ -52,21 +52,21 @@ id: organizaciones
   </div>
 
   <div class="row tres-puntos">
-    <div class="col-md-12 text-center tres-puntos-title">
+    <div class="col-md-12 text-center tres-puntos-title" data-aos="fade-up" data-aos-duration="1000">
       <p><strong>Jetty no es un servicio de transporte tradicional:</strong></p>
     </div>
 
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 text-center" data-aos="fade-right" data-aos-duration="1000">
       <img src="img/barato.svg">
       <p><strong>Más barato</strong></p>
       <p>Ofrecemos un excelente servicio a un costo menor.</p>
     </div>
-    <div class="col-md-4 text-center middle">
+    <div class="col-md-4 text-center middle" data-aos="fade-up" data-aos-duration="1000">
       <img src="img/sinplazos.svg">
       <p><strong>Sin plazo forzoso</strong></p>
       <p>No te pedimos firmar un contrato.</p>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-4 text-center" data-aos="fade-left" data-aos-duration="1000">
       <img src="img/flexible.svg">
       <p><strong>Flexible</strong></p>
       <p>Adaptamos nuestra oferta según la necesidad de tus compañeros.</p>
@@ -74,7 +74,7 @@ id: organizaciones
   </div>
 
   <div class="row tres-puntos">
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center" data-aos="fade-up">
       <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
     </div>
   </div>

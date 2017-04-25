@@ -8,5 +8,6 @@
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" type="image/png" href="favicon.ico">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/aos.css">
   <link rel="stylesheet" type="text/css" href="css/site.css">
 </head>
