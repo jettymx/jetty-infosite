@@ -13,10 +13,10 @@ En 2014, el 92% de la población mundial vivía en lugares donde no se respetaba
 Existen 4 principales contaminantes:
 
 <ul>
-  <li>Partículas (PM2.5 y PM10)</li>
-  <li>Ozono (O3)</li>
-  <li>Dióxido de nitrógeno (NO2)</li>
-  <li>Dióxido de azufre (SO2)</li>
+  <li>Partículas (PM<sub>2.5</sub> y PM<sub>10</sub>)</li>
+  <li>Ozono (O<sub>3</sub>)</li>
+  <li>Dióxido de nitrógeno (NO<sub>2</sub>)</li>
+  <li>Dióxido de azufre (SO<sub>2</sub>)</li>
 </ul>
 
 La OMS tiene directrices de niveles por cada contaminante:
