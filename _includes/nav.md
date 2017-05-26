@@ -9,15 +9,16 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="img/logo-jetty.svg">
+          <img src="{{ site.baseurl }}/img/logo-jetty.svg">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/">Inicio</a></li>
-          <li><a href="beneficios">Beneficios</a></li>
-          <li><a href="organizaciones">Organizaciones</a></li>
-          <li><a href="cobertura">Cobertura</a></li>
+          <li><a href="{{site.baseurl}}/">Inicio</a></li>
+          <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
+          <li><a href="{{site.baseurl}}/organizaciones">Organizaciones</a></li>
+          <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
+          <li><a href="{{site.baseurl}}/blog">Noticias</a></li>
         </ul>
       </div>
     </div>

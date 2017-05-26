@@ -819,6 +819,57 @@ img.logos{
   width: 100%;
 }
 
+/*////// BLOG //////*/
+h1.blog-title{
+  color: #7e8080;
+}
+
+.blog{
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.blog ul{
+  list-style: none;
+}
+
+.blog .date_blog{
+  color: #adafaf
+}
+
+.blog .post_author{
+  color: #adafaf
+}
+
+.post h1{
+  color: #4fbca7;
+}
+
+.post-content{
+  margin-top: 20px;
+}
+
+.post-content h3{
+  color: #7e8080;
+  font-weight: 700;
+}
+
+.post-content ul{
+  padding-top: 0px;
+}
+
+.post-content ul li{
+  font-size: 18px;
+  color: #7e8080;
+}
+
+.post-content img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+
 @media screen and (min-width: 1500px){
   .header{
     background-position-y: -470px;
