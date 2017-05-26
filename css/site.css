@@ -831,6 +831,7 @@ h1.blog-title{
 
 .blog ul{
   list-style: none;
+  padding: 0;
 }
 
 .blog .date_blog{
@@ -839,6 +840,12 @@ h1.blog-title{
 
 .blog .post_author{
   color: #adafaf
+}
+
+.blog img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 .post h1{
