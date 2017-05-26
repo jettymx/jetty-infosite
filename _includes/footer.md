@@ -79,7 +79,7 @@
     </div>
 
     <div class="col-md-4 logo-footer">
-      <img src="img/logo-jetty-green.svg">
+      <img src="{{ site.baseurl }}/img/logo-jetty-green.svg">
     </div>
   </div>
 

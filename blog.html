@@ -1,0 +1,47 @@
+---
+layout: noticias
+title: Blog | INNKU
+description:
+keywords:
+---
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1 class="blog-title">NOTICIAS</h1>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <section>
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-xs-12 blog">
+        <ul style="list-style-position: inside">
+          {% for post in site.posts %}
+           <li>
+            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            <span class="date_blog">{{ post.date | date: "%d %B %Y" }}</span><span class="post_author"> | Por: {{ post.post_author }}</span>
+            <p>{{ post.excerpt }}</p>
+
+            {% assign foundImage = 0 %}
+            {% assign assets = post.content | split:"<img " %}
+            {% for image in assets %}
+              {% if image contains 'src' %}
+
+                  {% if foundImage == 0 %}
+                      {% assign html = image | split:"/>" | first %}
+                      <img {{ html }} />
+                      {% assign foundImage = 1 %}
+                  {% endif %}
+              {% endif %}
+            {% endfor %}
+
+           </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+  </section>
+</div>
