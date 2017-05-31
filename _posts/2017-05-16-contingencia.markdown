@@ -6,7 +6,11 @@ post_author: Jetty
 categories: jekyll update
 ---
 
-La contaminación del aire representa un importante riesgo medioambiental para la salud. Cuando se prevé o se presenta una concentración de contaminantes o un riesgo ecológico derivados de actividades humanas o fenómenos naturales que puedan afectar la salud de la población o al medio ambiente, las autoridades competentes empiezan a aplicar las fases de activación de una contingencia.
+![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/contingencia.jpg)
+
+La contaminación del aire representa un importante riesgo medioambiental para la salud.
+
+Cuando se prevé o se presenta una concentración de contaminantes o un riesgo ecológico derivados de actividades humanas o fenómenos naturales que puedan afectar la salud de la población o al medio ambiente, las autoridades competentes empiezan a aplicar las fases de activación de una contingencia.
 
 En 2014, el 92% de la población mundial vivía en lugares donde no se respetaban las directrices de la OMS sobre la calidad del aire.
 

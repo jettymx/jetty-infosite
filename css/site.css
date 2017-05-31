@@ -834,17 +834,28 @@ h1.blog-title{
   padding: 0;
 }
 
+.blog li{
+  margin-bottom: 30px;
+}
+
+.blog h2{
+  margin-top: 10px;
+}
+
+.blog a:hover{
+  text-decoration: none;
+}
+
 .blog .date_blog{
-  color: #adafaf
+  color: #adafaf;
 }
 
 .blog .post_author{
-  color: #adafaf
+  color: #adafaf;
 }
 
 .blog img{
   margin-top: 20px;
-  margin-bottom: 20px;
   width: 100%;
 }
 
@@ -854,6 +865,7 @@ h1.blog-title{
 
 .post-content{
   margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 .post-content h3{

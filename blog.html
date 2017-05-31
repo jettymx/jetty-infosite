@@ -1,6 +1,6 @@
 ---
 layout: noticias
-title: Blog | INNKU
+title: Noticias | Jetty
 description:
 keywords:
 ---
@@ -13,35 +13,48 @@ keywords:
 </div>
 
 <div class="container">
-  <section>
 
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 col-xs-12 blog">
-        <ul style="list-style-position: inside">
-          {% for post in site.posts %}
-           <li>
-            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            <span class="date_blog">{{ post.date | date: "%d %B %Y" }}</span><span class="post_author"> | Por: {{ post.post_author }}</span>
-            <p>{{ post.excerpt }}</p>
+  <div class="row">
+    <div class="blog">
+      <ul style="list-style-position: inside">
+        {% for post in site.posts %}
+        <div class="col-md-4 col-xs-12">
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              {% assign foundImage = 0 %}
+              {% assign assets = post.content | split:"<img " %}
+              {% for image in assets %}
+                {% if image contains 'src' %}
 
-            {% assign foundImage = 0 %}
-            {% assign assets = post.content | split:"<img " %}
-            {% for image in assets %}
-              {% if image contains 'src' %}
-
-                  {% if foundImage == 0 %}
-                      {% assign html = image | split:"/>" | first %}
-                      <img {{ html }} />
-                      {% assign foundImage = 1 %}
-                  {% endif %}
-              {% endif %}
-            {% endfor %}
-
-           </li>
-          {% endfor %}
-        </ul>
-      </div>
+                    {% if foundImage == 0 %}
+                        {% assign html = image | split:"/>" | first %}
+                        <img {{ html }} />
+                        {% assign foundImage = 1 %}
+                    {% endif %}
+                {% endif %}
+              {% endfor %}
+              <h2>{{ post.title }}</h2>
+              <span class="date_blog">{{ post.date | date: "%d %B %Y" }}</span><span class="post_author"> | Por: {{ post.post_author }}</span>
+              <!-- <p>{{ post.excerpt }}</p> -->
+            </a>
+          </li>
+         </div>
+        {% endfor %}
+      </ul>
     </div>
 
-  </section>
+    <div class="pagination" style="text-align: center;">
+
+      {% if paginator.next_page %}
+        <h2><a href="{{ paginator.next_page_path }}" class="next">- more posts -</a></h2>
+      {% endif %}
+
+      {% if paginator.previous_page %}
+        <h2><a href="{{ paginator.previous_page_path }}" class="previous">- previous page -</a></h2>
+      {% endif %}
+
+    </div>
+
+  </div>
+
 </div>
