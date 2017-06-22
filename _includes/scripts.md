@@ -19,3 +19,15 @@
 <script>
   AOS.init();
 </script>
+
+<!-- SVG Animated -->
+<script src="js/vivus.js"></script>
+<script>
+  obt1 = new Vivus('asiento', {type: 'delayed', duration: 100}),
+  obt2 = new Vivus('rutas', {type: 'delayed', duration: 100}),
+  obt3 = new Vivus('zzz', {type: 'delayed', duration: 100}),
+  obt4 = new Vivus('cartera', {type: 'delayed', duration: 100}),
+  obt5 = new Vivus('laptop', {type: 'delayed', duration: 100}),
+  obt6 = new Vivus('chofer', {type: 'delayed', duration: 100}),
+  obt7 = new Vivus('rocket', {type: 'delayed', duration: 100});
+</script>

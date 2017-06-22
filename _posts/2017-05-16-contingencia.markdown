@@ -14,43 +14,45 @@ Cuando se prevé o se presenta una concentración de contaminantes o un riesgo e
 
 En 2014, el 92% de la población mundial vivía en lugares donde no se respetaban las directrices de la OMS sobre la calidad del aire.
 
-Existen 4 principales contaminantes:
+<div class="col-md-6">
+  <p>Existen 4 principales contaminantes:</p>
+  <ul>
+    <li>Partículas (PM<sub>2.5</sub> y PM<sub>10</sub>)</li>
+    <li>Ozono (O<sub>3</sub>)</li>
+    <li>Dióxido de nitrógeno (NO<sub>2</sub>)</li>
+    <li>Dióxido de azufre (SO<sub>2</sub>)</li>
+  </ul>
+</div>
 
-<ul>
-  <li>Partículas (PM<sub>2.5</sub> y PM<sub>10</sub>)</li>
-  <li>Ozono (O<sub>3</sub>)</li>
-  <li>Dióxido de nitrógeno (NO<sub>2</sub>)</li>
-  <li>Dióxido de azufre (SO<sub>2</sub>)</li>
-</ul>
-
-La OMS tiene directrices de niveles por cada contaminante:
-
-<ul>
-  <li>
-    <strong>PM<sub>2.5M.</sub></strong>
-    <p>10 μg/m<sup>3</sup> de media anual</p>
-    <p>25 μg/m<sup>3</sup> de media en 24h</p>
-  </li>
-  <li>
-    <strong>PM<sub>10</sub></strong>
-    <p>20 μg/m<sup>3</sup> de media anual</p>
-    <p>50 μg/m<sup>3</sup> de media en 24h</p>
-  </li>
-  <li>
-    <strong>O<sub>3</sub></strong>
-    <p>100 μg/m<sup>3</sup> de media en 8h</p>
-  </li>
-  <li>
-    <strong>NO<sub>2</sub></strong>
-    <p>40 μg/m<sup>3</sup> de media anual</p>
-    <p>200 μg/m<sup>3</sup> de media en 1h</p>
-  </li>
-  <li>
-    <strong>SO<sub>2</sub></strong>
-    <p>20 μg/m<sup>3</sup> media en 24h</p>
-    <p>500 μg/m<sup>3</sup> de media en 10 min</p>
-  </li>
-</ul>
+<div class="col-md-6">
+  <p>La OMS tiene directrices de niveles por cada contaminante:</p>
+  <ul>
+    <li>
+      <strong>PM<sub>2.5M.</sub></strong>
+      <p>10 μg/m<sup>3</sup> de media anual</p>
+      <p>25 μg/m<sup>3</sup> de media en 24h</p>
+    </li>
+    <li>
+      <strong>PM<sub>10</sub></strong>
+      <p>20 μg/m<sup>3</sup> de media anual</p>
+      <p>50 μg/m<sup>3</sup> de media en 24h</p>
+    </li>
+    <li>
+      <strong>O<sub>3</sub></strong>
+      <p>100 μg/m<sup>3</sup> de media en 8h</p>
+    </li>
+    <li>
+      <strong>NO<sub>2</sub></strong>
+      <p>40 μg/m<sup>3</sup> de media anual</p>
+      <p>200 μg/m<sup>3</sup> de media en 1h</p>
+    </li>
+    <li>
+      <strong>SO<sub>2</sub></strong>
+      <p>20 μg/m<sup>3</sup> media en 24h</p>
+      <p>500 μg/m<sup>3</sup> de media en 10 min</p>
+    </li>
+  </ul>
+</div>
 
 Sin embargo, cada país tiene sus propios límites. En el caso de México, la contingencia ambiental se aplica únicamente si los niveles de contaminantes de partículas de 10 micrones de diámetro o ozonos sobrepasan un cierto límite.
 
