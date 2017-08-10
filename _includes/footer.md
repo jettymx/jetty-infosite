@@ -26,9 +26,9 @@
         <li>
           <a href="{{site.baseurl}}/eventos" target="_self">Jetty a tu evento</a>
         </li>
-        <!-- <li>
+        <li>
           <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
-        </li> -->
+        </li>
 
       </ul>
     </div>

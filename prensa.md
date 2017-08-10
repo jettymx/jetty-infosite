@@ -6,21 +6,43 @@ id: prensa
 ---
 
 <div class="container">
-  <div class="row privacidad">
+  <div class="row prensa">
     <div class="col-md-12">
       <h1>Prensa</h1>
     </div>
 
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-md-11 col-md-offset-1">
 
-      <div class="row">
-        <div class="col-md-3">
-
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <a href="http://www.excelsior.com.mx/comunidad/2017/08/09/1180659" target="_blank"><img src="imgs-prensa/excelsior.png"></a>
         </div>
         <div class="col-md-9">
-          <h3>¿Utilizas transporte en Polanco? Lanzan app de servicio colectivo</h3>
-          <p>Jetty es una plataforma tecnológica 100% mexicana que te permite pedir un transporte seguro y cómodo para ir y regresar de tu casa a tu trabajo o universidad. Contamos con vehículos asegurados en perfectas condiciones y conductores altamente calificados.</p>
-          <a href="">Ver artículo</a>
+          <h3>¿Utilizas transporte en Polanco? Lanzan app de servicio colectivo.</h3>
+          <p>Jetty, iniciará servicio la próxima semana en vagonetas que cubrirán la ruta Polanco-Lomas Verdes por un costo de 49 pesos por persona en una ruta metropolitana de 12 kilómetros.</p>
+          <a href="http://www.excelsior.com.mx/comunidad/2017/08/09/1180659" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <a href="http://www.milenio.com/df/jetty-uber-cabify-camionetas-vans-lomas_verdes-polanco-noticias_milenio_0_1008499575.html" target="_blank"><img src="imgs-prensa/milenio.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>Camionetas Jetty conectarán Lomas Verdes y Polanco.</h3>
+          <p>Las camionetas tienen características similares en seguridad y estándar que Uber y Cabify pero el precio del viaje será menor, destacó Onésimo Flores, socio fundador de Jetty.</p>
+          <a href="http://www.milenio.com/df/jetty-uber-cabify-camionetas-vans-lomas_verdes-polanco-noticias_milenio_0_1008499575.html" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <a href="http://expansion.mx/tecnologia/2017/08/09/app-de-transporte-colectivo-movilizara-trayectos-entre-cdmx-y-edomex" target="_blank"><img src="imgs-prensa/expansion.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>APP DE TRANSPORTE COLECTIVO MOVILIZARÁ TRAYECTOS ENTRE CDMX Y EDOMEX</h3>
+          <p>La app Jetty ofrecerá servicio de transporte, tipo Uber, en camionetas entre ambos estados; la ruta inicial conectará a la zona de Lomas Verdes con Polanco.</p>
+          <a href="http://expansion.mx/tecnologia/2017/08/09/app-de-transporte-colectivo-movilizara-trayectos-entre-cdmx-y-edomex" target="_blank">Ver artículo</a>
         </div>
       </div>
 
