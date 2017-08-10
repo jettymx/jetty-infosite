@@ -33,7 +33,7 @@
       </ul>
     </div>
 
-    <div class="col-md-2">
+    <div class="col-md-3">
       <ul class="submenu">
         <li>
           <a href="{{site.baseurl}}/faqs" target="_self">FAQs</a>
@@ -48,7 +48,6 @@
     </div>
 
     <!-- <div class="col-md-1"></div> -->
-    <div class="col-md-2"></div>
 
     <div class="col-md-2 logo-footer">
       <img src="{{ site.baseurl }}/img/logo-jetty-green.svg">
