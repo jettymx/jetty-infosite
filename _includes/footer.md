@@ -2,7 +2,20 @@
 <div class="container footer">
 
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 footer-downapp">
+      <p class="text-downapp">Descarga la app.</p>
+        <!-- <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a> -->
+
+        <!-- <a href="#" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a> -->
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
+    </div>
+    <!-- <div class="col-md-1"></div> -->
+    <div class="col-md-2">
       <ul class="submenu">
         <li>
           <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
@@ -13,14 +26,18 @@
         <li>
           <a href="{{site.baseurl}}/eventos" target="_self">Jetty a tu evento</a>
         </li>
-        <li>
-          <a href="{{site.baseurl}}/faqs" target="_self">FAQs</a>
-        </li>
+        <!-- <li>
+          <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
+        </li> -->
+
       </ul>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-2">
       <ul class="submenu">
+        <li>
+          <a href="{{site.baseurl}}/faqs" target="_self">FAQs</a>
+        </li>
         <li>
           <a href="{{site.baseurl}}/aviso-de-privacidad" target="_self">Aviso de privacidad</a>
         </li>
@@ -30,7 +47,10 @@
       </ul>
     </div>
 
-    <div class="col-md-4 logo-footer">
+    <!-- <div class="col-md-1"></div> -->
+    <div class="col-md-2"></div>
+
+    <div class="col-md-2 logo-footer">
       <img src="{{ site.baseurl }}/img/logo-jetty-green.svg">
     </div>
   </div>

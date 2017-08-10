@@ -17,7 +17,17 @@ id: Home
            <h2>¿Te estresa ver cómo avanza el taxímetro y las tarifas dinámicas?</h2>
         </div>
         <p>Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
-        <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
+
+        <p class="text-downapp">Descarga la app.</p>
+        <!-- <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a> -->
+
+        <!-- <a href="#" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a> -->
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
       </div>
       <div class="col-md-7 van" data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-out
       " >
