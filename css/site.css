@@ -10,6 +10,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.img-display{
+  display: none;
+}
+
 #titleHead{
   /*-webkit-animation-duration: 3s;*/
   -webkit-animation-delay: .5s;

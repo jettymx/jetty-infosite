@@ -6,6 +6,9 @@ id: Home
 ---
 
 <div class="header">
+
+  <img src="img/jetty-van.png" alt="Jetty Van" class="img-display">
+
   <div class="container header-content">
 
     <div class="row">
