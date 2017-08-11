@@ -12,7 +12,6 @@
   <meta name="title" content="{{ site.title }}">
   <meta name="description" content="{{ site.description }}">
   <meta name="keywords" content="transporte, personal, organizaciones, movilidad, urbana, traslado">
-  <title>Jetty crea tecnología para eficientar y mejorar la calidad del transporte</title>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" type="image/png" href="favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
