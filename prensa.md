@@ -15,6 +15,17 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
+          <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank"><img src="imgs-prensa/reforma.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>Ofrecen transporte de lujo en Metrópoli.</h3>
+          <p>Ahora, viajar entre Lomas Verdes y Polanco con asiento reservado, wifi y hora de abordaje, será posible a través de una app para iOS y Android.</p>
+          <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
           <a href="http://www.excelsior.com.mx/comunidad/2017/08/09/1180659" target="_blank"><img src="imgs-prensa/excelsior.png"></a>
         </div>
         <div class="col-md-9">
