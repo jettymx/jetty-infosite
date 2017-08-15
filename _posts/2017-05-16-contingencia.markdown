@@ -3,7 +3,7 @@ layout: post
 title:  "Contingencia ambiental: una medida importante para la salud de todos."
 date:   2017-05-16 13:09:30 -0600
 post_author: Jetty
-categories: jekyll update
+categories: update
 ---
 
 ![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/contingencia.jpg)

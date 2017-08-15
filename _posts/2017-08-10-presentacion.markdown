@@ -3,7 +3,7 @@ layout: post
 title:  "Ciudad de México, te presentamos a jetty."
 date:   2017-08-10 13:09:30 -0600
 post_author: Jetty
-categories: jekyll update
+categories: update
 ---
 <i><strong>La CDMX merece más y mejores opciones de movilidad. Después de meses en el horno estamos listos para presentarte a Jetty, nuestro granito de arena para encontrar una solución.</strong></i>
 
