@@ -18,7 +18,7 @@ id: prensa
 
     <div class="col-md-11 col-md-offset-1">
 
-      <div class="row nota">
+      <!-- <div class="row nota">
         <div class="col-md-3 logo-medios">
           <a href="http://www.milenio.com/df/app_jetty-transportistas-impiden-servicio-lomas_verdes-camioneta-milenio_0_1012098845.html?utm_source=Twitter&utm_medium=Referral&utm_term=DF&utm_campaign=Milenio" target="_blank"><img src="imgs-prensa/milenio.png"></a>
         </div>
@@ -27,7 +27,7 @@ id: prensa
           <p>En su cuenta de Twitter, la app que iniciaría operaciones hoy, informó que un grupo de transportistas retuvo a sus operadores en avenida Lomas Verdes y los amenazó.</p>
           <a href="http://www.milenio.com/df/app_jetty-transportistas-impiden-servicio-lomas_verdes-camioneta-milenio_0_1012098845.html?utm_source=Twitter&utm_medium=Referral&utm_term=DF&utm_campaign=Milenio" target="_blank">Ver artículo</a>
         </div>
-      </div>
+      </div> -->
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
