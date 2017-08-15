@@ -7,8 +7,13 @@ id: prensa
 
 <div class="container">
   <div class="row prensa">
-    <div class="col-md-12">
+    <div class="col-md-4">
       <h1>Prensa</h1>
+    </div>
+    <div class="col-md-8 text-right contacta">
+      <p><strong>Contacta con nosotros</strong>
+      <br>
+      Cristina palacios, <a href="mailto:cristina@jetty.mx">cristina@jetty.mx</a> | 55 8580 2785</p>
     </div>
 
     <div class="col-md-11 col-md-offset-1">
