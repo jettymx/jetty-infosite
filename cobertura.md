@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-cobertura
 title: Jetty | El transporte que mereces
 description: Olvida esas preocupaciones y viaja cómodo y seguro.
 id: cobertura

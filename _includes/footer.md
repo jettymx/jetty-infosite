@@ -11,7 +11,7 @@
         </a> -->
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+          <img src="{{ site.baseurl }}/img/jetty-android.png" alt="Jetty Descargar Android">
         </a>
     </div>
     <!-- <div class="col-md-1"></div> -->
