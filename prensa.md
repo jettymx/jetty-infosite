@@ -15,6 +15,17 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
+          <a href="http://www.milenio.com/df/app_jetty-transportistas-impiden-servicio-lomas_verdes-camioneta-milenio_0_1012098845.html?utm_source=Twitter&utm_medium=Referral&utm_term=DF&utm_campaign=Milenio" target="_blank"><img src="imgs-prensa/milenio.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>Transportistas impiden que app Jetty dé servicio  en Lomas Verdes.</h3>
+          <p>En su cuenta de Twitter, la app que iniciaría operaciones hoy, informó que un grupo de transportistas retuvo a sus operadores en avenida Lomas Verdes y los amenazó.</p>
+          <a href="http://www.milenio.com/df/app_jetty-transportistas-impiden-servicio-lomas_verdes-camioneta-milenio_0_1012098845.html?utm_source=Twitter&utm_medium=Referral&utm_term=DF&utm_campaign=Milenio" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
           <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank"><img src="imgs-prensa/reforma.png"></a>
         </div>
         <div class="col-md-9">
