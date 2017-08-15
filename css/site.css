@@ -1018,6 +1018,10 @@ h1.blog-title{
   width: 100%;
 }
 
+/*/// Banner news ///*/
+.banner-news{
+
+}
 
 @media screen and (min-width: 1500px){
   .header{
@@ -1358,6 +1362,22 @@ h1.blog-title{
   }
 
   .map iframe{
+    border: none;
+    height: 100%;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .mapa iframe{
+    border: none;
+    height: 100%;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  iframe.mapa{
     border: none;
     height: 100%;
     height: 100vh;

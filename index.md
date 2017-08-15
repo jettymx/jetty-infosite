@@ -5,6 +5,10 @@ description: Olvida esas preocupaciones y viaja cómodo y seguro.
 id: Home
 ---
 
+<!-- <div class="banner-news">
+  <p></p>
+</div> -->
+
 <div class="header">
 
   <img src="img/jetty-van.png" alt="Jetty Van" class="img-display">
