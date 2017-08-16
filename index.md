@@ -11,7 +11,8 @@ id: Home
 
 <div class="header">
 
-  <img src="img/jetty-van.png" alt="Jetty Van" class="img-display">
+  <!-- <img src="img/jetty-van.png" alt="Jetty Van" class="img-display"> -->
+  <img src="img/Servicios-twitter-1200x628.jpg" alt="Jetty Van" class="img-display">
 
   <div class="container header-content">
 
@@ -38,8 +39,7 @@ id: Home
       </div>
       <div class="col-md-7 van" data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-out
       " >
-        <!-- <img src="img/jetty-van.png" alt="Jetty Van"> -->
-        <img src="img/Servicios-twitter-1200x628.jpg" alt="Jetty Van">
+        <img src="img/jetty-van.png" alt="Jetty Van">
       </div>
     </div>
 
