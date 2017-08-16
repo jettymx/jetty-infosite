@@ -30,7 +30,9 @@ id: cobertura
           </div>
           <div class="panel-body">
 
-            <div id="map"></div>
+            <div id="map">
+
+            </div>
 
             <!-- <div class="paradas">
               <div class="panel-group" role="tablist">
