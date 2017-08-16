@@ -32,7 +32,7 @@ id: cobertura
 
             <div id="map"></div>
 
-            <div class="paradas">
+            <!-- <div class="paradas">
               <div class="panel-group" role="tablist">
                 <div class="panel panel-default">
                   <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
@@ -46,11 +46,10 @@ id: cobertura
                       <li class="list-group-item">One itmus ac facilin</li>
                       <li class="list-group-item">Second eros</li>
                     </ul>
-                    <!-- <div class="panel-footer">Footer</div> -->
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
 
           </div>
 
