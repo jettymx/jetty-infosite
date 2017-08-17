@@ -13,6 +13,7 @@
 .img-display{
   position: absolute;
   top: -700px;
+  display: inline !important;
 }
 
 #titleHead{
