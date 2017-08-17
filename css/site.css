@@ -11,7 +11,8 @@
 }
 
 .img-display{
-  display: none;
+  /*display: none;*/
+  opacity: 0;
 }
 
 #titleHead{
