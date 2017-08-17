@@ -36,7 +36,6 @@ id: Home
       <div class="col-md-7 van" data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-out
       " >
         <img src="img/jetty-van.png" alt="Jetty Van">
-        <img src="img/servicios.jpg" alt="Jetty" class="img-display">
       </div>
     </div>
 
