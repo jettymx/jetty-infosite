@@ -11,8 +11,8 @@
 }
 
 .img-display{
-  /*display: none;*/
-  opacity: 0;
+  position: absolute;
+  top: -5000px;
 }
 
 #titleHead{
