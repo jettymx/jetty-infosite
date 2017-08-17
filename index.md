@@ -7,7 +7,8 @@ id: Home
 
 <div class="header">
 
-  <img src="img/servicios.png" alt="Jetty Van" class="img-display">
+  <img src="img/servicios.jpg" alt="Jetty Van" class="img-display">
+  <img src="img/servicios.jpg" alt="Jetty Van" class="img-display-test">
   <!-- <img src="img/Live-One-1200x628.jpg " alt="Jetty Van" class="img-display"> -->
 
   <div class="container header-content">

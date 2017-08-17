@@ -16,6 +16,11 @@
   display: inline !important;
 }
 
+.img-display-test{
+  width: 1px;
+  height: 1px;
+}
+
 #titleHead{
   /*-webkit-animation-duration: 3s;*/
   -webkit-animation-delay: .5s;
