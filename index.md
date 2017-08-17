@@ -11,8 +11,8 @@ id: Home
 
 <div class="header">
 
-  <img src="img/Servicios-twitter-1200x628.jpg" alt="Jetty Van" class="img-display">
-  <img src="img/Live-One.jpg" alt="Jetty Van" class="img-display">
+  <img src="img/Servicios-1200x628.jpg" alt="Jetty Van" class="img-display">
+  <img src="img/Live-One-1200x628.jpg " alt="Jetty Van" class="img-display">
 
   <div class="container header-content">
 
