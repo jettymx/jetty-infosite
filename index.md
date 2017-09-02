@@ -25,9 +25,9 @@ id: Home
         <p class="text-downapp">Descarga la app.</p>
         <!-- <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a> -->
 
-        <!-- <a href="#" target="_blank" class="download-app hvr-shadow">
+        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
-        </a> -->
+        </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">

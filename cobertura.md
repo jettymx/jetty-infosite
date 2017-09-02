@@ -34,7 +34,7 @@ id: cobertura
 
             </div>
 
-            <!-- <div class="paradas">
+           <!--  <div class="paradas">
               <div class="panel-group" role="tablist">
                 <div class="panel panel-default">
                   <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
@@ -58,18 +58,103 @@ id: cobertura
         </div>
       </div>
 
-      <!-- <div class="col-md-6">
+
+      <!-- VISTA VARIAS RUTAS -->
+
+      <!-- <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
           </div>
           <div class="panel-body">
             <div id="map"></div>
+
+            <div class="paradas">
+              <div class="panel-group" role="tablist">
+                <div class="panel panel-default">
+                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
+                    <h3 class="panel-title">
+                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
+                    </h3>
+                  </div>
+                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
+                    <ul class="list-group">
+                      <li class="list-group-item">Bootply</li>
+                      <li class="list-group-item">One itmus ac facilin</li>
+                      <li class="list-group-item">Second eros</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
+
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
+          </div>
+          <div class="panel-body">
+            <div id="map"></div>
+
+            <div class="paradas">
+              <div class="panel-group" role="tablist">
+                <div class="panel panel-default">
+                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
+                    <h3 class="panel-title">
+                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
+                    </h3>
+                  </div>
+                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
+                    <ul class="list-group">
+                      <li class="list-group-item">Bootply</li>
+                      <li class="list-group-item">One itmus ac facilin</li>
+                      <li class="list-group-item">Second eros</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
+          </div>
+          <div class="panel-body">
+            <div id="map"></div>
+
+            <div class="paradas">
+              <div class="panel-group" role="tablist">
+                <div class="panel panel-default">
+                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
+                    <h3 class="panel-title">
+                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
+                    </h3>
+                  </div>
+                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
+                    <ul class="list-group">
+                      <li class="list-group-item">Bootply</li>
+                      <li class="list-group-item">One itmus ac facilin</li>
+                      <li class="list-group-item">Second eros</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div> -->
+
+      <!-- <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Polanco a Santa Fé por $49 pesos.</h3>
