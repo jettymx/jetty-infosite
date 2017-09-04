@@ -544,6 +544,10 @@ a.download-app{
   font-weight: 800;
 }
 
+.rutas .panel-body img{
+  width: 100%;
+}
+
 .paradas .panel{
   border-radius: 0px;
 }

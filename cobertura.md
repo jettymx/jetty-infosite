@@ -10,9 +10,9 @@ id: cobertura
     <div class="col-md-8 col-md-offset-2 text-center">
 
       <h2>Para reservar tu viaje, descarga la app:</h2>
-        <!-- <a href="#" target="_blank" class="download-app hvr-shadow">
+        <a href="ttps://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
-        </a> -->
+        </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">
@@ -23,7 +23,31 @@ id: cobertura
 
     <div class="rutas">
 
-      <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Tenemos servicio de Interlomas a Santa Fe.</h4>
+          </div>
+          <div class="panel-body">
+            <img src="img/interlomas-santafe.jpg">
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Tenemos servicio de Interlomas a Toreo.</h4>
+          </div>
+          <div class="panel-body">
+            <img src="img/interlomas-toreo.jpg">
+          </div>
+
+        </div>
+      </div>
+
+      <!-- <div class="col-md-10 col-md-offset-1">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">Tenemos servicio de Lomas Verdes a Polanco por un precio de $49 pesos.</h4>
@@ -34,7 +58,7 @@ id: cobertura
 
             </div>
 
-           <!--  <div class="paradas">
+            <div class="paradas">
               <div class="panel-group" role="tablist">
                 <div class="panel panel-default">
                   <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
@@ -51,12 +75,12 @@ id: cobertura
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
           </div>
 
         </div>
-      </div>
+      </div> -->
 
 
       <!-- VISTA VARIAS RUTAS -->
