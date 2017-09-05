@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bloquean transportistas de EdoMex nuetras unidades de pasajeros."
-date:   2017-08-15 13:09:30 -0600
+date:   2017-08-15 13:09:30
 post_author: Jetty
 categories: update
 ---

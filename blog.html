@@ -16,10 +16,10 @@ keywords:
 
   <div class="row">
     <div class="blog">
-      <ul style="list-style-position: inside">
+      <ul>
         {% for post in site.posts %}
-        <div class="col-md-4 col-xs-12">
-          <li data-aos="fade" data-aos-duration="1000">
+        <!-- <div class="col-md-4 col-xs-12"> -->
+          <li class="col-md-4 col-xs-12" data-aos="fade" data-aos-duration="1000">
             <a href="{{ post.url | prepend: site.baseurl }}">
               {% assign foundImage = 0 %}
               {% assign assets = post.content | split:"<img " %}
@@ -38,7 +38,7 @@ keywords:
               <!-- <p>{{ post.excerpt }}</p> -->
             </a>
           </li>
-         </div>
+         <!-- </div> -->
         {% endfor %}
       </ul>
     </div>

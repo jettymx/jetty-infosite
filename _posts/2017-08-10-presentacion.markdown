@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ciudad de México, te presentamos a jetty."
-date:   2017-08-10 13:09:30 -0600
+date:   2017-08-10 13:09:30
 post_author: Jetty
 categories: update
 ---

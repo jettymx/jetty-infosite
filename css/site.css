@@ -983,6 +983,7 @@ h1.blog-title{
 
 .blog li{
   margin-bottom: 30px;
+  height: 400px;
 }
 
 .blog h2{
@@ -1425,6 +1426,10 @@ h1.blog-title{
     background-size: 200%;
     padding-bottom: 150px;
     background-position-y: -50px;
+  }
+
+  .blog li{
+    height: 350px;
   }
 
 
