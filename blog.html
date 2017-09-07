@@ -18,7 +18,7 @@ keywords:
     <div class="blog">
       <ul>
         {% for post in site.posts %}
-        <!-- <div class="col-md-4 col-xs-12"> -->
+
           <li class="col-md-4 col-xs-12" data-aos="fade" data-aos-duration="1000">
             <a href="{{ post.url | prepend: site.baseurl }}">
               {% assign foundImage = 0 %}
@@ -38,7 +38,7 @@ keywords:
               <!-- <p>{{ post.excerpt }}</p> -->
             </a>
           </li>
-         <!-- </div> -->
+
         {% endfor %}
       </ul>
     </div>

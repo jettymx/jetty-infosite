@@ -1016,7 +1016,7 @@ h1.blog-title{
   margin-bottom: 40px;
 }
 
-.post-content h3{
+.post-content h3,h2{
   color: #7e8080;
   font-weight: 700;
 }

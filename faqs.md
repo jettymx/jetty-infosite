@@ -18,7 +18,7 @@ id: aviso-de-privacidad
       <h3>¿Cómo funciona?</h3>
       <p><strong>Es sencillo:</strong></p>
       <ol>
-        <li>Descarga la aplicación: <!-- <a href="#" target="_blank">iOS</a> | --> <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank">Android</a></li>
+        <li>Descarga la aplicación: <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" target="_blank">iOS</a> / <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank">Android</a></li>
         <li>Abre el app y dinos de dónde a dónde viajas.</li>
         <li>Reserva tu asiento pagando con tarjeta de crédito / débito.</li>
         <li>Abona saldo con tu tarjeta de crédito o débito.</li>

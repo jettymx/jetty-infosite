@@ -5,7 +5,7 @@ date:   2017-09-05 13:09:30
 post_author: Jetty
 categories: update
 ---
-![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/map-jetty.jpg)
+![Gracias, Jetty]({{site.baseurl}}/imgs-blog/map-jetty.jpg)
 
 Estamos explorando nuevas áreas de servicio para poder darte un buen viaje y seguimos exigiendo las condiciones necesarias para operar con seguridad.
 
