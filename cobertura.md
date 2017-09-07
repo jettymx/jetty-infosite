@@ -17,8 +17,6 @@ id: cobertura
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">
         </a>
-      <!-- <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a> -->
-      <!-- <p>A continuación revisa nuestra área de cobertura.</p> -->
     </div>
 
     <div class="rutas">
@@ -26,7 +24,7 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio de Interlomas a Santa Fe.</h4>
+            <h4 class="panel-title">Tenemos servicio entre Interlomas y Santa Fe.</h4>
           </div>
           <div class="panel-body">
             <img src="img/interlomas-santafe.jpg">
@@ -38,7 +36,7 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio de Interlomas a Toreo.</h4>
+            <h4 class="panel-title">Tenemos servicio entre Interlomas y Toreo.</h4>
           </div>
           <div class="panel-body">
             <img src="img/interlomas-toreo.jpg">
