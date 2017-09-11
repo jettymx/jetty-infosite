@@ -36,7 +36,7 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio entre Interlomas y Toreo.</h4>
+            <h4 class="panel-title">Tenemos servicio entre Satélite y Toreo.</h4>
           </div>
           <div class="panel-body">
             <img src="img/interlomas-toreo.jpg">
