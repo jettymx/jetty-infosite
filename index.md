@@ -231,7 +231,7 @@ id: Home
               <line class="sty0" x1="19.2" y1="41.1" x2="123.6" y2="41.1"/>
             </g>
             </svg>
-          <p>Mandar ese último correo en el viaje de regreso.</p>
+          <p>Mandar ese último correo en el viaje de regreso y disfrutar del acceso al WiFi gratis.</p>
         </div>
         <div class="col-md-4 text-center">
           <!-- <img src="img/chofer.svg"> -->

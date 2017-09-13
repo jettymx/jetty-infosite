@@ -133,7 +133,7 @@ id: Beneficios
               <line class="sty0" x1="19.2" y1="41.1" x2="123.6" y2="41.1"/>
             </g>
             </svg>
-          <p class="lead"><strong>Mandar ese último correo en el viaje de regreso.</strong></p>
+          <p class="lead"><strong>Mandar ese último correo en el viaje de regreso y disfrutar del acceso al WiFi gratis.</strong></p>
           <p>En Jetty puedes sacar tranquilamente tu celular o laptop.</p>
         </div>
         <div class="col-md-4 text-center beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
