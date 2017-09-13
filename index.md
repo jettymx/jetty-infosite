@@ -62,7 +62,7 @@ id: Home
     <div class="row como-funciona-detail">
       <div class="col-md-5">
         <div class="" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-out-sine">
-          <p class="lead left"><img src="img/reloj-icon.svg" class="hidden-sm hidden-md hidden-lg"> 2. Escoge tu ruta y horario.</p>
+          <p class="lead left"><img src="img/reloj-icon.svg" class="hidden-sm hidden-md hidden-lg"> 2. Escoge tu viaje.</p>
         </div>
       </div>
       <div class="col-md-2 text-center"><img src="img/reloj-icon-circle.svg" class="hidden-xs"></div>
