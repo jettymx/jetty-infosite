@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comunicado del 18"
+title:  "Comunicado del 18 de septiembre 2017"
 date:   2017-09-18 10:30:00
 post_author: Jetty
 categories: update
