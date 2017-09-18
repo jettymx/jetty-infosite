@@ -13,7 +13,7 @@ id: prensa
     <div class="col-md-8 text-right contacta">
       <p><strong>Contacta con nosotros</strong>
       <br>
-      Nora Cartro, <a href="mailto:ncv@stratcomms.mx">ncv@stratcomms.mx</a></p>
+      Nora Castro, <a href="mailto:prensa@jetty.mx">prensa@jetty.mx</a></p>
     </div>
 
     <div class="col-md-11 col-md-offset-1">

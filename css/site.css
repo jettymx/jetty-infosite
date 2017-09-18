@@ -1019,6 +1019,13 @@ h1.blog-title{
 .post-content h3,h2{
   color: #7e8080;
   font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.post-content p{
+  line-height: 1.5;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .post-content ul{
@@ -1028,6 +1035,17 @@ h1.blog-title{
 .post-content ul li{
   font-size: 18px;
   color: #7e8080;
+  margin-bottom: 20px;
+}
+
+.post-content ol{
+  padding-top: 0px;
+}
+
+.post-content ol li{
+  font-size: 18px;
+  color: #7e8080;
+  margin-bottom: 20px;
 }
 
 .post-content img{
