@@ -27,8 +27,8 @@ id: cobertura
             <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <!-- <div id="mapauno"></div> -->
-            <img src="img/zona-norte-polanco.png">
+            <div id="map_canvas"></div>
+            <!-- <img src="img/zona-norte-polanco.png"> -->
           </div>
 
         </div>
@@ -40,8 +40,8 @@ id: cobertura
             <h4 class="panel-title">Zona Poniente <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <!-- <div id="mapados"></div> -->
-            <img src="img/zona-poniente-polanco.png">
+            <div id="map_canvas_2"></div>
+            <!-- <img src="img/zona-poniente-polanco.png"> -->
           </div>
 
         </div>
