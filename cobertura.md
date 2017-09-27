@@ -24,10 +24,11 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio entre Interlomas y Santa Fe.</h4>
+            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <img src="img/interlomas-santafe.jpg">
+            <div id="mapauno"></div>
+            <!-- <img src="img/interlomas-santafe.jpg"> -->
           </div>
 
         </div>
@@ -36,10 +37,10 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio entre Satélite y Toreo.</h4>
+            <h4 class="panel-title">Zona Poniente <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <img src="img/interlomas-toreo.jpg">
+            <div id="mapados"></div>
           </div>
 
         </div>
