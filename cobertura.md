@@ -27,8 +27,8 @@ id: cobertura
             <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <div id="mapauno"></div>
-            <!-- <img src="img/interlomas-santafe.jpg"> -->
+            <!-- <div id="mapauno"></div> -->
+            <img src="img/zona-norte-polanco.png">
           </div>
 
         </div>
@@ -40,154 +40,12 @@ id: cobertura
             <h4 class="panel-title">Zona Poniente <-> Zona Toreo Polanco</h4>
           </div>
           <div class="panel-body">
-            <div id="mapados"></div>
+            <!-- <div id="mapados"></div> -->
+            <img src="img/zona-poniente-polanco.png">
           </div>
 
         </div>
       </div>
-
-      <!-- <div class="col-md-10 col-md-offset-1">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">Tenemos servicio de Lomas Verdes a Polanco por un precio de $49 pesos.</h4>
-          </div>
-          <div class="panel-body">
-
-            <div id="map">
-
-            </div>
-
-            <div class="paradas">
-              <div class="panel-group" role="tablist">
-                <div class="panel panel-default">
-                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
-                    <h3 class="panel-title">
-                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
-                    </h3>
-                  </div>
-                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
-                    <ul class="list-group">
-                      <li class="list-group-item">Bootply</li>
-                      <li class="list-group-item">One itmus ac facilin</li>
-                      <li class="list-group-item">Second eros</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </div> -->
-
-
-      <!-- VISTA VARIAS RUTAS -->
-
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
-          </div>
-          <div class="panel-body">
-            <div id="map"></div>
-
-            <div class="paradas">
-              <div class="panel-group" role="tablist">
-                <div class="panel panel-default">
-                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
-                    <h3 class="panel-title">
-                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
-                    </h3>
-                  </div>
-                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
-                    <ul class="list-group">
-                      <li class="list-group-item">Bootply</li>
-                      <li class="list-group-item">One itmus ac facilin</li>
-                      <li class="list-group-item">Second eros</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
-          </div>
-          <div class="panel-body">
-            <div id="map"></div>
-
-            <div class="paradas">
-              <div class="panel-group" role="tablist">
-                <div class="panel panel-default">
-                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
-                    <h3 class="panel-title">
-                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
-                    </h3>
-                  </div>
-                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
-                    <ul class="list-group">
-                      <li class="list-group-item">Bootply</li>
-                      <li class="list-group-item">One itmus ac facilin</li>
-                      <li class="list-group-item">Second eros</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">Lomas Verdes a Polanco por $49 pesos.</h3>
-          </div>
-          <div class="panel-body">
-            <div id="map"></div>
-
-            <div class="paradas">
-              <div class="panel-group" role="tablist">
-                <div class="panel panel-default">
-                  <div class="panel-heading" role="tab" id="collapseListGroupHeading1">
-                    <h3 class="panel-title">
-                      <a href="#collapseListGroup1" class="collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="collapseListGroup1"> Ver lista de paradas </a>
-                    </h3>
-                  </div>
-                  <div class="panel-collapse collapse" role="tabpanel" id="collapseListGroup1" aria-labelledby="collapseListGroupHeading1" aria-expanded="false" style="height: 0px;">
-                    <ul class="list-group">
-                      <li class="list-group-item">Bootply</li>
-                      <li class="list-group-item">One itmus ac facilin</li>
-                      <li class="list-group-item">Second eros</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
-      <!-- <div class="col-md-6">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">Polanco a Santa Fé por $49 pesos.</h3>
-          </div>
-          <div class="panel-body">
-            <div id="map"></div>
-          </div>
-        </div>
-      </div> -->
-
     </div>
 
     <div class="col-md-12 text-center">
