@@ -32,141 +32,159 @@
   obt7 = new Vivus('rocket', {type: 'delayed', duration: 100});
 </script>
 
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+
 <script type="text/javascript">
-            google.maps.event.addDomListener(window, 'load', init);
+    google.maps.event.addDomListener(window, 'load', init);
 
-            var citymap = {
-                // ZONA-NORTE
-                znorte1: {
-                    center: {lat: 19.5280, lng: -99.2250},
-                    population: 70
-                  },
-                  znorte2: {
-                    center: {lat: 19.5170, lng: -99.2310},
-                    population: 70
-                  },
-                  znorte3: {
-                    center: {lat: 19.5050, lng: -99.2360},
-                    population: 70
-                  },
-                  znorte4: {
-                    center: {lat: 19.4940, lng: -99.2390},
-                    population: 110
-                  },
+    function init() {
 
-                  // ZONA-TOREO
-                  ztoreopolanco1: {
-                    center: {lat: 19.4520, lng: -99.2191233},
-                    population: 100
-                  },
-                  ztoreopolanco2: {
-                    center: {lat: 19.4390, lng: -99.2100},
-                    population: 180
-                  },
-                  ztoreopolanco3: {
-                    center: {lat: 19.4250, lng: -99.2200},
-                    population: 50
-                  },
-                  ztoreopolanco4: {
-                    center: {lat: 19.4150, lng: -99.2270},
-                    population: 50
-                  }
-                };
+        var mapOptions = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.4700, -99.2300),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-            function init() {
+        var mapElement = document.getElementById('map_canvas');
 
-                var mapOptions = {
-                    zoom: 12,
-                    center: new google.maps.LatLng(19.4700, -99.2300),
-                    styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+        var map = new google.maps.Map(mapElement, mapOptions);
 
-                var mapElement = document.getElementById('map_canvas');
-                var map = new google.maps.Map(mapElement, mapOptions);
-                for (var city in citymap) {
-                  var cityCircle = new google.maps.Circle({
-                    strokeColor: '#49bda7',
-                    strokeOpacity: 0.0,
-                    strokeWeight: 0,
-                    fillColor: '#49bda7',
-                    fillOpacity: 0.5,
-                    map: map,
-                    center: citymap[city].center,
-                    radius: Math.sqrt(citymap[city].population) * 100
-                  });
-                }
+        var polanco = [
+          {lat: 19.4601, lng: -99.2214},
+          {lat: 19.4560, lng: -99.2247},
+          {lat: 19.4452, lng: -99.2218},
+          {lat: 19.4338, lng: -99.2193},
+          {lat: 19.4268, lng: -99.2261},
+          {lat: 19.4172, lng: -99.2333},
+          {lat: 19.4104, lng: -99.2316},
+          {lat: 19.4075, lng: -99.2258},
+          {lat: 19.4204, lng: -99.2188},
+          {lat: 19.4284, lng: -99.2047},
+          {lat: 19.4360, lng: -99.1968},
+          {lat: 19.4470, lng: -99.2017},
+          {lat: 19.4592, lng: -99.2124},
+          {lat: 19.4619, lng: -99.2153}
+        ];
 
-            }
-        </script>
+        var norte = [
+          {lat: 19.5325, lng: -99.2203},
+          {lat: 19.5317, lng: -99.2322},
+          {lat: 19.5226, lng: -99.2372},
+          {lat: 19.5085, lng: -99.2434},
+          {lat: 19.4978, lng: -99.2491},
+          {lat: 19.4913, lng: -99.2468},
+          {lat: 19.4879, lng: -99.2371},
+          {lat: 19.4886, lng: -99.2299},
+          {lat: 19.4948, lng: -99.2273},
+          {lat: 19.5050, lng: -99.2273},
+          {lat: 19.5142, lng: -99.2253},
+          {lat: 19.5274, lng: -99.2170}
+        ];
 
-        <script type="text/javascript">
-            google.maps.event.addDomListener(window, 'load', init);
+        new google.maps.Polygon({
+          map: map,
+          paths: polanco,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-            var citymap2 = {
-                // ZONA-TOREO
-                  ztoreopolanco1: {
-                    center: {lat: 19.4520, lng: -99.2191233},
-                    population: 100
-                  },
-                  ztoreopolanco2: {
-                    center: {lat: 19.4390, lng: -99.2100},
-                    population: 180
-                  },
-                  ztoreopolanco3: {
-                    center: {lat: 19.4250, lng: -99.2200},
-                    population: 50
-                  },
-                  ztoreopolanco4: {
-                    center: {lat: 19.4150, lng: -99.2270},
-                    population: 50
-                  },
+        new google.maps.Polygon({
+          map: map,
+          paths: norte,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-                  // ZONA-PONIENTE
-                  zponiente1: {
-                    center: {lat: 19.3970, lng: -99.2730},
-                    population: 200
-                  },
-                  zponiente2: {
-                    center: {lat: 19.3800, lng: -99.2700},
-                    population: 200
-                  },
-                  zponiente3: {
-                    center: {lat: 19.3890, lng: -99.2550},
-                    population: 70
-                  },
-                  zponiente4: {
-                    center: {lat: 19.3650, lng: -99.2650},
-                    population: 50
-                  },
-                  zponiente5: {
-                    center: {lat: 19.3630, lng: -99.2750},
-                    population: 100
-                  }
-                };
+    }
+</script>
 
-            function init() {
+<script type="text/javascript">
+    google.maps.event.addDomListener(window, 'load', init);
 
-                var mapOptions2 = {
-                    zoom: 12,
-                    center: new google.maps.LatLng(19.4100, -99.2500),
-                    styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+    function init() {
 
-                var mapElement = document.getElementById('map_canvas_2');
-                var map = new google.maps.Map(mapElement, mapOptions2);
-                for (var city in citymap2) {
-                  var cityCircle = new google.maps.Circle({
-                    strokeColor: '#49bda7',
-                    strokeOpacity: 0.0,
-                    strokeWeight: 0,
-                    fillColor: '#49bda7',
-                    fillOpacity: 0.5,
-                    map: map,
-                    center: citymap2[city].center,
-                    radius: Math.sqrt(citymap2[city].population) * 100
-                  });
-                }
+        var mapOptions2 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.4100, -99.2500),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-            }
-        </script>
+        var mapElement = document.getElementById('map_canvas_2');
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtWd5YkzOiLMhJRd-nUQo8ZfvRyB5nRmU&callback=initMap"
+        var map = new google.maps.Map(mapElement, mapOptions2);
+
+        var polanco = [
+          {lat: 19.4601, lng: -99.2214},
+          {lat: 19.4560, lng: -99.2247},
+          {lat: 19.4452, lng: -99.2218},
+          {lat: 19.4338, lng: -99.2193},
+          {lat: 19.4268, lng: -99.2261},
+          {lat: 19.4172, lng: -99.2333},
+          {lat: 19.4104, lng: -99.2316},
+          {lat: 19.4075, lng: -99.2258},
+          {lat: 19.4204, lng: -99.2188},
+          {lat: 19.4284, lng: -99.2047},
+          {lat: 19.4360, lng: -99.1968},
+          {lat: 19.4470, lng: -99.2017},
+          {lat: 19.4592, lng: -99.2124},
+          {lat: 19.4619, lng: -99.2153}
+        ];
+
+        var poniente = [
+          {lat: 19.4085, lng: -99.2791},
+          {lat: 19.4027, lng: -99.2847},
+          {lat: 19.3965, lng: -99.2897},
+          {lat: 19.3888, lng: -99.2844},
+          {lat: 19.3760, lng: -99.2828},
+          {lat: 19.3719, lng: -99.2810},
+          {lat: 19.3633, lng: -99.2854},
+          {lat: 19.3558, lng: -99.2859},
+          {lat: 19.3534, lng: -99.2762},
+          {lat: 19.3568, lng: -99.2668},
+          {lat: 19.3589, lng: -99.2578},
+          {lat: 19.3680, lng: -99.2562},
+          {lat: 19.3778, lng: -99.2589},
+          {lat: 19.3890, lng: -99.2446},
+          {lat: 19.3951, lng: -99.2477},
+          {lat: 19.3954, lng: -99.2572},
+          {lat: 19.4017, lng: -99.2562},
+          {lat: 19.4048, lng: -99.2664}
+        ];
+
+        new google.maps.Polygon({
+          map: map,
+          paths: polanco,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map,
+          paths: poniente,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+    }
+</script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtWd5YkzOiLMhJRd-nUQo8ZfvRyB5nRmU&callback=initMap"
     async defer></script>
