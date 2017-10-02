@@ -1,3 +1,5 @@
+<img src="img/servicios.jpg" alt="Jetty" class="img-display">
+
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="container">
