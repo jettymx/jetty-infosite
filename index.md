@@ -7,8 +7,6 @@ id: Home
 
 <div class="header">
 
-  <!-- <img src="img/servicios.jpg" alt="Jetty" class="img-display"> -->
-
   <div class="container header-content">
 
     <div class="row">
