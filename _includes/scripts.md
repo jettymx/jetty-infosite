@@ -104,6 +104,24 @@
           geodesic: true
         });
 
+        // Dot line
+        var lineSymbol = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map
+        });
+
     }
 </script>
 
@@ -181,6 +199,24 @@
           fillOpacity: 0.5,
           draggable: false,
           geodesic: true
+        });
+
+        // Dot line
+        var lineSymbol = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.3954, lng: -99.2572}, {lat: 19.4104, lng: -99.2316}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map
         });
 
     }
