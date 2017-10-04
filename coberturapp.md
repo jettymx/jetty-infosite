@@ -8,7 +8,7 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="rutas">
+    <div class="rutas" style="padding: 0;">
 
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
