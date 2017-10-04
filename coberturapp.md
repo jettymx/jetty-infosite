@@ -15,6 +15,7 @@ id: cobertura
           <div class="panel-heading">
             <h4 class="panel-title">
               <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Zona Norte <-> Zona Toreo Polanco</a>
+              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="float: right;">Ver mapa</a>
             </h4>
           </div>
           <div class="panel-body">
@@ -31,6 +32,7 @@ id: cobertura
           <div class="panel-heading">
             <h4 class="panel-title">
               <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Zona Poniente <-> Zona Toreo Polanco</a>
+              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="float: right;">Ver mapa</a>
             </h4>
           </div>
           <div class="panel-body">
