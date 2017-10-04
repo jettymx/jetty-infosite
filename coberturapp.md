@@ -18,7 +18,7 @@ id: cobertura
             </h4>
           </div>
           <div class="panel-body">
-            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div id="map_canvas"></div>
             </div>
           </div>
