@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.md %}
+  {% include headapp.md %}
 
   <body>
-
-    {% include googletag.html %}
 
       {{ content }}
 
