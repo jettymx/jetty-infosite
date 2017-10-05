@@ -20,9 +20,9 @@ id: cobertura
                 </h4>
               </div>
               <div class="col-xs-4 text-right">
-                <h4 class="panel-title">
+                <h3 class="panel-title">
                   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Ver mapa</a>
-                </h4>
+                </h3>
               </div>
             </div>
 
