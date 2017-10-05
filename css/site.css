@@ -912,8 +912,16 @@ img.logos{
   padding-right: 30px;
 }
 
+.eventos-content{
+  margin-top: -100px;
+  padding-bottom: 200px;
+}
+
 .eventos{
-  margin-bottom: 50px;
+  margin-bottom: 0px;
+  padding-bottom: 100px;
+ /* position: relative;
+  top: -60px;*/
 }
 
 .eventos h2{
@@ -927,6 +935,14 @@ img.logos{
 
 .eventos a{
   margin-top: 50px;
+}
+
+.eventos-beneficios{
+  padding-bottom: 0px;
+}
+
+.eventos-servicios{
+  padding-bottom: 100px;
 }
 
 /*////// COBERTURA //////*/
@@ -1477,6 +1493,10 @@ h1.blog-title{
     height: 350px;
   }
 
+  .eventos-content{
+    margin-top: 0px;
+    padding-bottom: 100px;
+  }
 
 }
 
