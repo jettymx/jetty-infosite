@@ -194,13 +194,11 @@
 
     }
 
-    $("#collapseOne").on("hidden.bs.collapse", function(){
-      console.log("Collapsado");
+    $("#collapseOne").on("shown.bs.collapse", function(){
       initMap()
     });
 
-    $("#collapseOne").on("shown.bs.collapse", function(){
-      console.log("Collapsado");
+    $("#collapseTwo").on("shown.bs.collapse", function(){
       initMap()
     });
 </script>
