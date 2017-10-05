@@ -53,10 +53,21 @@ id: eventos
       </div>
     </div>
 
-    <div class="row buen-viaje-info" data-aos="fade-up">
+    <div class="row buen-viaje-info">
+      <div class="col-md-4 text-center">
+        <img src="img/evento1.jpg">
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/evento2.jpg">
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/evento3.jpg">
+      </div>
+    </div>
+
+   <!--  <div class="row buen-viaje-info" data-aos="fade-up">
       <div class="col-md-12">
        <div class="col-md-3 text-center">
-          <!-- <img src="img/asientos.svg"> -->
           <svg id="automovile" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141.7 141.7" style="enable-background:new 0 0 141.7 141.7;" >
           <style type="text/css">
             .st0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -87,7 +98,6 @@ id: eventos
           <p>Viaja en menos coches.</p>
         </div>
         <div class="col-md-3 text-center">
-          <!-- <img src="img/asientos.svg"> -->
           <svg id="asiento" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141.7 141.7" style="enable-background:new 0 0 141.7 141.7;" >
           <style type="text/css">
             .st0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -104,7 +114,6 @@ id: eventos
           <p>Saber que siempre tendrás tu lugar sentado.</p>
         </div>
         <div class="col-md-3 text-center">
-          <!-- <img src="img/rutas.svg"> -->
           <svg id="rutas" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141.7 141.7" style="enable-background:new 0 0 141.7 141.7;">
         <style type="text/css">
           .st0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-miterlimit:10;}
@@ -125,7 +134,6 @@ id: eventos
           <p>No perder tiempo en vueltas innecesarias.</p>
         </div>
         <div class="col-md-3 text-center">
-          <!-- <img src="img/reloj-zzz.svg"> -->
           <svg id="zzz" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141 141" style="enable-background:new 0 0 141 141;" >
             <style type="text/css">
               .st0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-miterlimit:10
@@ -151,12 +159,11 @@ id: eventos
           <p>Recuperar horas perdidas de sueño.</p>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="row buen-viaje-info" data-aos="fade-up">
+    <!-- <div class="row buen-viaje-info" data-aos="fade-up">
       <div class="col-md-10 col-md-offset-1">
         <div class="col-md-4 text-center">
-          <!-- <img src="img/cartera.svg"> -->
           <svg id="cartera" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141 141" style="enable-background:new 0 0 141 141;" >
             <style type="text/css">
               .st0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -186,7 +193,6 @@ id: eventos
           <p>No tener que gastar toda tu quincena en traslados.</p>
         </div>
         <div class="col-md-4 text-center">
-          <!-- <img src="img/laptop.svg"> -->
           <svg id="laptop" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141 141" style="enable-background:new 0 0 141 141;" >
             <style type="text/css">
               .sty0{fill:none;stroke:#3E3E42;stroke-width:3;stroke-miterlimit:10;}
@@ -203,7 +209,6 @@ id: eventos
           <p>Mandar ese último correo en el viaje de regreso y disfrutar del acceso al WiFi gratis.</p>
         </div>
         <div class="col-md-4 text-center">
-          <!-- <img src="img/chofer.svg"> -->
           <svg id="chofer" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="141px" height="141px" viewBox="0 0 141 141" style="enable-background:new 0 0 141 141;">
             <style type="text/css">
               .chof{fill:none;stroke:#3E3E42;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -222,7 +227,7 @@ id: eventos
           <p>Tener un conductor profesional y considerado.</p>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="row buen-viaje-info">
       <div class="col-md-6 col-md-offset-3 text-center" data-aos="fade-up" >
