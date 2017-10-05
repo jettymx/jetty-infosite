@@ -32,8 +32,6 @@
   obt7 = new Vivus('rocket', {type: 'delayed', duration: 100});
 </script>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-
 <script type="text/javascript">
     google.maps.event.addDomListener(window, 'load', init);
 
@@ -222,5 +220,5 @@
     }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtWd5YkzOiLMhJRd-nUQo8ZfvRyB5nRmU&callback=initMap"
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtWd5YkzOiLMhJRd-nUQo8ZfvRyB5nRmU&callback=init"
     async defer></script>
