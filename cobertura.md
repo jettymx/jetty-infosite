@@ -28,7 +28,6 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="map_canvas"></div>
-            <!-- <img src="img/zona-norte-polanco.png"> -->
           </div>
 
         </div>
@@ -41,7 +40,6 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="map_canvas_2"></div>
-            <!-- <img src="img/zona-poniente-polanco.png"> -->
           </div>
 
         </div>

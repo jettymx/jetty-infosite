@@ -525,14 +525,15 @@ a.download-app{
 #map_canvas {
   width: 100%;
   height: 500px;
-  /*float: left;*/
-  /*margin: 20px;*/
+  margin: 0;
+  padding: 0;
 }
+
 #map_canvas_2 {
   width: 100%;
   height: 500px;
-  /*float: left;*/
-  /*margin: 20px;*/
+  margin: 0;
+  padding: 0;
 }
 
 .rutas{
