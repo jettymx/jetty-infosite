@@ -193,5 +193,16 @@
         });
 
     }
+
+    $("#collapseOne").on("hidden.bs.collapse", function(){
+      console.log("Collapsado");
+      initMap()
+    });
+
+    $("#collapseOne").on("shown.bs.collapse", function(){
+      console.log("Collapsado");
+      initMap()
+    });
 </script>
+
 
