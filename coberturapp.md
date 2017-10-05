@@ -13,10 +13,19 @@ id: cobertura
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">
-              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Zona Norte <-> Zona Toreo Polanco</a>
-              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="float: right;">Ver mapa</a>
-            </h4>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Zona Norte <-> Zona Toreo Polanco</a>
+                </h4>
+              </div>
+              <div class="col-xs-4 text-right">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Ver mapa</a>
+                </h4>
+              </div>
+            </div>
+
           </div>
           <div class="panel-body">
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
@@ -30,10 +39,18 @@ id: cobertura
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">
-              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Zona Poniente <-> Zona Toreo Polanco</a>
-              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="float: right;">Ver mapa</a>
-            </h4>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Zona Poniente <-> Zona Toreo Polanco</a>
+                </h4>
+              </div>
+              <div class="col-xs-4  text-right">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Ver mapa</a>
+                </h4>
+              </div>
+            </div>
           </div>
           <div class="panel-body">
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
