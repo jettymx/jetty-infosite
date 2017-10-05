@@ -21,7 +21,7 @@ id: cobertura
               </div>
               <div class="col-xs-4 text-right">
                 <h3 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Ver mapa</a>
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="vermapa">Ver mapa</a>
                 </h3>
               </div>
             </div>
@@ -47,7 +47,7 @@ id: cobertura
               </div>
               <div class="col-xs-4  text-right">
                 <h4 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Ver mapa</a>
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" class="vermapa">Ver mapa</a>
                 </h4>
               </div>
             </div>

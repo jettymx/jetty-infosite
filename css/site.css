@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800');
 
-/**{
-  border-radius: 0 !important;
-}*/
-
 * {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -580,6 +576,10 @@ a.download-app{
   color: #7e8080;
   font-size: 16px;
   font-weight: 800;
+}
+
+.vermapa{
+  font-size: 15px;
 }
 
 /*////// ORGANIZACIONES //////*/
