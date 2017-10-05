@@ -29,7 +29,7 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-              <div id="map_canvas" style="height: 100%"></div>
+              <div id="map_canvas" ></div>
             </div>
           </div>
 
@@ -54,7 +54,7 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-              <div id="map_canvas_2" style="height: 100%"></div>
+              <div id="map_canvas_2"></div>
             </div>
           </div>
 
