@@ -31,6 +31,8 @@
   obt5 = new Vivus('laptop', {type: 'delayed', duration: 100});
   obt6 = new Vivus('chofer', {type: 'delayed', duration: 100});
   obt7 = new Vivus('rocket', {type: 'delayed', duration: 100});
+  obt8 = new Vivus('flexible', {type: 'delayed', duration: 100});
+  obt9 = new Vivus('conductor', {type: 'delayed', duration: 100});
 </script>
 
 <script type="text/javascript">
