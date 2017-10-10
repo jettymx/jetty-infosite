@@ -558,6 +558,22 @@ a.download-app{
   width: 100%;
 }
 
+.rutas-app{
+  padding: 0;
+}
+
+.rutas-app .panel-body{
+  padding: 0;
+}
+
+.rutas-app #map_canvas{
+  height: 200px;
+}
+
+.rutas-app #map_canvas_2{
+  height: 200px;
+}
+
 .paradas .panel{
   border-radius: 0px;
 }

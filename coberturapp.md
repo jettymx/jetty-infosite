@@ -8,9 +8,34 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="rutas" style="padding: 0;">
+    <div class="rutas rutas-app">
 
       <div class="col-md-6 col-md-offset-3">
+        <div class="panel panel-default">
+          <div class="panel-heading text-center">
+            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas"></div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-md-6 col-md-offset-3">
+        <div class="panel panel-default">
+          <div class="panel-heading text-center">
+            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_2"></div>
+          </div>
+
+        </div>
+      </div>
+
+
+      <!-- <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading">
             <div class="row">
@@ -34,9 +59,9 @@ id: cobertura
           </div>
 
         </div>
-      </div>
+      </div> -->
 
-      <div class="col-md-6 col-md-offset-3">
+      <!-- <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading">
             <div class="row">
@@ -59,7 +84,7 @@ id: cobertura
           </div>
 
         </div>
-      </div>
+      </div> -->
     </div>
 
   </div>
