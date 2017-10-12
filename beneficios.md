@@ -159,7 +159,7 @@ id: Beneficios
       </div>
     </div>
     <div class="col-md-4 col-md-offset-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease-out-sine">
-      <a href="solicitud" class="btn btn-default btn-block btn-lg btn-gray">¿A dónde te llevamos?</a>
+      <a href="cobertura" class="btn btn-default btn-block btn-lg btn-gray">Nuestra cobertura</a>
     </div>
   </div>
 </div>
