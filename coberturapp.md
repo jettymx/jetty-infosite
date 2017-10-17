@@ -13,7 +13,7 @@ id: cobertura
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
+            <h4 class="panel-title">Zona Norte <-> Zona Toreo / Polanco</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas"></div>
@@ -25,7 +25,7 @@ id: cobertura
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
+            <h4 class="panel-title">Zona Toreo / Polanco <-> Zona Poniente</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_2"></div>
