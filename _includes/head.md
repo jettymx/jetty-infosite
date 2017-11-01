@@ -25,6 +25,7 @@
       "@type": "Organization",
       "name": "Jetty MX",
       "url": "http://www.jetty.mx",
+      "logo": "http://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
       "image": "http://www.jetty.mx/img/Jetty-MX.jpg",
       "description": "Aplicación de viajes compartidos con rutas optimizadas para llegar rápido a tu destino. Transporte cómodo y seguro a un precio accesible para poder usarlo diario.",
