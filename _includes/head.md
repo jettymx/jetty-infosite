@@ -22,7 +22,7 @@
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
-      "@type": "Person",
+      "@type": "Organization",
       "name": "Jetty",
       "url": "http://www.jetty.mx",
       "sameAs": [

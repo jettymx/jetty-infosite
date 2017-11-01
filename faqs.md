@@ -13,7 +13,7 @@ id: aviso-de-privacidad
 
     <div class="col-md-12">
       <h3>¿Qué es Jetty?</h3>
-      <p>Jetty es una plataforma tecnológica 100% mexicana que te permite pedir un transporte seguro y cómodo para ir y regresar de tu casa a tu trabajo o universidad. Contamos con vehículos asegurados en perfectas condiciones y conductores altamente calificados.</p>
+      <p>Jetty es una aplicación de viajes compartidos 100% mexicana que te permite pedir un transporte seguro y cómodo para ir y regresar de tu casa a tu trabajo o universidad. Olvídate del tráfico, de tener que estacionarte o preocuparte por las tarifas dinámicas, el calor y los que te bolsean en el metro. Contamos con vehículos asegurados en perfectas condiciones y conductores altamente calificados.</p>
 
       <h3>¿Cómo funciona?</h3>
       <p><strong>Es sencillo:</strong></p>
@@ -29,6 +29,10 @@ id: aviso-de-privacidad
         <li>Después de tu viaje, deja retroalimentación sobre tu experiencia.</li>
         <li>¡Vuelve a pedir un asiento en Jetty!</li>
       </ol>
+
+      <h3>¿Dónde puedo encontrar las áreas de servicio de Jetty?</h3>
+      <p>Al ser un servicio de transporte dinámico, no utilizamos un sistema programado con rutas establecidas y horarios fijos. Nuestra tecnología está diseñada para que puedas seleccionar los puntos de origen y destino, y a partir de las opciones elegir un viaje que se adapte a tus necesidades. Los horarios pueden variar de vez en cuando en función del tráfico.</p>
+      <p>Puedes ver nuestras áreas de servicio en <a href="cobertura" target="_self">http://www.jetty.mx/cobertura</a></p>
 
       <h3>¿Puedo viajar sin reservación?</h3>
       <p><strong>No.</strong> Por control y tu seguridad, necesitamos que todos los pasajeros tengan un pase de abordar válido.</p>
@@ -60,9 +64,6 @@ id: aviso-de-privacidad
 
       <h3>¿Puedo darle propina a mi conductor?</h3>
       <p>Nuestros conductores no aceptan propina debido a que todos cuentan con un salario competitivo. Si recibes un gran servicio, una sonrisa y las gracias siempre son bienvenidos. Tampoco dudes en escribirnos para conocer tu satisfacción.</p>
-
-      <h3>¿Dónde puedo encontrar los horarios de Jetty?</h3>
-      <p>Al ser un servicio de transporte dinámico, no utilizamos un sistema programado con rutas establecidas y horarios fijos. Nuestra tecnología está diseñada para que puedas seleccionar los puntos de origen y destino, y a partir de las opciones elegir un viaje que se adapte a tus necesidades. Los horarios pueden variar de vez en cuando en función del tráfico. Puedes ver nuestras áreas de servicio en <a href="cobertura" target="_self">http://www.jetty.mx/cobertura</a></p>
 
       <h3>¿Cuánto cuesta viajar en Jetty?</h3>
       <p>Tu tarifa de viaje se calcula al sumar una tarifa base, la distancia que vas a recorrer y la aportación al fondo para la movilidad. En Jetty no hay ninguna sorpresa del costo de tu viaje. Te mandamos el precio del viaje, reservas y no te cobraremos nada más.</p>
