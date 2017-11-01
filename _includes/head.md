@@ -23,8 +23,17 @@
     {
       "@context": "http://schema.org",
       "@type": "Organization",
-      "name": "Jetty",
+      "name": "Jetty MX",
       "url": "http://www.jetty.mx",
+      "author": "Jetty",
+      "image": "http://www.jetty.mx/img/Jetty-MX.jpg",
+      "description": "Aplicación de viajes compartidos con rutas optimizadas para llegar rápido a tu destino. Transporte cómodo y seguro a un precio accesible para poder usarlo diario.",
+      "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
+      "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
+      "SoftwareApplication": "Android, iOS",
+      "publisher": "Jetty MX",
+      "publisher": "Innku",
+      "applicationCategory": "Transport",
       "sameAs": [
         "https://www.facebook.com/JettyMX/",
         "https://www.instagram.com/jetty.mx/  ",
