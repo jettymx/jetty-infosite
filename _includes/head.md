@@ -19,4 +19,17 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta name="robots" content="noindex" />
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Jetty",
+      "url": "http://www.jetty.mx",
+      "sameAs": [
+        "https://www.facebook.com/JettyMX/",
+        "https://www.instagram.com/jetty.mx/  ",
+        "https://twitter.com/jettymx"
+      ]
+    }
+  </script>
 </head>
