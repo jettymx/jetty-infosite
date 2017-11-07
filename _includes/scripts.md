@@ -169,6 +169,18 @@
           geodesic: true
         });
 
+        new google.maps.Polygon({
+          map: map,
+          paths: poniente,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
         // Dot line 1
         var lineSymbol = {
           path: 'M 0,-1 0,1',
@@ -178,6 +190,17 @@
 
         var line = new google.maps.Polyline({
           path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map
+        });
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4231, lng: -99.2133}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol,
@@ -212,6 +235,30 @@
           geodesic: true
         });
 
+        new google.maps.Polygon({
+          map: map2,
+          paths: norte,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map2,
+          paths: chapultepec,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
         // Dot line 2
         var lineSymbol2 = {
           path: 'M 0,-1 0,1',
@@ -220,7 +267,29 @@
         };
 
         var line = new google.maps.Polyline({
-          path: [{lat: 19.3954, lng: -99.2572}, {lat: 19.4104, lng: -99.2316}],
+          path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol2,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map2
+        });
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4066, lng: -99.2018}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol2,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map2
+        });
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.4271, lng: -99.1794}, {lat: 19.4323, lng: -99.1816}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol2,
@@ -263,7 +332,7 @@
         };
 
         var line = new google.maps.Polyline({
-          path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
+          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4879, lng: -99.2371}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol3,
