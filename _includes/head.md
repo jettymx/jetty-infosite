@@ -6,7 +6,7 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
-  <title>Jetty, Soluciona tu transporte diario.</title>
+  <title>Jetty, Soluciona tu Transporte Diario en México. </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,7 +28,7 @@
       "logo": "http://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
       "image": "http://www.jetty.mx/img/Jetty-MX.jpg",
-      "description": "Jetty, Soluciona tu Transporte Diario en México. Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.",
+      "description": "Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.",
       "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
       "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
       "SoftwareApplication": "Android, iOS",
