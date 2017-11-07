@@ -41,16 +41,21 @@
     function initMap() {
 
         var mapOptions = {
-            zoom: 11,
-            center: new google.maps.LatLng(19.4500, -99.2500),
+            zoom: 12,
+            center: new google.maps.LatLng(19.4800, -99.2200),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
         var mapOptions2 = {
-            zoom: 11,
-            center: new google.maps.LatLng(19.4500, -99.2400),
+            zoom: 12,
+            center: new google.maps.LatLng(19.4100, -99.2400),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
         var mapOptions3 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.4100, -99.2200),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+        var mapOptions4 = {
             zoom: 11,
             center: new google.maps.LatLng(19.4400, -99.2600),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
@@ -63,6 +68,9 @@
 
         var mapElement3 = document.getElementById('map_canvas_3');
         var map3 = new google.maps.Map(mapElement3, mapOptions3);
+
+        var mapElement4 = document.getElementById('map_canvas_4');
+        var map4 = new google.maps.Map(mapElement4, mapOptions4);
 
         var norte = [
           {lat: 19.5325, lng: -99.2203},
@@ -103,7 +111,7 @@
           {lat: 19.4618, lng: -99.2188}
         ];
 
-        var poniente = [
+        var santafe = [
           {lat: 19.3740, lng: -99.2677},
           {lat: 19.3723, lng: -99.2743},
           {lat: 19.3684, lng: -99.2817},
@@ -144,7 +152,8 @@
           {lat: 19.4212, lng: -99.1938}
         ];
 
-        // MAPA // Norte - Polanco - Santa Fé
+
+        // MAPA Satélite <-> Polanco
         new google.maps.Polygon({
           map: map,
           paths: polanco,
@@ -169,19 +178,7 @@
           geodesic: true
         });
 
-        new google.maps.Polygon({
-          map: map,
-          paths: poniente,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
-
-        // Dot line 1
+        // Line Norte - Santa fé
         var lineSymbol = {
           path: 'M 0,-1 0,1',
           strokeOpacity: 0.5,
@@ -199,18 +196,8 @@
           map: map
         });
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4231, lng: -99.2133}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map
-        });
 
-        // MAPA 2 // Santa Fé - Chapultepec - Polanco - Norte:
+        // MAPA 2 Polanco <-> Santa Fé
         new google.maps.Polygon({
           map: map2,
           paths: polanco,
@@ -225,31 +212,7 @@
 
         new google.maps.Polygon({
           map: map2,
-          paths: poniente,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
-
-        new google.maps.Polygon({
-          map: map2,
-          paths: norte,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
-
-        new google.maps.Polygon({
-          map: map2,
-          paths: chapultepec,
+          paths: santafe,
           strokeColor: '#49bda7',
           strokeOpacity: 0.8,
           strokeWeight: 2,
@@ -267,7 +230,7 @@
         };
 
         var line = new google.maps.Polyline({
-          path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
+          path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4281, lng: -99.2171}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol2,
@@ -277,32 +240,11 @@
           map: map2
         });
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4066, lng: -99.2018}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol2,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map2
-        });
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.4271, lng: -99.1794}, {lat: 19.4323, lng: -99.1816}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol2,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map2
-        });
-
-        // MAPA 3 // Santa Fé Express
+        // MAPA 3 Santa Fe <-> Chapultepec/Polanco
         new google.maps.Polygon({
           map: map3,
-          paths: norte,
+          paths: polanco,
           strokeColor: '#49bda7',
           strokeOpacity: 0.8,
           strokeWeight: 2,
@@ -314,7 +256,19 @@
 
         new google.maps.Polygon({
           map: map3,
-          paths: poniente,
+          paths: chapultepec,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map3,
+          paths: santafe,
           strokeColor: '#49bda7',
           strokeOpacity: 0.8,
           strokeWeight: 2,
@@ -331,8 +285,9 @@
           scale: 4
         };
 
+        // Line Norte - Chapultepec
         var line = new google.maps.Polyline({
-          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4879, lng: -99.2371}],
+          path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4066, lng: -99.2018}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol3,
@@ -342,15 +297,70 @@
           map: map3
         });
 
+        // Line Polanco - Chapultepec
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.4271, lng: -99.1794}, {lat: 19.4323, lng: -99.1816}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol3,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map3
+        });
+
+        // MAPA 4 Satéite <-> Santa Fe Express
+        new google.maps.Polygon({
+          map: map4,
+          paths: norte,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map4,
+          paths: santafe,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line 4 Norte - Santa fé
+        var lineSymbol4 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4879, lng: -99.2371}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol4,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map4
+        });
+
     }
 
-    $("#collapseOne").on("shown.bs.collapse", function(){
-      initMap()
-    });
+    // $("#collapseOne").on("shown.bs.collapse", function(){
+    //   initMap()
+    // });
 
-    $("#collapseTwo").on("shown.bs.collapse", function(){
-      initMap()
-    });
+    // $("#collapseTwo").on("shown.bs.collapse", function(){
+    //   initMap()
+    // });
 </script>
 
 
