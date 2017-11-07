@@ -18,40 +18,81 @@ id: organizaciones
   </div>
 </div>
 
+<div class="container valor">
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Tecnología</h2>
+      <p>Con el app de Jetty, es más fácil revisar y reservar tus trayectos. Además puedes monitorear la ubicación de tu Jetty.</p>
+    </div>
+    <div class="col-md-4">
+      <h2>Vehículos de primera</h2>
+      <p>Todos cuentan con cinturones de seguridad en todos los asientos, AC, USBs, GPS, Wi-Fi y cámaras de seguridad.</p>
+    </div>
+    <div class="col-md-4">
+      <h2>Conductores profesionales</h2>
+      <p>Todos pasan por un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
+    </div>
+    <div class="col-md-12 text-center">
+      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
+    </div>
+  </div>
+</div>
+
+<div class="container valor">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-12 text-center">
+        <p class="lead">
+          <b>Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</b>
+        </p>
+      </div>
+      <div class="col-md-4 text-center">
+        <p>Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
+      </div>
+      <div class="col-md-4 text-center">
+        <p>Cotiza servicios exclusivos para la gente de tu organización.</p>
+      </div>
+      <div class="col-md-4 text-center">
+        <p>Subsidia parte o el 100% de viajes de tus colaboradores.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="container porque-content">
   <div class="row">
     <div class="col-md-12 text-center porque-title" data-aos="fade-up">
-      <h3>¿Por qué tus compañeros ganarían usando Jetty? </h3>
-      <p>Mejora la productividad y el bienestar de todos.</p>
+      <h2>Beneficios para tu organización</h2>
+      <!-- <p>Mejora la productividad y el bienestar de todos.</p> -->
     </div>
   </div>
 
   <div class="row cuatro-puntos">
-    <div class="col-md-3 porque text-center" data-aos="zoom-out-right" data-aos-duration="1000">
-      <img src="img/manos.svg">
-      <p><strong>Haz del traslado cotidiano un arma de reclutamiento</strong></p>
-      <p>El transporte cotidiano es uno de los factores más importante para aceptar un trabajo.</p>
-    </div>
-    <div class="col-md-3 porque text-center" data-aos="zoom-out" data-aos-duration="500">
+    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
       <img src="img/engrane.svg">
       <p><strong>Aumenta la productividad</strong></p>
-      <p>Descansar durante el viaje o ponerse al corriente de sus correos electrónicos, es Jetty.</p>
+      <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
     </div>
-    <div class="col-md-3 porque text-center" data-aos="zoom-out" data-aos-duration="500">
+    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
       <img src="img/mundo.svg">
       <p><strong>Responsabilidad social</strong></p>
       <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
     </div>
-    <div class="col-md-3 porque text-center" data-aos="zoom-out-left" data-aos-duration="1000">
+    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
       <img src="img/alcancia.svg">
-      <p><strong>Ahorra en estacionamientos</strong></p>
-      <p>Menos cajones y más comedor o áreas de entretenimiento, con Jetty.</p>
+      <p><strong>Grandes ahorros</strong></p>
+      <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
+    </div>
+    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
+      <img src="img/manos.svg">
+      <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
+      <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
     </div>
   </div>
 
   <div class="row tres-puntos">
     <div class="col-md-12 text-center tres-puntos-title" data-aos="fade-up" data-aos-duration="1000">
-      <p><strong>Jetty no es un servicio de transporte tradicional:</strong></p>
+      <h2>Jetty no es un servicio de transporte tradicional:</h2>
     </div>
 
     <div class="col-md-4 text-center" data-aos="fade-right" data-aos-duration="1000">

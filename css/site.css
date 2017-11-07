@@ -519,35 +519,6 @@ a.download-app{
   padding: 0;
 }
 
-/*#map_canvas {
-  width: 100%;
-  height: 400px;
-  margin: 0;
-  padding: 0;
-}
-
-#map_canvas_2 {
-  width: 100%;
-  height: 400px;
-  margin: 0;
-  padding: 0;
-}
-
-#map_canvas_3 {
-  width: 100%;
-  height: 400px;
-  margin: 0;
-  padding: 0;
-}
-
-#map_canvas_4 {
-  width: 100%;
-  height: 400px;
-  margin: 0;
-  padding: 0;
-}*/
-/**/
-
 .rutas{
   clear: both !important;
   padding: 50px 0 30px 0;
@@ -582,11 +553,7 @@ a.download-app{
   padding: 0;
 }
 
-.rutas-app #map_canvas{
-  height: 200px;
-}
-
-.rutas-app #map_canvas_2{
+.rutas-app .map_canvas{
   height: 200px;
 }
 
@@ -618,8 +585,8 @@ a.download-app{
 .header-organizaciones{
   background: url('../img/Back_Organizaciones.jpg') no-repeat;
   background-size: 100%;
-  padding-bottom: 400px;
-  background-position-y: -100px;
+  padding-bottom: 200px;
+  background-position-y: -300px;
 }
 
 .header-content-organizaciones{
@@ -645,6 +612,10 @@ a.download-app{
   margin-top: 30px;
   padding-left: 30px;
   padding-right: 30px;
+}
+
+.valor{
+  margin-bottom: 80px;
 }
 
 .porque-content{
@@ -1183,7 +1154,7 @@ h1.blog-title{
   }
 
   .header-organizaciones{
-    padding-bottom: 400px;
+    padding-bottom: 150px;
   }
 
 }
@@ -1205,7 +1176,7 @@ h1.blog-title{
 
   .header-organizaciones{
     background-size: 100%;
-    padding-bottom: 200px;
+    padding-bottom: 150px;
     background-position-y: -100px;
   }
 
@@ -1402,7 +1373,7 @@ h1.blog-title{
   .header-organizaciones{
     background-size: 210%;
     padding-bottom: 150px;
-    background-position-y:0px;
+    background-position-y: -30px;
   }
 
   .header-organizaciones .btn{
