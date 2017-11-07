@@ -46,7 +46,7 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Santa Fé <-> Chapultepec/Polanco</h4>
+            <h4 class="panel-title">Santa Fé <-> Chapultepec / Polanco</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_3" class="map_canvas"></div>

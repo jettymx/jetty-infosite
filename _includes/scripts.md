@@ -354,13 +354,13 @@
 
     }
 
-    // $("#collapseOne").on("shown.bs.collapse", function(){
-    //   initMap()
-    // });
+    $("#collapseOne").on("shown.bs.collapse", function(){
+      initMap()
+    });
 
-    // $("#collapseTwo").on("shown.bs.collapse", function(){
-    //   initMap()
-    // });
+    $("#collapseTwo").on("shown.bs.collapse", function(){
+      initMap()
+    });
 </script>
 
 
