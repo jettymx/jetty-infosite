@@ -21,29 +21,39 @@ id: cobertura
 
     <div class="rutas">
 
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Zona Norte <-> Zona Toreo Polanco</h4>
+            <h4 class="panel-title">Norte - Polanco - Santa Fé</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas"></div>
           </div>
-
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Zona Poniente <-> Zona Toreo Polanco</h4>
+            <h4 class="panel-title">Santa Fé - Chapultepec - Polanco - Norte:</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_2"></div>
           </div>
-
         </div>
       </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Santa Fé Express</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_3"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <div class="col-md-12 text-center">
