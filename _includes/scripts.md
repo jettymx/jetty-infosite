@@ -144,7 +144,7 @@
           {lat: 19.4212, lng: -99.1938}
         ];
 
-        // MAPA
+        // MAPA // Norte - Polanco - Santa Fé
         new google.maps.Polygon({
           map: map,
           paths: polanco,
@@ -169,7 +169,7 @@
           geodesic: true
         });
 
-        // Dot line
+        // Dot line 1
         var lineSymbol = {
           path: 'M 0,-1 0,1',
           strokeOpacity: 0.5,
@@ -187,7 +187,7 @@
           map: map
         });
 
-        // MAPA 2
+        // MAPA 2 // Santa Fé - Chapultepec - Polanco - Norte:
         new google.maps.Polygon({
           map: map2,
           paths: polanco,
@@ -212,7 +212,7 @@
           geodesic: true
         });
 
-        // Dot line
+        // Dot line 2
         var lineSymbol2 = {
           path: 'M 0,-1 0,1',
           strokeOpacity: 0.5,
@@ -230,7 +230,7 @@
           map: map2
         });
 
-        // MAPA 3
+        // MAPA 3 // Santa Fé Express
         new google.maps.Polygon({
           map: map3,
           paths: norte,
@@ -255,7 +255,7 @@
           geodesic: true
         });
 
-        // Dot line
+        // Dot line 3
         var lineSymbol3 = {
           path: 'M 0,-1 0,1',
           strokeOpacity: 0.5,
@@ -263,14 +263,14 @@
         };
 
         var line = new google.maps.Polyline({
-          path: [{lat: 19.3740, lng: -99.2677}, {lat: 19.4879, lng: -99.2371}],
+          path: [{lat: 19.4601, lng: -99.2214}, {lat: 19.4879, lng: -99.2371}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbol3,
             offset: '0',
             repeat: '20px'
           }],
-          map: map
+          map: map3
         });
 
     }
