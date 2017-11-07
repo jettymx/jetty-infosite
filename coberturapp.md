@@ -13,78 +13,47 @@ id: cobertura
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Zona Norte <-> Zona Toreo / Polanco</h4>
+            <h4 class="panel-title">Satélite <-> Polanco</h4>
           </div>
           <div class="panel-body">
-            <div id="map_canvas"></div>
+            <div id="map_canvas" class="map_canvas"></div>
           </div>
-
         </div>
       </div>
 
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Zona Toreo / Polanco <-> Zona Poniente</h4>
+            <h4 class="panel-title">Polanco <-> Santa Fé</h4>
           </div>
           <div class="panel-body">
-            <div id="map_canvas_2"></div>
+            <div id="map_canvas_2" class="map_canvas"></div>
           </div>
-
         </div>
       </div>
 
-
-      <!-- <div class="col-md-6 col-md-offset-3">
+      <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-8">
-                <h4 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Zona Norte <-> Zona Toreo Polanco</a>
-                </h4>
-              </div>
-              <div class="col-xs-4 text-right">
-                <h3 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="vermapa">Ver mapa</a>
-                </h3>
-              </div>
-            </div>
-
+          <div class="panel-heading text-center">
+            <h4 class="panel-title">Santa Fé <-> Chapultepec / Polanco</h4>
           </div>
           <div class="panel-body">
-            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-              <div id="map_canvas" ></div>
-            </div>
+            <div id="map_canvas_3" class="map_canvas"></div>
           </div>
-
         </div>
-      </div> -->
+      </div>
 
-      <!-- <div class="col-md-6 col-md-offset-3">
+      <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-8">
-                <h4 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Zona Poniente <-> Zona Toreo Polanco</a>
-                </h4>
-              </div>
-              <div class="col-xs-4  text-right">
-                <h4 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" class="vermapa">Ver mapa</a>
-                </h4>
-              </div>
-            </div>
+          <div class="panel-heading text-center">
+            <h4 class="panel-title">Satéite <-> Santa Fé Express</h4>
           </div>
           <div class="panel-body">
-            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-              <div id="map_canvas_2"></div>
-            </div>
+            <div id="map_canvas_4" class="map_canvas"></div>
           </div>
-
         </div>
-      </div> -->
+      </div>
+
     </div>
 
   </div>

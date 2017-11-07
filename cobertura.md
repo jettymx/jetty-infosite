@@ -57,7 +57,7 @@ id: cobertura
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h4 class="panel-title">Satéite <-> Santa Fé Express</h4>
+            <h4 class="panel-title">Satélite <-> Santa Fé Express</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_4" class="map_canvas"></div>

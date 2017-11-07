@@ -10,7 +10,7 @@ id: organizaciones
     <div class="row">
       <div class="col-md-8" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="1000">
         <h1>Seguridad, estrés, cansancio, costo, estacionamiento.</h1>
-        <h2>Entendemos el desafío que representa el traslado cotidiano de tus colaboradores. Tenemos varias opciones para tu empresa o universidad. </h2>
+        <h2>Entendemos el desafío que representa el traslado cotidiano de tus colaboradores.</h2>
         <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
       </div>
       <div class="col-md-4"></div>
