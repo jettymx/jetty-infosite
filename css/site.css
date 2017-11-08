@@ -527,6 +527,10 @@ a.download-app{
   font-weight: 600;
 }
 
+.carousel-control{
+  width: 0%;
+}
+
 /*////// COBERTURA //////*/
 .map_canvas{
   width: 100%;
