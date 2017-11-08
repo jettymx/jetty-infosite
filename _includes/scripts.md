@@ -45,10 +45,10 @@
             center: new google.maps.LatLng(19.4800, -99.2200),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-        var mapOptions2 = {
-            zoom: 12,
-            center: new google.maps.LatLng(19.4100, -99.2400),
-            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+        // var mapOptions2 = {
+        //     zoom: 12,
+        //     center: new google.maps.LatLng(19.4100, -99.2400),
+        //     styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
         var mapOptions3 = {
             zoom: 12,
@@ -63,8 +63,8 @@
         var mapElement = document.getElementById('map_canvas');
         var map = new google.maps.Map(mapElement, mapOptions);
 
-        var mapElement2 = document.getElementById('map_canvas_2');
-        var map2 = new google.maps.Map(mapElement2, mapOptions2);
+        // var mapElement2 = document.getElementById('map_canvas_2');
+        // var map2 = new google.maps.Map(mapElement2, mapOptions2);
 
         var mapElement3 = document.getElementById('map_canvas_3');
         var map3 = new google.maps.Map(mapElement3, mapOptions3);
@@ -198,47 +198,47 @@
 
 
         // MAPA 2 Polanco <-> Santa Fé
-        new google.maps.Polygon({
-          map: map2,
-          paths: polanco,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map2,
+        //   paths: polanco,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
-        new google.maps.Polygon({
-          map: map2,
-          paths: santafe,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map2,
+        //   paths: santafe,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
         // Dot line 2
-        var lineSymbol2 = {
-          path: 'M 0,-1 0,1',
-          strokeOpacity: 0.5,
-          scale: 4
-        };
+        // var lineSymbol2 = {
+        //   path: 'M 0,-1 0,1',
+        //   strokeOpacity: 0.5,
+        //   scale: 4
+        // };
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4281, lng: -99.2171}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol2,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map2
-        });
+        // var line = new google.maps.Polyline({
+        //   path: [{lat: 19.3712, lng: -99.2652}, {lat: 19.4281, lng: -99.2171}],
+        //   strokeOpacity: 0,
+        //   icons: [{
+        //     icon: lineSymbol2,
+        //     offset: '0',
+        //     repeat: '20px'
+        //   }],
+        //   map: map2
+        // });
 
 
         // MAPA 3 Santa Fe <-> Chapultepec/Polanco
