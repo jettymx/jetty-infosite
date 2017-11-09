@@ -889,11 +889,17 @@ img.logos{
 ul.indice{
   list-style: none;
   padding: 0;
-  margin-top: 30px;
+  position: relative;
+  top: 30px;
+  margin-bottom: 30px;
 }
 
 ul.indice li{
   font-size: 18px;
+}
+
+.privacidad .typeform{
+  margin-top: 50px;
 }
 
 /*////// BACKS SUPPORT //////*/

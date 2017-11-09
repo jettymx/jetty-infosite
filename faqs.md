@@ -11,46 +11,51 @@ id: aviso-de-privacidad
       <h1>FAQs</h1>
     </div>
 
-    <div class="col-md-12">
+    <div>
       <ul class="indice">
-        <li><a href="javascript:$.scrollTo('#uno',800);">¿Qué es Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#dos',800);">¿Cómo funciona?</a></li>
-        <li><a href="javascript:$.scrollTo('#tres',800);">¿Puedo viajar sin reservación?</a></li>
-        <li><a href="javascript:$.scrollTo('#cuatro',800);">¿Mi asiento está garantizado?</a></li>
-        <li><a href="javascript:$.scrollTo('#cinco',800);">¿Cómo monitoreo mi viaje?</a></li>
-        <li><a href="javascript:$.scrollTo('#seis',800);">¿Qué pasa si llego tarde al punto de abordaje del Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#siete',800);">¿Tienen tolerancia en los tiempos de salida?</a></li>
-        <li><a href="javascript:$.scrollTo('#ocho',800);">¿Qué pasa si mi Jetty llega tarde?</a></li>
-        <li><a href="javascript:$.scrollTo('#nueve',800);">¿Qué hago si no encuentro la parada?</a></li>
-        <li><a href="javascript:$.scrollTo('#diez',800);">¿Puedo cambiar / cancelar mi viaje?</a></li>
-        <li><a href="javascript:$.scrollTo('#once',800);">¿Estoy asegurado cuando viajo en Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#doce',800);">¿Cuál es su política acerca de las sillas de rueda u otros dispositivos de asistencia?</a></li>
-        <li><a href="javascript:$.scrollTo('#trece',800);">¿Cuál es su política contra la discriminación?</a></li>
-        <li><a href="javascript:$.scrollTo('#catorce',800);">¿Tienen servicio en días festivos?</a></li>
-        <li><a href="javascript:$.scrollTo('#quince',800);">¿Pueden viajar con un menor de edad?</a></li>
-        <li><a href="javascript:$.scrollTo('#dieciseis',800);">¿Puedo darle propina a mi conductor?</a></li>
-        <li><a href="javascript:$.scrollTo('#diecisiete',800);">¿Qué hago si el viaje que deseo no está disponible?</a></li>
-        <li><a href="javascript:$.scrollTo('#dieciocho',800);">¿Dónde puedo encontrar las áreas de servicio y horarios de Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#diecinueve',800);">¿Cuánto cuesta viajar en Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#veinte',800);">¿De qué forma puedo comprar mi boleto?</a></li>
-        <li><a href="javascript:$.scrollTo('#uno',800);">¿Con cuánto tiempo de anticipación puedo reservar mi viaje?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintiuno',800);">¿Puedo viajar en Jetty sin tener la app?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintidos',800);">¿Puedo llevar bicicleta o maletas grandes?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintitres',800);">Olvidé algo en un Jetty, ¿qué tengo que hacer?</a></li>
-        <li><a href="javascript:$.scrollTo('#veinticuatro',800);">¿Puedo comer en mi Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#veinticinco',800);">¿Qué pasa si el sistema de cobro rechaza mi pago?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintiseis',800);">¿Qué hago si la app no funciona?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintisiete',800);">¿Puedo solicitar Jetty para un evento o viaje privado?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintiocho',800);">¿Puedo solicitar Jetty para un evento o viaje privado?</a></li>
-        <li><a href="javascript:$.scrollTo('#veintinueve',800);">¿Puedo cancelar mi reservación?</a></li>
-        <li><a href="javascript:$.scrollTo('#treinta',800);">¿Mi reservación es transferible?</a></li>
-        <li><a href="javascript:$.scrollTo('#treintaiuno',800);">¿Qué hago si me equivoqué al reservar mi Jetty?</a></li>
-        <li><a href="javascript:$.scrollTo('#trentaidos',800);">¿Cómo puedo pedir una factura?</a></li>
-        <li><a href="javascript:$.scrollTo('#trentaitres',800);">¿Qué hago para trabajar en Jetty?</a></li>
+          <div class="col-md-6">
+            <li><a href="javascript:$.scrollTo('#uno',800);">¿Qué es Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#dos',800);">¿Cómo funciona?</a></li>
+            <li><a href="javascript:$.scrollTo('#tres',800);">¿Puedo viajar sin reservación?</a></li>
+            <li><a href="javascript:$.scrollTo('#cuatro',800);">¿Mi asiento está garantizado?</a></li>
+            <li><a href="javascript:$.scrollTo('#cinco',800);">¿Cómo monitoreo mi viaje?</a></li>
+            <li><a href="javascript:$.scrollTo('#seis',800);">¿Qué pasa si llego tarde al punto de abordaje del Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#siete',800);">¿Tienen tolerancia en los tiempos de salida?</a></li>
+            <li><a href="javascript:$.scrollTo('#ocho',800);">¿Qué pasa si mi Jetty llega tarde?</a></li>
+            <li><a href="javascript:$.scrollTo('#nueve',800);">¿Qué hago si no encuentro la parada?</a></li>
+            <li><a href="javascript:$.scrollTo('#diez',800);">¿Puedo cambiar / cancelar mi viaje?</a></li>
+            <li><a href="javascript:$.scrollTo('#once',800);">¿Estoy asegurado cuando viajo en Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#doce',800);">¿Cuál es su política acerca de las sillas de rueda u otros dispositivos de asistencia?</a></li>
+            <li><a href="javascript:$.scrollTo('#trece',800);">¿Cuál es su política contra la discriminación?</a></li>
+            <li><a href="javascript:$.scrollTo('#catorce',800);">¿Tienen servicio en días festivos?</a></li>
+            <li><a href="javascript:$.scrollTo('#quince',800);">¿Pueden viajar con un menor de edad?</a></li>
+            <li><a href="javascript:$.scrollTo('#dieciseis',800);">¿Puedo darle propina a mi conductor?</a></li>
+            <li><a href="javascript:$.scrollTo('#diecisiete',800);">¿Qué hago si el viaje que deseo no está disponible?</a></li>
+
+          </div>
+          <div class="col-md-6">
+            <li><a href="javascript:$.scrollTo('#dieciocho',800);">¿Dónde puedo encontrar las áreas de servicio y horarios de Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#diecinueve',800);">¿Cuánto cuesta viajar en Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#veinte',800);">¿De qué forma puedo comprar mi boleto?</a></li>
+            <li><a href="javascript:$.scrollTo('#uno',800);">¿Con cuánto tiempo de anticipación puedo reservar mi viaje?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintiuno',800);">¿Puedo viajar en Jetty sin tener la app?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintidos',800);">¿Puedo llevar bicicleta o maletas grandes?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintitres',800);">Olvidé algo en un Jetty, ¿qué tengo que hacer?</a></li>
+            <li><a href="javascript:$.scrollTo('#veinticuatro',800);">¿Puedo comer en mi Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#veinticinco',800);">¿Qué pasa si el sistema de cobro rechaza mi pago?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintiseis',800);">¿Qué hago si la app no funciona?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintisiete',800);">¿Puedo solicitar Jetty para un evento o viaje privado?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintiocho',800);">¿Puedo solicitar Jetty para un evento o viaje privado?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintinueve',800);">¿Puedo cancelar mi reservación?</a></li>
+            <li><a href="javascript:$.scrollTo('#treinta',800);">¿Mi reservación es transferible?</a></li>
+            <li><a href="javascript:$.scrollTo('#treintaiuno',800);">¿Qué hago si me equivoqué al reservar mi Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#trentaidos',800);">¿Cómo puedo pedir una factura?</a></li>
+            <li><a href="javascript:$.scrollTo('#trentaitres',800);">¿Qué hago para trabajar en Jetty?</a></li>
+          </div>
       </ul>
     </div>
 
-    <div class="col-md-12">
+    <div class="col-md-12"  style="margin-top: 40px">
       <h3 id="uno">¿Qué es Jetty?</h3>
       <p>Jetty es una plataforma tecnológica 100% mexicana que te permite pedir un transporte seguro y cómodo para ir y regresar de tu casa a tu trabajo o universidad. Contamos con vehículos asegurados en perfectas condiciones y conductores altamente calificados.</p>
 
@@ -166,7 +171,7 @@ id: aviso-de-privacidad
 
     </div>
 
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center typeform">
       <p class="lead">Si no encontraste lo que buscabas, haz clic <a class="typeform-share" href="https://cledestino.typeform.com/to/Hqhtgq" data-mode="popup" target="_blank">aquí </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> para recibir atención personalizada</p>
     </div>
 
