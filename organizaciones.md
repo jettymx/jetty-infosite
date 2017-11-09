@@ -21,16 +21,25 @@ id: organizaciones
 <div class="container valor">
   <div class="row">
     <div class="col-md-4">
-      <h2>Tecnología</h2>
-      <p>Con el app de Jetty, es más fácil revisar y reservar tus trayectos. Además puedes monitorear la ubicación de tu Jetty.</p>
+      <div class="text-center">
+        <img src="img/icon-tecnologia.svg" alt="Jetty, Tecnología">
+        <h2>Tecnología</h2>
+      </div>
+      <p>Con el <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
     </div>
     <div class="col-md-4">
-      <h2>Vehículos de primera</h2>
-      <p>Todos cuentan con cinturones de seguridad en todos los asientos, AC, USBs, GPS, Wi-Fi y cámaras de seguridad.</p>
+      <div class="text-center">
+        <img src="img/icon-seguridad.svg">
+        <h2>Vehículos de primera</h2>
+      </div>
+      <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, <b>Wi-Fi y cámaras de seguridad.</b></p>
     </div>
     <div class="col-md-4">
-      <h2>Conductores profesionales</h2>
-      <p>Todos pasan por un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
+      <div class="text-center">
+        <img src="img/icon-choferes.svg">
+        <h2>Conductores profesionales</h2>
+      </div>
+      <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
     </div>
     <div class="col-md-12 text-center">
       <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
@@ -77,13 +86,9 @@ id: organizaciones
             <b>Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</b>
           </p>
         </div>
-        <div class="col-md-4 text-center">
+        <div class="col-md-12 text-center">
           <p>Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
-        </div>
-        <div class="col-md-4 text-center">
           <p>Cotiza servicios exclusivos para la gente de tu organización.</p>
-        </div>
-        <div class="col-md-4 text-center">
           <p>Subsidia parte o el 100% de viajes de tus colaboradores.</p>
         </div>
       </div>
@@ -96,17 +101,17 @@ id: organizaciones
     </div>
 
     <div class="col-md-4 text-center" data-aos="fade-right" data-aos-duration="1000">
-      <img src="img/barato.svg">
+      <!-- <img src="img/barato.svg"> -->
       <p><strong>Más barato</strong></p>
       <p>Ofrecemos un excelente servicio a un costo menor.</p>
     </div>
     <div class="col-md-4 text-center middle" data-aos="fade-up" data-aos-duration="1000">
-      <img src="img/sinplazos.svg">
+      <!-- <img src="img/sinplazos.svg"> -->
       <p><strong>Sin plazo forzoso</strong></p>
       <p>No te pedimos firmar un contrato.</p>
     </div>
     <div class="col-md-4 text-center" data-aos="fade-left" data-aos-duration="1000">
-      <img src="img/flexible.svg">
+      <!-- <img src="img/flexible.svg"> -->
       <p><strong>Flexible</strong></p>
       <p>Adaptamos nuestra oferta según la necesidad de tus compañeros.</p>
     </div>
