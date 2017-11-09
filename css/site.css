@@ -638,6 +638,10 @@ a.download-app{
   margin-bottom: 80px;
 }
 
+.valor .btn{
+  margin-top: 40px;
+}
+
 .porque-content{
   padding: 0px 0 100px 0;\overflow: hidden;
 }
@@ -1485,22 +1489,12 @@ h1.blog-title{
     width: 100%;
   }
 
- /* #map {
-    width: 100%;
-    height: 380px;
-  }*/
-
   .map_canvas {
     width: 100%;
     height: 350px;
     float: left;
     margin: 0px;
   }
-  /*#map_canvas_2 {
-    width: 100%;
-    height: 380px;
-    margin: 0px;
-  }*/
 
   iframe  #mapa-solicitud{
     width: 100% !important;
@@ -1537,6 +1531,10 @@ h1.blog-title{
   .eventos-content{
     margin-top: 0px;
     padding-bottom: 100px;
+  }
+
+  .valor img{
+    margin-top: 30px;
   }
 
 }

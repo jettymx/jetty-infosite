@@ -37,7 +37,7 @@ id: organizaciones
     <div class="col-md-4">
       <div class="text-center">
         <img src="img/icon-choferes.svg">
-        <h2>Conductores profesionales</h2>
+        <h2>Conductores de primera</h2>
       </div>
       <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
     </div>
