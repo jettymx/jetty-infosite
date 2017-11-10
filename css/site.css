@@ -299,6 +299,44 @@ a.social-ins:hover{
   padding-right: 30px;
 }
 
+/*/// INDEX VALOR ////*/
+.index-valor{
+  padding-bottom: 40px;
+}
+
+.index-valor h3{
+  color: #939598;
+  font-weight: 800;
+}
+
+.index-valor p{
+  color: #939598;
+}
+
+/*//// COMO FUNCIONA ///*/
+.index-como-funciona{
+  background: #f4f4f4;
+}
+
+.index-como-funciona h1{
+  color: #7e8080;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+}
+
+.index-como-funciona p{
+  color: #939598;
+  font-weight: 800;
+}
+
+img.img-como-funciona{
+  width: 100%;
+}
+
+.app-jetty img{
+  width: 100%;
+}
+
 /*////// DESCARGA LA APP //////*/
 p.text-downapp{
   color: #4bbea8;
@@ -309,9 +347,11 @@ p.text-downapp{
 a.download-app{
   margin-right: 20px;
 }
+
 .download-app img{
   width: 150px;
 }
+
 /* Grow */
 .hvr-grow {
   display: inline-block;
@@ -380,7 +420,7 @@ a.download-app{
   margin-top: 5px !important;
 }
 
-.como-funciona{
+/*.como-funciona{
   background: url('../img/back-line.png') no-repeat;
   background-position: center 130px;
   background-size: 5px 50%;
@@ -413,7 +453,6 @@ a.download-app{
 .como-funciona-detail p {
   background: #f8f8f8;
   border: 1px solid #e7e7e7;
-  /*box-shadow: 0px 1px 4px rgba(0,0,0,0.2);*/
   position: relative;
   padding: 20px 20px;
   color: #4abea7;
@@ -424,7 +463,7 @@ a.download-app{
   right: -50px;
   text-align: right;
   box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
-}
+}*/
 
 /* this CS forms the triangles */
 .como-funciona-detail .left:after,
@@ -1441,14 +1480,19 @@ h1.blog-title{
 
   a.download-app{
     margin-right: 10px;
+    margin-bottom: 20px;
   }
   .download-app img{
     margin-left: 0px;
     width: 150px;
   }
 
+  .index-valor img{
+    margin-top: 30px;
+  }
+
    /* Como funciona */
-  .como-funciona{
+ /* .como-funciona{
     background: url('../img/back-line.png') no-repeat;
     background-position: center 130px;
     background-size: 5px 60%;
@@ -1483,7 +1527,7 @@ h1.blog-title{
     text-align: center !important;
     padding-top: 20px;
     padding-bottom: 20px;
-  }
+  }*/
 
   .porque-content{
     padding: 0px 0 100px 0;

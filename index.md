@@ -41,7 +41,126 @@ id: Home
 
 <div class="clearfix"></div>
 
-<div class="container-fluid backgreen-down">
+<div class="container index-valor">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="text-center">
+        <img src="img/icon-shield.svg">
+      </div>
+      <h3>Seguridad</h3>
+      <p>Todas nuestras unidades cuentan con cámaras de vigilancia y son monitoreadas vía GPS.</p>
+    </div>
+    <div class="col-md-3">
+      <div class="text-center">
+        <img src="img/icon-wifi.svg">
+      </div>
+      <h3>Conectividad</h3>
+      <p>Durante el viaje, carga tu celular y conéctate a nuestro Wi-Fi.</p>
+    </div>
+    <div class="col-md-3">
+      <div class="text-center">
+        <img src="img/icon-support.svg">
+      </div>
+      <h3>Tranquilidad</h3>
+      <p>Nuestros conductores y el equipo de soporte, están capacitados para darte el mejor servicio.</p>
+    </div>
+    <div class="col-md-3">
+      <div class="text-center">
+        <img src="img/icon-gps.svg">
+      </div>
+      <h3>Eficiencia</h3>
+      <p>Nuestro viajes están pensados para que puedas llegar a tu destino de la manera más directa.</p>
+    </div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div>
+  <img src="img/back-gray-down.png" class="img-como-funciona">
+</div>
+
+<div class="container-fluid index-como-funciona">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>Cómo <span>Funciona</span></h1>
+      </div>
+
+      <div class="col-md-3">
+        <div class="row">
+          <div class="col-xs-2">
+            <img src="img/pin-como.svg">
+          </div>
+          <div class="col-xs-10">
+            <p>Dinos de dónde sales y a dónde viajas.</p>
+            <br>
+          </div>
+        </div>
+        <div class="text-center app-jetty">
+          <img src="img/app-jetty-1.png">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="row">
+          <div class="col-xs-2">
+            <img src="img/reloj-como.svg">
+          </div>
+          <div class="col-xs-10">
+            <p>Revisa las opciones y elige la que más te convenga.</p>
+          </div>
+        </div>
+        <div class="text-center app-jetty">
+          <img src="img/app-jetty-2.png">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="row">
+          <div class="col-xs-2">
+            <img src="img/asiento-como.svg">
+          </div>
+          <div class="col-xs-10">
+            <p>Reserva pagando con tu tarjeta y monitorea tu Jetty.</p>
+          </div>
+        </div>
+        <div class="text-center app-jetty">
+          <img src="img/app-jetty-3.png">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="row">
+          <div class="col-xs-2">
+            <img src="img/people-como.svg">
+          </div>
+          <div class="col-xs-10">
+            <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
+          </div>
+        </div>
+        <div class="text-center app-jetty">
+          <img src="img/app-jetty-4.png">
+        </div>
+      </div>
+
+      <div class="col-md-12 text-center">
+        <p class="lead text-downapp">Descarga la app y disfruta de un buen viaje.</p>
+
+        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <img src="img/back-gray-up.png" class="img-como-funciona">
+</div>
+
+<!-- <div class="container-fluid backgreen-down">
   <div class="conatiner como-funciona">
     <div class="row">
       <div class="col-md-12 text-center" data-aos="fade" data-aos-delay="1000">
@@ -99,7 +218,7 @@ id: Home
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="clearfix"></div>
 
