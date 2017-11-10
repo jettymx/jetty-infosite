@@ -45,28 +45,28 @@ id: Home
   <div class="row">
     <div class="col-md-3">
       <div class="text-center">
-        <img src="img/icon-shield.svg">
+        <img src="img/icon-shield.svg" alt="Jetty, Seguridad">
       </div>
       <h3>Seguridad</h3>
       <p>Todas nuestras unidades cuentan con cámaras de vigilancia y son monitoreadas vía GPS.</p>
     </div>
     <div class="col-md-3">
       <div class="text-center">
-        <img src="img/icon-wifi.svg">
+        <img src="img/icon-wifi.svg" alt="Jetty, Conectividad">
       </div>
       <h3>Conectividad</h3>
       <p>Durante el viaje, carga tu celular y conéctate a nuestro Wi-Fi.</p>
     </div>
     <div class="col-md-3">
       <div class="text-center">
-        <img src="img/icon-support.svg">
+        <img src="img/icon-support.svg" alt="Jetty, Tranquilidads">
       </div>
       <h3>Tranquilidad</h3>
       <p>Nuestros conductores y el equipo de soporte, están capacitados para darte el mejor servicio.</p>
     </div>
     <div class="col-md-3">
       <div class="text-center">
-        <img src="img/icon-gps.svg">
+        <img src="img/icon-gps.svg" alt="Jetty, Eficiencia">
       </div>
       <h3>Eficiencia</h3>
       <p>Nuestro viajes están pensados para que puedas llegar a tu destino de la manera más directa.</p>
@@ -98,7 +98,7 @@ id: Home
           </div>
         </div>
         <div class="text-center app-jetty">
-          <img src="img/app-jetty-1.png">
+          <img src="img/app-jetty-1.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
       <div class="col-md-3">
@@ -111,7 +111,7 @@ id: Home
           </div>
         </div>
         <div class="text-center app-jetty">
-          <img src="img/app-jetty-2.png">
+          <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
       <div class="col-md-3">
@@ -124,7 +124,7 @@ id: Home
           </div>
         </div>
         <div class="text-center app-jetty">
-          <img src="img/app-jetty-3.png">
+          <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
       <div class="col-md-3">
@@ -137,7 +137,7 @@ id: Home
           </div>
         </div>
         <div class="text-center app-jetty">
-          <img src="img/app-jetty-4.png">
+          <img src="img/app-jetty-4.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
 
@@ -145,11 +145,11 @@ id: Home
         <p class="lead text-downapp">Descarga la app y disfruta de un buen viaje.</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+          <img src="img/jetty-iOS.png" alt="Jetty Descarga App iOS">
         </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+          <img src="img/jetty-android.png" alt="Jetty Descarga App Android">
         </a>
       </div>
     </div>
