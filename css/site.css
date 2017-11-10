@@ -301,7 +301,8 @@ a.social-ins:hover{
 
 /*/// INDEX VALOR ////*/
 .index-valor{
-  padding-bottom: 40px;
+  margin-top: -70px;
+  padding-bottom: 0px;
 }
 
 .index-valor h3{
@@ -340,7 +341,7 @@ img.img-como-funciona{
 /*////// DESCARGA LA APP //////*/
 p.text-downapp{
   color: #4bbea8;
-  margin-top: 1em;
+  margin-top: 1em !important;
   font-weight: 800;
 }
 
@@ -645,11 +646,11 @@ a.download-app{
   background: url('../img/Back_Organizaciones.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 200px;
-  background-position-y: -300px;
+  background-position-y: -350px;
 }
 
 .header-content-organizaciones{
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 .header-organizaciones h1{
@@ -675,6 +676,7 @@ a.download-app{
 
 .valor{
   margin-bottom: 80px;
+  margin-top: -30px;
 }
 
 .valor .btn{
@@ -966,7 +968,7 @@ ul.indice li{
   background: url('../img/back-eventos.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 350px;
-  background-position-y: -180px;
+  background-position-y: -300px;
 }
 
 .header-content-eventos{
