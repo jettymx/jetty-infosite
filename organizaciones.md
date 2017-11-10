@@ -25,7 +25,7 @@ id: organizaciones
         <img src="img/icon-tecnologia.svg" alt="Jetty, Tecnología">
         <h2>Tecnología</h2>
       </div>
-      <p>Con el <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
+      <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
     </div>
     <div class="col-md-4">
       <div class="text-center">
