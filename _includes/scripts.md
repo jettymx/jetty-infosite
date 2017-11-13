@@ -72,19 +72,214 @@
         var mapElement4 = document.getElementById('map_canvas_4');
         var map4 = new google.maps.Map(mapElement4, mapOptions4);
 
+         // Marker points
+              var image = {
+                  url: 'http://www.jetty.mx/img/origin-pin-@3.png',
+                  scaledSize: new google.maps.Size(20, 28) // scaled size
+              };
+
+              // Satélite > Polanco
+              // Satelite
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5517, lng: -99.2073},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5369, lng: -99.2172},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5246, lng: -99.2265},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5136, lng: -99.2374},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5026, lng: -99.2370},
+                map: map,
+                icon: image
+              });
+
+
+              // Polanco
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3872, lng: -99.2532},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3653, lng: -99.2648},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4548, lng: -99.2196},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4403, lng: -99.2054},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4380, lng: -99.1902},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4415, lng: -99.1822},
+                map: map,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4332, lng: -99.2100},
+                map: map,
+                icon: image
+              });
+
+
+
+              // Santa Fe > Chapultepec
+              // Santa fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3872, lng: -99.2532},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3653, lng: -99.2648},
+                map: map3,
+                icon: image
+              });
+
+              //Polanco
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4548, lng: -99.2196},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4403, lng: -99.2054},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4380, lng: -99.1902},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4415, lng: -99.1822},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4332, lng: -99.2100},
+                map: map3,
+                icon: image
+              });
+
+              // Roma
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4223, lng: -99.1747},
+                map: map3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4107, lng: -99.1907},
+                map: map3,
+                icon: image
+              });
+
+
+
+              // Norte > Santa Fe Express
+              // Satelite
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5517, lng: -99.2073},
+                map: map4,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5369, lng: -99.2172},
+                map: map4,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5246, lng: -99.2265},
+                map: map4,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5136, lng: -99.2374},
+                map: map4,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.5026, lng: -99.2370},
+                map: map4,
+                icon: image
+              });
+
+              // Santa fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3872, lng: -99.2532},
+                map: map4,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3653, lng: -99.2648},
+                map: map4,
+                icon: image
+              });
+
         var norte = [
-          {lat: 19.5325, lng: -99.2203},
-          {lat: 19.5317, lng: -99.2322},
-          {lat: 19.5226, lng: -99.2372},
-          {lat: 19.5085, lng: -99.2434},
-          {lat: 19.4978, lng: -99.2491},
-          {lat: 19.4913, lng: -99.2468},
-          {lat: 19.4879, lng: -99.2371},
-          {lat: 19.4886, lng: -99.2299},
-          {lat: 19.4948, lng: -99.2273},
-          {lat: 19.5050, lng: -99.2273},
-          {lat: 19.5142, lng: -99.2253},
-          {lat: 19.5274, lng: -99.2170}
+          {lat: 19.5578, lng: -99.2052},
+          {lat: 19.5575, lng: -99.2104},
+          {lat: 19.5554, lng: -99.2149},
+          {lat: 19.5393, lng: -99.2285},
+          {lat: 19.5216, lng: -99.2391},
+          {lat: 19.5085, lng: -99.2439},
+          {lat: 19.4979, lng: -99.2487},
+          {lat: 19.4918, lng: -99.2473},
+          {lat: 19.4875, lng: -99.2401},
+          {lat: 19.4870, lng: -99.2330},
+          {lat: 19.4889, lng: -99.2290},
+          {lat: 19.4949, lng: -99.2274},
+          {lat: 19.5044, lng: -99.2275},
+          {lat: 19.5138, lng: -99.2236},
+          {lat: 19.5183, lng: -99.2186},
+          {lat: 19.5369, lng: -99.2070},
+          {lat: 19.5472, lng: -99.2012},
+          {lat: 19.5561, lng: -99.2029}
         ];
 
         var polanco = [
@@ -125,6 +320,19 @@
           {lat: 19.3611, lng: -99.2550},
           {lat: 19.3676, lng: -99.2561},
           {lat: 19.3712, lng: -99.2652}
+        ];
+
+        var bosques = [
+          {lat: 19.3938, lng: -99.2534},
+          {lat: 19.3902, lng: -99.2599},
+          {lat: 19.3837, lng: -99.2656},
+          {lat: 19.3837, lng: -99.2656},
+          {lat: 19.3790, lng: -99.2653},
+          {lat: 19.3808, lng: -99.2591},
+          {lat: 19.3872, lng: -99.2497},
+          {lat: 19.3907, lng: -99.2481},
+          {lat: 19.3940, lng: -99.2478},
+          {lat: 19.3943, lng: -99.2540}
         ];
 
         var chapultepec = [
@@ -278,6 +486,18 @@
           geodesic: true
         });
 
+        new google.maps.Polygon({
+          map: map3,
+          paths: bosques,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
         // Dot line 3
         var lineSymbol3 = {
           path: 'M 0,-1 0,1',
@@ -325,6 +545,18 @@
         new google.maps.Polygon({
           map: map4,
           paths: santafe,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map4,
+          paths: bosques,
           strokeColor: '#49bda7',
           strokeOpacity: 0.8,
           strokeWeight: 2,
