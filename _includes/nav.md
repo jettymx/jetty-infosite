@@ -1,4 +1,4 @@
-<img src="img/Jetty-MX.jpg" alt="Jetty MX" class="img-display">
+<img src="img/Jetty_MX.jpg" alt="Jetty MX" class="img-display">
 
 <nav class="navbar navbar-default">
   <div class="container-fluid">

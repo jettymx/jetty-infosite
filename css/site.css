@@ -274,6 +274,11 @@ a.social-ins:hover{
   top: -20px;
 }
 
+.text-organizaciones{
+  height: 50px;
+  margin-bottom: 40px;
+}
+
 .text-fadein h2 {
   color: #4bbea8;
   font-size: 2.5em;
@@ -650,27 +655,30 @@ a.download-app{
   background: url('../img/Back_Organizaciones.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 200px;
-  background-position-y: -350px;
+  background-position-y: -380px;
 }
 
 .header-content-organizaciones{
   padding-top: 50px;
 }
 
-.header-organizaciones h1{
-  color: #ffffff;
-  text-transform: uppercase;
-}
-
 .header-organizaciones h2{
   color: #ffffff;
-  margin-top: 25px;
-  font-weight: normal;
+  display: block;
+  /*font-size: 2.8em;*/
+  /*text-transform: uppercase;*/
 }
 
 .header-organizaciones p{
-  margin-top: 30px
+  color: #ffffff;
+  /*margin-top: 25px;*/
+  font-weight: normal;
+
 }
+
+/*.header-organizaciones p{
+  margin-top: 30px
+}*/
 
 .header-organizaciones .btn{
   margin-top: 30px;
@@ -972,7 +980,7 @@ ul.indice li{
   background: url('../img/back-eventos.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 350px;
-  background-position-y: -300px;
+  background-position-y: -230px;
 }
 
 .header-content-eventos{
@@ -986,8 +994,8 @@ ul.indice li{
 
 .header-eventos h2{
   /*color: #ffffff;*/
-  margin-top: 25px;
-  font-weight: normal;
+  /*margin-top: 25px;*//*
+  font-weight: normal;*/
 }
 
 .header-eventos p{
@@ -1585,8 +1593,8 @@ h1.blog-title{
   }
 
   .header-eventos{
-    background-size: 200%;
-    padding-bottom: 150px;
+    background-size: 300%;
+    padding-bottom: 100px;
     background-position-y: -50px;
   }
 
@@ -1601,6 +1609,11 @@ h1.blog-title{
 
   .valor img{
     margin-top: 30px;
+  }
+
+  .text-organizaciones{
+    height: 200px;
+    margin-bottom: 40px;
   }
 
 }
@@ -1631,11 +1644,11 @@ h1.blog-title{
     min-height: 300px;
   }
 
-  .header-eventos{
-    background-size: 200%;
-    padding-bottom: 150px;
+  /*.header-eventos{
+    background-size: 300%;
+    padding-bottom: 0px;
     background-position-y: 0px;
-  }
+  }*/
 
 }
 

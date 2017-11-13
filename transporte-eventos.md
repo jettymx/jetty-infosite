@@ -9,10 +9,12 @@ id: transporte-eventos
   <div class="container header-content-organizaciones">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1>¿NECESITAS UN JETTY?</h1>
+        <h1>¿Estás buscando transporte para un evento?</h1>
+        <h1>¿Consideras rentar una camioneta con chofer?</h1>
       </div>
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Para tu boda, un concierto o un evento deportivo,<br><b>Jetty es para tí.</b></h2>
+        <h2>Ya sea que organices o vayas a un evento masivo, tenemos la solución para ti.</h2>
+        <p class="lead">Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</p>
         <a class="typeform-share btn btn-default btn-green" href="https://cledestino.typeform.com/to/t9Vmjl" data-mode="1" target="_blank">Cotiza</a>
         <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
       </div>

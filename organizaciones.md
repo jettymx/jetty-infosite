@@ -8,12 +8,17 @@ id: organizaciones
 <div class="header-organizaciones">
   <div class="container header-content-organizaciones">
     <div class="row">
-      <div class="col-md-8" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="1000">
-        <h1>Seguridad, estrés, cansancio, costo, estacionamiento.</h1>
-        <h2>Entendemos el desafío que representa el traslado de tus colaboradores.</h2>
-        <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
+      <div class="col-md-9" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="1000">
+        <div class="text-fadein text-organizaciones">
+          <h2>¿Está considerando contratar los servicios de una empresa de transporte de personal?</h2>
+          <h2>¿Le preocupa que no sea eficiente?</h2>
+          <h2>¿No quiere firmar un contrato a plazo forzoso con una empresa de transporte empresarial?</h2>
+          <h2>¿No tiene suficiente presupuesto dedicado al transporte?</h2>
+        </div>
+        <p class="lead">Jetty se adapta a su necesidad bajo diferentes esquemas para alcanzar los mejores resultados.</p>
+        <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
       </div>
-      <div class="col-md-4"></div>
+      <div class="col-md-3"></div>
     </div>
   </div>
 </div>
@@ -42,7 +47,7 @@ id: organizaciones
       <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
     </div>
     <div class="col-md-12 text-center">
-      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
+      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
     </div>
   </div>
 </div>
@@ -98,7 +103,7 @@ id: organizaciones
 
   <div class="row tres-puntos">
     <div class="col-md-12 text-center" data-aos="fade-up">
-      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Lo quiero en mi organización</a>
+      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
     </div>
   </div>
 </div>
