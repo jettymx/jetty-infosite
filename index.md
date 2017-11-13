@@ -32,7 +32,7 @@ id: Home
       </div>
       <div class="col-md-7 van" data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-out
       " >
-        <img src="img/jetty-van.png" alt="Jetty Van">
+        <img src="img/jetty-mx-camioneta.png" alt="Jetty Van">
       </div>
     </div>
 
