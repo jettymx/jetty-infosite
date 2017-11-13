@@ -158,35 +158,35 @@
         });
 
         //Polanco
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4548, lng: -99.2196},
-          map: map3,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4548, lng: -99.2196},
+        //   map: map3,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4403, lng: -99.2054},
-          map: map3,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4403, lng: -99.2054},
+        //   map: map3,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4380, lng: -99.1902},
-          map: map3,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4380, lng: -99.1902},
+        //   map: map3,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4415, lng: -99.1822},
-          map: map3,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4415, lng: -99.1822},
+        //   map: map3,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4332, lng: -99.2100},
-          map: map3,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4332, lng: -99.2100},
+        //   map: map3,
+        //   icon: image
+        // });
 
         // Roma
         var Marker = new google.maps.Marker({
@@ -439,17 +439,17 @@
 
 
         // MAPA 3 Santa Fe <-> Chapultepec/Polanco
-        new google.maps.Polygon({
-          map: map3,
-          paths: polanco,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map3,
+        //   paths: polanco,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
         new google.maps.Polygon({
           map: map3,
@@ -507,16 +507,16 @@
         });
 
         // Line Polanco - Chapultepec
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.4271, lng: -99.1794}, {lat: 19.4323, lng: -99.1816}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol3,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map3
-        });
+        // var line = new google.maps.Polyline({
+        //   path: [{lat: 19.4271, lng: -99.1794}, {lat: 19.4323, lng: -99.1816}],
+        //   strokeOpacity: 0,
+        //   icons: [{
+        //     icon: lineSymbol3,
+        //     offset: '0',
+        //     repeat: '20px'
+        //   }],
+        //   map: map3
+        // });
 
         // MAPA 4 Satéite <-> Santa Fe Express
         new google.maps.Polygon({
