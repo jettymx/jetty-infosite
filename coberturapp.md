@@ -13,7 +13,7 @@ id: cobertura
       <div class="col-md-4 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Satélite <-> Polanco</h4>
+            <h4 class="panel-title">Valle Dorado <-> Polanco</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas" class="map_canvas"></div>
@@ -46,7 +46,7 @@ id: cobertura
       <div class="col-md-4 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading text-center">
-            <h4 class="panel-title">Satéite <-> Santa Fé Express</h4>
+            <h4 class="panel-title">Valle Dorado <-> Santa Fé Express</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_4" class="map_canvas"></div>

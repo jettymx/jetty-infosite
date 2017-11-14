@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Jetty | El transporte que mereces
+description: Esta es la descripción de prueba para cada sección
 id: transporte-eventos
-excerpt: Esta es la descripción de prueba para cada sección
 ---
 
 <div class="header-eventos">
