@@ -142,6 +142,13 @@
           icon: image
         });
 
+        // Roma
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.4223, lng: -99.1747},
+          map: map,
+          icon: image
+        });
+
 
         // Santa Fe > Chapultepec
         // Santa fe
@@ -282,8 +289,11 @@
           {lat: 19.4231, lng: -99.2133},
           {lat: 19.4256, lng: -99.1998},
           {lat: 19.4302, lng: -99.1955},
-          {lat: 19.4305, lng: -99.1872},
-          {lat: 19.4334, lng: -99.1776},
+          {lat: 19.4311, lng: -99.1809},
+          {lat: 19.4197, lng: -99.1773},
+          {lat: 19.4158, lng: -99.1718},
+          {lat: 19.4200, lng: -99.1667},
+          {lat: 19.4274, lng: -99.1679},
           {lat: 19.4374, lng: -99.1732},
           {lat: 19.4437, lng: -99.1745},
           {lat: 19.4475, lng: -99.1786},
