@@ -9,11 +9,10 @@
   <title>Jetty, Soluciona tu Transporte Diario en México. </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="author" content="Jetty">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% if page.description %}<meta property="og:description" name="description" content="{{ page.description }}">{% endif %}
+  <meta name="author" content="Jetty">
   <meta name="keywords" content="jetty, transporte, personal, organizaciones, movilidad, urbana, traslado, urbvan, bussi">
-
+  {% if page.description %}<meta property="og:description" name="description" content="{{ page.description }}">{% endif %}
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
