@@ -9,15 +9,21 @@
   <title>Jetty, Soluciona tu Transporte Diario en México. </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="Jetty">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-  <meta name="keywords" content="transporte, personal, organizaciones, movilidad, urbana, traslado">
+  {% if page.description %}<meta property="og:description" name="description" content="{{ page.description }}">{% endif %}
+  <meta name="keywords" content="jetty, transporte, personal, organizaciones, movilidad, urbana, traslado, urbvan, bussi">
+
+  <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
+  <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
+
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" type="image/png" href="favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
