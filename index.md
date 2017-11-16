@@ -86,7 +86,7 @@ id: Home
         <h1>Cómo <span>Funciona</span></h1>
       </div>
 
-      <div class="col-md-3">
+      <div class="col-md-3" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="300">
         <div class="row">
           <div class="col-xs-2">
             <img src="img/pin-como.svg">
@@ -100,7 +100,7 @@ id: Home
           <img src="img/app-jetty-1.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
         <div class="row">
           <div class="col-xs-2">
             <img src="img/reloj-como.svg">
@@ -113,7 +113,7 @@ id: Home
           <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
         <div class="row">
           <div class="col-xs-2">
             <img src="img/asiento-como.svg">
@@ -126,7 +126,7 @@ id: Home
           <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona">
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1000">
         <div class="row">
           <div class="col-xs-2">
             <img src="img/people-como.svg">

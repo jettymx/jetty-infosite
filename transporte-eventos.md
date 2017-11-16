@@ -30,18 +30,6 @@ id: transporte-eventos
       </div>
     </div>
     <div class="row">
-      <!-- <div class="col-md-3 text-center">
-        <img src="img/evento-deportivo.jpg">
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/evento-boda.jpg">
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/evento-concierto.jpg">
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/evento-ecoturismo.jpg">
-      </div> -->
       <div class="col-md-12 eventos">
         <ul>
           <li>
