@@ -248,7 +248,7 @@ a.social-ins:hover{
 }
 
 /*////// HOME //////*/
-.header{
+/*.header{
   background: url('../img/back-header.jpg') no-repeat;
   background-size: 100%;
   padding-bottom: 150px;
@@ -257,8 +257,31 @@ a.social-ins:hover{
 
 .header-content{
  padding-top: 100px;
+}*/
+
+figure.header {
+    position: relative;
+    overflow: hidden;
 }
 
+figure.header img.back {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.header figcaption{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 70px;
+}
+
+/*.header img{
+  width: 100%;
+}
+*/
 .header h1{
   color: #7e8080;
   text-transform: uppercase;
@@ -306,7 +329,7 @@ a.social-ins:hover{
 
 /*/// INDEX VALOR ////*/
 .index-valor{
-  margin-top: -70px;
+  margin-top: -50px;
   padding-bottom: 0px;
 }
 
@@ -354,7 +377,7 @@ a.download-app{
   margin-right: 20px;
 }
 
-.download-app img{
+a.download-app img{
   width: 150px;
 }
 
@@ -1205,10 +1228,10 @@ h1.blog-title{
 }
 
 @media screen and (min-width: 1500px){
-  .header{
+  /*.header{
     background-position-y: -470px;
     padding-bottom: 300px;
-  }
+  }*/
 
   .como-funciona{
     padding-bottom: 350px;
@@ -1253,11 +1276,17 @@ h1.blog-title{
 }
 
 @media only screen and (min-width:769px) and (max-width: 1024px){
-  .header{
+  /*.header{
     background-position-y: -100px;
 
+  }*/
+  figure.header{
+    height: 550px;
   }
 
+  .index-valor{
+    margin-top: 0px;
+  }
   .header-quienes{
     padding-bottom: 20%;
     background-position-y: -50px;
@@ -1310,11 +1339,11 @@ h1.blog-title{
     width: 130px !important;
   }
 
-  .header{
+  /*.header{
     background-size: 200%;
     padding-bottom: 100px;
     background-position-y: -130px;
-  }
+  }*/
 
   .header-content{
    padding-top: 50px;
@@ -1325,10 +1354,10 @@ h1.blog-title{
     text-transform: uppercase;
   }
 
-  .header img{
+  /*.header img{
     width: 50%;
     margin-left: 25%
-  }
+  }*/
 
   .header .van img{
     width: 100%;
@@ -1444,10 +1473,18 @@ h1.blog-title{
     font-size: 1.2em;
   }
 
-  .header{
+  /*.header{
     background-size: 300%;
     background-position-y: -180px;
     padding-bottom: 50px !important;
+  }*/
+
+  figure.header{
+    height: 700px;
+  }
+
+  figure.header img.back {
+    width: 450%;
   }
 
   .header-quienes{
@@ -1676,9 +1713,13 @@ h1.blog-title{
     font-size: 1em;
   }
 
-  .header{
+  /*.header{
     background-size: 340%;
     padding-bottom: 20px !important;
+  }*/
+
+  figure.header{
+    height: 780px;
   }
 
   .header-quienes{
