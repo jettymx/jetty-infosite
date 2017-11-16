@@ -124,7 +124,6 @@ a:hover{
 .footer ul.social{
   list-style: none;
   margin-top: 20px;
- /* text-align: center;*/
 }
 
 .footer ul.social li{
@@ -248,17 +247,6 @@ a.social-ins:hover{
 }
 
 /*////// HOME //////*/
-/*.header{
-  background: url('../img/back-header.jpg') no-repeat;
-  background-size: 100%;
-  padding-bottom: 150px;
-  background-position-y: -320px;
-}
-
-.header-content{
- padding-top: 100px;
-}*/
-
 figure.header {
     position: relative;
     overflow: hidden;
@@ -278,10 +266,6 @@ figure.header img.back {
   top: 70px;
 }
 
-/*.header img{
-  width: 100%;
-}
-*/
 .header h1{
   color: #7e8080;
   text-transform: uppercase;
@@ -448,51 +432,6 @@ a.download-app img{
   font-weight: 300;
   margin-top: 5px !important;
 }
-
-/*.como-funciona{
-  background: url('../img/back-line.png') no-repeat;
-  background-position: center 130px;
-  background-size: 5px 50%;
-  padding-bottom: 270px;
-}
-
-.como-funciona h1{
-  color: #7e8080;
-  margin-bottom: 40px;
-  text-transform: uppercase;
-}
-
-.como-funciona h1 span{
-  color: #a3a4a4;
-}
-
-.como-funciona-detail{
-  margin-bottom: 20px;
-}
-
-.como-funciona-detail p{
-  font-size: 25px;
-}
-
-.como-funciona-detail img{
-  margin-top: 15px;
-  width: 70px;
-}
-
-.como-funciona-detail p {
-  background: #f8f8f8;
-  border: 1px solid #e7e7e7;
-  position: relative;
-  padding: 20px 20px;
-  color: #4abea7;
-  font-weight: 400;
-}
-
-.como-funciona-detail .left{
-  right: -50px;
-  text-align: right;
-  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
-}*/
 
 /* this CS forms the triangles */
 .como-funciona-detail .left:after,
@@ -688,20 +627,13 @@ a.download-app img{
 .header-organizaciones h2{
   color: #ffffff;
   display: block;
-  /*font-size: 2.8em;*/
-  /*text-transform: uppercase;*/
 }
 
 .header-organizaciones p{
   color: #ffffff;
-  /*margin-top: 25px;*/
   font-weight: normal;
 
 }
-
-/*.header-organizaciones p{
-  margin-top: 30px
-}*/
 
 .header-organizaciones .btn{
   margin-top: 30px;
@@ -911,15 +843,9 @@ img.logos{
 }
 
 .proceso{
-  /*background: #49bda7;
-  color: #ffffff;*/
   margin-bottom: 80px;
 }
 
-/*.proceso p{
-  color: #ffffff;
-}
-*/
 .proceso p.lead{
   margin-bottom: 5px;
 }
@@ -1011,14 +937,7 @@ ul.indice li{
 }
 
 .header-eventos h1{
-  /*color: #ffffff;*/
   text-transform: uppercase;
-}
-
-.header-eventos h2{
-  /*color: #ffffff;*/
-  /*margin-top: 25px;*//*
-  font-weight: normal;*/
 }
 
 .header-eventos p{
@@ -1039,8 +958,6 @@ ul.indice li{
 .eventos{
   margin-bottom: 0px;
   padding-bottom: 100px;
- /* position: relative;
-  top: -60px;*/
 }
 
 .eventos h2{
@@ -1049,11 +966,61 @@ ul.indice li{
 
 .eventos img{
   box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
-  width: 80%;
 }
 
 .eventos a{
   margin-top: 50px;
+}
+
+.eventos ul{
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+.eventos ul li{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.eventos ul li:last-child{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 0px;
+}
+
+.eventos ul li:first-child{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 5px;
+}
+
+.eventos ul li figure{
+  text-align: center;
+}
+
+.eventos ul li figure img{
+  width: 200px;
+}
+
+.eventos ul li figure figcaption{
+  display: block;
+  position: relative;
+  top: -70px;
+}
+
+.eventos ul li figure figcaption h3{
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 20px;
 }
 
 .eventos-beneficios{
@@ -1276,10 +1243,6 @@ h1.blog-title{
 }
 
 @media only screen and (min-width:769px) and (max-width: 1024px){
-  /*.header{
-    background-position-y: -100px;
-
-  }*/
   figure.header{
     height: 550px;
   }
@@ -1339,12 +1302,6 @@ h1.blog-title{
     width: 130px !important;
   }
 
-  /*.header{
-    background-size: 200%;
-    padding-bottom: 100px;
-    background-position-y: -130px;
-  }*/
-
   .header-content{
    padding-top: 50px;
   }
@@ -1353,11 +1310,6 @@ h1.blog-title{
     color: #7e8080;
     text-transform: uppercase;
   }
-
-  /*.header img{
-    width: 50%;
-    margin-left: 25%
-  }*/
 
   .header .van img{
     width: 100%;
@@ -1473,12 +1425,6 @@ h1.blog-title{
     font-size: 1.2em;
   }
 
-  /*.header{
-    background-size: 300%;
-    background-position-y: -180px;
-    padding-bottom: 50px !important;
-  }*/
-
   figure.header{
     height: 700px;
   }
@@ -1541,44 +1487,6 @@ h1.blog-title{
   .index-valor img{
     margin-top: 30px;
   }
-
-   /* Como funciona */
- /* .como-funciona{
-    background: url('../img/back-line.png') no-repeat;
-    background-position: center 130px;
-    background-size: 5px 60%;
-    padding-bottom: 350px;
-  }
-
-  .como-funciona-detail p{
-    font-size: 16px;
-  }
-
-   .como-funciona-detail .left img{
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-  }
-
-  .como-funciona-detail .right img{
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-  }
-
-  .como-funciona-detail .left{
-    right: 0px;
-    text-align: center !important;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
-
-  .como-funciona-detail .right{
-    left: 0px;
-    text-align: center !important;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }*/
 
   .porque-content{
     padding: 0px 0 100px 0;
@@ -1653,6 +1561,12 @@ h1.blog-title{
     margin-bottom: 40px;
   }
 
+  .eventos ul li figure figcaption{
+    display: block;
+    position: relative;
+    top: -90px;
+  }
+
 }
 
 @media screen and (max-width: 375px){
@@ -1681,12 +1595,6 @@ h1.blog-title{
     min-height: 300px;
   }
 
-  /*.header-eventos{
-    background-size: 300%;
-    padding-bottom: 0px;
-    background-position-y: 0px;
-  }*/
-
 }
 
 @media screen and (max-width: 320px){
@@ -1712,11 +1620,6 @@ h1.blog-title{
   .btn-header{
     font-size: 1em;
   }
-
-  /*.header{
-    background-size: 340%;
-    padding-bottom: 20px !important;
-  }*/
 
   figure.header{
     height: 780px;

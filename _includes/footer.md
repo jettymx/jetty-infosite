@@ -24,7 +24,7 @@
           <a href="{{site.baseurl}}/conductor" target="_self">Trabaja con nosotros</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/transporte-eventos" target="_self">Jetty Viajes</a>
+          <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>

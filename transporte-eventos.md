@@ -30,7 +30,7 @@ id: transporte-eventos
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3 text-center">
+      <!-- <div class="col-md-3 text-center">
         <img src="img/evento-deportivo.jpg">
       </div>
       <div class="col-md-3 text-center">
@@ -41,6 +41,50 @@ id: transporte-eventos
       </div>
       <div class="col-md-3 text-center">
         <img src="img/evento-ecoturismo.jpg">
+      </div> -->
+      <div class="col-md-12 eventos">
+        <ul>
+          <li>
+            <figure>
+              <img src="img/evento-deportivo.jpg" alt="Jetty, Evento deportivo">
+              <figcaption>
+                <h3>Evento Deportivo</h3>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="img/evento-boda.jpg" alt="jetty, Evento boda">
+              <figcaption>
+                <h3>Boda</h3>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="img/evento-concierto.jpg" alt="jetty, Evento Concierto">
+              <figcaption>
+                <h3>Concierto</h3>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="img/evento-empresarial.jpg" alt="jetty, Evento Empresarial">
+              <figcaption>
+                <h3>Evento Empresarial</h3>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="img/evento-ecoturismo.jpg" alt="jetty, Evento ecoturismo">
+              <figcaption>
+                <h3>Ecoturismo</h3>
+              </figcaption>
+            </figure>
+          </li>
+        </ul>
       </div>
     </div>
   </div>

@@ -20,6 +20,7 @@
           <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
           <li><a href="{{site.baseurl}}/organizaciones">Organizaciones</a></li>
           <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
+          <li><a href="{{site.baseurl}}/transporte-eventos">Eventos</a></li>
           <li><a href="{{site.baseurl}}/blog">Noticias</a></li>
         </ul>
       </div>
