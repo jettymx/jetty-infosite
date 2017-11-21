@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Jetty | El transporte que mereces
-summary:
- Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+title: Jetty: Soluciona El Transporte de Personal de tu Empresa
+summary: No Rentes una Camioneta con Chofer. Resolvemos tu Transporte Empresarial. Sin Plazo Forzoso ni Presupuesto Mínimo.
 id: organizaciones
 ---
 
