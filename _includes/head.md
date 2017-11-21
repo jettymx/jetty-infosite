@@ -32,7 +32,7 @@
       "logo": "http://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
       "image": "http://www.jetty.mx/img/Jetty-MX.jpg",
-      "description": "Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.",
+      "description": "Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Camionetas Ejecutivas con Conductores Verificados.",
       "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
       "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
       "SoftwareApplication": "Android, iOS",
