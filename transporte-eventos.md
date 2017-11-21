@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jetty: La Mejor Solución de Transporte para tu Evento
-description: Organizas o Vas a un Evento y estás Buscando Transporte. ¿Consideras Rentar una Camioneta con Chofer? Nos Adaptamos a tu Necesidad al Mejor Precio.
+summary: Organizas o Vas a un Evento y estás Buscando Transporte. ¿Consideras Rentar una Camioneta con Chofer? Nos Adaptamos a tu Necesidad al Mejor Precio.
 id: transporte-eventos
 ---
 
