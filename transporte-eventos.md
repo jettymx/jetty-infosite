@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty | El transporte que mereces
-description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+title: Jetty: La Mejor Solución de Transporte para tu Evento
+description: Organizas o Vas a un Evento y estás Buscando Transporte. ¿Consideras Rentar una Camioneta con Chofer? Nos Adaptamos a tu Necesidad al Mejor Precio.
 id: transporte-eventos
 ---
 
