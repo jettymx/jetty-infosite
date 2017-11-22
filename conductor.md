@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty | El transporte que mereces
-description: ¿Eres conductor o dueño  de un vehículo y quieres trabajar con nosotros?
+title: Jetty | Los beneficios de trabajar como socio conductor
+description: Buscamos conductores confiables, profesionales y amables, para unirse a nuestro equipo y marcar la diferencia en la movilidad urbana.
 id: conductor
 ---
 
