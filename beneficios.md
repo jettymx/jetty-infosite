@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty | El transporte que mereces
-summary: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+title: Jetty | La Mejor Forma de Trasladarte en la Ciudad
+description: Cómodo, Seguro y Confiable. Te presentamos los 6 principales beneficios al usar Jetty de manera diaria.
 id: Beneficios
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jetty | El transporte que mereces
-summary: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
 id: aviso-de-privacidad
 ---
 

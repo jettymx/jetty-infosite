@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty: Soluciona El Transporte de Personal de tu Empresa
-summary: No Rentes una Camioneta con Chofer. Resolvemos tu Transporte Empresarial. Sin Plazo Forzoso ni Presupuesto Mínimo.
+title: Jetty | Soluciona El Transporte de Personal de tu Empresa
+description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu transporte empresarial. Sin plazo forzoso ni presupuesto mínimo.
 id: organizaciones
 ---
 

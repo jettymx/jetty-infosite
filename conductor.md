@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jetty | El transporte que mereces
-summary: ¿Eres conductor o dueño  de un vehículo y quieres trabajar con nosotros?
+description: ¿Eres conductor o dueño  de un vehículo y quieres trabajar con nosotros?
 id: conductor
 ---
 

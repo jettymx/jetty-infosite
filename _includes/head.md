@@ -6,7 +6,14 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
-  <title>Jetty, Soluciona tu Transporte Diario en México. </title>
+  <!-- <title>Jetty, Soluciona tu Transporte Diario en México.</title> -->
+  <title>
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      Default Page Title
+    {% endif %}
+  </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +23,13 @@
     <meta name="description" content="{{ page.summary | escape }}">
   {% endif %} -->
   <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
-  <meta property="og:description" name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="
+    {% if page.description %}
+      {{ page.description }}
+    {% else %}
+      {{ site.description }}
+    {% endif %}">
+
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 

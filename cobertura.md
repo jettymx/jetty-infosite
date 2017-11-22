@@ -1,7 +1,7 @@
 ---
 layout: default-cobertura
-title: Jetty | El transporte que mereces
-summary: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+title: Jetty | ¿Cuándo y dónde funciona Jetty?
+description: Consulta nuestra cobertura y nuestros horarios de operaciones en la Zona Metropolitana del Valle de México.
 id: cobertura
 ---
 

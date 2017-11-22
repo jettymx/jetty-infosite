@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty | El transporte que mereces
-summary: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
+title: Jetty | Preguntas Frecuentes
+description: En el centro de ayuda, encontrarás las respuestas a las preguntas más frecuentes. ¿Qué es Jetty? ¿Cómo funciona?
 id: aviso-de-privacidad
 ---
 
