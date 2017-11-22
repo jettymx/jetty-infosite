@@ -6,7 +6,6 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
-  <!-- <title>Jetty, Soluciona tu Transporte Diario en México.</title> -->
   <title>
     {% if page.title %}
       {{ page.title }}
@@ -19,10 +18,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Jetty">
   <meta name="keywords" content="jetty, transporte, personal, organizaciones, movilidad, urbana, traslado">
-  <!-- {% if page.summary %}
-    <meta name="description" content="{{ page.summary | escape }}">
-  {% endif %} -->
-  <!-- <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
   <meta property="og:description" content="
     {% if page.description %}
       {{ page.description }}
