@@ -6,25 +6,14 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
-  <title>
-    {% if page.title %}
-      {{ page.title }}
-    {% else %}
-      Default Page Title
-    {% endif %}
+  <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Soluciona tu Transporte Diario en México.{% endif %}
   </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Jetty">
   <meta name="keywords" content="jetty, transporte, personal, organizaciones, movilidad, urbana, traslado">
-  <meta property="og:description" content="
-    {% if page.description %}
-      {{ page.description }}
-    {% else %}
-      {{ site.description }}
-    {% endif %}">
-
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{ site.description }}{% endif %}">
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
@@ -39,7 +28,7 @@
     {
       "@context": "http://schema.org",
       "@type": "Organization",
-      "name": "Jetty MX",
+      "name": "Jetty",
       "url": "http://www.jetty.mx",
       "logo": "http://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
@@ -53,7 +42,7 @@
       "applicationCategory": "Transport",
       "sameAs": [
         "https://www.facebook.com/JettyMX/",
-        "https://www.instagram.com/jetty.mx/  ",
+        "https://www.instagram.com/jetty.mx/",
         "https://twitter.com/jettymx"
       ]
     }
