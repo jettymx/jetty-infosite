@@ -158,8 +158,20 @@
           icon: image
         });
 
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.3653, lng: -99.2648},
+        //   map: map3,
+        //   icon: image
+        // });
+
         var Marker = new google.maps.Marker({
-          position: {lat: 19.3653, lng: -99.2648},
+          position: {lat: 19.3674, lng: -99.2634},
+          map: map3,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.3588, lng: -99.2735},
           map: map3,
           icon: image
         });
@@ -249,8 +261,20 @@
           icon: image
         });
 
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.3653, lng: -99.2648},
+        //   map: map4,
+        //   icon: image
+        // });
+
         var Marker = new google.maps.Marker({
-          position: {lat: 19.3653, lng: -99.2648},
+          position: {lat: 19.3674, lng: -99.2634},
+          map: map4,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.3588, lng: -99.2735},
           map: map4,
           icon: image
         });
