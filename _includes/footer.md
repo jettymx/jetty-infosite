@@ -44,6 +44,9 @@
         <li>
           <a href="{{site.baseurl}}/terminos" target="_self">Términos y condiciones</a>
         </li>
+        <li>
+          <a href="{{site.baseurl}}/prestacion" target="_self">Prestación de servicio</a>
+        </li>
       </ul>
     </div>
 
