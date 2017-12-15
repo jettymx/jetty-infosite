@@ -18,8 +18,8 @@
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
-  <link rel="shortcut icon" type="image/png" href="favicon.ico">
+  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
+  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
