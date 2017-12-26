@@ -24,7 +24,7 @@ En <b>Jetty</b> tenemos la intención de ayudar a construir ciudades más sosten
 
 <b>Jetty un servicio de viajes compartidos,</b> es que agrupa a los pasajeros con viajes similares en camionetas de mayor capacidad, asegurando que cada viaje sea más asequible y cómodo; un transporte bajo demanda más amigable con el medio ambiente.
 
-<div class="text-center">
+<div class="text-center" style="margin: 40px 0;">
   <h3>Imagina una ciudad sin autos particulares</h3>
 </div>
 
@@ -35,9 +35,8 @@ Si tú también vives en la <b>Zona Metropolitana del Valle de México</b> y qui
 
 <ul>
   <li>Chapultepec <-> Santa Fe</li>
-  <li>Satélite <-> Polanco</li>
-  <li>Polanco <-> Santa Fe</li>
-  <li>Satélite <-> Santa Fe</li>
+  <li>Zona Norte (Cuautitlán Izcalli, Satélite…) <-> Polanco</li>
+  <li>Zona Norte <-> Santa Fe</li>
 </ul>
 
 Si te interesa usar <b>Jetty</b> en otra área, te invitamos a dejarnos tu punto de origen y destino aquí: [http://www.jetty.mx/solicitud][jetty] y pronto abriremos un servicio para ti.
