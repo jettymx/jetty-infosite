@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Jetty: Transformando La Ciudad"
+date:   2017-12-26 10:30:00
+post_author: Jetty
+categories: update
+---
+![Transformando La Ciudad, Jetty]({{site.baseurl}}/imgs-blog/movilidad.jpg)
+
+Después de años de inmovilidad, nuestras ciudades están conociendo la mayor revolución en el transporte desde la llegada del automóvil. La economía colaborativa ha cambiado la forma en que nos movemos por la ciudad. Cada uno de nosotros ha usado en algún momento una aplicación de transporte privado.
+
+Y aunque unas proponen la posibilidad de compartir su viaje con otros usuarios registrados, estas aplicaciones siguen siendo muy poco eficientes para reducir el número de autos en la Ciudad.
+
+El número de autos particulares en México sigue creciendo mes con mes, sin parar. Se estima que para marzo de 2018, existirán 30 millones de autos en el país, un auto por cada 3 personas mayores de edad.
+
+<div class="text-center">
+  <p class="lead"><b>Autos particulares en México</b></p>
+  <p>2007 - 2017</p>
+</div>
+
+![Autos mexico 2007 2017, Jetty]({{site.baseurl}}/imgs-blog/grafica-autos.jpg)
+
+En <b>Jetty</b> tenemos la intención de ayudar a construir ciudades más sostenibles y ecológicas, y de ser parte de la revolución del transporte.
+
+<b>Jetty un servicio de viajes compartidos,</b> es que agrupa a los pasajeros con viajes similares en camionetas de mayor capacidad, asegurando que cada viaje sea más asequible y cómodo; un transporte bajo demanda más amigable con el medio ambiente.
+
+<div class="text-center">
+  <h3>Imagina una ciudad sin autos particulares</h3>
+</div>
+
+Una ciudad sin tráfico, mucho menos contaminada y sin tanto espacio dedicado a los estacionamientos.
+En <b>Jetty</b> creemos que una mejor movilidad es la clave para la ciudad del futuro.
+
+Si tú también vives en la <b>Zona Metropolitana del Valle de México</b> y quieres ser uno de nuestros primeros usuarios, puedes descargar la aplicación y pedir uno de nuestros servicios entre:
+
+<ul>
+  <li>Chapultepec <-> Santa Fe</li>
+  <li>Satélite <-> Polanco</li>
+  <li>Polanco <-> Santa Fe</li>
+  <li>Satélite <-> Santa Fe</li>
+</ul>
+
+Si te interesa usar <b>Jetty</b> en otra área, te invitamos a dejarnos tu punto de origen y destino aquí: [http://www.jetty.mx/solicitud][jetty] y pronto abriremos un servicio para ti.
+
+Equipo Jetty
+
+[jetty]:http://www.jetty.mx/solicitud
