@@ -17,10 +17,9 @@
   <meta name="keywords" content="jetty, jetty mx, jettymx, jetty transporte, jetty cdmx, transporte, personal, organizaciones, movilidad, movilidad urbana, traslado, transporte privado, transporte de personal, viajes compartidos, camión de personal, transporte, renta de transporte, transporte ejecutivo, transporte empresarial, transporte para grupos, servicio de transporte, uber pool, caravana, caravanaapp, caravana app, bussi, blablacar, blabla car, Lipu, Utep, Trosten, Schoolastico, xpressbuss, mxbus">
 
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
   <meta property="og:url" content="http://jetty.mx">
-
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
