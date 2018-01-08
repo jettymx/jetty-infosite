@@ -10,11 +10,17 @@
   </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Jetty">
-  <meta name="keywords" content="jetty, transporte, personal, organizaciones, movilidad, urbana, traslado">
+
+  <meta name="keywords" content="jetty, jetty mx, jettymx, jetty transporte, jetty cdmx, transporte, personal, organizaciones, movilidad, movilidad urbana, traslado, transporte privado, transporte de personal, viajes compartidos, camión de personal, transporte, renta de transporte, transporte ejecutivo, transporte empresarial, transporte para grupos, servicio de transporte, uber pool, caravana, caravanaapp, caravana app, bussi, blablacar, blabla car, Lipu, Utep, Trosten, Schoolastico, xpressbuss, mxbus">
+
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+  <meta property="og:url" content="http://jetty.mx">
+
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
@@ -23,6 +29,7 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <script type="application/ld+json">
