@@ -6,7 +6,7 @@
   <body>
 
     {% include googletag.html %}
-    
+
     {% include nav.md %}
 
       {{ content }}

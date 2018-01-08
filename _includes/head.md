@@ -6,6 +6,7 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
+
   <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Soluciona tu Transporte Diario en México.{% endif %}
   </title>
   <meta charset="utf-8">
