@@ -452,32 +452,6 @@
         });
 
 
-        //MAPA 2 Polanco <-> Santa Fé
-        new google.maps.Polygon({
-          map: map2,
-          paths: polanco,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.3,
-          draggable: false,
-          geodesic: true
-        });
-
-        new google.maps.Polygon({
-          map: map2,
-          paths: norte,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.3,
-          draggable: false,
-          geodesic: true
-        });
-
-
         // MAPA 3 Santa Fe <-> Polanco
         new google.maps.Polygon({
           map: map3,
