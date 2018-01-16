@@ -711,7 +711,7 @@ a.download-app img{
   background: url('../img/Back_Quienes.jpg') no-repeat;
   background-size: 100%;
   background-position-y: -200px;
-  padding-bottom: 350px;
+  padding-bottom: 250px;
 }
 
 .header-content-quienes{
@@ -737,6 +737,10 @@ a.download-app img{
   color: #ffffff;
 }
 
+img.mountain{
+  width: 300px;
+}
+
 .nosotros{
   padding-bottom: 80px;
 }
@@ -749,6 +753,20 @@ a.download-app img{
 .nosotros h3{
   color: #7e8080;
   margin-bottom: 0px;
+}
+
+ul.alianzas{
+  padding: 0;
+  padding-bottom: 30px;
+}
+
+ul.alianzas li{
+  display: inline;
+  padding: 0 10px;
+}
+
+ul.alianzas li img{
+  width: 150px;
 }
 
 .innku{
@@ -1195,10 +1213,6 @@ h1.blog-title{
 }
 
 @media screen and (min-width: 1500px){
-  /*.header{
-    background-position-y: -470px;
-    padding-bottom: 300px;
-  }*/
 
   .como-funciona{
     padding-bottom: 350px;
@@ -1226,14 +1240,12 @@ h1.blog-title{
 }
 
 @media only screen and (min-width:993px) and (max-width: 1499px) {
-  /*.header-quienes{
-    padding-bottom: 20%;
-  }*/
+
 }
 
 @media only screen and (min-width:1025px) and (max-width: 1400px) {
   .header-quienes{
-    padding-bottom: 400px;
+    padding-bottom: 200px;
   }
 
   .header-organizaciones{
@@ -1529,7 +1541,7 @@ h1.blog-title{
   }
 
   .quienes-content .mountain{
-    margin-top: -100px;
+    margin-top: 20px;
   }
 
 

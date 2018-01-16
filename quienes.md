@@ -28,7 +28,7 @@ id: quienes
           <p>Ofrecer una alternativa de transporte privado, seguro, confiable y accesible.</p>
         </div>
         <div class="col-md-4 col-md-offset-2 col-sm-6 text-center">
-          <img src="img/angel.svg">
+          <img src="img/angel.svg" class="mountain">
           <p><strong>¿Dónde?</strong></p>
           <p>Zona Metropolitana del Valle de México - con la ambición de abrir en más ciudades en los próximos meses.</p>
         </div>
@@ -75,5 +75,53 @@ id: quienes
   <div class="col-md-8 col-md-offset-2 text-center innku">
     <img src="img/innku.png" alt="INNKU">
     <p>Empresa de desarrollo de software. Ha realizado más de 100 proyectos y es socia de 7 negocios de base tecnológica.</p>
+  </div>
+</div>
+
+<div class="container nosotros">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>Alianzas</h1>
+      <ul class="alianzas">
+        <li>
+          <img src="imgs-prensa/logo-xibalba.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/NEGRO.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/conecta-cuatro.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/impacto.jpg">
+        </li>
+        <li>
+          <img src="imgs-prensa/LOGO_TM.jpg">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container nosotros">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>JETTY en la prensa:</h1>
+      <ul class="alianzas">
+        <li>
+          <img src="imgs-prensa/reforma.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/milenio.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/expansion.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/excelsior.png">
+        </li>
+      </ul>
+      <a href="/prensa" class="btn btn-green">Prensa</a>
+    </div>
   </div>
 </div>
