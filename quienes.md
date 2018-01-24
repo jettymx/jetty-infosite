@@ -78,25 +78,35 @@ id: quienes
   </div>
 </div>
 
-<div class="container nosotros">
+<div class="container nosotros alianzas-content">
   <div class="row">
     <div class="col-md-12 text-center">
       <h1>Alianzas</h1>
       <ul class="alianzas">
         <li>
-          <img src="imgs-prensa/logo-xibalba.png">
+          <a href="http://xibalbafestival.com" target="_blanck">
+            <img src="imgs-prensa/logo-xibalba.png">
+          </a>
         </li>
         <li>
-          <img src="imgs-prensa/NEGRO.png">
+          <a href="https://www.posible.org.mx" target="_blanck">
+            <img src="imgs-prensa/NEGRO.png">
+          </a>
         </li>
         <li>
-          <img src="imgs-prensa/conecta-cuatro.png">
+          <a href="#" target="_blanck">
+            <img src="imgs-prensa/conecta-cuatro.png">
+          </a>
         </li>
         <li>
-          <img src="imgs-prensa/impacto.jpg">
+          <a href="http://impact0.org/" target="_blanck">
+            <img src="imgs-prensa/impacto.jpg">
+          </a>
         </li>
         <li>
-          <img src="imgs-prensa/LOGO_TM.jpg">
+          <a href="http://mexicotravesias.com" target="_blanck">
+            <img src="imgs-prensa/LOGO_TM.jpg">
+          </a>
         </li>
       </ul>
     </div>
@@ -106,7 +116,7 @@ id: quienes
 <div class="container nosotros">
   <div class="row">
     <div class="col-md-12 text-center">
-      <h1>JETTY en la prensa:</h1>
+      <h1>Jetty en la prensa:</h1>
       <ul class="alianzas">
         <li>
           <img src="imgs-prensa/reforma.png">
