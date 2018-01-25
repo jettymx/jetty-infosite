@@ -11,9 +11,9 @@
 </script> -->
 
 <script type="text/javascript">
-    $(function () {
-        $('#datetimepicker1').datetimepicker();
-    });
+  $(function () {
+    $('#datetimepicker1').datetimepicker();
+  });
 </script>
 
 <script type="text/javascript">
