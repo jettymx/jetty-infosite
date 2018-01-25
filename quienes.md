@@ -108,6 +108,11 @@ id: quienes
             <img src="imgs-prensa/LOGO_TM.jpg">
           </a>
         </li>
+        <li>
+          <a href="http://www.piplatam.com/" target="_blanck">
+            <img src="imgs-prensa/Logo-pip-Latam.png">
+          </a>
+        </li>
       </ul>
     </div>
   </div>
