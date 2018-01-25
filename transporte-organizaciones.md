@@ -16,7 +16,12 @@ id: organizaciones
           <h2>¿No tiene suficiente presupuesto dedicado al transporte?</h2>
         </div>
         <p class="lead">Jetty se adapta a su necesidad bajo diferentes esquemas para alcanzar los mejores resultados.</p>
-        <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
+
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+          Quiero agendar una llamada
+        </button>
+
+        <!-- <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a> -->
       </div>
       <div class="col-md-3"></div>
     </div>
@@ -47,7 +52,9 @@ id: organizaciones
       <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
     </div>
     <div class="col-md-12 text-center">
-      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
+      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+        Quiero agendar una llamada
+      </button>
     </div>
   </div>
 </div>
@@ -103,7 +110,106 @@ id: organizaciones
 
   <div class="row tres-puntos">
     <div class="col-md-12 text-center" data-aos="fade-up">
-      <a class="typeform-share btn btn-default btn-gray" href="https://cledestino.typeform.com/to/XE4Rwj" data-mode="1" target="_blank">Quiero agendar una llamada</a>
+
+      <!-- Button trigger modal -->
+      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+        Quiero agendar una llamada
+      </button>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- Modal Organizaciones -->
+<div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
+      </div>
+
+      <form>
+        <div class="modal-body">
+
+            <div class="col-md-6 form-group">
+              <label for="name">Nombre</label>
+              <input type="text" class="form-control" id="name" placeholder="Nombre">
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="lastname">Apellido</label>
+              <input type="text" class="form-control" id="lastname" placeholder="Apellido">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="mail">Correo electrónico</label>
+              <input type="email" class="form-control" id="mail" placeholder="Correo electrónico">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">Nombre de la Institución</label>
+              <input type="text" class="form-control" id="company" placeholder="Compañía">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">Dirección de la Institución</label>
+              <input type="text" class="form-control" id="company" placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">Número estimado de personas en tu institución:</label>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <div class="radio">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                  0 a 100
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                  101 a 250
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <div class="radio ">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+                  251 a 500
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+                  Más de 500
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="phone">¿A qué número te podemos marcar?</label>
+              <input type="text" class="form-control" id="phone" placeholder="Número y extensión">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="phone">¿Cuándo te conviene que te marquemos?</label>
+              <input type="text" class="form-control" id="phone" placeholder="Día y hora">
+            </div>
+
+        </div>
+        <div class="clearfix"></div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
+
     </div>
   </div>
 </div>
