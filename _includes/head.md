@@ -22,7 +22,6 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="http://jetty.mx">
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
-  <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
   <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
