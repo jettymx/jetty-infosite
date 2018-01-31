@@ -24,6 +24,8 @@
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
   <meta property="og:title" content="Jetty, Soluciona tu Transporte Diario en México.">
 
+  <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
