@@ -25,7 +25,6 @@ keywords:
               {% assign assets = post.content | split:"<img " %}
               {% for image in assets %}
                 {% if image contains 'src' %}
-
                     {% if foundImage == 0 %}
                         {% assign html = image | split:"/>" | first %}
                         <img {{ html }} />

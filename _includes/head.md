@@ -7,23 +7,20 @@
   })(window,document,'script','dataLayer','GTM-KN843XQ');</script>
   <!-- End Google Tag Manager -->
 
-  <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Soluciona tu Transporte Diario en México.{% endif %}
-  </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Soluciona tu Transporte Diario en México.{% endif %}</title>
   <meta name="author" content="Jetty">
+  <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
   <meta name="keywords" content="jetty, jetty mx, jettymx, jetty transporte, jetty cdmx, transporte, personal, organizaciones, movilidad, movilidad urbana, traslado, transporte privado, transporte de personal, viajes compartidos, camión de personal, transporte, renta de transporte, transporte ejecutivo, transporte empresarial, transporte para grupos, servicio de transporte, uber pool, caravana, caravanaapp, caravana app, bussi, blablacar, blabla car, Lipu, Utep, Trosten, Schoolastico, xpressbuss, mxbus">
-
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="http://jetty.mx">
   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
-
-  <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">

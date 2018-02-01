@@ -1,5 +1,4 @@
 <head>
-  <!-- End Google Tag Manager -->
   <title>Jetty, Soluciona tu transporte diario.</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
