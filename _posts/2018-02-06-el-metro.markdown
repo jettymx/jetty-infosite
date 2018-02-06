@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "El metro le queda chico a nuestra ciudad"
+date:   2018-02-06 10:00:30
+post_author: Jetty
+categories: update
+---
+
+![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/metro-jetty.jpg)
+
+Por muy diversas razones, la red de metro ha crecido mucho menos rápido que la ciudad, dejando a millones de personas sin la posibilidad de utilizarlo para sus traslados diarios. Quienes viven en lugares como Atizapán, Cuautitlán y Naucalpan, por ejemplo, tienen que depender de opciones incómodas e inseguras para trasladarse a trabajar a la CDMX. Y, las personas que sí viven cerca de la red del metro, pero que trabajan en sitios como Santa Fe, Arcos Bosques o Parque Duraznos, tienen que depender de “taxis de la muerte” o de carísimos servicios como Uber.
+
+
+![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/Rutas-Jetty-Metro.jpg)
+
+En Jetty, queremos poner nuestro granito de arena para cerrar esa brecha. Quizá algún día el metro llegue a todos los rincones de la metrópoli. Mientras eso sucede, estamos fijando nuestras escalas en sitios que permiten transbordos cómodos y seguros a la red del metro. Por ejemplo, ya puedes tomar tu Jetty en Satélite, y bajarte a unas cuantas cuadras del Metro Polanco o del Metro Chapultepec, a tiempo para llegar a trabajar. Y también ya puedes tomar tu Jetty en el Metro Chapultepec y viajar a los corporativos de Bosques o de Santa Fe.
+
+
+![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/rutas-metro.jpg)
+
+<h3>Prueba Jetty: Descarga la app. Reserva tu asiento. Buen viaje.</h3>
