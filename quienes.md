@@ -140,3 +140,24 @@ id: quienes
     </div>
   </div>
 </div>
+
+
+<div class="container mobility">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES">
+    </div>
+    <div class="col-md-9">
+      <p class="lead">Somos parte de la coalición de empresas que promueve los <b>Principios de Movilidad Compartida para Ciudades Vivibles</b></p>
+      <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">Conoce cuáles son</a>
+    </div>
+  </div>
+</div>
+
+<div class="container mobility">
+  <div class="row">
+    <div class="col-md-push-5 col-md-2 text-center">
+      <img src="img/30-promesas.png" alt="30 promesas de negocio">
+    </div>
+  </div>
+</div>

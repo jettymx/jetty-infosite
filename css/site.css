@@ -538,6 +538,27 @@ a.download-app img{
   width: 0%;
 }
 
+/* Carousel testimonial */
+.testimonial{
+  height: 200px;
+}
+
+.testimonial h3{
+  color: #939598;
+  font-weight: 700;
+}
+
+.name{
+  font-weight: 300;
+  font-size: 20px;
+}
+
+img.comillas{
+  position: relative;
+  top: -5px;
+  width: 30px;
+}
+
 /*////// COBERTURA //////*/
 .map_canvas{
   width: 100%;
@@ -782,6 +803,15 @@ ul.alianzas li img{
 }
 
 img.logos{
+  width: 100%;
+}
+
+.mobility{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.mobility img{
   width: 100%;
 }
 

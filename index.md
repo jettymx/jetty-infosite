@@ -217,3 +217,46 @@ id: Home
 <div class="space-greenUp">
   <img src="img/back-green-up.png">
 </div>
+
+<div class="container testimonial">
+   <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <div id="carousel-testimonios" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-testimonios" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-testimonios" data-slide-to="1"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Excelente el servicio y más hoy que me tocó con lluvia, puntuales incluso con la cantidad de tráfico que había. Me fue muy grato el viaje porque iba muy cómoda. <img src="img/comillas2.png" class="comillas"><br><span class="name">Eunice G.</span></h3>
+            </div>
+            <div class="item text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Ventaja No. 59 de usar Jetty. Puedo escuchar a mi @reclu sin gastar datos y sin manejar hacia el trabajo. <img src="img/comillas2.png" class="comillas"><br><span class="name">Jimena A.</span></h3>
+            </div>
+            <div class="item text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Tienen un excelente servicio: Cómodo, seguro, y sin duda el mejor. <img src="img/comillas2.png" class="comillas"><br><span class="name">Carla C.</span></h3>
+            </div>
+            <div class="item text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Excelente experiencia, volveré a usar el servicio y lo recomendaré con mis conocidos. <img src="img/comillas2.png" class="comillas"><br><span class="name">Mariana C.</span></h3>
+            </div>
+            <div class="item text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Luis <span class="name">(conductor)</span> es siempre muy amable y maneja muy bien. Estoy muy contenta con el servicio. <img src="img/comillas2.png" class="comillas"><br><span class="name">Karla A.</span></h3>
+            </div>
+          </div>
+
+          <!-- Controls -->
+          <!-- <a class="left carousel-control" href="#carousel-testimonios" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-testimonios" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a> -->
+        </div>
+      </div>
+    </div>
+</div>
