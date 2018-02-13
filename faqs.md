@@ -39,7 +39,7 @@ id: aviso-de-privacidad
             <li><a href="javascript:$.scrollTo('#veinte',800);">¿De qué forma puedo comprar mi boleto?</a></li>
             <li><a href="javascript:$.scrollTo('#uno',800);">¿Con cuánto tiempo de anticipación puedo reservar mi viaje?</a></li>
             <li><a href="javascript:$.scrollTo('#veintiuno',800);">¿Puedo viajar en Jetty sin tener la app?</a></li>
-            <li><a href="javascript:$.scrollTo('#veintidos',800);">¿Puedo llevar bicicleta o maletas grandes?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintidos',800);">¿Puedo llevar maletas grandes?</a></li>
             <li><a href="javascript:$.scrollTo('#veintitres',800);">Olvidé algo en un Jetty, ¿qué tengo que hacer?</a></li>
             <li><a href="javascript:$.scrollTo('#veinticuatro',800);">¿Puedo comer en mi Jetty?</a></li>
             <li><a href="javascript:$.scrollTo('#veinticinco',800);">¿Qué pasa si el sistema de cobro rechaza mi pago?</a></li>
@@ -136,7 +136,7 @@ id: aviso-de-privacidad
       <h3 id="veintidos">¿Puedo viajar en Jetty sin tener la app?</h3>
       <p>No. La única forma de reservar un viaje es a través de la app ya que al ingresar al vehículo, debes enseñarle tu pase al conductor. De esta forma garantizamos tu seguridad y la de todos nuestros usuarios, sabiendo quién viaja en cada recorrido y evitando que aborden usuarios sin boleto.</p>
 
-      <h3 id="veintitres">¿Puedo llevar bicicleta o maletas grandes?</h3>
+      <h3 id="veintitres">¿Puedo llevar maletas grandes?</h3>
       <p>Desafortunadamente, todos tus artículos personales deben caber sobre tus piernas, o debajo de tu asiento para nuestro servicio de lunes a viernes. Debemos mantener los pasillos libres para que los pasajeros puedan subir y bajar del vehículo. Si tienes la necesidad de llevar equipaje grande y/o equipo deportivo para un evento / fin de semana, te pedimos que nos notifiques previamente antes de abordar tu Jetty.</p>
 
       <h3 id="veinticuatro">Olvidé algo en un Jetty, ¿qué tengo que hacer?</h3>
