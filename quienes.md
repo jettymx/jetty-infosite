@@ -118,6 +118,23 @@ id: quienes
   </div>
 </div>
 
+
+<div class="container nosotros">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>Reconocimientos</h1>
+      <ul class="alianzas">
+        <li>
+          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio">
+        </li>
+        <li>
+          <img src="imgs-prensa/NEGRO.png">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div class="container nosotros">
   <div class="row">
     <div class="col-md-12 text-center">
@@ -134,6 +151,9 @@ id: quienes
         </li>
         <li>
           <img src="imgs-prensa/excelsior.png">
+        </li>
+        <li>
+          <img src="imgs-prensa/forbes.png">
         </li>
       </ul>
       <a href="/prensa" class="btn btn-green">Prensa</a>
@@ -154,10 +174,3 @@ id: quienes
   </div>
 </div>
 
-<div class="container mobility">
-  <div class="row">
-    <div class="col-md-push-5 col-md-2 text-center">
-      <img src="img/30-promesas.png" alt="30 promesas de negocio">
-    </div>
-  </div>
-</div>

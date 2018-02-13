@@ -62,9 +62,36 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <a href="https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/" target="_blank"><img src="imgs-prensa/forbes.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>Una app para cambiar el rumbo del transporte público</h3>
+          <p>Jetty no cuenta con ningún vehículo propio, pero esta app de transporte quiere cambiar la calidad de los viajes de las personas que todos los días se trasladan del Estado de México a la Ciudad para trabajar.</p>
+          <a href="https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
 
     </div>
 
   </div>
 
+</div>
+
+<div class="container nosotros">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>Reconocimientos</h1>
+      <ul class="alianzas">
+        <li>
+          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio">
+        </li>
+        <li>
+          <img src="imgs-prensa/NEGRO.png">
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>

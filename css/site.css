@@ -815,6 +815,19 @@ img.logos{
   width: 100%;
 }
 
+.reconocimientos{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.reconocimientos h1{
+  color: #7e8080;
+}
+
+.reconocimientos img{
+  width: 100%;
+}
+
 /*////// BENEFICIOS //////*/
 .beneficios{
   padding: 50px 0;

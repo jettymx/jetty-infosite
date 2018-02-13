@@ -6,7 +6,7 @@ post_author: Jetty
 categories: update
 ---
 
-![Metro CDMX, Jetty]({{site.baseurl}}/imgs-blog/inseguridad.jpg)
+![Inseguridad CDMX, Jetty]({{site.baseurl}}/imgs-blog/inseguridad.jpg)
 
 La gente tiene que esperar el micro en lugares mal iluminados y viajar en unidades demasiado llenas. Las mujeres son constantemente violentadas por otros pasajeros y por los mismos choferes. Los maleantes saben que el chofer y los pasajeros traen efectivo, y que pueden asaltar con impunidad. Nadie sabe quien es el chófer, ni quién responde si algo malo pasa a bordo. Lamentablemente quien sube a una unidad de transporte público sabe que está arriesgando el pellejo.
 
