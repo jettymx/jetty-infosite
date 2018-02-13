@@ -90,7 +90,7 @@ id: quienes
         </li>
         <li>
           <a href="https://www.posible.org.mx" target="_blanck">
-            <img src="imgs-prensa/NEGRO.png">
+            <img src="imgs-prensa/platzi.png">
           </a>
         </li>
         <li>

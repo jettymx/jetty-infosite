@@ -79,19 +79,3 @@ id: prensa
   </div>
 
 </div>
-
-<div class="container nosotros">
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <h1>Reconocimientos</h1>
-      <ul class="alianzas">
-        <li>
-          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio">
-        </li>
-        <li>
-          <img src="imgs-prensa/NEGRO.png">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
