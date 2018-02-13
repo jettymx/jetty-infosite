@@ -89,7 +89,7 @@ id: quienes
           </a>
         </li>
         <li>
-          <a href="https://www.posible.org.mx" target="_blanck">
+          <a href="https://courses.platzi.com" target="_blanck">
             <img src="imgs-prensa/platzi.png">
           </a>
         </li>
