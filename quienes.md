@@ -44,29 +44,33 @@ id: quienes
 <div class="container nosotros">
   <div class="row">
     <div class="col-md-12 text-center">
-      <h1>¿Por qué nosotros?</h1>
-      <h3>Equipo multidisciplinario con experiencia en soluciones integrales para empresas de transporte.</h3>
+      <h1>¿Quiénes somos?</h1>
+      <!-- <h3>Un equipo con experiencia en soluciones integrales para empresas de transporte.</h3> -->
       <br>
-      <br>
+      <!-- <br> -->
     </div>
   </div>
   <div class="row text-center">
     <div class="col-md-3">
+      <img src="img/Onesimo-Flores.jpg" alt="Onesimo Flores, Equipo Jetty">
       <h3><strong>Onésimo Flores</strong></h3>
       <p><strong>Socio fundador</strong></p>
       <p>Fue académico de MIT y es experto en transporte y desarrollo urbano.</p>
     </div>
     <div class="col-md-3">
+      <img src="img/Diego-Guzman.jpg" alt="Diego Guzman, Equipo Jetty">
       <h3><strong>Diego Guzman</strong></h3>
       <p><strong>Director de Operaciones</strong></p>
       <p>Trabajó en arrendadoras y es experto en mejoras de calidad y reingeniería de procesos.</p>
     </div>
     <div class="col-md-3">
+      <img src="img/Cristina-Palacios.jpg" alt="Cristina Palacios, Equipo Jetty">
       <h3><strong>Cristina Palacios</strong></h3>
       <p><strong>Socia y directora</strong></p>
-      <p>Fue directora y fundadora de Aventones. Socia de www.innku.com.</p>
+      <p>Fue directora y fundadora de Aventones. Socia de www.innku.com</p>
     </div>
     <div class="col-md-3">
+      <img src="img/Celestin-Soubrier.jpg" alt="Célestin Soubrier, Equipo Jetty">
       <h3><strong>Célestin Soubrier</strong></h3>
       <p><strong>Director de Marketing</strong></p>
       <p>Fue director de marketing en México de la empresa más grande de viajes compartidos.</p><br>

@@ -40,7 +40,7 @@ id: aviso-de-privacidad
             <li><a href="javascript:$.scrollTo('#uno',800);">¿Con cuánto tiempo de anticipación puedo reservar mi viaje?</a></li>
             <li><a href="javascript:$.scrollTo('#veintiuno',800);">¿Puedo viajar en Jetty sin tener la app?</a></li>
             <li><a href="javascript:$.scrollTo('#veintidos',800);">¿Puedo llevar maletas grandes?</a></li>
-            <li><a href="javascript:$.scrollTo('#veintitres',800);">¿Puedo llevar maletas grandes?</a></li>
+            <li><a href="javascript:$.scrollTo('#veintitres',800);">¿Puedo subir mi bicicleta al Jetty?</a></li>
             <li><a href="javascript:$.scrollTo('#veinticuatro',800);">Olvidé algo en un Jetty, ¿qué tengo que hacer?</a></li>
             <li><a href="javascript:$.scrollTo('#veinticinco',800);">¿Puedo comer en mi Jetty?</a></li>
             <li><a href="javascript:$.scrollTo('#veintiseis',800);">¿Qué pasa si el sistema de cobro rechaza mi pago?</a></li>
