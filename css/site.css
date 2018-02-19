@@ -724,38 +724,41 @@ img.comillas{
 }
 
 /*////// QUIENES //////*/
-.main-quienes{
+/*.main-quienes{
   background: #49bda7;
-}
+}*/
 
 .header-quienes{
   background: url('../img/Back_Quienes.jpg') no-repeat;
   background-size: 100%;
-  background-position-y: -200px;
+  background-position-y: -300px;
   padding-bottom: 250px;
 }
 
 .header-content-quienes{
- padding-top: 100px;
+ padding-top: 80px;
 }
 
 .header-quienes h1{
-  color: #7e8080;
-  text-transform: uppercase;
+  color: #ffffff;
+  /*text-transform: uppercase;*/
 }
 
 .header-quienes h2{
-  color: #7e8080;
-  margin-top: 50px;
+  color: #ffffff;
+  margin-top: 30px;
   font-weight: normal;
 }
 
 .quienes-content{
-  background: #49bda7;
+  /*background: #49bda7;*/
+  /*position: relative;
+  top: -130px;*/
+  margin-top: -130px;
 }
 
 .quienes-content p{
-  color: #ffffff;
+  color: #7e8080;
 }
 
 img.mountain{
@@ -763,25 +766,37 @@ img.mountain{
 }
 
 .nosotros{
-  padding-bottom: 80px;
+  /*padding-bottom: 80px;*/
+  background-color: #49bda7;
+}
+
+.nosotros h1,h3,p{
+  color: #ffffff;
 }
 
 .nosotros h1{
-  color: #7e8080;
-  /*text-transform: uppercase;*/
+  margin-bottom: 30px;
 }
 
-.nosotros h3{
-  color: #7e8080;
-  margin-bottom: 0px;
+.nosotros p{
+  opacity: 0.8;
 }
 
+/*.nosotros h3{
+  color: #ffffff;
+}
+*/
 .nosotros img{
   width: 60%;
+  border-radius: 5px;
 }
 
 .alianzas-content{
   margin-top: 70px;
+}
+
+.alianzas-content h1{
+  color: #7e8080;
 }
 
 ul.alianzas{
@@ -799,7 +814,11 @@ ul.alianzas li img{
 }
 
 .innku{
-  margin-top: 50px;
+  margin-top: 0px;
+}
+
+.innku p{
+  color: #7e8080;
 }
 
 .innku img{
@@ -811,12 +830,16 @@ img.logos{
 }
 
 .mobility{
-  margin-top: 50px;
+  margin-top: 80px;
   margin-bottom: 50px;
 }
 
 .mobility img{
   width: 100%;
+}
+
+.mobility p{
+  color: #7e8080;
 }
 
 .reconocimientos{
@@ -1381,7 +1404,7 @@ h1.blog-title{
   }
 
   .header-quienes{
-    background-size: 200%;
+    background-size:150%;
     padding-bottom: 200px;
     background-position-y: -230px;
   }
@@ -1497,7 +1520,7 @@ h1.blog-title{
   }
 
   .header-quienes{
-    background-size: 400%;
+    background-size: 320%;
     padding-bottom: 200px;
     background-position-y: -270px;
   }
@@ -1689,7 +1712,7 @@ h1.blog-title{
   }
 
   .header-quienes{
-    background-size: 430%;
+    background-size: 350%;
     padding-bottom: 120px;
     background-position-y: -180px;
   }
