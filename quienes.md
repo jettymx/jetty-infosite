@@ -46,7 +46,7 @@ id: quienes
         <h1>¿Quiénes somos?</h1>
       </div>
     </div>
-    <div class="row text-center">
+    <div class="row text-center equipo">
       <div class="col-md-3">
         <img src="img/Onesimo-Flores.jpg" alt="Onesimo Flores, Equipo Jetty">
         <h3><strong>Onésimo Flores</strong></h3>
