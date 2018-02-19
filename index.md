@@ -17,7 +17,7 @@ id: Home
              <h2>¿Te da miedo viajar en transporte público?</h2>
              <h2>¿Te estresa ver cómo avanza el taxímetro y las tarifas dinámicas?</h2>
           </div>
-          <p>Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
+          <p class="txt-header-index">Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
 
           <p class="text-downapp">Descarga la app.</p>
 

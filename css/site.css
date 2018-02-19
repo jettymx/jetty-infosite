@@ -271,6 +271,10 @@ figure.header img.back {
   text-transform: uppercase;
 }
 
+.header p{
+  color: #7e8080;
+}
+
 .header h1 span{
   color: #a3a4a4;
 }
