@@ -220,13 +220,18 @@ id: Home
 
 <div class="container testimonial">
    <div class="row">
+
+    <div class="col-md-12 text-center">
+      <h2>Lo que dicen de nosotros</h2>
+    </div>
+
       <div class="col-md-10 col-md-offset-1">
         <div id="carousel-testimonios" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
-          <ol class="carousel-indicators">
+          <!-- <ol class="carousel-indicators">
             <li data-target="#carousel-testimonios" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-testimonios" data-slide-to="1"></li>
-          </ol>
+          </ol> -->
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
