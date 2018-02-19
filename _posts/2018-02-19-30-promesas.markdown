@@ -12,7 +12,12 @@ La Revista Forbes acaba de [seleccionar a Jetty][promesas] como una de las “30
 
 Queremos agradecer a todos aquellos que han viajado con Jetty alguna vez. Ustedes son la verdadera promesa. ¡Juntos estamos transformando la movilidad de nuestra ciudad!
 
-Postdata: ¿Nos ayudan [votando por Jetty aquí][vota]?
+<div class="text-center">
+  <h3>
+    <a href="">¿Nos ayudan votando por Jetty?</a>
+  </h3>
+</div>
+
 
 
 [promesas]:https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/
