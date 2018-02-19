@@ -950,6 +950,10 @@ img.logos{
   margin-bottom: 80px;
 }
 
+.proceso h3,p{
+  color: #7e8080;
+}
+
 .proceso p.lead{
   margin-bottom: 5px;
 }
