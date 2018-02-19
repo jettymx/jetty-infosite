@@ -671,6 +671,11 @@ img.comillas{
   margin-top: -30px;
 }
 
+.valor p{
+  margin-bottom: 120px;
+  color: #7e8080;
+}
+
 .valor .btn{
   margin-top: 40px;
 }
@@ -711,6 +716,9 @@ img.comillas{
 
 .tres-puntos{
   margin-bottom: 50px;
+}
+.tres-puntos p{
+  color: #7e8080;
 }
 
 .tres-puntos img{
@@ -1142,8 +1150,13 @@ ul.indice li{
   margin-bottom: 30px;
 }
 
+.cobertura h3{
+  color: #7e8080;
+}
+
 .cobertura p{
   margin-top: 30px;
+  color: #7e8080;
 }
 
 .cobertura iframe{
