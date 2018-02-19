@@ -1235,6 +1235,7 @@ h1.blog-title{
 }
 
 .post-content p{
+  color: #7e8080;
   line-height: 1.5;
   margin-bottom: 20px;
   margin-top: 20px;
