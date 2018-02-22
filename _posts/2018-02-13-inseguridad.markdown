@@ -2,7 +2,7 @@
 layout: post
 title:  "La principal queja contra el transporte público es la falta de seguridad"
 date:   2018-02-13 10:00:30
-post_author: Jetty
+post_author: Onésimo Flores Dewey
 categories: update
 ---
 

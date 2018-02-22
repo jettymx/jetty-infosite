@@ -2,7 +2,7 @@
 layout: post
 title:  "Todos somos el tráfico. Juntos podemos resolverlo."
 date:   2018-02-15 10:30:30
-post_author: Jetty
+post_author: Onésimo Flores Dewey
 categories: update
 ---
 
