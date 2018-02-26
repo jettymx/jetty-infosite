@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Jetty + Mobike"
+date:   2018-02-26 10:30:30
+post_author: Jetty
+categories: update
+---
+
+![Receta contra el tráfico CDMX, Jetty]({{site.baseurl}}/imgs-blog/mobike.jpg)
+
+En <b>Jetty,</b> queremos que tu viaje completo sea agradable y cómodo. Sabemos que muchos de nuestros usuarios caminan hasta nuestras escalas, y por ello constantemente estamos optimizando sus ubicaciones, colocándolas siempre en sitios seguros y bien iluminados. Sabemos también que las escalas del Jetty quedan a distancia considerable de los destinos finales de algunos usuarios, y por ello estamos trabajando en alianzas como la que hoy anunciamos con Mobike. A partir de hoy coordinaremos la ubicación de nuestras escalas en Polanco con Mobike, para que cuando desciendas del Jetty encuentres una bicicleta para completar tu viaje.
+
+Un viaje se compone de muchos tramos. Incluso quien maneja un auto recorre al menos tres: <b>(1) La distancia desde la puerta de su casa hasta la puerta de su auto, (2) la distancia del viaje en el auto y (3) la distancia desde la puerta del auto hasta la puerta del destino final.</b> Hay tramos que se adaptan mejor a un medio de transporte que a otros. Para distancias cortas en entornos agradables y seguros (como Polanco), no hay nada mejor que caminar o andar en bicicleta. Para distancias largas, en entornos llenos de intersecciones incómodas, es difícil ganarle a la movilidad motorizada. Dado que el entorno cambia a lo largo de un viaje, casi siempre hace sentido cambiar de modo de transporte a lo largo del viaje. Nuestro experimento con Mobike busca probar los beneficios de la multimodalidad: Ahora puedes dejar el carro en casa, llegar a Polanco en Jetty, y viajar dentro de Polanco en bicicleta. ¡Inténtalo!
+
+
+Pd. Ojo. Todas las personas que ingresen el código <b>“JettyMx”</b> en el app de Mobike, recibirán <b>80 viajes de bicicleta</b> gratis. Nada mal...
