@@ -31,10 +31,10 @@ id: aviso-de-privacidad
             <li><a href="javascript:$.scrollTo('#quince',800);">¿Pueden viajar con un menor de edad?</a></li>
             <li><a href="javascript:$.scrollTo('#dieciseis',800);">¿Puedo darle propina a mi conductor?</a></li>
             <li><a href="javascript:$.scrollTo('#diecisiete',800);">¿Qué hago si el viaje que deseo no está disponible?</a></li>
-
-          </div>
-          <div class="col-md-6">
             <li><a href="javascript:$.scrollTo('#dieciocho',800);">¿Dónde puedo encontrar las áreas de servicio y horarios de Jetty?</a></li>
+          </div>
+
+          <div class="col-md-6">
             <li><a href="javascript:$.scrollTo('#diecinueve',800);">¿Cuánto cuesta viajar en Jetty?</a></li>
             <li><a href="javascript:$.scrollTo('#veinte',800);">¿De qué forma puedo comprar mi boleto?</a></li>
             <li><a href="javascript:$.scrollTo('#uno',800);">¿Con cuánto tiempo de anticipación puedo reservar mi viaje?</a></li>
@@ -52,6 +52,7 @@ id: aviso-de-privacidad
             <li><a href="javascript:$.scrollTo('#trentaidos',800);">¿Qué hago si me equivoqué al reservar mi Jetty?</a></li>
             <li><a href="javascript:$.scrollTo('#trentaitres',800);">¿Cómo puedo pedir una factura?</a></li>
             <li><a href="javascript:$.scrollTo('#trentaicuatro',800);">¿Qué hago para trabajar en Jetty?</a></li>
+            <li><a href="javascript:$.scrollTo('#trentaicinco',800);">¿Puedo comprar más de un boleto?</a></li>
           </div>
       </ul>
     </div>
@@ -114,7 +115,7 @@ id: aviso-de-privacidad
       <p>Damos servicio de lunes a viernes. Los días que no damos servicio son los días de asueto establecidos por ley.</p>
 
       <h3 id="quince">¿Pueden viajar con un menor de edad?</h3>
-      <p>No. Por ahora sólo puedes reservar un asiento a la vez para el titular de la cuenta de Jetty.</p>
+      <p>Sí. Es necesario que siempre vayan acompañados por un adulto.</p>
 
       <h3 id="dieciseis">¿Puedo darle propina a mi conductor?</h3>
       <p>Nuestros conductores no aceptan propina debido a que todos cuentan con un salario competitivo. Si recibes un gran servicio, una sonrisa y las gracias siempre son bienvenidos. Y por supuesto, agradecemos nos compartas tu experiencia y tu calificación en la Play Store o Apple Store y en nuestras redes sociales.</p>
@@ -172,6 +173,9 @@ id: aviso-de-privacidad
 
       <h3 id="trentaicuatro">¿Qué hago para trabajar en Jetty? </h3>
       <p>Siempre estamos buscando a gente que se sume al equipo. Si te interesa escríbenos a <a href="contacto@jetty.mx" target="_blank">contacto@jetty.mx</a> con tu CV.</p>
+
+      <h3 id="trentaicinco">¿Puedo comprar más de un boleto?</h3>
+      <p>Sí, a la hora de reservar tu viaje puedes señalar cuántos pases quieres haciendo clic en la parte de más o menos pases. <img src="img/mas-menos.png" width="60"></p>
 
     </div>
 
