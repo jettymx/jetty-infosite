@@ -5,6 +5,7 @@ date:   2017-05-16 13:09:30 -0600
 post_author: Jetty
 categories: update
 ---
+
 ![Contingencia, Jetty]({{site.baseurl}}/imgs-blog/contingencia.jpg)
 
 La contaminación del aire representa un importante riesgo medioambiental para la salud.

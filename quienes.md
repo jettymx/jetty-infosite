@@ -136,6 +136,9 @@ id: quienes
         <li>
           <img src="imgs-prensa/NEGRO.png">
         </li>
+        <li>
+          <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018">
+        </li>
       </ul>
     </div>
 
