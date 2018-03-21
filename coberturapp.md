@@ -10,9 +10,9 @@ id: cobertura
 
     <div class="rutas rutas-app">
 
-      <div class="col-md-4 col-md-offset-3">
+      <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading text-center">
+          <div class="panel-heading">
             <h4 class="panel-title">Zona Norte <-> Polanco</h4>
           </div>
           <div class="panel-body">
@@ -21,9 +21,9 @@ id: cobertura
         </div>
       </div>
 
-      <!-- <div class="col-md-6 col-md-offset-3">
+      <!-- <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading text-center">
+          <div class="panel-heading">
             <h4 class="panel-title">Polanco <-> Santa Fé</h4>
           </div>
           <div class="panel-body">
@@ -32,9 +32,9 @@ id: cobertura
         </div>
       </div> -->
 
-      <div class="col-md-4 col-md-offset-3">
+      <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading text-center">
+          <div class="panel-heading">
             <h4 class="panel-title">Reforma <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -43,13 +43,57 @@ id: cobertura
         </div>
       </div>
 
-      <div class="col-md-4 col-md-offset-3">
+      <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading text-center">
+          <div class="panel-heading">
             <h4 class="panel-title">Zona Norte <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_4" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Aragón <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_5" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Narvarte <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_6" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Narvarte <-> Polanco</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_7" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Polanco <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_8" class="map_canvas"></div>
           </div>
         </div>
       </div>
