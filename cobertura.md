@@ -65,6 +65,50 @@ id: cobertura
         </div>
       </div>
 
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Aragón <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_5" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Narvarte <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_6" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Narvarte <-> Polanco</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_7" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">Polanco <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_8" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <div class="col-md-12 text-center">
