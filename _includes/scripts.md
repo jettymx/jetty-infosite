@@ -302,6 +302,43 @@
           icon: image
         });
 
+        // Aragón - Santa Fe
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.468581, lng: -99.049511},
+          map: map5,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.458216, lng: -99.069365},
+          map: map5,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.388281, lng: -99.250929},
+          map: map5,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.373289, lng: -99.259612},
+          map: map5,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.3675155, lng: -99.2636825},
+          map: map5,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.357265, lng: -99.274824},
+          map: map5,
+          icon: image
+        });
+
         // Narvarte - Santa Fe
         var Marker = new google.maps.Marker({
           position: {lat: 19.372277, lng: -99.157134},
@@ -834,224 +871,224 @@
         });
 
         // Mapa 5
-              new google.maps.Polygon({
-                map: map5,
-                paths: santafe,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        new google.maps.Polygon({
+          map: map5,
+          paths: santafe,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              new google.maps.Polygon({
-                map: map5,
-                paths: aragon,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        new google.maps.Polygon({
+          map: map5,
+          paths: aragon,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              // Line 5 Aragon - Santa fé
-              var lineSymbol5 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
+        // Line 5 Aragon - Santa fé
+        var lineSymbol5 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.452839, lng: -99.076564}, {lat: 19.3940, lng: -99.2478}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol5,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map5
-              });
-
-
-              // Mapa 6
-              new google.maps.Polygon({
-                map: map6,
-                paths: santafeSMALL,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
-
-              new google.maps.Polygon({
-                map: map6,
-                paths: narvarte,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
-
-              new google.maps.Polygon({
-                map: map6,
-                paths: napoles,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
-
-              // Line 6 Narvarte - Santa fé
-              var lineSymbol6 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
-
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.377859, lng: -99.158918}, {lat: 19.392674, lng: -99.174346}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol6,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map6
-              });
-
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.383106, lng: -99.189336}, {lat: 19.375855, lng: -99.255135}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol6,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map6
-              });
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.452839, lng: -99.076564}, {lat: 19.3940, lng: -99.2478}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol5,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map5
+        });
 
 
-              // Mapa 7
-              new google.maps.Polygon({
-                map: map7,
-                paths: narvarte,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        // Mapa 6
+        new google.maps.Polygon({
+          map: map6,
+          paths: santafeSMALL,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              new google.maps.Polygon({
-                map: map7,
-                paths: polancoNEW,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        new google.maps.Polygon({
+          map: map6,
+          paths: narvarte,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              new google.maps.Polygon({
-                map: map7,
-                paths: roma,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        new google.maps.Polygon({
+          map: map6,
+          paths: napoles,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              // Line 7 Narvarte - Polanco
-              var lineSymbol7 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
+        // Line 6 Narvarte - Santa fé
+        var lineSymbol6 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.4158, lng: -99.1718}, {lat: 19.410257, lng: -99.175283}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol7,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map7
-              });
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.377859, lng: -99.158918}, {lat: 19.392674, lng: -99.174346}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol6,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map6
+        });
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.385322, lng: -99.175712}, {lat: 19.377859, lng: -99.158918}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol7,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map7
-              });
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.383106, lng: -99.189336}, {lat: 19.375855, lng: -99.255135}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol6,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map6
+        });
 
-              // Mapa 8
-              new google.maps.Polygon({
-                map: map8,
-                paths: santafe,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
 
-              new google.maps.Polygon({
-                map: map8,
-                paths: polancoTRES,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                fillColor: '#49bda7',
-                fillOpacity: 0.5,
-                draggable: false,
-                geodesic: true
-              });
+        // Mapa 7
+        new google.maps.Polygon({
+          map: map7,
+          paths: narvarte,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              // Line 7 Polanco - Santa Fe
-              var lineSymbol8 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
+        new google.maps.Polygon({
+          map: map7,
+          paths: polancoNEW,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.426993, lng: -99.215280}, {lat: 19.3940, lng: -99.2478}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol8,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: map8
-              });
+        new google.maps.Polygon({
+          map: map7,
+          paths: roma,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line 7 Narvarte - Polanco
+        var lineSymbol7 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.4158, lng: -99.1718}, {lat: 19.410257, lng: -99.175283}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol7,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map7
+        });
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.385322, lng: -99.175712}, {lat: 19.377859, lng: -99.158918}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol7,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map7
+        });
+
+        // Mapa 8
+        new google.maps.Polygon({
+          map: map8,
+          paths: santafe,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map8,
+          paths: polancoTRES,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line 7 Polanco - Santa Fe
+        var lineSymbol8 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.426993, lng: -99.215280}, {lat: 19.3940, lng: -99.2478}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol8,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map8
+        });
 
     }
 
