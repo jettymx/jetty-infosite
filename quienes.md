@@ -141,6 +141,11 @@ id: quienes
             <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018">
           </a>
         </li>
+        <li>
+          <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
+            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility center">
+          </a>
+        </li>
       </ul>
     </div>
 
