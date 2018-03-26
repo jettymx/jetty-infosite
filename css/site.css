@@ -1291,6 +1291,23 @@ h1.blog-title{
   width: 100%;
 }
 
+ul.testimoniales-blog{
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul.testimoniales-blog li{
+  list-style: none;
+  float: left;
+  text-align: center;
+}
+
+ul.testimoniales-blog li img{
+  text-align: center;
+  width: 300px;
+}
+
 /*/// Banner news ///*/
 .banner-news{
 
