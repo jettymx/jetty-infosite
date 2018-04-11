@@ -155,6 +155,7 @@ id: conductor
               <input  type="text"
                       class="form-control"
                       placeholder="Nombre"
+                      maxlength="30"
                       name="name"
                       required />
             </div>
@@ -164,6 +165,7 @@ id: conductor
               <input  type="text"
                       class="form-control"
                       placeholder="Apellidos"
+                      maxlength="60"
                       name="lastname"
                       required />
             </div>
@@ -172,6 +174,7 @@ id: conductor
               <label  for="mail">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
+                      maxlength="60"
                       placeholder="Correo electrónico"
                       name="email" />
             </div>
@@ -180,6 +183,7 @@ id: conductor
               <label  for="phone">Número telefónico</label>
               <input  type="text"
                       class="form-control"
+                      maxlength="20"
                       placeholder="Número telefonico"
                       name="phone"
                       required>
@@ -294,13 +298,13 @@ id: conductor
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">¡Gracias, ya quedó registrada la solicitud!</h4>
+        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
       </div>
 
       <div class="modal-body text-center">
         <div class="row">
           <div class="col-md-12  .center">
-              <h5>Pronto alguien del equipo se pondra en contacto contigo</h5>
+              <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
           </div>
         </div>
       </div>

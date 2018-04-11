@@ -183,6 +183,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control"
                       required
+                      maxlength="30"
                       name="name"
                       placeholder="Nombre" />
             </div>
@@ -192,6 +193,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control"
                       required
+                      maxlength="60"
                       name="lastname"
                       placeholder="Apellido" />
             </div>
@@ -201,6 +203,7 @@ id: transporte-eventos
               <input  type="email"
                       class="form-control"
                       required
+                      maxlength="60"
                       name="email"
                       placeholder="Correo electrónico" />
             </div>
@@ -210,6 +213,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control"
                       required
+                      maxlength="20"
                       name="phone"
                       placeholder="Número telefónico">
             </div>
@@ -219,6 +223,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control"
                       required
+                      maxlength="150"
                       name="eventname"
                       placeholder="">
             </div>
@@ -342,6 +347,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control" 
                       name="origin_address"
+                      maxlength="200"
                       placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
             </div>
 
@@ -351,6 +357,7 @@ id: transporte-eventos
                 <input  type='text'
                         class="form-control"
                         id='datetimepicker-event-1'
+                        maxlength="20"
                         name="origin_date"
                         placeholder="Día / Mes / Año"/>
                 <span class="input-group-addon">
@@ -363,6 +370,7 @@ id: transporte-eventos
               <label for="adress">Hora de salida</label>
               <input  type="text"
                       id="timepicker-event-1"
+                      maxlength="20"
                       class="form-control"
                       name="origin_time"
                       placeholder="AM / PM" />
@@ -372,6 +380,7 @@ id: transporte-eventos
               <label for="adress">Dirección de Llegada</label>
               <input  type="text"
                       class="form-control"
+                      maxlength="200"
                       name="destination_address"
                       placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
             </div>
@@ -382,6 +391,7 @@ id: transporte-eventos
                 <input  type='text'
                         class="form-control"
                         id='datetimepicker-event-2'
+                        maxlength="20"
                         name="destination_date"
                         placeholder="Día / Mes / Año" />
                 <span class="input-group-addon">
@@ -395,6 +405,7 @@ id: transporte-eventos
               <input  type="text"
                       class="form-control"
                       id="timepicker-event-2"
+                      maxlength="20"
                       name="destination_time"
                       placeholder="AM / PM">
             </div>
@@ -406,6 +417,27 @@ id: transporte-eventos
           <button type="submit" class="btn btn-green-small">Enviar</button>
         </div>
       </form>
+
+    </div>
+  </div>
+</div>
+
+ <!-- Modal Conductor -->
+ <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
+      </div>
+
+      <div class="modal-body text-center">
+        <div class="row">
+          <div class="col-md-12  .center">
+              <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
+          </div>
+        </div>
+      </div>
 
     </div>
   </div>

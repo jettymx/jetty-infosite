@@ -26,7 +26,9 @@
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-datetimepicker.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
+  
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

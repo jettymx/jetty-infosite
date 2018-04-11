@@ -1114,6 +1114,46 @@
 <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
 <script type="text/javascript" src="js/forms.js"></script>
 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
+  <script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
+
+<script type="text/javascript">
+  $(function () {
+    $('#datetimepicker-event-1').datetimepicker({
+      locale: 'es',
+      format: 'DD/MM/YYYY',
+      minDate: new Date(),
+      disabledDates: [new Date()]
+    });
+
+
+    $('#timepicker-event-1').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+
+
+    $('#datetimepicker-event-2').datetimepicker({
+      locale: 'es',
+      format: 'DD/MM/YYYY',
+      minDate: new Date(),
+      disabledDates: [new Date()]
+    });
+
+    $('#timepicker-event-2').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+
+    $('#datetimepicker-org-1').datetimepicker({
+      locale: 'es',
+      minDate: new Date(),
+      sideBySide: true
+    })
+  });
+</script>
+
 <script type="text/javascript">
   //Set your APP_ID
   var APP_ID = "aij161lx";
