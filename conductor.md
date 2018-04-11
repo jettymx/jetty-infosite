@@ -22,7 +22,10 @@ id: conductor
             <p>Como requisito, debes contar con una licencia tipo "C".</p>
           </div>
         </div>
-        <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
+        
+        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
+          Quiero ser parte de Jetty
+        </button>
       </div>
 
     </div>
@@ -92,7 +95,10 @@ id: conductor
           </div>
           <div class="col-md-10 col-xs-9">
             <p class="lead">Llena este formulario:</p>
-            <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a>
+            <!-- <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a> -->
+            <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
+              Quiero ser parte de Jetty
+            </button>
           </div>
         </div>
       </div>
@@ -131,9 +137,174 @@ id: conductor
 </div>
 
 <div class="clearfix"></div>
-<!--
-<div class="space-greenUp">
-  <img src="img/back-green-up.png">
-</div> -->
 
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+ <!-- Modal Conductor -->
+<div class="modal fade" id="ModalConductor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
+      </div>
+
+      <form id="form-drivers">
+        <div class="modal-body">
+
+            <div class="col-md-6 form-group">
+              <label  for="name">Nombre</label>
+              <input  type="text"
+                      class="form-control"
+                      placeholder="Nombre"
+                      name="name"
+                      required />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="lastname">Apellidos</label>
+              <input  type="text"
+                      class="form-control"
+                      placeholder="Apellidos"
+                      name="lastname"
+                      required />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="mail">Correo electrónico</label>
+              <input  type="text"
+                      class="form-control"
+                      placeholder="Correo electrónico"
+                      name="email" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="phone">Número telefónico</label>
+              <input  type="text"
+                      class="form-control"
+                      placeholder="Número telefonico"
+                      name="phone"
+                      required>
+            </div>
+
+
+            <div class="col-md-12 form-group">
+              <label for="company">¿Cuentas con licencia tipo C?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="license"        
+                          value="true"
+                          checked />
+                  Sí
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="license"
+                          value="false" />
+                  No
+                </label>
+              </div>
+            </div>
+
+
+            <div class="col-md-12 form-group">
+              <label for="company">¿Cuentas con una camioneta para pasajeros?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="isOwner"
+                          value="true">
+                  Sí
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="isOwner"
+                          value="false" checked>
+                  No
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="vehicle">¿De qué marca es tu vehículo?</label>
+              <select class="form-control" name="vehicleModel">
+                <option selected disabled value="none">Selecciona una opción</option>
+                <option>Volkswagen</option>
+                <option>Toyota</option>
+                <option>Nissan</option>
+                <option>Mercedes</option>
+                <option>Fiat</option>
+                <option>Pegout</option>
+                <option>Otros</option>
+              </select>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="">¿De qué año es tu vehículo?</label>
+              <select class="form-control" name="vehicleYear">
+                <option selected disabled value="none">Selecciona una opción</option>
+                <option>2017</option>
+                <option>2016</option>
+                <option>2015</option>
+                <option>2014</option>
+                <option>2013</option>
+                <option>2012 o anterior</option>
+              </select>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">¿Cuentas con algún permiso o placas especializadas?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="plates"
+                          value="true" />
+                  Sí
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="plates"
+                          value="false" />
+                  No
+                </label>
+              </div>
+            </div>
+
+        </div>
+        <div class="clearfix"></div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</div>
+
+
+ <!-- Modal Conductor -->
+ <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">¡Gracias, ya quedó registrada la solicitud!</h4>
+      </div>
+
+      <div class="modal-body text-center">
+        <div class="row">
+          <div class="col-md-12  .center">
+              <h5>Pronto alguien del equipo se pondra en contacto contigo</h5>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
