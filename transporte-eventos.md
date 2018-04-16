@@ -15,8 +15,9 @@ id: transporte-eventos
       <div class="col-md-8 col-md-offset-2 text-center">
         <h2>Ya sea que organices o vayas a un evento masivo, tenemos la solución para ti.</h2>
         <p class="lead">Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</p>
-        <a class="typeform-share btn btn-default btn-green" href="https://cledestino.typeform.com/to/t9Vmjl" data-mode="1" target="_blank">Cotiza</a>
-        <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+        <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalEventos">
+          Cotiza
+        </button>
       </div>
     </div>
   </div>
@@ -130,7 +131,9 @@ id: transporte-eventos
 
     <div class="row buen-viaje-info">
       <div class="col-md-6 col-md-offset-3 text-center" data-aos="fade-up" >
-      <a class="typeform-share btn btn-default btn-lg btn-gray " href="https://cledestino.typeform.com/to/t9Vmjl" data-mode="1" target="_blank">Cotiza</a>
+        <button type="button" class="btn btn-default btn-lg btn-gray" data-toggle="modal" data-target="#ModalEventos">
+          Cotiza
+        </button>
       </div>
     </div>
 
@@ -155,7 +158,287 @@ id: transporte-eventos
       </ul>
     </div>
     <div class="col-md-8 col-md-offset-2 text-center">
-      <a class="typeform-share btn btn-default btn-green" href="https://cledestino.typeform.com/to/t9Vmjl" data-mode="1" target="_blank">Cotiza</a>
+      <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalEventos">
+        Cotiza
+      </button>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal Eventos -->
+<div class="modal fade" id="ModalEventos" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
+      </div>
+
+      <form id="form-events">
+        <div class="modal-body">
+
+            <div class="col-md-6 form-group">
+              <label  for="name">Nombre</label>
+              <input  type="text"
+                      class="form-control"
+                      required
+                      maxlength="30"
+                      name="name"
+                      placeholder="Nombre" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="lastname">Apellido</label>
+              <input  type="text"
+                      class="form-control"
+                      required
+                      maxlength="60"
+                      name="lastname"
+                      placeholder="Apellido" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="mail">Correo electrónico</label>
+              <input  type="email"
+                      class="form-control"
+                      required
+                      maxlength="60"
+                      name="email"
+                      placeholder="Correo electrónico" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="cellphone">Número telefónico</label>
+              <input  type="text"
+                      class="form-control"
+                      required
+                      maxlength="20"
+                      name="phone"
+                      placeholder="Número telefónico">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="eventname">¿Cómo se llama el evento?</label>
+              <input  type="text"
+                      class="form-control"
+                      required
+                      maxlength="150"
+                      name="eventname"
+                      placeholder="">
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="company">¿Eres uno de los organizadores?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="organizer"
+                          value="true"
+                          checked>
+                  Sí
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="organizer"
+                          value="false">
+                  No
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="company">¿Cuál es tu necesidad?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="trip"
+                          value="Viaje sencillo" checked>
+                  Viaje sencillo
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="trip"
+                          value="Viaje redondo">
+                  Viaje redondo
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="trip"
+                          value="Vueltas constantes">
+                  Vueltas constantes
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">¿Número de asistentes?</label>
+            </div>
+            <div class="col-md-6 form-group">
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="0-9" checked>
+                  0 a 9
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="10-19">
+                  10 a 19
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="20-38">
+                  20 a 38
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="39-57">
+                  39 a 57
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="58-150">
+                  58 a 150
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="151-5000">
+                  151 a 5000
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="people"
+                          value="+5000">
+                  Más de 5000
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="adress">Dirección de salida</label>
+              <input  type="text"
+                      class="form-control" 
+                      name="origin_address"
+                      maxlength="200"
+                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="adress">Fecha de salida</label>
+              <div class='input-group date datepicker'>
+                <input  type='text'
+                        class="form-control"
+                        id='datetimepicker-event-1'
+                        maxlength="20"
+                        name="origin_date"
+                        placeholder="Día / Mes / Año"/>
+                <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                </span>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="adress">Hora de salida</label>
+              <input  type="text"
+                      id="timepicker-event-1"
+                      maxlength="20"
+                      class="form-control"
+                      name="origin_time"
+                      placeholder="AM / PM" />
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="adress">Dirección de Llegada</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="200"
+                      name="destination_address"
+                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="adress">Fecha de llegada  </label>
+              <div class='input-group' data-date-format="dd/mm/yyyy">
+                <input  type='text'
+                        class="form-control"
+                        id='datetimepicker-event-2'
+                        maxlength="20"
+                        name="destination_date"
+                        placeholder="Día / Mes / Año" />
+                <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                </span>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="adress">Hora de llegada </label>
+              <input  type="text"
+                      class="form-control"
+                      id="timepicker-event-2"
+                      maxlength="20"
+                      name="destination_time"
+                      placeholder="AM / PM">
+            </div>
+
+        </div>
+        <div class="clearfix"></div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</div>
+
+ <!-- Modal Conductor -->
+ <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
+      </div>
+
+      <div class="modal-body text-center">
+        <div class="row">
+          <div class="col-md-12  .center">
+              <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

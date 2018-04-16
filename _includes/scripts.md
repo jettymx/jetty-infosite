@@ -1101,8 +1101,58 @@
     });
 </script>
 
-<script type="text/javascript" src="js/jquery.js"></script>
+
+<!-- SGMNT -->
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(n,o);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  analytics.load("ConqY6qh0tPXUytdyE6Tl69McgJ55J2U");
+  analytics.page();
+  }}();
+</script>
+
+<!--<script type="text/javascript" src="js/jquery.js"></script>-->
 <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="js/forms.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
+  <script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
+
+<script type="text/javascript">
+  $(function () {
+    $('#datetimepicker-event-1').datetimepicker({
+      locale: 'es',
+      format: 'DD/MM/YYYY',
+      minDate: new Date(),
+      disabledDates: [new Date()]
+    });
+
+
+    $('#timepicker-event-1').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+
+
+    $('#datetimepicker-event-2').datetimepicker({
+      locale: 'es',
+      format: 'DD/MM/YYYY',
+      minDate: new Date(),
+      disabledDates: [new Date()]
+    });
+
+    $('#timepicker-event-2').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+
+    $('#datetimepicker-org-1').datetimepicker({
+      locale: 'es',
+      minDate: new Date(),
+      sideBySide: true
+    })
+  });
+</script>
 
 <script type="text/javascript">
   //Set your APP_ID
