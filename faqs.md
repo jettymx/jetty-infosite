@@ -145,16 +145,16 @@ id: aviso-de-privacidad
       <p>Siempre y cuando tu bicicleta no obstruya los pasillos y no incomode a los demás pasajeros, sí está permitido subirla a la camioneta. Procura colocarla de manera que esté garantizado el ascenso y descenso de todos los usuarios con facilidad. Asimismo, al subir y bajar tu bicicleta, hazlo con la mayor agilidad posible para no retrasar el viaje en curso.</p>
 
       <h3 id="veinticinco">Olvidé algo en un Jetty, ¿qué tengo que hacer?</h3>
-      <p>Contáctanos a través de la pestaña de soporte en la aplicación o escribiendo a <a href="soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> y danos el detalle de lo que se te olvidó y en qué viaje. Nos pondremos en contacto con el conductor para que puedas recuperar lo que extraviaste en nuestra oficina.</p>
+      <p>Contáctanos a través de la pestaña de soporte en la aplicación o escribiendo a <a href="mailto:soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> y danos el detalle de lo que se te olvidó y en qué viaje. Nos pondremos en contacto con el conductor para que puedas recuperar lo que extraviaste en nuestra oficina.</p>
 
       <h3 id="veintiseis">¿Puedo comer en mi Jetty?</h3>
       <p>Está permitido comer o beber en los vehículos, pero por favor considera a los demás. Es válido un bocado ligero y frío pero guarda tus alimentos más exóticos para cuando llegues a tu destino. Y por atención te pedimos no dejar ningún residuo dentro del vehículo. Recuerda que el servicio es para todos, y nos gustaría que tú lo encuentres en las mejores condiciones. Siempre.</p>
 
       <h3 id="veintisiete">¿Qué pasa si el sistema de cobro rechaza mi pago?</h3>
-      <p>Te pedimos revisar que los datos ingresados sean correctos, y que cuentas con saldo suficiente para reservar tu viaje. Si se sigue presentando el error, te pedimos comunicarte con nosotros a <a href="soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> para encontrar una solución. Adicionalmente te pedimos no realizar más intentos de cobro, pues existe el riesgo de ser bloqueado por las políticas antifraudes de nuestro sistema de cobro. Si el problema se debe a nuestro sistema, usualmente queda resuelto en menos de 24 horas. Estaremos en contacto contigo durante este tiempo para ayudarte a resolver satisfactoriamente esta situación.</p>
+      <p>Te pedimos revisar que los datos ingresados sean correctos, y que cuentas con saldo suficiente para reservar tu viaje. Si se sigue presentando el error, te pedimos comunicarte con nosotros a <a href="mailto:soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> para encontrar una solución. Adicionalmente te pedimos no realizar más intentos de cobro, pues existe el riesgo de ser bloqueado por las políticas antifraudes de nuestro sistema de cobro. Si el problema se debe a nuestro sistema, usualmente queda resuelto en menos de 24 horas. Estaremos en contacto contigo durante este tiempo para ayudarte a resolver satisfactoriamente esta situación.</p>
 
       <h3 id="veintiocho">¿Qué hago si la app no funciona?</h3>
-      <p>Primero revisa que estés conectado a la red celular o a un wi-fi. Posteriormente, revisa que tengas la versión actualizada de la aplicación. Esto lo puedes realizar en la Play Store o Apple Store en donde descargaste la app. Si, a pesar de descargar la última versión, el problema persiste, comunícate con nosotros a <a href="soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> y con gusto te ayudaremos.</p>
+      <p>Primero revisa que estés conectado a la red celular o a un wi-fi. Posteriormente, revisa que tengas la versión actualizada de la aplicación. Esto lo puedes realizar en la Play Store o Apple Store en donde descargaste la app. Si, a pesar de descargar la última versión, el problema persiste, comunícate con nosotros a <a href="mailto:soporte@jetty.mx" target="_blank">soporte@jetty.mx</a> y con gusto te ayudaremos.</p>
 
       <h3 id="veintinueve">¿Puedo solicitar Jetty para un evento o viaje privado?</h3>
       <p>Claro. Puedes reservar vehículo particular con conductor incluido, para salidas de fin de semana, bodas, conciertos, etc. Si deseas reservar este tipo de servicio, puedes entrar a <a href="http://www.jetty.mx/eventos" target="_blank">http://www.jetty.mx/eventos</a> para conocer los detalles.</p>
@@ -169,10 +169,10 @@ id: aviso-de-privacidad
       <p>Puedes cambiarlo aunque te pedimos considerar el tiempo de respuesta para nuestro equipo operativo. En caso de cancelación o cambio de viaje, debes realizarlo con un mínimo de 30 minutos de anticipación para que dichas modificaciones surtan efecto, ya que debe realizarse esta operación manualmente. Tu cambio estará sujeto a que el Jetty tenga disponibilidad. </p>
 
       <h3 id="trentaitres">¿Cómo puedo pedir una factura?</h3>
-      <p>Por ahora no contamos con un sistema sencillo para mandar facturas por viaje pero lo podríamos hacer por un corporativo o a partir de 10 viajes / mes.</p>
+      <p>Por ahora no contamos con un sistema sencillo para mandar facturas por viaje pero podemos facturar el total de tus viajes del mes. La fecha de nuestro cierre  es el 25 de cada mes. Facturaríamos el total de todos tus viajes a partir del 25 del mes anterior hasta el 24 del mes en curso. Para hacerlo, envía un correo a <a href="mailto:cristina@jetty.mx" target="_blank">cristina@jetty.mx</a> con los datos fiscales y el correo al que quieres que lleguen.</p>
 
       <h3 id="trentaicuatro">¿Qué hago para trabajar en Jetty? </h3>
-      <p>Siempre estamos buscando a gente que se sume al equipo. Si te interesa escríbenos a <a href="contacto@jetty.mx" target="_blank">contacto@jetty.mx</a> con tu CV.</p>
+      <p>Siempre estamos buscando a gente que se sume al equipo. Si te interesa escríbenos a <a href="mailto:contacto@jetty.mx" target="_blank">contacto@jetty.mx</a> con tu CV.</p>
 
       <h3 id="trentaicinco">¿Puedo comprar más de un boleto?</h3>
       <p>Sí, a la hora de reservar tu viaje puedes señalar cuántos pases quieres haciendo clic en la parte de más o menos pases. <img src="img/mas-menos.png" width="60"></p>

@@ -1110,13 +1110,13 @@
   }}();
 </script>
 
-<!--<script type="text/javascript" src="js/jquery.js"></script>-->
+<script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
 <script type="text/javascript" src="js/forms.js"></script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
-  <script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
+<script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
 
 <script type="text/javascript">
   $(function () {
