@@ -51,9 +51,9 @@ $('#form-events').submit(function (e){
         origin_address: formSerialized.origin_address,
         origin_date: formSerialized.origin_date,
         origin_time: formSerialized.origin_time,
-        destination_address: formSerialized.origin_address,
-        destination_date: formSerialized.origin_date,
-        destination_time: formSerialized.origin_time
+        destination_address: formSerialized.destination_address,
+        destination_date: formSerialized.destination_date,
+        destination_time: formSerialized.destination_time
     }
     
     analytics.track("Events - Complete", params)
