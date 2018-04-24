@@ -10,7 +10,7 @@ id: cobertura
     <div class="col-md-8 col-md-offset-2 text-center">
 
       <h2>Para reservar tu viaje, descarga la app:</h2>
-        <a href="ttps://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
+        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
         </a>
 
