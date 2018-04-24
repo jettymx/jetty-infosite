@@ -285,32 +285,24 @@ id: transporte-eventos
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="0-9" checked>
-                  0 a 9
+                          value="1-14" checked>
+                  1 a 14
                 </label>
               </div>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="10-19">
-                  10 a 19
+                          value="15-19">
+                  15 a 19
                 </label>
               </div>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="20-38">
-                  20 a 38
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="39-57">
-                  39 a 57
+                          value="20-28">
+                  20 a 28
                 </label>
               </div>
             </div>
@@ -320,24 +312,24 @@ id: transporte-eventos
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="58-150">
-                  58 a 150
+                          value="29-38">
+                  29 a 38
                 </label>
               </div>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="151-5000">
-                  151 a 5000
+                          value="39-58">
+                  39 a 58
                 </label>
               </div>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="people"
-                          value="+5000">
-                  Más de 5000
+                          value="+59">
+                  Más de 59
                 </label>
               </div>
             </div>
