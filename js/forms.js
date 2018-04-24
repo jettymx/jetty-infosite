@@ -10,12 +10,14 @@ $('#form-drivers').submit(function (e) {
         lastname: formSerialized.lastname,
         email: formSerialized.email,
         phone: formSerialized.phone,
+        address: formSerialized.address,
         license: formSerialized.license,
         owner: formSerialized.isOwner,
         vehicle_model: formSerialized.vehicleModel,
         vehicle_year: formSerialized.vehicleYear,
         plates: formSerialized.plates
     };
+
     
     analytics.track("Driver - Complete", params);
 
@@ -51,13 +53,15 @@ $('#form-events').submit(function (e){
         origin_address: formSerialized.origin_address,
         origin_date: formSerialized.origin_date,
         origin_time: formSerialized.origin_time,
-        destination_address: formSerialized.origin_address,
-        destination_date: formSerialized.origin_date,
-        destination_time: formSerialized.origin_time
+        destination_address: formSerialized.destination_address,
+        destination_date: formSerialized.destination_date,
+        destination_time: formSerialized.destination_time
     }
     
-    analytics.track("Events - Complete", params)
+    
 
+    
+    analytics.track("Events - Complete", params)
     $.ajax({
         type: 'POST',
         url: "https://jetty-web.herokuapp.com/api/event",
@@ -70,6 +74,7 @@ $('#form-events').submit(function (e){
             $('#ModalSuccess').modal('show');
         }
     });
+
 });
 
 

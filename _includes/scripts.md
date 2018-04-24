@@ -1110,8 +1110,8 @@
   }}();
 </script>
 
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/jquery.scrollTo.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="js/forms.js"></script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
@@ -1119,7 +1119,16 @@
 <script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
 
 <script type="text/javascript">
+
+  //Wrapper for scrollTo.js
+  function scroll(id, time) {
+    $.scrollTo(id, time)
+  }
+
   $(function () {
+
+    
+
     $('#datetimepicker-event-1').datetimepicker({
       locale: 'es',
       format: 'DD/MM/YYYY',

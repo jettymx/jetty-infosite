@@ -14,24 +14,24 @@ id: aviso-de-privacidad
     <div>
       <ul class="indice">
           <div class="col-md-6">
-            <li><a href="javascript:$.scrollTo('#uno',800);">¿Qué es Jetty?</a></li>
-            <li><a href="javascript:$.scrollTo('#dos',800);">¿Cómo funciona?</a></li>
-            <li><a href="javascript:$.scrollTo('#tres',800);">¿Puedo viajar sin reservación?</a></li>
-            <li><a href="javascript:$.scrollTo('#cuatro',800);">¿Mi asiento está garantizado?</a></li>
-            <li><a href="javascript:$.scrollTo('#cinco',800);">¿Cómo monitoreo mi viaje?</a></li>
-            <li><a href="javascript:$.scrollTo('#seis',800);">¿Qué pasa si llego tarde al punto de abordaje del Jetty?</a></li>
-            <li><a href="javascript:$.scrollTo('#siete',800);">¿Tienen tolerancia en los tiempos de salida?</a></li>
-            <li><a href="javascript:$.scrollTo('#ocho',800);">¿Qué pasa si mi Jetty llega tarde?</a></li>
-            <li><a href="javascript:$.scrollTo('#nueve',800);">¿Qué hago si no encuentro la parada?</a></li>
-            <li><a href="javascript:$.scrollTo('#diez',800);">¿Puedo cambiar / cancelar mi viaje?</a></li>
-            <li><a href="javascript:$.scrollTo('#once',800);">¿Estoy asegurado cuando viajo en Jetty?</a></li>
-            <li><a href="javascript:$.scrollTo('#doce',800);">¿Cuál es su política acerca de las sillas de rueda u otros dispositivos de asistencia?</a></li>
-            <li><a href="javascript:$.scrollTo('#trece',800);">¿Cuál es su política contra la discriminación?</a></li>
-            <li><a href="javascript:$.scrollTo('#catorce',800);">¿Tienen servicio en días festivos?</a></li>
-            <li><a href="javascript:$.scrollTo('#quince',800);">¿Pueden viajar con un menor de edad?</a></li>
-            <li><a href="javascript:$.scrollTo('#dieciseis',800);">¿Puedo darle propina a mi conductor?</a></li>
-            <li><a href="javascript:$.scrollTo('#diecisiete',800);">¿Qué hago si el viaje que deseo no está disponible?</a></li>
-            <li><a href="javascript:$.scrollTo('#dieciocho',800);">¿Dónde puedo encontrar las áreas de servicio y horarios de Jetty?</a></li>
+            <li><a href="javascript:scroll('#uno', 800)" >¿Qué es Jetty?</a></li>
+            <li><a href="javascript:scroll('#dos',800);">¿Cómo funciona?</a></li>
+            <li><a href="javascript:scroll('#tres',800);">¿Puedo viajar sin reservación?</a></li>
+            <li><a href="javascript:scroll('#cuatro',800);">¿Mi asiento está garantizado?</a></li>
+            <li><a href="javascript:scroll('#cinco',800);">¿Cómo monitoreo mi viaje?</a></li>
+            <li><a href="javascript:scroll('#seis',800);">¿Qué pasa si llego tarde al punto de abordaje del Jetty?</a></li>
+            <li><a href="javascript:scroll('#siete',800);">¿Tienen tolerancia en los tiempos de salida?</a></li>
+            <li><a href="javascript:scroll('#ocho',800);">¿Qué pasa si mi Jetty llega tarde?</a></li>
+            <li><a href="javascript:scroll('#nueve',800);">¿Qué hago si no encuentro la parada?</a></li>
+            <li><a href="javascript:scroll('#diez',800);">¿Puedo cambiar / cancelar mi viaje?</a></li>
+            <li><a href="javascript:scroll('#once',800);">¿Estoy asegurado cuando viajo en Jetty?</a></li>
+            <li><a href="javascript:scroll('#doce',800);">¿Cuál es su política acerca de las sillas de rueda u otros dispositivos de asistencia?</a></li>
+            <li><a href="javascript:scroll('#trece',800);">¿Cuál es su política contra la discriminación?</a></li>
+            <li><a href="javascript:scroll('#catorce',800);">¿Tienen servicio en días festivos?</a></li>
+            <li><a href="javascript:scroll('#quince',800);">¿Pueden viajar con un menor de edad?</a></li>
+            <li><a href="javascript:scroll('#dieciseis',800);">¿Puedo darle propina a mi conductor?</a></li>
+            <li><a href="javascript:scroll('#diecisiete',800);">¿Qué hago si el viaje que deseo no está disponible?</a></li>
+            <li><a href="javascript:scroll('#dieciocho',800);">¿Dónde puedo encontrar las áreas de servicio y horarios de Jetty?</a></li>
           </div>
 
           <div class="col-md-6">

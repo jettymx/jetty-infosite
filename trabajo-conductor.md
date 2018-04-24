@@ -189,6 +189,14 @@ id: trabajo-conductor
                       required>
             </div>
 
+            <div class="col-md-12 form-group">
+              <label for="company">¿En qué colonia y delegación/municipio vives?</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="120"
+                      name="address"
+                      required />
+            </div>
 
             <div class="col-md-12 form-group">
               <label for="company">¿Cuentas con licencia tipo C?</label>
