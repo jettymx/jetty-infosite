@@ -386,7 +386,7 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Fecha de llegada  </label>
+              <label for="adress">Fecha de regreso  </label>
               <div class='input-group' data-date-format="dd/mm/yyyy">
                 <input  type='text'
                         class="form-control"
@@ -401,7 +401,7 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Hora de llegada </label>
+              <label for="adress">Hora de regreso </label>
               <input  type="text"
                       class="form-control"
                       id="timepicker-event-2"
