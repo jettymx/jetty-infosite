@@ -21,7 +21,7 @@
           <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/conductor" target="_self">Trabaja con nosotros</a>
+          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Trabaja con nosotros</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>

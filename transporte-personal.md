@@ -2,7 +2,7 @@
 layout: default
 title: Jetty | Soluciona El Transporte de Personal de tu Empresa
 description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu transporte empresarial. Sin plazo forzoso ni presupuesto mínimo.
-id: organizaciones
+id: transporte-personal
 ---
 
 <div class="header-organizaciones">
@@ -160,7 +160,7 @@ id: organizaciones
             <div class="col-md-12 form-group">
               <label  for="company">Nombre de la Institución</label>
               <input  type="text"
-                      class="form-control" 
+                      class="form-control"
                       name="company"
                       required
                       maxlength="120"

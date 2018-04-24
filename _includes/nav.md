@@ -18,7 +18,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{site.baseurl}}/">Inicio</a></li>
           <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
-          <li><a href="{{site.baseurl}}/transporte-organizaciones">Organizaciones</a></li>
+          <li><a href="{{site.baseurl}}/transporte-personal">Organizaciones</a></li>
           <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
           <li><a href="{{site.baseurl}}/transporte-eventos">Eventos</a></li>
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>

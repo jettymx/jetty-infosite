@@ -2,7 +2,7 @@
 layout: default
 title: Jetty | Los beneficios de trabajar como socio conductor
 description: Buscamos conductores confiables, profesionales y amables, para unirse a nuestro equipo y marcar la diferencia en la movilidad urbana.
-id: conductor
+id: trabajo-conductor
 ---
 
 <div class="container-fluid conductor">
@@ -22,7 +22,7 @@ id: conductor
             <p>Como requisito, debes contar con una licencia tipo "C".</p>
           </div>
         </div>
-        
+
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
           Quiero ser parte de Jetty
         </button>
@@ -195,7 +195,7 @@ id: conductor
               <div class="radio">
                 <label>
                   <input  type="radio"
-                          name="license"        
+                          name="license"
                           value="true"
                           checked />
                   Sí
