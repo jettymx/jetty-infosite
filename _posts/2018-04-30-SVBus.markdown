@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "¿Jetty en el transporte colectivo tradicional?"
+date:   2018-04-30 11:00:00
+post_author: Onésimo Flores
+categories: update
+---
+
+![Jetty - SVBus]({{site.baseurl}}/imgs-blog/jetty-svbus.png)
+
+El sistema de transporte colectivo concesionado de la Ciudad de México tiene pros y contras. Del lado bueno, podemos decir que es (1) flexible, (2) barato y (3) ubiquo. Basta pararnos unos minutos en cualquier esquina para observar la gran cantidad de vagonetas, combis, taxis colectivos, micros y autobuses que ofrecen servicios de transporte. Los contras, sin embargo, son muy dolorosos. La oferta de transporte existente tiende a ser (1) insegura, (2) incómoda e (3) insensible a los reclamos de los usuarios. Cuando fundamos Jetty, decidimos enfocarnos en resolver estos tres aspectos negativos, y ahí vamos. Nuestra flota, cobertura y frecuencia sigue creciendo, llegando cada vez a [más rincones][cobertura] de la zona metropolitana.
+
+
+Sin embargo lo que hemos hecho hasta ahora es apenas una gotita en el mar. La gran mayoría de los habitantes de nuestra ciudad viajan en micro o colectivo, y sería ingenuo pensar que esa mayoría se cambiará a un servicio como Jetty. <b>El reto es entonces lograr que los transportistas tradicionales adopten un estándar más alto de servicio, lo más cercano al que ofrecemos en Jetty, en los servicios y rutas que ya tienen.</b> Hoy queremos anunciar un paso importante de esta estrategia.
+
+![Jetty - SVBus]({{site.baseurl}}/imgs-blog/svbus-fila.jpg)
+
+En muchas esquinas de la ciudad la gente hace largas colas para subirse al transporte colectivo tradicional. El lugar en la fila importa, pues solo los primeros lugares alcanzan asiento. Muchos capitalinos dejan su desayuno a medias, se despiden apresurados y salen mucho antes de lo estrictamente necesario de sus casas con tal de viajar sentados. Quienes no alcanzan asiento viajan menos seguros, más incómodos y bajo mucho más estrés que quienes viajan sentados, especialmente en viajes largos. En Jetty, hemos estado pensando como resolver este pequeño gran problema, y ta ta ta taaa… estamos listos para anunciar un primer gran experimento.
+
+Hicimos una alianza con SVBUS, la empresa que opera los autobuses morados que circulan por el segundo piso y por la Supervía Poniente. Su servicio es tan popular, que todas las mañanas se acumulan largas filas de usuarios en sus paraderos de Tepepan, al sur de la ciudad. La gente llega más de 30 minutos antes de la hora programada de salida, pues en hora pico se acumulan más de 50 personas en la fila. Quienes viven muy lejos de la parada, o tienen que atender a sus familiares, o tienen cualquier otra dificultad para acercarse con anticipación a la parada de SVBUS pierden la posibilidad de viajar sentados. Creemos que esto no tiene ningún sentido. A partir de hoy, los usuarios de SVBUS podrán reservar su asiento desde la aplicación de Jetty, y llegar sólo cinco minutos antes de la salida programada.
+
+
+![Jetty App con SVBus]({{site.baseurl}}/imgs-blog/app-jetty-svbus.png)
+
+Para este piloto, SVBUS añadió 3 autobuses nuevos a su flota. Estos vehículos tienen asientos más cómodos (de tela y acolchonados vs los de plástico tradicional). Los conductores asignados a estas unidades cumplieron con todos los estándares que aplicamos para los conductores de Jetty (y son re-buena onda). Por nuestra parte, adaptamos nuestra app. Quienes busquen un viaje de Tepepan a Santa Fe o a Auditorio en la app de Jetty, encontrarán a partir de hoy servicios “operados por SVBUS.” Al comprar su boleto, los usuarios de SVBUS no solo tendrán un asiento asegurado, podrán ver a la unidad acercarse, y podrán comunicarse en tiempo real con nuestro equipo de soporte. Al finalizar su viaje, los usuarios podrán calificar el viaje y dejarnos comentarios e ideas para mejorar juntos el servicio.
+
+![Jetty - SVBus]({{site.baseurl}}/imgs-blog/bus.jpg)
+
+El precio que pagarán los usuarios por el servicio de reserva servirá principalmente para justificar la inversión de SVBUS en sus nuevas unidades. Quienes compren su boleto desde nuestra app tendrán siempre un asiento garantizado: Serán los primeros en abordar cada mañana. Pero si por algún motivo hay asientos remanentes, SVBUS los pondrá a disposición del resto de sus usuarios al precio normal. De esta forma, creemos que todos ganan: Los usuarios que quieren pagar extra por más comodidad, los usuarios que quieren seguir ahorrando aunque viajen parados, y el transportista que aumentará su rentabilidad de manera responsable. Ojalá nos acompañen en este piloto compartiendonos su opinión, corriendo la voz y probando el servicio. Juntos vamos a mejorar radicalmente la movilidad de esta ciudad.
+
+PD: Por si no lo notaron, este es el primer esfuerzo por llevar los estándares de Jetty al transporte colectivo tradicional. No será el último. Esperen más sorpresas pronto.
+
+[cobertura]: http://www.jetty.mx/cobertura
