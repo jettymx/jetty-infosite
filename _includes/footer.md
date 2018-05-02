@@ -36,7 +36,7 @@
     <div class="col-md-3">
       <ul class="submenu">
         <li>
-          <a href="{{site.baseurl}}/faqs" target="_self">FAQs</a>
+          <a href="http://ayuda.jetty.mx" target="_self">FAQs</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/aviso-de-privacidad" target="_self">Aviso de privacidad</a>
