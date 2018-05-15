@@ -80,6 +80,16 @@
             center: new google.maps.LatLng(19.4100, -99.2300),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+        var mapOptionsSVBus1 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.3300, -99.2000),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+        var mapOptionsSVBus2 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.4100, -99.2300),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
         var mapElement = document.getElementById('map_canvas');
         var map = new google.maps.Map(mapElement, mapOptions);
 
@@ -103,6 +113,12 @@
 
         var mapElement8 = document.getElementById('map_canvas_8');
         var map8 = new google.maps.Map(mapElement8, mapOptions8);
+
+        var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
+        var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
+
+        var mapElementSVBus2 = document.getElementById('map_canvas_SVBus2');
+        var mapSVBus2 = new google.maps.Map(mapElementSVBus2, mapOptionsSVBus2);
 
          // Marker points
         var image = {
@@ -462,6 +478,34 @@
           icon: image
         });
 
+        // SVBus Acoxpa
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.298683, lng: -99.138151},
+          map: mapSVBus1,
+          icon: image
+        });
+
+        // SVBus Santa Fe
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.361202, lng: -99.261200},
+          map: mapSVBus1,
+          icon: image
+        });
+
+        // SVBus Auditorio
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.425002, lng: -99.193348},
+          map: mapSVBus2,
+          icon: image
+        });
+
+        // SVBus Santa Fe
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.361202, lng: -99.261200},
+          map: mapSVBus2,
+          icon: image
+        });
+
 
         var norte = [
           {lat: 19.5578, lng: -99.2052},
@@ -643,6 +687,35 @@
           {lat: 19.398458, lng: -99.175927},
           {lat: 19.403700, lng: -99.174854},
           {lat: 19.403700, lng: -99.174854}
+        ];
+
+        //SVBus
+        var acoxpa = [
+          {lat: 19.305113, lng: -99.137336},
+          {lat: 19.303067, lng: -99.143451},
+          {lat: 19.297388, lng: -99.144319},
+          {lat: 19.293945, lng: -99.138804},
+          {lat: 19.295605, lng: -99.132281},
+          {lat: 19.300729, lng: -99.133032}
+        ];
+
+        var santafeSVBus = [
+          {lat: 19.368905, lng: -99.261179},
+          {lat: 19.365119, lng: -99.266243},
+          {lat: 19.359896, lng: -99.265921},
+          {lat: 19.356374, lng: -99.260277},
+          {lat: 19.360220, lng: -99.254269},
+          {lat: 19.366233, lng: -99.256050}
+        ];
+
+        var auditorio = [
+          {lat: 19.432621, lng: -99.192833},
+          {lat: 19.430577, lng: -99.199893},
+          {lat: 19.425255, lng: -99.200343},
+          {lat: 19.421167, lng: -99.195687},
+          {lat: 19.421430, lng: -99.188627},
+          {lat: 19.425012, lng: -99.185967},
+          {lat: 19.430537, lng: -99.187855}
         ];
 
 
@@ -1090,6 +1163,67 @@
           map: map8
         });
 
+        // Line SVBus1 Acoxpa - Santa Fe
+        var lineSymbolSVBus1 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.303067, lng: -99.143451}, {lat: 19.356374, lng: -99.260277}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbolSVBus1,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: mapSVBus1
+        });
+
+        // Mapa SVBus2 Auditorio - Santa Fe
+        new google.maps.Polygon({
+          map: mapSVBus2,
+          paths: santafeSVBus,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: mapSVBus2,
+          paths: auditorio,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line SVBus1 Acoxpa - Santa Fe
+        var lineSymbolSVBus2 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.366233, lng: -99.256050}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbolSVBus2,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: mapSVBus2
+        });
+
     }
 
     $("#collapseOne").on("shown.bs.collapse", function(){
@@ -1127,7 +1261,7 @@
 
   $(function () {
 
-    
+
 
     $('#datetimepicker-event-1').datetimepicker({
       locale: 'es',

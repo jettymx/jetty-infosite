@@ -609,9 +609,24 @@ img.comillas{
   border-radius: 0px;
 }
 
-.rutas .panel-default>.panel-heading{
+/*.rutas .panel-default>.panel-heading{
   color: #fff;
   background-color: #4abfa8;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px
+}
+*/
+
+.rutas .panel-default .jetty{
+  color: #fff;
+  background-color: #4abfa8;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px
+}
+
+.rutas .panel-default .svbus{
+  color: #fff;
+  background-color: #623c98 !important;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px
 }
@@ -663,6 +678,10 @@ img.comillas{
 
 .vermapa{
   font-size: 15px;
+}
+
+.dondevas{
+  margin-top: 80px;
 }
 
 /*////// ORGANIZACIONES //////*/

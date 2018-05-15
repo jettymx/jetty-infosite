@@ -23,7 +23,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Zona Norte <-> Polanco</h4>
           </div>
           <div class="panel-body">
@@ -45,7 +45,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Reforma <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -56,7 +56,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Zona Norte <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -67,7 +67,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Aragón <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -78,7 +78,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Narvarte <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -89,7 +89,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Narvarte <-> Polanco</h4>
           </div>
           <div class="panel-body">
@@ -100,7 +100,7 @@ id: cobertura
 
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading jetty">
             <h4 class="panel-title">Polanco <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
@@ -111,11 +111,59 @@ id: cobertura
 
     </div>
 
-    <div class="col-md-12 text-center">
+    <!-- RUTAS SVBUS -->
+    <div class="rutas">
+      <h2>Operado por <img src="img/logo-svbus.png" width="100"></h2>
+
+      <!-- SVBus -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Acoxpa <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus1" class="map_canvas"></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <small style="margin-top: -10px">Operado por <img src="img/logo-svbus.png" width="50"></small>
+          </div>
+          <div class="col-md-6 text-right">
+            <a href="http://ayuda.jetty.mx/svbus" class="float-l">Conoce más aquí</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- SVBus -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Auditorio <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus2" class="map_canvas"></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <small style="margin-top: -10px">Operado por <img src="img/logo-svbus.png" width="50"></small>
+          </div>
+          <div class="col-md-6 text-right">
+            <a href="http://ayuda.jetty.mx/svbus" class="float-l">Conoce más aquí</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="col-md-12 text-center dondevas">
       <h3>¿Te interesa tener un Jetty cerca de ti?</h3>
       <p>Ingresa aquí tu origen y destino deseado y lo tomaremos en cuenta:</p>
       <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
     </div>
+
   </div>
 </div>
 
