@@ -113,7 +113,15 @@ id: cobertura
 
     <!-- RUTAS SVBUS -->
     <div class="rutas">
-      <h2>Operado por <img src="img/logo-svbus.png" width="100"></h2>
+
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Operado por <img src="img/logo-svbus.png" width="100" class="logosvbus"></h2>
+        </div>
+        <div class="col-md-8">
+          <a href="http://ayuda.jetty.mx/svbus" class="conocesvbus">Conoce más aquí</a>
+        </div>
+      </div>
 
       <!-- SVBus -->
       <div class="col-md-4">
@@ -123,14 +131,6 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus1" class="map_canvas"></div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <small style="margin-top: -10px">Operado por <img src="img/logo-svbus.png" width="50"></small>
-          </div>
-          <div class="col-md-6 text-right">
-            <a href="http://ayuda.jetty.mx/svbus" class="float-l">Conoce más aquí</a>
           </div>
         </div>
       </div>
@@ -143,14 +143,6 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus2" class="map_canvas"></div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <small style="margin-top: -10px">Operado por <img src="img/logo-svbus.png" width="50"></small>
-          </div>
-          <div class="col-md-6 text-right">
-            <a href="http://ayuda.jetty.mx/svbus" class="float-l">Conoce más aquí</a>
           </div>
         </div>
       </div>

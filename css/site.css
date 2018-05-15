@@ -684,6 +684,17 @@ img.comillas{
   margin-top: 80px;
 }
 
+.conocesvbus{
+  position: relative;
+  top: 31px;
+  left: -80px;
+}
+
+.logosvbus{
+  position: relative;
+  top:-5px;
+}
+
 /*////// ORGANIZACIONES //////*/
 .header-organizaciones{
   background: url('../img/Back_Organizaciones.jpg') no-repeat;
