@@ -1163,6 +1163,31 @@
           map: map8
         });
 
+        // Mapa SVBus1 Acoxpa - Santa Fe
+        new google.maps.Polygon({
+          map: mapSVBus1,
+          paths: acoxpa,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: mapSVBus1,
+          paths: santafeSVBus,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
         // Line SVBus1 Acoxpa - Santa Fe
         var lineSymbolSVBus1 = {
           path: 'M 0,-1 0,1',
