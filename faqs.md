@@ -5,7 +5,13 @@ description: En el centro de ayuda, encontrarás las respuestas a las preguntas 
 id: aviso-de-privacidad
 ---
 
-<div class="container">
+<body>
+  <script type="text/javascript">
+  window.location="http://ayuda.jetty.mx";
+  </script>
+</body>
+
+<!-- <div class="container">
   <div class="row privacidad">
     <div class="col-md-12">
       <h1>FAQs</h1>
@@ -184,4 +190,4 @@ id: aviso-de-privacidad
 
   </div>
 
-</div>
+</div> -->
