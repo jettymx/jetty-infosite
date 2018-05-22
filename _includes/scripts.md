@@ -87,7 +87,7 @@
 
         var mapOptionsSVBus2 = {
             zoom: 12,
-            center: new google.maps.LatLng(19.3900, -99.2300),
+            center: new google.maps.LatLng(19.3700, -99.1700),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
         var mapElement = document.getElementById('map_canvas');
@@ -499,9 +499,9 @@
           icon: image
         });
 
-        // SVBus Santa Fe
+        // SVBus Acoxpa
         var Marker = new google.maps.Marker({
-          position: {lat: 19.361202, lng: -99.261200},
+          position: {lat: 19.298683, lng: -99.138151},
           map: mapSVBus2,
           icon: image
         });
@@ -1209,7 +1209,7 @@
         // Mapa SVBus2 Auditorio - Santa Fe
         new google.maps.Polygon({
           map: mapSVBus2,
-          paths: santafeSVBus,
+          paths: acoxpa,
           strokeColor: '#49bda7',
           strokeOpacity: 0.8,
           strokeWeight: 2,
@@ -1239,7 +1239,7 @@
         };
 
         var line = new google.maps.Polyline({
-          path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.366233, lng: -99.256050}],
+          path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.303067, lng: -99.143451}],
           strokeOpacity: 0,
           icons: [{
             icon: lineSymbolSVBus2,

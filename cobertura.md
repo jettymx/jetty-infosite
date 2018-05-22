@@ -139,7 +139,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading svbus">
-            <h4 class="panel-title">Auditorio <-> Santa Fe</h4>
+            <h4 class="panel-title">Acoxpa <-> Auditorio</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus2" class="map_canvas"></div>
