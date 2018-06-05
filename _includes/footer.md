@@ -15,13 +15,13 @@
         </a>
     </div>
     <!-- <div class="col-md-1"></div> -->
-    <div class="col-md-2">
+    <div class="col-md-3">
       <ul class="submenu">
         <li>
           <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Trabaja con nosotros</a>
+          <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
@@ -30,7 +30,7 @@
           <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/vacantes" target="_self">Vacantes</a>
+          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Conductor o transportista</a>
         </li>
       </ul>
     </div>
@@ -51,8 +51,6 @@
         </li>
       </ul>
     </div>
-
-    <!-- <div class="col-md-1"></div> -->
 
     <div class="col-md-2 logo-footer">
       <img src="{{ site.baseurl }}/img/logo-jetty-green.svg">
