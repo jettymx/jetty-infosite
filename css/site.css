@@ -1361,9 +1361,25 @@ ul.testimoniales-blog li img{
   width: 300px;
 }
 
-/*/// Banner news ///*/
-.banner-news{
+/*/// Vacantes ///*/
+.content-vacantes{
+  margin-top: 50px;
+}
 
+.vacante{
+  padding: 20px
+}
+
+.vacante .btn{
+  margin-top: 15px;
+}
+
+.descripcion{
+  margin-top: 10px;
+}
+
+.descripcion p{
+  font-size: 16px;
 }
 
 /*/// 404 ////*/

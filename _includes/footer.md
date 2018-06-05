@@ -29,7 +29,9 @@
         <li>
           <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
         </li>
-
+        <li>
+          <a href="{{site.baseurl}}/vacantes" target="_self">Vacantes</a>
+        </li>
       </ul>
     </div>
 

@@ -16,7 +16,7 @@ id: prensa
       Cristina Palacios, <a href="mailto:cristina@jetty.mx">cristina@jetty.mx</a></p>
     </div>
 
-    <div class="col-md-11 col-md-offset-1">
+    <div class="col-md-10 col-md-offset-1">
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
