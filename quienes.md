@@ -124,6 +124,11 @@ id: quienes
             <img src="imgs-prensa/Logo-pip-Latam.png">
           </a>
         </li>
+        <li>
+          <a href="https://www.mheducation.com.mx" target="_blanck">
+            <img src="imgs-prensa/MHE-Logo_RGB.png">
+          </a>
+        </li>
       </ul>
     </div>
 
