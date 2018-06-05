@@ -67,14 +67,6 @@ id: quienes
   <img src="img/back-green-up.png">
 </div> -->
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2 text-center innku">
-      <img src="img/innku.png" alt="INNKU">
-      <p>Empresa de desarrollo de software. Ha realizado más de 100 proyectos y es socia de 7 negocios de base tecnológica.</p>
-    </div>
-  </div>
-</div>
 
 <div class="container alianzas-content">
   <div class="row">
@@ -113,7 +105,7 @@ id: quienes
         </li>
         <li>
           <a href="https://www.mheducation.com.mx" target="_blanck">
-            <img src="imgs-prensa/MHE-Logo_RGB.png">
+            <img src="imgs-prensa/MHE-Logo.png">
           </a>
         </li>
       </ul>

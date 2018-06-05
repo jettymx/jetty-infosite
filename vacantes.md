@@ -41,7 +41,7 @@ id: vacantes
                 <br>
                 Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones. </p>
 
-                <p><b>PRINCIPALES FUNCIONES</b></p>
+                <p style="margin-top: 22px"><b>PRINCIPALES FUNCIONES</b></p>
                 <ul>
                   <li>
                     <p>Dar seguimiento a los usuarios sobre el servicio de Jetty por medio de diversos canales de comunicación (ej. Sistema de mensajería, redes sociales, correo electrónico, chat y teléfono).</p>
