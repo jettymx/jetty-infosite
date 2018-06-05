@@ -891,7 +891,7 @@ img.mountain{
 }
 
 .alianzas-content{
-  margin-top: 70px;
+  margin-top: 0px;
 }
 
 .alianzas-content h1{
@@ -912,7 +912,7 @@ ul.alianzas li img{
   width: 150px;
 }
 
-.innku{
+/*.innku{
   margin-top: 0px;
 }
 
@@ -922,7 +922,7 @@ ul.alianzas li img{
 
 .innku img{
   width: 100px;
-}
+}*/
 
 img.logos{
   width: 100%;

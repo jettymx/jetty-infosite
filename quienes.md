@@ -70,7 +70,7 @@ id: quienes
 
 <div class="container alianzas-content">
   <div class="row">
-    <div class="col-md-6 text-center">
+    <div class="col-md-10 col-md-offset-1 text-center">
       <h1>Alianzas</h1>
       <ul class="alianzas">
         <li>
@@ -108,10 +108,15 @@ id: quienes
             <img src="imgs-prensa/MHE-Logo.png">
           </a>
         </li>
+        <li>
+          <a href="https://www.latamobility.com/" target="_blanck">
+            <img src="imgs-prensa/latam-mobility.png">
+          </a>
+        </li>
       </ul>
     </div>
 
-    <div class="col-md-6 text-center">
+    <div class="col-md-12 text-center" style="margin-top: 50px">
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
@@ -120,15 +125,27 @@ id: quienes
         <li>
           <img src="imgs-prensa/NEGRO.png">
         </li>
+        <li>
+          <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
+            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 300px;">
+          </a>
+        </li>
+        <li>
+          <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
+            <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 80px;">
+          </a>
+        </li>
       </ul>
-      <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-        <img src="imgs-prensa/shared.png" alt="Shared Use Mobility center" style="width: 80%; float:left"><img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 95px; float:left">
-      </a>
+      <!-- <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
+        <img src="imgs-prensa/shared.png" alt="Shared Use Mobility center" style="width: 200px; float:left">
+        <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 95px; float:left">
+      </a> -->
     </div>
 
   </div>
 </div>
 
+<div class="clearfix"></div>
 
 <div class="container reconocimientos">
   <div class="row">
