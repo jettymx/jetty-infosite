@@ -794,31 +794,59 @@ img.comillas{
 }
 
 /*////// QUIENES //////*/
+figure.header-quienes {
+  position: relative;
+  overflow: hidden;
+}
+
+figure.header-quienes img.back {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.header-quienes figcaption{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 70px;
+}
+
+.header-content-quienes h1{
+  color: white;
+}
+.header-content-quienes h2{
+  color: white;
+}
+.header-content-quienes h3{
+  color: white;
+}
+
 /*.main-quienes{
   background: #49bda7;
 }*/
 
-.header-quienes{
+/*.header-quienes{
   background: url('../img/Back_Quienes.jpg') no-repeat;
   background-size: 100%;
-  background-position-y: -300px;
+  background-position-y: -100px;
   padding-bottom: 250px;
 }
 
 .header-content-quienes{
  padding-top: 80px;
-}
+}*/
 
-.header-quienes h1{
+/*.header-quienes h1{
   color: #ffffff;
-  /*text-transform: uppercase;*/
 }
 
 .header-quienes h2{
   color: #ffffff;
   margin-top: 30px;
   font-weight: normal;
-}
+}*/
 
 .quienes-content{
   /*background: #49bda7;*/
@@ -1415,9 +1443,9 @@ ul.testimoniales-blog li img{
     padding-bottom: 500px;
   }
 
-  .header-quienes{
+  /*.header-quienes{
     background-position-y: 100%;
-  }
+  }*/
 
   .porque-content{
     padding-top: 0;
@@ -1428,36 +1456,49 @@ ul.testimoniales-blog li img{
   }
 }
 
-@media only screen and (min-width:993px) and (max-width: 1499px) {
-
-}
-
-@media only screen and (min-width:1025px) and (max-width: 1400px) {
-  .header-quienes{
-    padding-bottom: 200px;
-  }
-
+@media only screen and (min-width:1025px) and (max-width: 1300px) {
   .header-organizaciones{
     padding-bottom: 150px;
   }
 
+  figure.header{
+    height: 500px;
+  }
+
+  figure.header-quienes{
+    height: 520px;
+  }
+
+  figure.header-quienes img.back{
+    width: 120%;
+  }
+
+  .index-valor{
+    margin-top: 50px;
+  }
+
 }
+
 
 @media only screen and (min-width:769px) and (max-width: 1024px){
   figure.header{
     height: 550px;
   }
 
-  .index-valor{
-    margin-top: 0px;
-  }
-  .header-quienes{
-    padding-bottom: 20%;
-    background-position-y: -50px;
+  figure.header img.back{
+    width: 130%;
   }
 
-  .header-content-quienes{
-    padding-top: 50px;
+  figure.header-quienes{
+    height: 600px;
+  }
+
+  figure.header-quienes img.back{
+    width: 130%;
+  }
+
+  .index-valor{
+    margin-top: 0px;
   }
 
   .header-organizaciones{
@@ -1516,12 +1557,6 @@ ul.testimoniales-blog li img{
     width: 100%;
     margin-left: 0%;
     margin-top: 30px;
-  }
-
-  .header-quienes{
-    background-size:150%;
-    padding-bottom: 200px;
-    background-position-y: -230px;
   }
 
   .header-organizaciones{
@@ -1634,17 +1669,12 @@ ul.testimoniales-blog li img{
     width: 450%;
   }
 
-  .header-quienes{
-    background-size: 320%;
-    padding-bottom: 200px;
-    background-position-y: -270px;
-  }
-  .header-quienes h1{
-    font-size: 28px;
+  figure.header-quienes{
+    height: 700px;
   }
 
-  .header-content-quienes{
-    padding-top: 50px;
+  figure.header-quienes img.back {
+    width: 450%;
   }
 
   .header-organizaciones{
@@ -1771,14 +1801,6 @@ ul.testimoniales-blog li img{
 }
 
 @media screen and (max-width: 375px){
-  .header-quienes{
-    padding-bottom: 100px;
-    background-position-y: -320px;
-  }
-
-  .header-content-quienes{
-    padding-top: 50px;
-  }
 
   .header p{
     margin-top: 5em;
@@ -1826,17 +1848,11 @@ ul.testimoniales-blog li img{
     height: 780px;
   }
 
-  .header-quienes{
-    background-size: 350%;
-    padding-bottom: 120px;
-    background-position-y: -180px;
+  figure.header-quienes{
+    height: 780px;
   }
 
-  .header-content-quienes{
-    padding-top: 50px;
-  }
-
-   .header-organizaciones{
+  .header-organizaciones{
     background-size: 250%;
     padding-bottom: 100px;
     background-position-y:0px;

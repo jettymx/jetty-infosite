@@ -5,41 +5,28 @@ description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido
 id: quienes
 ---
 
-<div class="main-quienes">
-  <div class="header-quienes">
+<figure class="header-quienes">
+  <img src="img/Back_Quienes.jpg" alt="Jetty MX" class="back">
+  <figcaption>
     <div class="container header-content-quienes">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-10">
           <h1>Creamos e implementamos soluciones tecnológicas para eficientar y mejorar la calidad del transporte.</h1>
-          <h2>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h2>
+          <h2>Nuestro objetivo es mejorar la experiencia del pasajero al mismo tiempo que mejoramos la rentabilidad del empresario de transporte colectivo.</h2>
+          <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
         </div>
       </div>
     </div>
-  </div>
+  </figcaption>
+</figure>
 
-  <div class="quienes-content">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 col-md-offset-1 col-sm-6 text-center">
-          <img src="img/mountain.svg" class="mountain">
-          <p class="lead"><strong>¿Nuestra misión?</strong></p>
-          <p>Ofrecer una alternativa de transporte privado, seguro, confiable y accesible.</p>
-        </div>
-        <div class="col-md-4 col-md-offset-2 col-sm-6 text-center">
-          <img src="img/angel.svg" class="mountain">
-          <p class="lead"><strong>¿Dónde?</strong></p>
-          <p>Zona Metropolitana del Valle de México - con la ambición de abrir en más ciudades en los próximos meses.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+<div class="clearfix"></div>
 
-<div class="space-greenUp">
+<!-- <div class="space-greenUp">
   <img src="img/back-green-down.png">
-</div>
+</div> -->
 
-<div class="nosotros">
+<!-- <div class="nosotros">
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
@@ -74,11 +61,11 @@ id: quienes
     </div>
 
   </div>
-</div>
+</div> -->
 
-<div class="space-greenUp">
+<!-- <div class="space-greenUp">
   <img src="img/back-green-up.png">
-</div>
+</div> -->
 
 <div class="container">
   <div class="row">
@@ -154,7 +141,7 @@ id: quienes
 <div class="container reconocimientos">
   <div class="row">
     <div class="col-md-12 text-center">
-      <h1>Jetty en la prensa:</h1>
+      <h1>Jetty en la prensa</h1>
       <ul class="alianzas">
         <li>
           <img src="imgs-prensa/reforma.png">
