@@ -8,7 +8,7 @@ id: vacantes
 <div class="container">
   <div class="row prensa">
     <div class="col-md-12">
-      <h1>EMPRESA</h1>
+      <h1>SÚMATE AL EQUIPO</h1>
       <p>En <a href="{{site.baseurl}}/">Jetty</a> estamos construyendo soluciones tecnológicas para mejorar la experiencia de traslado en la ciudad. Nuestra misión es ofrecer una alternativa de transporte privado seguro, confiable y accesible. Actualmente ofrecemos soluciones de traslado para personas en viajan entre las zonas de Aragón, Cuautitlán, Condesa, Narvarte, Santa Fe y Polanco, y próximamente tendremos una cobertura de servicio mayor en el área metropolitana del Valle de México.</p>
     </div>
 
