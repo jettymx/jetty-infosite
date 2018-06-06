@@ -124,9 +124,9 @@ id: vacantes
                   <li>
                     <p>Una mente aguda y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar soluciones a problemas. </p>
                   </li>
-                  <li>
+                  <!-- <li>
                     <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
+                  </li> -->
                   <li>
                     <p>Enfoque orientado al cliente y a la resolución de problemas. </p>
                   </li>
@@ -312,9 +312,9 @@ id: vacantes
                   <li>
                     <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar las decisiones empresariales utilizando información de los datos.</p>
                   </li>
-                  <li>
+                  <!-- <li>
                     <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
+                  </li> -->
                 </ul>
 
                 <br>
