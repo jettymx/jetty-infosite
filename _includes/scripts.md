@@ -70,10 +70,10 @@
             center: new google.maps.LatLng(19.3800, -99.2200),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-         var mapOptions7 = {
-            zoom: 12,
-            center: new google.maps.LatLng(19.4200, -99.1900),
-            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+         // var mapOptions7 = {
+         //    zoom: 12,
+         //    center: new google.maps.LatLng(19.4200, -99.1900),
+         //    styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
         var mapOptions8 = {
             zoom: 12,
@@ -108,8 +108,8 @@
         var mapElement6 = document.getElementById('map_canvas_6');
         var map6 = new google.maps.Map(mapElement6, mapOptions6);
 
-        var mapElement7 = document.getElementById('map_canvas_7');
-        var map7 = new google.maps.Map(mapElement7, mapOptions7);
+        // var mapElement7 = document.getElementById('map_canvas_7');
+        // var map7 = new google.maps.Map(mapElement7, mapOptions7);
 
         var mapElement8 = document.getElementById('map_canvas_8');
         var map8 = new google.maps.Map(mapElement8, mapOptions8);
@@ -387,53 +387,53 @@
         });
 
         // Narvarte - Polanco
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.372277, lng: -99.157134},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.372277, lng: -99.157134},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.389093, lng: -99.177963},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.389093, lng: -99.177963},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.40349, lng: -99.17858},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.40349, lng: -99.17858},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.420166, lng: -99.177038},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.420166, lng: -99.177038},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.432371, lng: -99.182103},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.432371, lng: -99.182103},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.43237, lng: -99.1821},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.43237, lng: -99.1821},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.43546, lng: -99.19027},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.43546, lng: -99.19027},
+        //   map: map7,
+        //   icon: image
+        // });
 
-        var Marker = new google.maps.Marker({
-          position: {lat: 19.4398308, lng: -99.2008781},
-          map: map7,
-          icon: image
-        });
+        // var Marker = new google.maps.Marker({
+        //   position: {lat: 19.4398308, lng: -99.2008781},
+        //   map: map7,
+        //   icon: image
+        // });
 
         // Polanco Santa Fe
         var Marker = new google.maps.Marker({
@@ -1055,70 +1055,70 @@
 
 
         // Mapa 7
-        new google.maps.Polygon({
-          map: map7,
-          paths: narvarte,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map7,
+        //   paths: narvarte,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
-        new google.maps.Polygon({
-          map: map7,
-          paths: polancoNEW,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map7,
+        //   paths: polancoNEW,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
-        new google.maps.Polygon({
-          map: map7,
-          paths: roma,
-          strokeColor: '#49bda7',
-          strokeOpacity: 0.8,
-          strokeWeight: 2,
-          fillColor: '#49bda7',
-          fillOpacity: 0.5,
-          draggable: false,
-          geodesic: true
-        });
+        // new google.maps.Polygon({
+        //   map: map7,
+        //   paths: roma,
+        //   strokeColor: '#49bda7',
+        //   strokeOpacity: 0.8,
+        //   strokeWeight: 2,
+        //   fillColor: '#49bda7',
+        //   fillOpacity: 0.5,
+        //   draggable: false,
+        //   geodesic: true
+        // });
 
         // Line 7 Narvarte - Polanco
-        var lineSymbol7 = {
-          path: 'M 0,-1 0,1',
-          strokeOpacity: 0.5,
-          scale: 4
-        };
+        // var lineSymbol7 = {
+        //   path: 'M 0,-1 0,1',
+        //   strokeOpacity: 0.5,
+        //   scale: 4
+        // };
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.4158, lng: -99.1718}, {lat: 19.410257, lng: -99.175283}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol7,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map7
-        });
+        // var line = new google.maps.Polyline({
+        //   path: [{lat: 19.4158, lng: -99.1718}, {lat: 19.410257, lng: -99.175283}],
+        //   strokeOpacity: 0,
+        //   icons: [{
+        //     icon: lineSymbol7,
+        //     offset: '0',
+        //     repeat: '20px'
+        //   }],
+        //   map: map7
+        // });
 
-        var line = new google.maps.Polyline({
-          path: [{lat: 19.385322, lng: -99.175712}, {lat: 19.377859, lng: -99.158918}],
-          strokeOpacity: 0,
-          icons: [{
-            icon: lineSymbol7,
-            offset: '0',
-            repeat: '20px'
-          }],
-          map: map7
-        });
+        // var line = new google.maps.Polyline({
+        //   path: [{lat: 19.385322, lng: -99.175712}, {lat: 19.377859, lng: -99.158918}],
+        //   strokeOpacity: 0,
+        //   icons: [{
+        //     icon: lineSymbol7,
+        //     offset: '0',
+        //     repeat: '20px'
+        //   }],
+        //   map: map7
+        // });
 
         // Mapa 8
         new google.maps.Polygon({
