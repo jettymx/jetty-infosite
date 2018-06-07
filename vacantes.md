@@ -373,7 +373,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                Director de Operaciones</p>
+                Director/a de Operaciones</p>
               </div>
               <div class="col-md-4 text-right">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_2" aria-expanded="false" aria-controls="collapse_2">
