@@ -1153,7 +1153,7 @@ ul.indice li{
 
 .eventos{
   margin-bottom: 0px;
-  padding-bottom: 100px;
+  padding-bottom:50px;
 }
 
 .eventos h2{
@@ -1161,7 +1161,8 @@ ul.indice li{
 }
 
 .eventos img{
-  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  /*box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;*/
+  box-shadow: 0 13px 12px -10px rgba(0, 0, 0, 0.5);
 }
 
 .eventos a{
@@ -1225,6 +1226,25 @@ ul.indice li{
 
 .eventos-servicios{
   padding-bottom: 100px;
+}
+
+.eventos-servicios h2{
+  margin-bottom: 50px;
+}
+
+.eventos-servicios h3{
+  color: #7e8080;
+  font-weight: 700;
+}
+
+.eventos-servicios button{
+  margin-top: 30px;
+}
+
+.img-servicios{
+  /*box-shadow: 0 13px 12px -10px rgba(0, 0, 0, 0.5);*/
+  margin-bottom: 10px;
+  width: 300px;
 }
 
 /*////// COBERTURA //////*/
@@ -1770,7 +1790,7 @@ ul.testimoniales-blog li img{
 
   .header-eventos{
     background-size: 300%;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
     background-position-y: -50px;
   }
 
@@ -1796,6 +1816,10 @@ ul.testimoniales-blog li img{
     display: block;
     position: relative;
     top: -90px;
+  }
+
+  .img-servicios{
+    margin-top: 30px;
   }
 
 }
