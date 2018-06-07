@@ -196,7 +196,7 @@ id: vacantes
                 <br>
 
                 <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:hola@jetty.mx">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante. </p>
+                <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante. </p>
 
               </div>
             </div>
@@ -350,12 +350,201 @@ id: vacantes
                 <p><b>¿TE INTERESA?</b></p>
                 <ul>
                   <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx">hola@jetty.mx</a> utilizando <b>“Desarrollador/a Jr.”</b> como asunto del correo. Adjunta tu CV, cualquier link que nos ayude a conocerte (github, linkedin, cv) y un párrafo de por qué te interesa la vacante.</p>
+                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Desarrollador/a Jr.">hola@jetty.mx</a> utilizando <b>“Desarrollador/a Jr.”</b> como asunto del correo. Adjunta tu CV, cualquier link que nos ayude a conocerte (github, linkedin, cv) y un párrafo de por qué te interesa la vacante.</p>
                   </li>
                 </ul>
 
               </div>
             </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- VACANTE 3 -->
+      <div class="panel panel-default vacante">
+        <div class="panel-body">
+
+          <div class="col-md-2">
+            <img src="img/vacante-operaciones.png" width="60">
+          </div>
+
+          <div class="col-md-10">
+            <div class="row">
+              <div class="col-md-8">
+                <p><b>PUESTO</b><br>
+                Director de Operaciones</p>
+              </div>
+              <div class="col-md-4 text-right">
+                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_2" aria-expanded="false" aria-controls="collapse_2">
+                Ver descripción
+              </a>
+              </div>
+            </div>
+
+            <div class="collapse" id="collapse_2">
+              <div class="descripcion">
+                <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
+                <br>
+                El Director de Operaciones es responsable de ejecutar los procesos y funciones que permiten 1) la entrega de nuestros servicios de transporte y 2) el crecimiento de la compañía.</p>
+
+                <p style="margin-top: 22px"><b>RESPONSABILIDADES CLAVE</b></p>
+                <ul>
+                  <li>
+                    <p>Informes periódicos de las métricas de rendimiento para el equipo.</p>
+                  </li>
+                  <li>
+                    <p>Trabajar directamente con los reguladores en CDMX, Estado de México y otros lugares.</p>
+                  </li>
+                  <li>
+                    <p>Definir y dar seguimiento a los objetivos clave y los KPIs.</p>
+                  </li>
+                  <li>
+                    <p>Reclutar y trabajar con transportistas que buscan profesionalizar sus servicios por medio de la tecnología de Jetty.</p>
+                  </li>
+                  <li>
+                    <p>Capacitar a los transportistas sobre nuestra tecnología y políticas operativas con el objetivo de profesionalizarlos.</p>
+                  </li>
+                  <li>
+                    <p>Asegurar que los transportistas cumplan con nuestros estándares de calidad, puntualidad, operadores y especificaciones de las unidades (antigüedad, limpieza, estado general) del vehículo. Esto por medio de calificaciones y reseñas de usuarios.</p>
+                  </li>
+                  <li>
+                    <p>Analizar con el equipo de Soporte al Cliente las quejas relacionadas a la operación para resolverlas, con el objetivo de encontrar soluciones convenientes para todas las partes. </p>
+                  </li>
+                  <li>
+                    <p>Tratar de cerca a operadores y administradores de flotilla para conocer sus necesidad y encontrar soluciones convenientes para todas las partes. </p>
+                  </li>
+                  <li>
+                    <p>Comunicar problemas a los diferentes equipos y proponer o trabajar en conjunto para encontrar formas de solucionarlos.</p>
+                  </li>
+                  <li>
+                    <p>Reclutar, formar y liderar el equipo de Operaciones. Específicamente, para el Soporte a Usuarios.</p>
+                  </li>
+                  <li>
+                    <p>Identificar oportunidades para expansiones de servicios, planificar y diseñar nuevas rutas en coordinación con el equipo de Crecimiento.</p>
+                  </li>
+                  <li>
+                    <p>Analizar, optimizar y expandir nuestras áreas de servicio para aumentar el factor de carga de nuestra flota.</p>
+                  </li>
+                  <li>
+                    <p>Seguir construyendo el manual de operaciones. </p>
+                  </li>
+                  <li>
+                    <p>Colaborar con equipos multidisciplinarios (marketing, operaciones, tecnología) para definir, diseñar e implementar nuevas funciones para mejorar la experiencia de usuario. </p>
+                  </li>
+                  <li>
+                    <p>Mantenerse al tanto de los procesos y herramientas de Jetty. </p>
+                  </li>
+                  <li>
+                    <p>Trabajar en colaboración con colegas y otros departamentos para agilizar procesos.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>HABILIDADES NECESARIAS</b></p>
+                <ul>
+                  <li>
+                    <p>Enfoque orientado al cliente (usuario y transportista) y a la resolución de problemas. </p>
+                  </li>
+                  <li>
+                    <p>Excepcionales habilidades de comunicación. Es muy importante que estar en constante comunicación con los diferentes equipos para poder entender las necesidades del cliente y proponer soluciones innovadoras a los problemas. </p>
+                  </li>
+                  <li>
+                    <p>Pensamiento estructurado, organizado, motivado por la innovación y proactivo. </p>
+                  </li>
+                  <li>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de startup en un entorno de alto crecimiento / ágil.</p>
+                  </li>
+                  <li>
+                    <p>Una mente aguda y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar soluciones a problemas. </p>
+                  </li>
+                  <li>
+                    <p>Habilidad de administración de sus tiempos y objetivos.</p>
+                  </li>
+                  <li>
+                    <p>Fuertes habilidades de estructuración y análisis con la capacidad de establecer procesos de negocio eficientes.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>REQUISITOS</b></p>
+                <ul>
+                  <li>
+                    <p>Tener un título sobresaliente de una universidad superior.</p>
+                  </li>
+                  <li>
+                    <p>Mínimo de 4 años en gestión de flotas, consultoría o logística y cadena de suministro.</p>
+                  </li>
+                  <li>
+                    <p>Experiencia en gestión de proyectos y equipos.</p>
+                  </li>
+                  <li>
+                    <p>Excelente dominio de Excel.</p>
+                  </li>
+                  <li>
+                    <p>Inglés. </p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>PRINCIPALES RELACIONES INTERNAS Y EXTERNAS</b></p>
+                <ul>
+                  <li>
+                    <p><b>Relaciones internas:</b> Comunicación y colaboración con las áreas de tecnología, soporte y marketing.</p>
+                  </li>
+                  <li>
+                    <p><b>Relaciones externas:</b> Interacción con usuarios, operadores y transportistas. </p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>DATOS GENERALES DEL PUESTO</b></p>
+                <ul>
+                  <p><b>1. Jornada Laboral</b></p>
+                  <li>
+                    <p>Lunes a Viernes.</p>
+                  </li>
+                  <li>
+                    <p>40 horas a la semana.</p>
+                  </li>
+                  <li>
+                    <p>Horario definido por la Operación. </p>
+                  </li>
+                  <li>
+                    <p>6 días de vacaciones al cumplir el primer año de trabajo, incrementos según la ley correspondiente.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <ul>
+                  <p><b>2. Remuneración económica y Prestaciones</b></p>
+                  <li>
+                    <p>Pago por medio de tarjeta de nómina en cada quincena.</p>
+                  </li>
+                  <li>
+                    <p>Prestaciones de ley: Cotización en IMSS e INFONAVIT, prima vacacional y aguinaldo.</p>
+                  </li>
+                  <li>
+                    <p>Primeros 3 meses contratación por tiempo indefinido.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>¿TE INTERESA?</b></p>
+                <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+
+              </div>
+            </div>
+
           </div>
 
         </div>
