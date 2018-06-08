@@ -73,6 +73,17 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <a href="docs/reforma-documental.pdf" target="_blank"><img src="imgs-prensa/reforma.png"></a>
+        </div>
+        <div class="col-md-9">
+          <h3>Refleja en documental traslados extremos</h3>
+          <p>No sólo en la Ciudad de México, también ciudadanos de otras urbes del mundo padecen el traslado sobre distancias extremas desde sus hogares hasta sus lugares de trabajo, experimentando pérdida de calidad de vida, violencia y menos tiempo con sus familias.</p>
+          <a href="docs/reforma-documental.pdf" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
 
     </div>
 
