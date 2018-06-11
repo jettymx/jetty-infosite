@@ -6,6 +6,8 @@ post_author: Jetty
 categories: update
 ---
 
+<meta property="og:image" content="http://www.jetty.mx/imgs-blog/express.png" />
+
 ![Jetty - SVBus]({{site.baseurl}}/imgs-blog/express.png)
 
 A partir del lunes haremos un nuevo experimento. <b>Vamos a pilotear un viaje “express” en nuestro servicio Cuautitlán/Perinorte a Polanco/Reforma.</b> El Jetty que sale a las  6:20 am subirá al segundo piso desde Perinorte y no hará ninguna escala hasta Polanco. Según nuestros cálculos, <b>este ajuste equivale a un ahorro de 30 minutos,</b> comparado con nuestro servicio actual.
