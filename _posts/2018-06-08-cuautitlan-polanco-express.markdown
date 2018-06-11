@@ -6,8 +6,7 @@ post_author: Jetty
 categories: update
 ---
 
-<!-- <meta property="og:image" content="http://www.jetty.mx/imgs-blog/express.png" /> -->
-<link rel="image_src" href="http://www.jetty.mx/imgs-blog/express.png" / >
+<meta property="og:image" content="http://www.jetty.mx/imgs-blog/express.png" />
 
 ![Jetty - SVBus]({{site.baseurl}}/imgs-blog/express.png)
 
