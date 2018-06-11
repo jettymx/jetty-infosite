@@ -20,7 +20,6 @@
 
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="http://jetty.mx">
-<!--   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg"> -->
 
   {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
