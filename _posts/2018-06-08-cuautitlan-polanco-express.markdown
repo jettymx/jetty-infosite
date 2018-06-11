@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿Viaja sin escalas desde Cuautitlán/Perinorte a Polanco"
+title:  "De Cuautitlán Izcalli a Polanco: sin escalas"
 date:   2018-06-08 10:00:00
 post_author: Jetty
 categories: update
