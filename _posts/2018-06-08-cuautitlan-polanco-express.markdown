@@ -7,10 +7,11 @@ categories: update
 ---
 
 <meta property="og:image" content="http://www.jetty.mx/imgs-blog/express.png" />
+<!-- <link rel="image_src" href="http://www.jetty.mx/imgs-blog/express.png" / > -->
 
 ![Jetty - SVBus]({{site.baseurl}}/imgs-blog/express.png)
 
-A partir del lunes haremos un nuevo experimento. <b>Vamos a pilotear un viaje “express” en nuestro servicio Cuautitlán/Perinorte a Polanco/Reforma.</b> El Jetty que sale a las  6:20 am subirá al segundo piso desde Perinorte y no hará ninguna escala hasta Polanco. Según nuestros cálculos, <b>este ajuste equivale a un ahorro de 30 minutos,</b> comparado con nuestro servicio actual.
+A partir del lunes haremos un nuevo experimento. <b>Vamos a pilotear un par de viajes “express” en nuestro servicio Cuautitlán/Perinorte a Polanco/Reforma.</b> Los Jettys que salen a las 6:20 am y 6:50 am subirán al segundo piso desde Perinorte y no harán ninguna escala hasta Polanco. Según nuestros cálculos, <b>este ajuste equivale a un ahorro de 30 minutos,</b> comparado con nuestro servicio actual.
 
 Hemos evaluado los riesgos de agregar servicios “express”. Para que el viaje espress sea sostenible, tendremos que llenar <i>todos los asientos</i> desde el punto de salida, y ser lo <i>suficientemente ágiles</i> para alcanzar a dar varias vueltas dentro el horario pico. Hoy eso no sucede. El Jetty se llena poco a poco, con algunos usuarios abordando en cada escala, a un costo significativo de tiempo. Con cada escala adicional, incrementamos el tiempo total de viaje, y reducimos algunas de las ventajas que tenemos sobre el transporte colectivo tradicional.
 

@@ -20,7 +20,7 @@
 
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="http://jetty.mx">
-  <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg">
+<!--   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg"> -->
 
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
@@ -28,7 +28,7 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-datetimepicker.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
-  
+
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
