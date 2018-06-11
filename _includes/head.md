@@ -22,6 +22,12 @@
   <meta property="og:url" content="http://jetty.mx">
 <!--   <meta property="og:image" content="http://www.jetty.mx/img/Jetty_Logo.jpg"> -->
 
+  {% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="http://www.jetty.mx/img/Jetty_MX.png" />
+  {% endif %}
+
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
