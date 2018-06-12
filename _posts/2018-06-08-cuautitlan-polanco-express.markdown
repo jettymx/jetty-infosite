@@ -6,8 +6,6 @@ post_author: Jetty
 image: http://www.jetty.mx/imgs-blog/express.png
 categories: update
 ---
-<!--
-<meta property="og:image" content="http://www.jetty.mx/imgs-blog/express.png" /> -->
 
 ![Jetty - SVBus]({{site.baseurl}}/imgs-blog/express.png)
 
