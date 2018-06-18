@@ -39,7 +39,7 @@ id: transporte-personal
         <img src="img/icon-seguridad.svg">
         <h2>Vehículos de primera</h2>
       </div>
-      <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, <b>Wi-Fi y cámaras de seguridad.</b></p>
+      <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, y<b> cámaras de seguridad.</b></p>
     </div>
     <div class="col-md-4">
       <div class="text-center">

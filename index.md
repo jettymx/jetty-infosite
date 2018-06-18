@@ -43,28 +43,28 @@ id: Home
 
 <div class="container index-valor">
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
       <div class="text-center">
         <img src="img/icon-shield.svg" alt="Jetty, Seguridad">
       </div>
       <h3>Seguridad</h3>
       <p>Todas nuestras unidades cuentan con cámaras de vigilancia y son monitoreadas vía GPS.</p>
     </div>
-    <div class="col-md-3">
+    <!-- <div class="col-md-3">
       <div class="text-center">
         <img src="img/icon-wifi.svg" alt="Jetty, Conectividad">
       </div>
       <h3>Conectividad</h3>
       <p>Durante el viaje, carga tu celular y conéctate a nuestro Wi-Fi.</p>
-    </div>
-    <div class="col-md-3">
+    </div> -->
+    <div class="col-md-4">
       <div class="text-center">
         <img src="img/icon-support.svg" alt="Jetty, Tranquilidads">
       </div>
       <h3>Tranquilidad</h3>
       <p>Nuestros conductores y el equipo de soporte, están capacitados para darte el mejor servicio.</p>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
       <div class="text-center">
         <img src="img/icon-gps.svg" alt="Jetty, Eficiencia">
       </div>

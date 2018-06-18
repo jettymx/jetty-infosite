@@ -141,7 +141,7 @@ id: transporte-eventos
     <div class="col-md-4 text-center">
       <img src="img/interiores.png" class="img-servicios">
       <h3>Equipamiento</h3>
-      <p>Aire acondicionado en cabina y para pasajeros, 4 cargadores USB por fila, GPS, WiFi, Cámaras de seguridad hacia el interior y el exterior.</p>
+      <p>Aire acondicionado en cabina y para pasajeros, 4 cargadores USB por fila, GPS, Cámaras de seguridad hacia el interior y el exterior.</p>
     </div>
     <div class="col-md-4 text-center">
       <img src="img/camionetas.png" class="img-servicios">
