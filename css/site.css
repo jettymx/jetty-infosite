@@ -47,6 +47,13 @@ a:hover{
   padding: 10px 0;
 }
 
+/* GRADIENT */
+/*background: rgb(47,134,188);
+background: -moz-linear-gradient(-45deg, rgba(47,134,188,1) 0%, rgba(75,190,168,1) 73%);
+background: -webkit-linear-gradient(-45deg, rgba(47,134,188,1) 0%,rgba(75,190,168,1) 73%);
+background: linear-gradient(135deg, rgba(47,134,188,1) 0%,rgba(75,190,168,1) 73%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f86bc', endColorstr='#4bbea8',GradientType=1 );*/
+
 .navbar-default{
   background: #4abea7;
   border: none;
@@ -96,6 +103,7 @@ a:hover{
 }
 
 .footer .logo-footer img{
+  margin-top: 35px;
   width: 140px;
 }
 
@@ -110,6 +118,7 @@ a:hover{
   display: inline;
   display: block;
   margin-right: 30px;
+  line-height: 2;
 }
 
 .footer ul li a{
@@ -1718,6 +1727,14 @@ ul.testimoniales-blog li img{
   /*////// DESCARGA LA APP //////*/
   .footer-downapp{
     text-align: center;
+  }
+
+  .footer ul.submenu{
+    margin-top: 0px;
+  }
+
+  .testimonial{
+    height: 300px;
   }
 
   p.text-downapp{

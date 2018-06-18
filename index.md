@@ -6,6 +6,7 @@ id: Home
 ---
 
 <figure class="header">
+  <!-- <img src="img/back-header2.png" alt="Jetty MX" class="back"> -->
   <img src="img/back-header.jpg" alt="Jetty MX" class="back">
   <figcaption>
     <div class="container">
@@ -236,19 +237,19 @@ id: Home
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
             <div class="item active text-center">
-              <h3><img src="img/comillas1.png" class="comillas"> Excelente el servicio y más hoy que me tocó con lluvia, puntuales incluso con la cantidad de tráfico que había. Me fue muy grato el viaje porque iba muy cómoda. <img src="img/comillas2.png" class="comillas"><br><span class="name">Eunice G.</span></h3>
+              <h3><img src="img/comillas1.png" class="comillas"> Genial servicio! Conductor súper amable. Cada vez van abriendo más servicios y si no te queda alguna puedes preguntar para que te digan por donde pasa y te recojan. Seguro, rápido y cómodo. No hay mejor manera para llegar a Santa Fé <img src="img/comillas2.png" class="comillas"><br><span class="name">Nancy G.</span></h3>
             </div>
             <div class="item text-center">
-              <h3><img src="img/comillas1.png" class="comillas"> Ventaja No. 59 de usar Jetty. Puedo escuchar a mi @reclu sin gastar datos y sin manejar hacia el trabajo. <img src="img/comillas2.png" class="comillas"><br><span class="name">Jimena A.</span></h3>
+              <h3><img src="img/comillas1.png" class="comillas"> Excelente servicio, de hecho extraordinario de verdad, lo recomendaré mucho. <img src="img/comillas2.png" class="comillas"><br><span class="name">Juan Carlos C.</span></h3>
             </div>
             <div class="item text-center">
-              <h3><img src="img/comillas1.png" class="comillas"> Tienen un excelente servicio: Cómodo, seguro, y sin duda el mejor. <img src="img/comillas2.png" class="comillas"><br><span class="name">Carla C.</span></h3>
+              <h3><img src="img/comillas1.png" class="comillas"> Muy buen servicio, las camionetas son super puntuales, cuentan con cámaras de seguridad y el servicio al cliente siempre está atento a lo que necesites, lo utilizaré casi diario. <img src="img/comillas2.png" class="comillas"><br><span class="name">Rafael C.</span></h3>
             </div>
             <div class="item text-center">
-              <h3><img src="img/comillas1.png" class="comillas"> Excelente experiencia, volveré a usar el servicio y lo recomendaré con mis conocidos. <img src="img/comillas2.png" class="comillas"><br><span class="name">Mariana C.</span></h3>
+              <h3><img src="img/comillas1.png" class="comillas"> Excelente, llevo varios meses viajando en Jetty y el servicio es perfecto, Enrique es super amable muy educado y siempre preocupado porque lleguemos a tiempo y con bien a nuestro destino, al servicio y a Enrique les doy 5 estrellas, gracias. <img src="img/comillas2.png" class="comillas"><br><span class="name">Hugo C.</span></h3>
             </div>
             <div class="item text-center">
-              <h3><img src="img/comillas1.png" class="comillas"> Luis <span class="name">(conductor)</span> es siempre muy amable y maneja muy bien. Estoy muy contenta con el servicio. <img src="img/comillas2.png" class="comillas"><br><span class="name">Karla A.</span></h3>
+              <h3><img src="img/comillas1.png" class="comillas"> Excelente servicio, ya no uso mi carro para ir a la oficina. <img src="img/comillas2.png" class="comillas"><br><span class="name">Luis Antonio F.</span></h3>
             </div>
           </div>
 
