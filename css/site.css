@@ -1439,6 +1439,10 @@ ul.testimoniales-blog li img{
   font-size: 16px;
 }
 
+.descripcion-btn-aling{
+  text-align: right;
+}
+
 /*/// 404 ////*/
 .content-404{
   padding-top: 100px;
@@ -1837,6 +1841,14 @@ ul.testimoniales-blog li img{
 
   .img-servicios{
     margin-top: 30px;
+  }
+
+  .descripcion-btn-aling{
+    text-align: left;
+  }
+
+  .vacante img{
+    margin-bottom: 20px;
   }
 
 }
