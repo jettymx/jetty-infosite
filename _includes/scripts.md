@@ -90,6 +90,11 @@
             center: new google.maps.LatLng(19.3700, -99.1700),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+        var mapOptionsSVBus3 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.4200, -99.2300),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
         var mapElement = document.getElementById('map_canvas');
         var map = new google.maps.Map(mapElement, mapOptions);
 
@@ -119,6 +124,9 @@
 
         var mapElementSVBus2 = document.getElementById('map_canvas_SVBus2');
         var mapSVBus2 = new google.maps.Map(mapElementSVBus2, mapOptionsSVBus2);
+
+        var mapElementSVBus3 = document.getElementById('map_canvas_SVBus3');
+        var mapSVBus3 = new google.maps.Map(mapElementSVBus3, mapOptionsSVBus3);
 
          // Marker points
         var image = {
@@ -506,6 +514,20 @@
           icon: image
         });
 
+        // SVBus Toreo
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.456510, lng: -99.214495},
+          map: mapSVBus3,
+          icon: image
+        });
+
+        // SVBus Santafe2
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.379889, lng: -99.248893},
+          map: mapSVBus3,
+          icon: image
+        });
+
 
         var norte = [
           {lat: 19.5578, lng: -99.2052},
@@ -716,6 +738,28 @@
           {lat: 19.421430, lng: -99.188627},
           {lat: 19.425012, lng: -99.185967},
           {lat: 19.430537, lng: -99.187855}
+        ];
+
+        var santafeSVBus2 = [
+          {lat: 19.381750, lng: -99.249116},
+          {lat: 19.380748, lng: -99.250521},
+          {lat: 19.379351, lng: -99.250746},
+          {lat: 19.377934, lng: -99.249749},
+          {lat: 19.377499, lng: -99.247860},
+          {lat: 19.378471, lng: -99.246401},
+          {lat: 19.380161, lng: -99.245843},
+          {lat: 19.381851, lng: -99.248129}
+        ];
+
+        var toreoSVBus = [
+          {lat: 19.459069, lng: -99.215075},
+          {lat: 19.457906, lng: -99.216566},
+          {lat: 19.456277, lng: -99.217124},
+          {lat: 19.454669, lng: -99.216072},
+          {lat: 19.454436, lng: -99.213852},
+          {lat: 19.455569, lng: -99.212049},
+          {lat: 19.457390, lng: -99.212242},
+          {lat: 19.458574, lng: -99.213498}
         ];
 
 
@@ -1247,6 +1291,49 @@
             repeat: '20px'
           }],
           map: mapSVBus2
+        });
+
+        // Mapa SVBus3 Toreo - Santa Fe
+        new google.maps.Polygon({
+          map: mapSVBus3,
+          paths: toreoSVBus,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: mapSVBus3,
+          paths: santafeSVBus2,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line SVBus3 Toreo - Santa Fe
+        var lineSymbolSVBus3 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat:  19.381851, lng: -99.248129}, {lat: 19.454669, lng: -99.216072}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbolSVBus3,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: mapSVBus3
         });
 
     }

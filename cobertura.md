@@ -146,6 +146,19 @@ id: cobertura
           </div>
         </div>
       </div>
+
+      <!-- SVBus -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Toreo <-> SantaFe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus3" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <div class="clearfix"></div>
