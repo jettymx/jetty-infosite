@@ -2,6 +2,7 @@
 layout: default
 title: Jetty | Soluciona tu Transporte Diario en México.
 description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de  Camionetas Ejecutivas con Conductores Verificados.
+image: https://www.jetty.mx/img/Jetty_MX.png
 id: Home
 ---
 

@@ -109,6 +109,17 @@ id: cobertura
         </div>
       </div>
 
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">M. Chabacano <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_9" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <!-- RUTAS SVBUS -->

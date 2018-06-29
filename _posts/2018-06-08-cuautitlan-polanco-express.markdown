@@ -3,7 +3,7 @@ layout: post
 title:  "De Cuautitlán Izcalli a Polanco: sin escalas"
 date:   2018-06-08 10:00:00
 post_author: Jetty
-image: http://www.jetty.mx/imgs-blog/express.png
+image: https://www.jetty.mx/imgs-blog/express.png
 categories: update
 ---
 

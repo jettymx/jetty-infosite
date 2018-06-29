@@ -80,6 +80,11 @@
             center: new google.maps.LatLng(19.4100, -99.2300),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+        var mapOptions9 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.3900, -99.2050),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
         var mapOptionsSVBus1 = {
             zoom: 11,
             center: new google.maps.LatLng(19.3300, -99.2000),
@@ -118,6 +123,9 @@
 
         var mapElement8 = document.getElementById('map_canvas_8');
         var map8 = new google.maps.Map(mapElement8, mapOptions8);
+
+        var mapElement9 = document.getElementById('map_canvas_9');
+        var map9 = new google.maps.Map(mapElement9, mapOptions9);
 
         var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
         var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
@@ -486,6 +494,49 @@
           icon: image
         });
 
+        // M. Chabacano Santa Fe
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.408763, lng: -99.135426},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.406640, lng: -99.155583},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.405954, lng: -99.169395},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.405992, lng: -99.178016},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.367421, lng: -99.263693},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.362472, lng: -99.265903},
+          map: map9,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.357274, lng: -99.274792},
+          map: map9,
+          icon: image
+        });
+
         // SVBus Acoxpa
         var Marker = new google.maps.Marker({
           position: {lat: 19.298683, lng: -99.138151},
@@ -709,6 +760,48 @@
           {lat: 19.398458, lng: -99.175927},
           {lat: 19.403700, lng: -99.174854},
           {lat: 19.403700, lng: -99.174854}
+        ];
+
+        var chabacano = [
+          {lat: 19.411275, lng: -99.135334},
+          {lat: 19.410405, lng: -99.137608},
+          {lat: 19.408685, lng: -99.138831},
+          {lat: 19.406560, lng: -99.138831},
+          {lat: 19.405629, lng: -99.137007},
+          {lat: 19.405872, lng: -99.135033},
+          {lat: 19.407126, lng: -99.133617},
+          {lat: 19.409272, lng: -99.133338},
+          {lat: 19.410486, lng: -99.134368}
+        ];
+
+        var romaChabacano = [
+          {lat: 19.407144, lng: -99.149801},
+          {lat: 19.409330, lng: -99.154179},
+          {lat: 19.408804, lng: -99.161946},
+          {lat: 19.408561, lng: -99.168040},
+          {lat: 19.408116, lng: -99.173963},
+          {lat: 19.407711, lng: -99.177911},
+          {lat: 19.406416, lng: -99.180743},//
+          {lat: 19.404149, lng: -99.179413},
+          {lat: 19.403056, lng: -99.173147},
+          {lat: 19.403421, lng: -99.164950},
+          {lat: 19.403582, lng: -99.158384},
+          {lat: 19.404392, lng: -99.151303}
+        ];
+
+        var santafeChabacano = [
+          {lat: 19.371675, lng: -99.260839},
+          {lat: 19.369327, lng: -99.264187},
+          {lat: 19.365278, lng: -99.267062},
+          {lat: 19.362930, lng: -99.271010},
+          {lat: 19.358780, lng: -99.277448},
+          {lat: 19.356026, lng: -99.278027},
+          {lat: 19.355642, lng: -99.275130},
+          {lat: 19.356371, lng: -99.272384},
+          {lat: 19.358476, lng: -99.267920},
+          {lat: 19.362039, lng: -99.263629},
+          {lat: 19.365723, lng: -99.261226},
+          {lat: 19.368234, lng: -99.259337}
         ];
 
         //SVBus
@@ -1189,7 +1282,7 @@
           geodesic: true
         });
 
-        // Line 7 Polanco - Santa Fe
+        // Line 8 Polanco - Santa Fe
         var lineSymbol8 = {
           path: 'M 0,-1 0,1',
           strokeOpacity: 0.5,
@@ -1205,6 +1298,72 @@
             repeat: '20px'
           }],
           map: map8
+        });
+
+        // Mapa 9
+        new google.maps.Polygon({
+          map: map9,
+          paths: santafeChabacano,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map9,
+          paths: chabacano,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        new google.maps.Polygon({
+          map: map9,
+          paths: romaChabacano,
+          strokeColor: '#49bda7',
+          strokeOpacity: 0.8,
+          strokeWeight: 2,
+          fillColor: '#49bda7',
+          fillOpacity: 0.5,
+          draggable: false,
+          geodesic: true
+        });
+
+        // Line 9 M. Chabacano - Santa Fe
+        var lineSymbol9 = {
+          path: 'M 0,-1 0,1',
+          strokeOpacity: 0.5,
+          scale: 4
+        };
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.408685, lng: -99.138831}, {lat: 19.404392, lng: -99.151303}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol9,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map9
+        });
+
+        var line = new google.maps.Polyline({
+          path: [{lat: 19.406416, lng: -99.180743}, {lat: 19.371675, lng: -99.260839}],
+          strokeOpacity: 0,
+          icons: [{
+            icon: lineSymbol9,
+            offset: '0',
+            repeat: '20px'
+          }],
+          map: map9
         });
 
         // Mapa SVBus1 Acoxpa - Santa Fe
