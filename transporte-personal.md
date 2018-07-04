@@ -17,7 +17,7 @@ id: transporte-personal
         </div>
         <p class="lead">Jetty se adapta a su necesidad bajo diferentes esquemas para alcanzar los mejores resultados.</p>
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-          Quiero agendar una llamada
+          Solicita información
         </button>
       </div>
       <div class="col-md-3"></div>
@@ -50,7 +50,7 @@ id: transporte-personal
     </div>
     <div class="col-md-12 text-center">
       <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-        Quiero agendar una llamada
+        Solicita información
       </button>
     </div>
   </div>
@@ -109,7 +109,7 @@ id: transporte-personal
     <div class="col-md-12 text-center" data-aos="fade-up">
       <!-- Button trigger modal -->
       <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-        Quiero agendar una llamada
+        Solicita información
       </button>
     </div>
   </div>
