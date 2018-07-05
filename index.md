@@ -252,6 +252,9 @@ id: Home
             <div class="item text-center">
               <h3><img src="img/comillas1.png" class="comillas"> Excelente servicio, ya no uso mi carro para ir a la oficina. <img src="img/comillas2.png" class="comillas"><br><span class="name">Luis Antonio F.</span></h3>
             </div>
+            <div class="item text-center">
+              <h3><img src="img/comillas1.png" class="comillas"> Como ya se está volviendo una maravillosa costumbre, JETTY me acompaña casi diario para comenzar bien mi día... ¡Son únicos! ¡Los amo! <img src="img/heart.png" width="25"> <img src="img/comillas2.png" class="comillas"><br><span class="name">Klaus</span></h3>
+            </div>
           </div>
 
           <!-- Controls -->
