@@ -1,3 +1,5 @@
+<!-- <img src="https://www.jetty.mx/img/Jetty_MX.png" alt="Jetty MX" class="img-display"> -->
+
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="container">
