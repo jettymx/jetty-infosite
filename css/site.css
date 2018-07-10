@@ -1402,6 +1402,10 @@ h1.blog-title{
   width: 100%;
 }
 
+.img-conductor{
+  width: 30% !important;
+}
+
 ul.testimoniales-blog{
   list-style: none;
   padding: 0;
@@ -1818,6 +1822,10 @@ ul.testimoniales-blog li img{
 
   .blog li{
     height: 350px;
+  }
+
+  .img-conductor{
+    width: 40% !important;
   }
 
   .eventos-content{
