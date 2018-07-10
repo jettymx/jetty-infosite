@@ -69,6 +69,9 @@
         <li class="social-mobile">
           <a href="https://www.instagram.com/jetty.mx" target="_blank" class="social-ins"></a>
         </li>
+        <li class="social-mobile">
+          <a href="https://medium.com/@jettymx" target="_blank" class="social-medium"></a>
+        </li>
       </ul>
     </div>
   </div>

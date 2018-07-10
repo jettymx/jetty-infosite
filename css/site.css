@@ -156,6 +156,10 @@ a.social-ins{
   background-size: 58px !important;
 }
 
+a.social-medium{
+  background-size: 58px !important;
+}
+
 .social-fb{
   width: 29px;
   height: 29px;
@@ -204,6 +208,23 @@ a.social-tw:hover{
 a.social-ins:hover{
   background: url('../img/redes.png') -87px -58px;
 }
+
+.social-medium{
+  width: 29px;
+  height: 29px;
+  padding: 0 !important;
+  margin-top: 20px;
+  margin-left: 10px;
+  display: inline-block;
+  background: url('../img/redes.png') 0 -87px;
+  background-size: 58px;
+  overflow: hidden;
+}
+
+a.social-medium:hover{
+  background: url('../img/redes.png') -142px -87px;
+}
+
 
 .btn-green{
   border: none;
