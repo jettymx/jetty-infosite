@@ -22,6 +22,6 @@ Si algo distingue a <b>Luis Antonio</b> es su sentido de responsabilidad y su ca
 • “Excelente! La atención fue muy buena y la conducción también. Las camionetas están en muy buenas condiciones y pude descansar mucho en ese trayecto que normalmente es desgastante. Gracias Luis, gracias Jetty <3” - <i>Zelt.</i>
 
 <div class="text-center">
-  <p>Por estas razones, Luis Antonio es nuestro “Conductor del Mes”.</p>
+  <p>Por estas razones, Luis Antonio es nuestro “Conductor estrella”.</p>
   <p><b>¡Gracias por tu apoyo, amigo!</b></p>
 </div>
