@@ -89,15 +89,17 @@ $('#form-company').submit(function (e){
         name: formSerialized.name,
         lastname: formSerialized.lastname,
         email: formSerialized.email,
+        phone: formSerialized.phone,
         organization_name: formSerialized.company,
         organization_address: formSerialized.company_address,
         organization_size: formSerialized.people,
-        phone: formSerialized.phone,
-        date_call: formSerialized.datetime_call,
+        departure_hour: formSerialized.departure_hour,
+        return_hour: formSerialized.return_hour,
+        have_match_service: formSerialized.match_service
     }
 
     analytics.track("Organizations - Complete", params)
-
+    
     $.ajax({
         type: 'POST',
         url: "https://jetty-web.herokuapp.com/api/organization",
@@ -110,4 +112,5 @@ $('#form-company').submit(function (e){
             $('#ModalSuccess').modal('show');
         }
     });
+    
 });
