@@ -147,14 +147,25 @@ id: transporte-personal
                       placeholder="Apellidos">
             </div>
 
-            <div class="col-md-12 form-group">
+            <div class="col-md-6 form-group">
               <label for="mail">Correo electrónico</label>
-              <input  type="text"
+              <input  type="email"
+                      pattern=".+@*.*"
                       class="form-control"
                       required
                       maxlength="60"
                       name="email"
                       placeholder="Correo electrónico">
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label for="phone">Número telefónico</label>
+              <input  type="text"
+                      class="form-control"
+                      required
+                      maxlength="20"
+                      name="phone"
+                      placeholder="Número telefónico">
             </div>
 
             <div class="col-md-12 form-group">
@@ -176,65 +187,55 @@ id: transporte-personal
                       placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado">
             </div>
 
-            <div class="col-md-12 form-group">
-              <label for="company">Número estimado de personas en tu institución:</label>
-            </div>
-
             <div class="col-md-6 form-group">
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="0-100" checked>
-                  0 a 100
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="101-250">
-                  101 a 250
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <div class="radio ">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="251-500">
-                  251 a 500
-                </label>
-              </div>
-              <div class="radio ">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="+500">
-                  Más de 500
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="phone">¿A qué número te podemos marcar?</label>
+              <label  for="schedule_in">Horario de entrada</label>
               <input  type="text"
-                      class="form-control"
-                      name="phone"
+                      id="timepicker-org-1"
                       maxlength="20"
-                      placeholder="Número y extensión">
+                      class="form-control"
+                      name="departure_hour"
+                      placeholder="AM / PM" />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="schedule_out">Horario de salida</label>
+              <input  type="text"
+                      id="timepicker-org-2"
+                      maxlength="20"
+                      class="form-control"
+                      name="return_hour"
+                      placeholder="AM / PM" />
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="phone">¿Cuándo te conviene que te marquemos?</label>
+              <label for="company">Número estimado de personas interesadas en el servicio:</label>
               <input  type="text"
                       class="form-control"
-                      id="datetimepicker-org-1"
-                      maxlength="40"
-                      name="datetime_call"
-                      placeholder="Día y hora">
+                      name="people"
+                      required
+                      maxlength="120"
+                      placeholder="">
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="company">¿Uno o varios de <a href="/cobertura" target="_blank">nuestros servicios actuales </a>cumplen con la necesidad de los interesados?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="match_service"
+                          value="true"
+                          checked>
+                  Sí
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="match_service"
+                          value="false">
+                  No
+                </label>
+              </div>
             </div>
 
         </div>

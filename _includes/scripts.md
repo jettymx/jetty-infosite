@@ -1565,6 +1565,17 @@
       minDate: new Date(),
       sideBySide: true
     })
+
+    $('#timepicker-org-1').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+    
+    $('#timepicker-org-2').datetimepicker({
+      locale: 'es',
+      format: 'LT'
+    });
+    
   });
 </script>
 
