@@ -85,6 +85,11 @@
             center: new google.maps.LatLng(19.3900, -99.2050),
             styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+        var mapOptions10 = {
+            zoom: 12,
+            center: new google.maps.LatLng(19.5050, -99.2400),
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
         var mapOptionsSVBus1 = {
             zoom: 11,
             center: new google.maps.LatLng(19.3300, -99.2000),
@@ -126,6 +131,9 @@
 
         var mapElement9 = document.getElementById('map_canvas_9');
         var map9 = new google.maps.Map(mapElement9, mapOptions9);
+
+        var mapElement10 = document.getElementById('map_canvas_10');
+        var map10 = new google.maps.Map(mapElement10, mapOptions10);
 
         var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
         var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
@@ -537,6 +545,37 @@
           icon: image
         });
 
+        // Atizapan Santa Fe
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.552101, lng: -99.271061},
+          map: map10,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.50659, lng: -99.25855},
+          map: map10,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.4999103, lng: -99.2506583},
+          map: map10,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.490982, lng: -99.243133},
+          map: map10,
+          icon: image
+        });
+
+        var Marker = new google.maps.Marker({
+          position: {lat: 19.44271, lng: -99.20496},
+          map: map10,
+          icon: image
+        });
+
         // SVBus Acoxpa
         var Marker = new google.maps.Marker({
           position: {lat: 19.298683, lng: -99.138151},
@@ -802,6 +841,46 @@
           {lat: 19.362039, lng: -99.263629},
           {lat: 19.365723, lng: -99.261226},
           {lat: 19.368234, lng: -99.259337}
+        ];
+
+        var atizapan = [
+          {lat: 19.559241, lng: -99.272905},
+          {lat: 19.556395, lng: -99.277540},
+          {lat: 19.550369, lng: -99.279686},
+          {lat: 19.544061, lng: -99.276167},
+          {lat: 19.542564, lng: -99.271188},
+          {lat: 19.544344, lng: -99.265910},
+          {lat: 19.548914, lng: -99.262133},
+          {lat: 19.553928, lng: -99.262906},
+          {lat: 19.558943, lng: -99.266554}
+        ];
+
+        var lomasVerdes = [
+          {lat: 19.512122, lng: -99.262031},
+          {lat: 19.507510, lng: -99.264692},
+          {lat: 19.502818, lng: -99.262203},
+          {lat: 19.498125, lng: -99.256967},
+          {lat: 19.490277, lng: -99.249414},
+          {lat: 19.483399, lng: -99.240660},
+          {lat: 19.486717, lng: -99.234651},
+          {lat: 19.491572, lng: -99.235252},
+          {lat: 19.497802, lng: -99.242204},
+          {lat: 19.504112, lng: -99.245552},
+          {lat: 19.509048, lng: -99.251560},
+          {lat: 19.512122, lng: -99.258169}
+        ];
+
+        var atizapanPolanco = [
+          {lat: 19.449660, lng: -99.204970},
+          {lat: 19.446989, lng: -99.210377},
+          {lat: 19.442457, lng: -99.212652},
+          {lat: 19.437641, lng: -99.211922},
+          {lat: 19.434403, lng: -99.207760},
+          {lat: 19.433391, lng: -99.201065},
+          {lat: 19.436022, lng: -99.196301},
+          {lat: 19.440797, lng: -99.194670},
+          {lat: 19.445694, lng: -99.196172},
+          {lat: 19.449134, lng: -99.199734}
         ];
 
         //SVBus
@@ -1366,6 +1445,72 @@
           map: map9
         });
 
+        // Mapa 10
+              new google.maps.Polygon({
+                map: map10,
+                paths: atizapan,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#49bda7',
+                fillOpacity: 0.5,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: map10,
+                paths: lomasVerdes,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#49bda7',
+                fillOpacity: 0.5,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: map10,
+                paths: atizapanPolanco,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#49bda7',
+                fillOpacity: 0.5,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line 10 Atizapan - Polanco
+              var lineSymbol10 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.542564, lng: -99.271188}, {lat: 19.512122, lng: -99.262031}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol9,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: map10
+              });
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.486717, lng: -99.234651}, {lat: 19.449660, lng: -99.204970}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol9,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: map10
+              });
+
         // Mapa SVBus1 Acoxpa - Santa Fe
         new google.maps.Polygon({
           map: mapSVBus1,
@@ -1570,12 +1715,12 @@
       locale: 'es',
       format: 'LT'
     });
-    
+
     $('#timepicker-org-2').datetimepicker({
       locale: 'es',
       format: 'LT'
     });
-    
+
   });
 </script>
 

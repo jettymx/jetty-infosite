@@ -1469,6 +1469,17 @@ ul.testimoniales-blog li img{
   text-align: right;
 }
 
+/*////// DIFERENCIAS //////*/
+.table{
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.table>thead>tr>th{
+  /*font-size: 16px;*/
+  padding: 10px;
+}
+
 /*/// 404 ////*/
 .content-404{
   padding-top: 100px;
