@@ -15,6 +15,213 @@ id: vacantes
 
     <div class="col-md-10 col-md-offset-1 content-vacantes">
 
+      <!-- VACANTE 1 -->
+      <div class="panel panel-default vacante">
+        <div class="panel-body">
+
+          <div class="col-md-1">
+            <img src="img/vacante-soporte.png" width="60">
+          </div>
+
+          <div class="col-md-11">
+            <div class="row">
+              <div class="col-md-8">
+                <p><b>PUESTO</b><br>
+                 Ejecutivo de Soporte a clientes</p>
+              </div>
+              <div class="col-md-4 descripcion-btn-aling">
+                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_0" aria-expanded="false" aria-controls="collapse_0">
+                Ver descripción
+              </a>
+              </div>
+            </div>
+
+            <div class="collapse" id="collapse_0">
+              <div class="descripcion">
+                <p><b>PROPÓSITO GENERAL DEL PUESTO</b></p>
+                <ul>
+                  <li>
+                    <p>Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>PRINCIPALES FUNCIONES</b></p>
+                <ul>
+                  <li>
+                    <p>Dar seguimiento a los usuarios sobre el servicio de Jetty por medio de diversos canales de comunicación (ej. Sistema de mensajería, redes sociales, correo electrónico, chat y teléfono).</p>
+                  </li>
+                  <li>
+                    <p>Revisar, clasificar, asignar y/o solucionar cada solicitud en coordinación con el área indicada (operaciones, tecnología, marketing, socio-operador, cliente institucional, etc.).</p>
+                  </li>
+                  <li>
+                    <p>Dar seguimiento a las unidades y conductores poder informar a los usuarios del estatus de su viaje.</p>
+                  </li>
+                  <li>
+                    <p>Documentar las preguntas y crear respuestas predefinidas para los usuarios. </p>
+                  </li>
+                  <li>
+                    <p>Colaborar con equipos multidisciplinarios (marketing, operaciones, tecnología) para definir, diseñar e implementar nuevas funciones para mejorar la experiencia de usuario. </p>
+                  </li>
+                  <li>
+                    <p>Mantenerse al tanto de los procesos y herramientas de nuestras plataformas (apps de usuario y conductores).</p>
+                  </li>
+                  <li>
+                    <p>Trabajar en colaboración con colegas y otros departamentos para agilizar procesos.</p>
+                  </li>
+                  <li>
+                    <p>Fomentar la lealtad entre nuevos usuarios.</p>
+                  </li>
+                  <li>
+                    <p>Ayudar en la publicación de recorridos, y modificación de horarios y trayectos de viaje cuando sea necesario. </p>
+                  </li>
+                  <li>
+                    <p>Dar de alta vehículos o modificar la información dentro de la plataforma de administración.</p>
+                  </li>
+                  <li>
+                    <p>Mantener actualizada la información de los conductores vigentes.</p>
+                  </li>
+                  <li>
+                    <p>Apoyar en las capacitaciones a conductores.</p>
+                  </li>
+                  <li>
+                    <p>El porcentaje de incidentes resueltos al primer contacto como indicador de desempeño a medir.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>REQUISITOS</b></p>
+                <ul>
+                  <li>
+                    <p>Puntualidad</p>
+                  </li>
+                  <li>
+                    <p>Escolaridad: Licenciatura concluida.</p>
+                  </li>
+                  <li>
+                    <p>Experiencia mínima de un año en servicio al cliente, telemarketing o ventas.</p>
+                  </li>
+                  <li>
+                    <p>Conocimiento en paquetería de Microsoft Office básica.</p>
+                  </li>
+                  <li>
+                    <p>Inglés intermedio (escrito, comprensión, lectura).</p>
+                  </li>
+                  <li>
+                    <p>Disponibilidad de horarios.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>HABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Excepcionales habilidades de comunicación. Es muy importante que esté en constante comunicación con el equipo de negocio para poder entender las necesidades del cliente y proponer soluciones innovadoras a los problemas. </p>
+                  </li>
+                  <li>
+                    <p>Pensamiento estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                  </li>
+                  <li>
+                    <p>Una mente aguda y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar soluciones a problemas. </p>
+                  </li>
+                  <li>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Enfoque orientado al cliente y a la resolución de problemas. </p>
+                  </li>
+                  <li>
+                    <p>Habilidad de administración de sus tiempos y objetivos.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>PRINCIPALES RELACIONES INTERNAS Y EXTERNAS</b></p>
+                <ul>
+                  <p><b>Relaciones internas:</b></p>
+                  <li>
+                    <p>Comunicación y colaboración con las áreas de tecnología, operaciones y marketing.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <ul>
+                  <p><b>Relaciones externas:</b></p>
+                  <li>
+                    <p>Interacción con usuarios y conductores. </p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>INDICADORES CRÍTICOS DEL PUESTO.</b></p>
+                <ul>
+                  <li>
+                    <p>Tiempo de respuesta a usuarios.</p>
+                  </li>
+                  <li>
+                    <p>Porcentaje de respuesta a la primera  interacción de los usuarios (comentarios y/o dudas).</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>DATOS GENERALES DEL PUESTO:</b></p>
+                <ul>
+                  <p><b>1. Jornada Laboral</b></p>
+                  <li>
+                    <p>Lunes a Viernes.</p>
+                  </li>
+                  <li>
+                    <p>Horario: 2pm-10pm.</p>
+                  </li>
+                  <li>
+                    <p>40 horas a la semana.</p>
+                  </li>
+                  <li>
+                    <p>Horario definido por la Operación.</p>
+                  </li>
+                  <li>
+                    <p>6 días de vacaciones al cumplir el primer año de trabajo, incrementos según la ley correspondiente.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <ul>
+                  <p><b>2. Remuneración económica y Prestaciones</b></p>
+                  <li>
+                    <p>Pago por medio de tarjeta de nómina en cada quincena.</p>
+                  </li>
+                  <li>
+                    <p>Prestaciones de ley: Cotización en IMSS e INFONAVIT, prima vacacional de 1 mes y aguinaldo.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>¿TE INTERESA?</b></p>
+                <ul>
+                  <li>
+                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                  </li>
+                </ul>
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
 
       <!-- VACANTE 2 -->
       <div class="panel panel-default vacante">
