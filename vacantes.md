@@ -38,12 +38,9 @@ id: vacantes
 
             <div class="collapse" id="collapse_0">
               <div class="descripcion">
-                <p><b>PROPÓSITO GENERAL DEL PUESTO</b></p>
-                <ul>
-                  <li>
-                    <p>Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones.</p>
-                  </li>
-                </ul>
+                <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
+                <br>
+                Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones.</p>
 
                 <br>
 
@@ -376,7 +373,7 @@ id: vacantes
       </div>
 
 
-      <!-- VACANTE 4 -->
+      <!-- VACANTE 3 -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
