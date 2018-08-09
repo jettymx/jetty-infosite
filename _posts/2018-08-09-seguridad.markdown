@@ -36,6 +36,8 @@ Entre 2013 y 2016 se registraron 6,504 robos en transporte público en la CDMX, 
 
 Al analizar la hora de ocurrencia de estos 6,504 robos se observa que alrededor de las 15:00 hubo mayor incidencia delictiva con un repunte entre las 17:00 y 20:00 horas, las cuales son identificadas como las horas de salida del trabajo (por cierto uno de los horarios con más demanda de uso para los servicios de Jetty).
 
+![Jetty - 5 datos sobre la inseguridad en el transporte]({{site.baseurl}}/imgs-blog/robos-hora.png)
+
 <h3>Principales Zonas de Incidencia</h3>
 <div class="text-center">
   <p>
@@ -55,7 +57,9 @@ Aquí se registra gran aglomeración de incidentes principalmente en la estació
 <b>Zona Norte</b><br>
 En esta zona, las avenidas Centenario y Martín Carrera forman un corredor en el que hay una gran incidencia de robos en microbús así como en la zona del metro Indios Verdes.
 
-![Jetty - 5 datos sobre la inseguridad en el transporte]({{site.baseurl}}/imgs-blog/robos-hora.png)
+![Jetty - centro poniente]({{site.baseurl}}/imgs-blog/zonas-centro-poniente.png)
+
+![Jetty - oriente norte]({{site.baseurl}}/imgs-blog/zonas-oriente-norte.png)
 
 Para checar con más detalle los mapas puedes dar click [aquí][commuter].
 
