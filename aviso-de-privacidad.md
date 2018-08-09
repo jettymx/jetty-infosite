@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default-cobertura
 title: Jetty | El transporte que mereces
 description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Nuestras Camionetas Ejecutivas con Conductores Verificados.
 id: aviso-de-privacidad
 ---
 
-<div class="container">
+<div class="container marginTop">
   <div class="row privacidad">
     <div class="col-md-12">
       <h1>AVISO DE PRIVACIDAD</h1>

@@ -13,10 +13,10 @@ id: transporte-eventos
         <h1>¿Consideras rentar una camioneta con chofer?</h1>
       </div>
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</h2>
+        <h3>Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</h3>
 
         <!-- <p class="lead">Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</p> -->
-        <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalEventos">
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
           Cotiza
         </button>
       </div>
@@ -24,7 +24,7 @@ id: transporte-eventos
   </div>
 </div>
 
-<div class="container-fluid eventos-content backgreen-down">
+<div class="container-fluid eventos-content backgrayblue-down">
   <div class="container eventos">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
@@ -106,7 +106,7 @@ id: transporte-eventos
 
     <div class="row buen-viaje-info">
       <div class="col-md-6 col-md-offset-3 text-center" data-aos="fade-up" >
-        <button type="button" class="btn btn-default btn-lg btn-gray" data-toggle="modal" data-target="#ModalEventos">
+        <button type="button" class="btn btn-default btn-lg btn-green" data-toggle="modal" data-target="#ModalEventos">
           Cotiza
         </button>
       </div>
@@ -118,7 +118,7 @@ id: transporte-eventos
 <div class="clearfix"></div>
 
 <div class="space-greenUp">
-  <img src="img/back-green-up.png">
+  <img src="img/back-grayblue.png">
 </div>
 
 <div class="container eventos-servicios">

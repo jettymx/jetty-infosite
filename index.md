@@ -7,8 +7,8 @@ id: Home
 ---
 
 <figure class="header">
-  <!-- <img src="img/back-header2.png" alt="Jetty MX" class="back"> -->
-  <img src="img/back-header.jpg" alt="Jetty MX" class="back">
+  <img src="img/back-header2.png" alt="Jetty MX" class="back">
+  <!-- <img src="img/back-header.jpg" alt="Jetty MX" class="back"> -->
   <figcaption>
     <div class="container">
       <div class="row">
@@ -21,7 +21,7 @@ id: Home
           </div>
           <p class="txt-header-index">Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
 
-          <p class="text-downapp">Descarga la app.</p>
+          <p class="text-downapp-index">Descarga la app.</p>
 
           <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
             <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
@@ -158,7 +158,7 @@ id: Home
 </div>
 
 <div>
-  <img src="img/back-gray-up.png" class="img-como-funciona">
+  <img src="img/back-grayblue-up.png" class="img-como-funciona">
 </div>
 
 <div class="clearfix"></div>
@@ -207,7 +207,7 @@ id: Home
 
     <div class="row buen-viaje-info">
       <div class="col-md-6 col-md-offset-3 text-center" data-aos="fade-up" >
-      <a href="beneficios" class="btn btn-default btn-lg btn-gray btn-beneficios">Conoce más de nuestros beneficios</a>
+      <a href="beneficios" class="btn btn-default btn-lg btn-green btn-beneficios">Conoce más de nuestros beneficios</a>
       </div>
     </div>
 
@@ -217,7 +217,7 @@ id: Home
 <div class="clearfix"></div>
 
 <div class="space-greenUp">
-  <img src="img/back-green-up.png">
+  <img src="img/back-grayblue.png">
 </div>
 
 <div class="container testimonial">

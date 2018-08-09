@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head-cobertura.md %}
+  {% include head.md %}
 
   <body>
 
     {% include googletag.html %}
 
-    {% include nav.md %}
+    {% include nav_bg.md %}
 
       {{ content }}
 

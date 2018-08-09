@@ -24,7 +24,7 @@
   {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
   {% else %}
-    <meta property="og:image" content="http://www.jetty.mx/img/Jetty_MX.png" />
+    <meta property="og:image" content="https://www.jetty.mx/img/Jetty_MX.png" />
   {% endif %}
 
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
@@ -33,19 +33,22 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-datetimepicker.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
-
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/navbar.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtWd5YkzOiLMhJRd-nUQo8ZfvRyB5nRmU&callback=initMap"
+    async defer></script>
 
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "Organization",
       "name": "Jetty",
-      "url": "http://www.jetty.mx",
-      "logo": "http://www.jetty.mx/img/Jetty_Logo.jpg",
+      "url": "https://www.jetty.mx",
+      "logo": "https://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
-      "image": "http://www.jetty.mx/img/Jetty-MX.jpg",
+      "image": "https://www.jetty.mx/img/Jetty-MX.jpg",
       "description": "Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Camionetas Ejecutivas con Conductores Verificados.",
       "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
       "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
@@ -60,4 +63,5 @@
       ]
     }
   </script>
+
 </head>

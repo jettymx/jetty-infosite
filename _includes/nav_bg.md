@@ -1,6 +1,4 @@
-<!-- <img src="https://www.jetty.mx/img/Jetty_MX.png" alt="Jetty MX" class="img-display"> -->
-
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-fixed-top navbar-default nav-backg">
   <div class="container-fluid">
     <div class="container">
       <div class="navbar-header">

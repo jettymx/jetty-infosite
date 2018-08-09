@@ -1660,7 +1660,6 @@
   }}();
 </script>
 
-
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="js/forms.js"></script>
 
@@ -1676,8 +1675,6 @@
   }
 
   $(function () {
-
-
 
     $('#datetimepicker-event-1').datetimepicker({
       locale: 'es',
@@ -1747,3 +1744,20 @@
 
   Intercom('update', {"name": "Usuario Web"});
 </script>
+
+<!-- /// NAV SCROLL /// -->
+<script type="text/javascript">
+  $(function() {
+    var header = $(".nav-background");
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 180) {
+            header.removeClass('nav-background').addClass("nav-outback");
+        } else {
+            header.removeClass("nav-outback").addClass('nav-background');
+        }
+    });
+  });
+</script>
+

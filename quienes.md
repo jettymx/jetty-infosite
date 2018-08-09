@@ -67,7 +67,6 @@ id: quienes
   <img src="img/back-green-up.png">
 </div> -->
 
-
 <div class="container alianzas-content">
   <div class="row">
     <div class="col-md-10 col-md-offset-1 text-center">
