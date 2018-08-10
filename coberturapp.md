@@ -9,28 +9,16 @@ id: cobertura
   <div class="row">
 
     <div class="rutas rutas-app">
-
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Zona Norte <-> Polanco</h4>
+            <h4 class="panel-title">Zona Norte <-> Polanco <img src="img/icon-express.svg" width="50"></h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas" class="map_canvas"></div>
           </div>
         </div>
       </div>
-
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">Polanco <-> Santa Fé</h4>
-          </div>
-          <div class="panel-body">
-            <div id="map_canvas_2" class="map_canvas"></div>
-          </div>
-        </div>
-      </div> -->
 
       <div class="col-md-4">
         <div class="panel panel-default">
@@ -76,17 +64,6 @@ id: cobertura
         </div>
       </div>
 
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading jetty">
-            <h4 class="panel-title">Narvarte <-> Polanco</h4>
-          </div>
-          <div class="panel-body">
-            <div id="map_canvas_7" class="map_canvas"></div>
-          </div>
-        </div>
-      </div> -->
-
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
@@ -120,6 +97,16 @@ id: cobertura
         </div>
       </div>
 
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Azcapotzalco/Polanco <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_11" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- RUTAS SVBUS -->
