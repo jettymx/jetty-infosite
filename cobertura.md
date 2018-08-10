@@ -101,7 +101,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Atizapán/Lomas Verdes <-> Polanco</h4>
+            <h4 class="panel-title">Atizapán <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_10" class="map_canvas"></div>
