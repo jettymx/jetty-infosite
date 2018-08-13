@@ -625,6 +625,13 @@ img.comillas{
   border-top-right-radius: 0px
 }
 
+.rutas .panel-default .rutasunidas{
+  color: #ffffff;
+  background-color: #0B5C40;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
 .rutas .panel-title{
   font-size: 18px;
   font-weight: 800;
