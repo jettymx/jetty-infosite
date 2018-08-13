@@ -185,7 +185,7 @@ id: cobertura
       <!-- RUTAS UNIDAS -->
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading rutasunidas">
+          <div class="panel-heading rutasUnidas">
             <h4 class="panel-title">Viveros <-> Santa Fe</h4>
           </div>
           <div class="panel-body">
