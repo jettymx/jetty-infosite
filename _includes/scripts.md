@@ -42,6 +42,11 @@
 
       var NortePolanco = {
           zoom: 11,
+          center: new google.maps.LatLng(19.5400, -99.2200),
+          styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+      var CuautiReformaXpress = {
+          zoom: 11,
           center: new google.maps.LatLng(19.5300, -99.2200),
           styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
@@ -85,6 +90,11 @@
           center: new google.maps.LatLng(19.4250, -99.2300),
           styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+      var CoacalcoPolancoReforma = {
+          zoom: 11,
+          center: new google.maps.LatLng(19.5300, -99.1700),
+          styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
       var mapOptionsSVBus1 = {
           zoom: 11,
           center: new google.maps.LatLng(19.3300, -99.2000),
@@ -100,8 +110,16 @@
           center: new google.maps.LatLng(19.4200, -99.2300),
           styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+      var RutasViverosSanta = {
+          zoom: 12,
+          center: new google.maps.LatLng(19.3700, -99.2300),
+          styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
       var mapElement = document.getElementById('map_canvas');
       var mapNortePolanco = new google.maps.Map(mapElement, NortePolanco);
+
+      var mapElement2 = document.getElementById('map_canvas_2');
+      var mapCuautiReformaXpress = new google.maps.Map(mapElement2, CuautiReformaXpress);
 
       var mapElement3 = document.getElementById('map_canvas_3');
       var mapReformaSantaFe = new google.maps.Map(mapElement3, ReformaSantaFe);
@@ -127,6 +145,9 @@
       var mapElement11 = document.getElementById('map_canvas_11');
       var mapAzcapoSantaFe = new google.maps.Map(mapElement11, AzcapoSantaFe);
 
+      var mapElement12 = document.getElementById('map_canvas_12');
+      var mapCoacalcoPolancoReforma = new google.maps.Map(mapElement12, CoacalcoPolancoReforma);
+
       var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
       var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
 
@@ -135,6 +156,9 @@
 
       var mapElementSVBus3 = document.getElementById('map_canvas_SVBus3');
       var mapSVBus3 = new google.maps.Map(mapElementSVBus3, mapOptionsSVBus3);
+
+      var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
+      var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
 
       // Marker points
       var image = {
@@ -209,8 +233,27 @@
         icon: image
       });
 
+      // Mapa 2 Cuautitlan > Reforma Xpress
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.6449249, lng: -99.194490},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
 
-      // Mapa 2 Reforma Santa Fe
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.6058121, lng: -99.1895497},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.422768, lng: -99.172115},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
+
+
+      // Mapa 3 Reforma - Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapReformaSantaFe,
@@ -599,10 +642,65 @@
         icon: image
       });
 
+      // Mapa 12 Coacalco/Polanco - Reforma
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.6310751, lng: -99.1246583},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.55128648, lng: -99.20787063},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.526326, lng: -99.225349},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.513591, lng: -99.236829},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.4398308, lng: -99.2008781},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.4377816, lng: -99.1903213},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.432371, lng: -99.182103},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.428951, lng: -99.164615},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.422768, lng: -99.172115},
+        map: mapCoacalcoPolancoReforma,
+        icon: image
+      });
+
 
       // SVBus Acoxpa
       var Marker = new google.maps.Marker({
-        position: {lat: 19.298683, lng: -99.138151},
+        position: {lat: 19.284413, lng: -99.137613},
         map: mapSVBus1,
         icon: image
       });
@@ -623,7 +721,7 @@
 
       // SVBus Acoxpa
       var Marker = new google.maps.Marker({
-        position: {lat: 19.298683, lng: -99.138151},
+        position: {lat: 19.284413, lng: -99.137613},
         map: mapSVBus2,
         icon: image
       });
@@ -639,6 +737,37 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.379889, lng: -99.248893},
         map: mapSVBus3,
+        icon: image
+      });
+
+      // RutasUnidas Viveros - Santa fe
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.353294, lng: -99.176412},
+        map: mapRutasUnidas1,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.344076, lng: -99.190099},
+        map: mapRutasUnidas1,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.328829, lng: -99.21192},
+        map: mapRutasUnidas1,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.368098, lng: -99.26025},
+        map: mapRutasUnidas1,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.35800631, lng: -99.276414},
+        map: mapRutasUnidas1,
         icon: image
       });
 
@@ -739,6 +868,17 @@
         {lat: 19.430716, lng: -99.196913},
         {lat: 19.436463, lng: -99.181592},
         {lat: 19.443707, lng: -99.177687}
+      ];
+
+      var reformaXpress = [
+        {lat: 19.433001, lng: -99.171009},
+        {lat: 19.427901, lng: -99.178391},
+        {lat: 19.422639, lng: -99.178305},
+        {lat: 19.418673, lng: -99.172340},
+        {lat: 19.419806, lng: -99.165516},
+        {lat: 19.426767, lng: -99.158563},
+        {lat: 19.431624, lng: -99.159765},
+        {lat: 19.433244, lng: -99.166117}
       ];
 
       var santafe = [
@@ -910,16 +1050,63 @@
         {lat: 19.488314, lng: -99.169850}
       ];
 
+      //Coacalco polanco Reforma
+      var coacalco = [
+        {lat: 19.640438, lng: -99.125645},
+        {lat: 19.637285, lng: -99.130709},
+        {lat: 19.631585, lng: -99.132641},
+        {lat: 19.624027, lng: -99.127062},
+        {lat: 19.624835, lng: -99.120796},
+        {lat: 19.628513, lng: -99.117663},
+        {lat: 19.633929, lng: -99.117534},
+        {lat: 19.638578, lng: -99.120495}
+      ];
+
+      var coacalcoTlane = [
+        {lat: 19.558024, lng: -99.206020},
+        {lat: 19.553981, lng: -99.212887},
+        {lat: 19.542980, lng: -99.221387},
+        {lat: 19.531574, lng: -99.231002},
+        {lat: 19.520411, lng: -99.238469},
+        {lat: 19.510704, lng: -99.244305},
+        {lat: 19.502938, lng: -99.239241},
+        {lat: 19.504637, lng: -99.230487},
+        {lat: 19.512240, lng: -99.223879},
+        {lat: 19.522594, lng: -99.215810},
+        {lat: 19.532462, lng: -99.209200},
+        {lat: 19.544515, lng: -99.202330},
+        {lat: 19.553980, lng: -99.201040}
+      ];
+
+      var reforma = [
+        {lat: 19.446922, lng: -99.205686},
+        {lat: 19.438180, lng: -99.206458},
+        {lat: 19.433972, lng: -99.201222},
+        {lat: 19.431543, lng: -99.191180},
+        {lat: 19.427981, lng: -99.184399},
+        {lat: 19.421181, lng: -99.176847},
+        {lat: 19.419642, lng: -99.170067},
+        {lat: 19.426682, lng: -99.157190},
+        {lat: 19.433239, lng: -99.158819},
+        {lat: 19.432675, lng: -99.172039},
+        {lat: 19.443441, lng: -99.183368},
+        {lat: 19.444170, lng: -99.192553},
+        {lat: 19.447003, lng: -99.202338}
+      ];
+
 
 
       //SVBus
       var acoxpa = [
-        {lat: 19.305113, lng: -99.137336},
-        {lat: 19.303067, lng: -99.143451},
-        {lat: 19.297388, lng: -99.144319},
-        {lat: 19.293945, lng: -99.138804},
-        {lat: 19.295605, lng: -99.132281},
-        {lat: 19.300729, lng: -99.133032}
+        {lat: 19.291281, lng: -99.139233},
+        {lat: 19.287555, lng: -99.142537},
+        {lat: 19.283707, lng: -99.142709},
+        {lat: 19.279939, lng: -99.140821},
+        {lat: 19.279048, lng: -99.136744},
+        {lat: 19.281559, lng: -99.132624},
+        {lat: 19.285529, lng: -99.131465},
+        {lat: 19.288041, lng: -99.133525},
+        {lat: 19.290350, lng: -99.136443},
       ];
 
       var santafeSVBus = [
@@ -961,6 +1148,31 @@
         {lat: 19.455569, lng: -99.212049},
         {lat: 19.457390, lng: -99.212242},
         {lat: 19.458574, lng: -99.213498}
+      ];
+
+      var viverosRuta = [
+        {lat: 19.358958, lng: -99.173842},
+        {lat: 19.356125, lng: -99.181310},
+        {lat: 19.350699, lng: -99.192898},
+        {lat: 19.345112, lng: -99.200966},
+        {lat: 19.338632, lng: -99.211179},
+        {lat: 19.327618, lng: -99.216155},
+        {lat: 19.325675, lng: -99.211435},
+        {lat: 19.339119, lng: -99.194357},
+        {lat: 19.346731, lng: -99.181912},
+        {lat: 19.351912, lng: -99.169551},
+        {lat: 19.356285, lng: -99.167919}
+      ];
+
+      var santafeRuta = [
+        {lat: 19.376210, lng: -99.253960},
+        {lat: 19.374510, lng: -99.263789},
+        {lat: 19.364955, lng: -99.272888},
+        {lat: 19.356574, lng: -99.281256},
+        {lat: 19.352242, lng: -99.279110},
+        {lat: 19.361108, lng: -99.264305},
+        {lat: 19.367100, lng: -99.256966},
+        {lat: 19.372323, lng: -99.252415}
       ];
 
 
@@ -1013,7 +1225,7 @@
         geodesic: true
       });
 
-      // Line Norte - Santa fé
+      // Line Norte - Polanco
       var lineSymbol = {
         path: 'M 0,-1 0,1',
         strokeOpacity: 0.5,
@@ -1051,6 +1263,73 @@
           repeat: '20px'
         }],
         map: mapNortePolanco
+      });
+
+
+      // MAPA Cuautitlan - Reforma Xpress
+      new google.maps.Polygon({
+        map: mapCuautiReformaXpress,
+        paths: reformaXpress,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapCuautiReformaXpress,
+        paths: ford,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapCuautiReformaXpress,
+        paths: perinorte,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      // Line Cuautitlan - Reforma Xpress
+      var lineSymbol = {
+        path: 'M 0,-1 0,1',
+        strokeOpacity: 0.5,
+        scale: 4
+      };
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.634695, lng: -99.194815}, {lat: 19.613150, lng: -99.190528}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapCuautiReformaXpress
+      });
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.600941, lng: -99.188639}, {lat: 19.433001, lng: -99.171009}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapCuautiReformaXpress
       });
 
       // Santa Fe <-> Polanco
@@ -1516,6 +1795,72 @@
         map: mapAzcapoSantaFe
       });
 
+      // Mapa 12 Coacalco - Reforma
+      new google.maps.Polygon({
+        map: mapCoacalcoPolancoReforma,
+        paths: coacalco,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.3,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapCoacalcoPolancoReforma,
+        paths: coacalcoTlane,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.3,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapCoacalcoPolancoReforma,
+        paths: reforma,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.3,
+        draggable: false,
+        geodesic: true
+      });
+
+      // Line SVBus1 Coacalco - Reforma
+      var lineSymbol12 = {
+        path: 'M 0,-1 0,1',
+        strokeOpacity: 0.5,
+        scale: 4
+      };
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.624027, lng: -99.127062}, {lat: 19.558024, lng: -99.206020}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol12,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapCoacalcoPolancoReforma
+      });
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.502938, lng: -99.239241}, {lat: 19.446922, lng: -99.205686}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol12,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapCoacalcoPolancoReforma
+      });
+
 
       // Mapa SVBus1 Acoxpa - Santa Fe
       new google.maps.Polygon({
@@ -1550,7 +1895,7 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.303067, lng: -99.143451}, {lat: 19.356374, lng: -99.260277}],
+        path: [{lat: 19.291281, lng: -99.139233}, {lat: 19.356374, lng: -99.260277}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbolSVBus1,
@@ -1560,7 +1905,7 @@
         map: mapSVBus1
       });
 
-      // Mapa SVBus2 Auditorio - Santa Fe
+      // Mapa SVBus2 Acoxpa - Auditorio
       new google.maps.Polygon({
         map: mapSVBus2,
         paths: acoxpa,
@@ -1585,7 +1930,7 @@
         geodesic: true
       });
 
-      // Line SVBus2 Auditorio - Santa Fe
+      // Line SVBus2 Acoxpa - Auditorio
       var lineSymbolSVBus2 = {
         path: 'M 0,-1 0,1',
         strokeOpacity: 0.5,
@@ -1593,7 +1938,7 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.303067, lng: -99.143451}],
+        path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.291281, lng: -99.139233}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbolSVBus2,
@@ -1644,6 +1989,49 @@
           repeat: '20px'
         }],
         map: mapSVBus3
+      });
+
+      // Mapa RutasUnidas1 Viveros - Santa Fe
+      new google.maps.Polygon({
+        map: mapRutasUnidas1,
+        paths: viverosRuta,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapRutasUnidas1,
+        paths: santafeRuta,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      // Line Rutas Viveros - Santa Fe
+      var lineSymbolRutas1 = {
+        path: 'M 0,-1 0,1',
+        strokeOpacity: 0.5,
+        scale: 4
+      };
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.327618, lng: -99.216155}, {lat: 19.352242, lng: -99.279110}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbolRutas1,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapRutasUnidas1
       });
 
   }

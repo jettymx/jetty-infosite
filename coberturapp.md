@@ -12,10 +12,21 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Zona Norte <-> Polanco <img src="img/icon-express.svg" width="50"></h4>
+            <h4 class="panel-title">Zona Norte <-> Polanco \</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Cuautitlán <-> Reforma <img src="img/icon-express.svg" width="50" style="float: right;"></h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_2" class="map_canvas"></div>
           </div>
         </div>
       </div>
@@ -153,6 +164,32 @@ id: cobertura
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus3" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- RUTAS UNIDAS-->
+    <div class="rutas rutas-app">
+
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Operado por <img src="img/logo-Rutas-Unidas.png" width="80" class="logosvbus"></h2>
+        </div>
+        <div class="col-md-8">
+          <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a>
+        </div>
+      </div>
+
+      <!-- RUTAS UNIDAS -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading rutasunidas">
+            <h4 class="panel-title">Viveros <-> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_Rutas1" class="map_canvas"></div>
           </div>
         </div>
       </div>
