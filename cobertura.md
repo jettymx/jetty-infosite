@@ -24,7 +24,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Cuautitlán/Peronorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Reforma <img src="img/icon-express.svg" width="50" ></h4>
+            <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Reforma <img src="img/icon-express.svg" width="50" ></h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_2" class="map_canvas"></div>
@@ -35,7 +35,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Cuautitlán/Peronorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="50" ></h4>
+            <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="50" ></h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_7" class="map_canvas"></div>
