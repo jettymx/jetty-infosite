@@ -603,26 +603,20 @@ img.comillas{
   border-radius: 0px;
 }
 
-/*.rutas .panel-default>.panel-heading{
-  color: #fff;
-  background-color: #4abfa8;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px
-}
-*/
-
 .rutas .panel-default .jetty{
   color: #fff;
   background-color: #4abfa8;
   border-top-left-radius: 0px;
-  border-top-right-radius: 0px
+  border-top-right-radius: 0px;
+  height: 60px;
 }
 
 .rutas .panel-default .svbus{
   color: #fff;
   background-color: #623c98 !important;
   border-top-left-radius: 0px;
-  border-top-right-radius: 0px
+  border-top-right-radius: 0px;
+  height: 60px;
 }
 
 .rutas .panel-default .rutasunidas{
@@ -630,6 +624,7 @@ img.comillas{
   background-color: #0B5C40;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
+  height: 60px;
 }
 
 .rutas .panel-title{
