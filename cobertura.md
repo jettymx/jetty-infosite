@@ -269,7 +269,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading rutasunidas">
-            <h4 class="panel-title">Viveros <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+            <h4 class="panel-title">Viveros/San Ángel/San Jerónimo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_Rutas1" class="map_canvas"></div>
