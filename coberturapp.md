@@ -9,21 +9,11 @@ id: cobertura
   <div class="row">
 
     <div class="rutas rutas-app">
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading jetty">
-            <h4 class="panel-title">Zona Norte <-> Polanco \</h4>
-          </div>
-          <div class="panel-body">
-            <div id="map_canvas" class="map_canvas"></div>
-          </div>
-        </div>
-      </div>
 
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Cuautitlán <-> Reforma <img src="img/icon-express.svg" width="50" style="float: right;"></h4>
+            <h4 class="panel-title">Cuautitlán/Peronorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Reforma <img src="img/icon-express.svg" width="50" ></h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_2" class="map_canvas"></div>
@@ -34,7 +24,29 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Reforma <-> Santa Fe</h4>
+            <h4 class="panel-title">Cuautitlán/Peronorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="50" ></h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_7" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Reforma <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_3" class="map_canvas"></div>
@@ -45,7 +57,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Zona Norte <-> Santa Fe</h4>
+            <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_4" class="map_canvas"></div>
@@ -56,7 +68,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Aragón <-> Santa Fe</h4>
+            <h4 class="panel-title">Aragón <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_5" class="map_canvas"></div>
@@ -67,7 +79,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Narvarte <-> Santa Fe</h4>
+            <h4 class="panel-title">Parque de los venados/Del Valle <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_6" class="map_canvas"></div>
@@ -78,7 +90,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Polanco <-> Santa Fe</h4>
+            <h4 class="panel-title">Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_8" class="map_canvas"></div>
@@ -89,7 +101,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">M. Chabacano <-> Santa Fe</h4>
+            <h4 class="panel-title">M. Chabacano/Centro Médico <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_9" class="map_canvas"></div>
@@ -100,7 +112,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Atizapán <-> Santa Fe</h4>
+            <h4 class="panel-title">Las Alamedas/Atizapán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_10" class="map_canvas"></div>
@@ -111,13 +123,25 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading jetty">
-            <h4 class="panel-title">Azcapotzalco/Polanco <-> Santa Fe</h4>
+            <h4 class="panel-title">Azcapotzalco/Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_11" class="map_canvas"></div>
           </div>
         </div>
       </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Coacalco/Satélite <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco/Reforma</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_12" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <!-- RUTAS SVBUS -->
@@ -132,11 +156,11 @@ id: cobertura
         </div>
       </div>
 
-      <!-- SVBus -->
+      <!-- SVBus 1 -->
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading svbus">
-            <h4 class="panel-title">Acoxpa <-> Santa Fe</h4>
+            <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus1" class="map_canvas"></div>
@@ -144,11 +168,11 @@ id: cobertura
         </div>
       </div>
 
-      <!-- SVBus -->
+      <!-- SVBus 2 -->
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading svbus">
-            <h4 class="panel-title">Acoxpa <-> Auditorio</h4>
+            <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus2" class="map_canvas"></div>
@@ -156,17 +180,66 @@ id: cobertura
         </div>
       </div>
 
-      <!-- SVBus -->
+      <!-- SVBus 3 -->
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading svbus">
-            <h4 class="panel-title">Toreo <-> SantaFe</h4>
+            <h4 class="panel-title">Toreo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> SantaFe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_SVBus3" class="map_canvas"></div>
           </div>
         </div>
       </div>
+
+      <!-- SVBus 4 -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Sante Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus4" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SVBus 5 -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus5" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SVBus 6 -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus6" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SVBus 7 -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading svbus">
+            <h4 class="panel-title">Auditorio <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <div id="map_canvas_SVBus7" class="map_canvas"></div>
+          </div>
+        </div>
+      </div>
+
 
     </div>
 
@@ -186,7 +259,7 @@ id: cobertura
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading rutasunidas">
-            <h4 class="panel-title">Viveros <-> Santa Fe</h4>
+            <h4 class="panel-title">Viveros <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
           </div>
           <div class="panel-body">
             <div id="map_canvas_Rutas1" class="map_canvas"></div>

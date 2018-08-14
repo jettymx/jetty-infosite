@@ -1297,6 +1297,11 @@ ul.indice li{
   width: 100%;
 }
 
+img.arrow-cobertura{
+  opacity: .8;
+  width: 15px;
+}
+
 
 /*////// PRENSA //////*/
 .prensa {
