@@ -208,18 +208,6 @@
 
       // Mapa 1 Norte > Polanco
       var Marker = new google.maps.Marker({
-        position: {lat: 19.6449249, lng: -99.194490},
-        map: mapNortePolanco,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.6058121, lng: -99.1895497},
-        map: mapNortePolanco,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
         position: {lat: 19.551745, lng: -99.208275},
         map: mapNortePolanco,
         icon: image
@@ -273,6 +261,7 @@
         icon: image
       });
 
+
       // Mapa 2 Cuautitlan > Reforma Xpress
       var Marker = new google.maps.Marker({
         position: {lat: 19.6449249, lng: -99.194490},
@@ -282,6 +271,24 @@
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.6058121, lng: -99.1895497},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.4398308, lng: -99.2008781},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.437806, lng: -99.190349},
+        map: mapCuautiReformaXpress,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.432371, lng: -99.182103},
         map: mapCuautiReformaXpress,
         icon: image
       });
@@ -329,8 +336,7 @@
         icon: image
       });
 
-
-      // Mapa 3 Reforma - Santa Fe
+      // Mapa 3 Reforma Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapReformaSantaFe,
@@ -375,6 +381,12 @@
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.422768, lng: -99.172115},
+        map: mapReformaSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.42920796, lng: -99.16189231},
         map: mapReformaSantaFe,
         icon: image
       });
@@ -485,7 +497,7 @@
         icon: image
       });
 
-      // Mapa 5 Narvarte - Santa Fe
+      // Mapa 5 Parque de los venados/Del Valle - Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.372277, lng: -99.157134},
         map: mapNarvarteSantaFe,
@@ -493,19 +505,25 @@
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.389093, lng: -99.177963},
+        position: {lat: 19.3803211, lng: -99.1659588},
         map: mapNarvarteSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.385228, lng: -99.186931},
+        position: {lat: 19.385919, lng: -99.176877},
         map: mapNarvarteSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.3675155, lng: -99.2636825},
+        position: {lat: 19.365662, lng: -99.259239},
+        map: mapNarvarteSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.3678265, lng: -99.2637924},
         map: mapNarvarteSantaFe,
         icon: image
       });
@@ -516,9 +534,21 @@
         icon: image
       });
 
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.35749292, lng: -99.27764941},
+        map: mapNarvarteSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.35748561, lng: -99.27381145},
+        map: mapNarvarteSantaFe,
+        icon: image
+      });
+
       // Mapa 6 Polanco Santa Fe
       var Marker = new google.maps.Marker({
-        position: {lat: 19.443522, lng: -99.183125},
+        position: {lat: 19.434904, lng: -99.189715},
         map: mapPolancoSantaFe,
         icon: image
       });
@@ -536,6 +566,12 @@
       });
 
       var Marker = new google.maps.Marker({
+        position: {lat: 19.4075304, lng: -99.2407992},
+        map: mapPolancoSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapPolancoSantaFe,
         icon: image
@@ -548,7 +584,13 @@
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.3675155, lng: -99.2636825},
+        position: {lat: 19.3678265, lng: -99.2637924},
+        map: mapPolancoSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.3653525, lng: -99.2673518},
         map: mapPolancoSantaFe,
         icon: image
       });
@@ -562,43 +604,49 @@
 
       // Mapa 7 M. Chabacano Santa Fe
       var Marker = new google.maps.Marker({
-        position: {lat: 19.408763, lng: -99.135426},
+        position: {lat: 19.408694, lng: -99.133556},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.406640, lng: -99.155583},
+        position: {lat: 19.406626, lng: -99.155575},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.405954, lng: -99.169395},
+        position: {lat: 19.405931, lng: -99.169361},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.405992, lng: -99.178016},
+        position: {lat: 19.405995, lng: -99.177985},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.367421, lng: -99.263693},
+        position: {lat: 19.3678265, lng: -99.2637924},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.362472, lng: -99.265903},
+        position: {lat: 19.3653525, lng: -99.2673518},
         map: mapChabacanoSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.357274, lng: -99.274792},
+        position: {lat: 19.3574929, lng: -99.2776494},
+        map: mapChabacanoSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.357265, lng: -99.274824},
         map: mapChabacanoSantaFe,
         icon: image
       });
@@ -892,6 +940,7 @@
         icon: image
       });
 
+
       // RutasUnidas Viveros - Santa fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.353294, lng: -99.176412},
@@ -991,6 +1040,25 @@
         {lat: 19.4490, lng: -99.2045}
       ];
 
+      var polancoReforma = [
+        {lat: 19.444033, lng: -99.210193},
+        {lat: 19.434523, lng: -99.206460},
+        {lat: 19.4302, lng: -99.1955},
+        {lat: 19.428047, lng: -99.183157},
+        {lat: 19.4197, lng: -99.1773},
+        {lat: 19.4158, lng: -99.1718},
+        {lat: 19.4200, lng: -99.1667},
+        {lat: 19.426752, lng: -99.157488},
+        {lat: 19.431325, lng: -99.157229},
+        {lat: 19.435130, lng: -99.165469},
+        {lat: 19.4374, lng: -99.1732},
+        {lat: 19.4437, lng: -99.1745},
+        {lat: 19.4475, lng: -99.1786},
+        {lat: 19.4460, lng: -99.1876},
+        {lat: 19.4457, lng: -99.1974},
+        {lat: 19.4490, lng: -99.2045}
+      ];
+
       var polancoNEW = [
         {lat: 19.444033, lng: -99.210193},
         {lat: 19.434523, lng: -99.206460},
@@ -1009,17 +1077,27 @@
       ];
 
       var polancoTRES = [
-        {lat: 19.448968, lng: -99.181592},
-        {lat: 19.446418, lng: -99.188544},
-        {lat: 19.441117, lng: -99.191720},
-        {lat: 19.436706, lng: -99.200947},
-        {lat: 19.433468, lng: -99.209315},
-        {lat: 19.430352, lng: -99.216096},
-        {lat: 19.426993, lng: -99.215280},
-        {lat: 19.428369, lng: -99.204165},
-        {lat: 19.430716, lng: -99.196913},
-        {lat: 19.436463, lng: -99.181592},
-        {lat: 19.443707, lng: -99.177687}
+        {lat: 19.438346, lng: -99.184782},
+        {lat: 19.438752, lng: -99.191048},
+        {lat: 19.438510, lng: -99.205467},
+        {lat: 19.434544, lng: -99.212763},
+        {lat: 19.431427, lng: -99.214651},
+        {lat: 19.427704, lng: -99.212591},
+        {lat: 19.427664, lng: -99.206669},
+        {lat: 19.433409, lng: -99.186327},
+        {lat: 19.434542, lng: -99.183151}
+      ];
+
+      var bosques = [
+        {lat: 19.413235, lng: -99.242546},
+        {lat: 19.410320, lng: -99.246923},
+        {lat: 19.407042, lng: -99.247567},
+        {lat: 19.402913, lng: -99.246065},
+        {lat: 19.401334, lng: -99.241516},
+        {lat: 19.402144, lng: -99.236710},
+        {lat: 19.405503, lng: -99.233190},
+        {lat: 19.410968, lng: -99.233962},
+        {lat: 19.414570, lng: -99.238898}
       ];
 
       var reformaXpress = [
@@ -1053,6 +1131,26 @@
         {lat: 19.3940, lng: -99.2478}
       ];
 
+      var santafeReforma = [
+        {lat: 19.3938, lng: -99.2534},
+        {lat: 19.3902, lng: -99.2599},
+        {lat: 19.3837, lng: -99.2656},
+        {lat: 19.3740, lng: -99.2677},
+        {lat: 19.3723, lng: -99.2743},
+        {lat: 19.3684, lng: -99.2817},
+        {lat: 19.3644, lng: -99.2846},
+        {lat: 19.3610, lng: -99.2855},
+        {lat: 19.3559, lng: -99.2835},
+        {lat: 19.3538, lng: -99.2785},
+        {lat: 19.3529, lng: -99.2717},
+        {lat: 19.3565, lng: -99.2674},
+        {lat: 19.370336, lng: -99.257261},
+        {lat: 19.374223, lng: -99.252583},
+        {lat: 19.3872, lng: -99.2497},
+        {lat: 19.3907, lng: -99.2481},
+        {lat: 19.3940, lng: -99.2478}
+      ];
+
       var santafeSMALL = [
         {lat: 19.377748, lng: -99.259405},
         {lat: 19.3740, lng: -99.2677},
@@ -1064,7 +1162,7 @@
         {lat: 19.3538, lng: -99.2785},
         {lat: 19.3529, lng: -99.2717},
         {lat: 19.3565, lng: -99.2674},
-        {lat: 19.370336, lng: -99.257261},
+        {lat: 19.365181, lng: -99.255244},
         {lat: 19.375855, lng: -99.255135}
       ];
 
@@ -1081,27 +1179,22 @@
         {lat: 19.474770, lng: -99.045579}
       ];
 
-      var narvarte = [
-        {lat: 19.377859, lng: -99.158918},
-        {lat: 19.373325, lng: -99.161880},
-        {lat: 19.368426, lng: -99.160120},
-        {lat: 19.366685, lng: -99.155786},
-        {lat: 19.369033, lng: -99.151752},
-        {lat: 19.374175, lng: -99.151880},
-        {lat: 19.377738, lng: -99.156172},
-      ];
-
-      var napoles = [
-        {lat: 19.393465, lng: -99.177651},
-        {lat: 19.390996, lng: -99.181041},
-        {lat: 19.388304, lng: -99.184174},
-        {lat: 19.385697, lng: -99.188907},
-        {lat: 19.383106, lng: -99.189336},
-        {lat: 19.382230, lng: -99.186084},
-        {lat: 19.384740, lng: -99.180483},
-        {lat: 19.387473, lng: -99.177329},
-        {lat: 19.389861, lng: -99.174668},
-        {lat: 19.392674, lng: -99.174346}
+      var delvalle = [
+        {lat: 19.367316, lng: -99.156132},
+        {lat: 19.369542, lng: -99.152484},
+        {lat: 19.374157, lng: -99.152655},
+        {lat: 19.379502, lng: -99.158191},
+        {lat: 19.384603, lng: -99.163341},
+        {lat: 19.388490, lng: -99.168534},
+        {lat: 19.390554, lng: -99.175315},
+        {lat: 19.388773, lng: -99.179650},
+        {lat: 19.386141, lng: -99.181495},
+        {lat: 19.383267, lng: -99.178748},
+        {lat: 19.382376, lng: -99.174628},
+        {lat: 19.379745, lng: -99.169950},
+        {lat: 19.376992, lng: -99.166431},
+        {lat: 19.372943, lng: -99.162183},
+        {lat: 19.368733, lng: -99.158921}
       ];
 
       var roma = [
@@ -1118,15 +1211,17 @@
       ];
 
       var chabacano = [
-        {lat: 19.411275, lng: -99.135334},
-        {lat: 19.410405, lng: -99.137608},
-        {lat: 19.408685, lng: -99.138831},
-        {lat: 19.406560, lng: -99.138831},
-        {lat: 19.405629, lng: -99.137007},
-        {lat: 19.405872, lng: -99.135033},
-        {lat: 19.407126, lng: -99.133617},
-        {lat: 19.409272, lng: -99.133338},
-        {lat: 19.410486, lng: -99.134368}
+        {lat: 19.413441, lng: -99.132892},
+        {lat: 19.412389, lng: -99.136626},
+        {lat: 19.410952, lng: -99.138857},
+        {lat: 19.408726, lng: -99.139544},
+        {lat: 19.405042, lng: -99.139051},
+        {lat: 19.402937, lng: -99.134952},
+        {lat: 19.402775, lng: -99.131905},
+        {lat: 19.405386, lng: -99.129266},
+        {lat: 19.408462, lng: -99.128794},
+        {lat: 19.410871, lng: -99.129180},
+        {lat: 19.412652, lng: -99.130875}
       ];
 
       var romaChabacano = [
@@ -1134,9 +1229,9 @@
         {lat: 19.409330, lng: -99.154179},
         {lat: 19.408804, lng: -99.161946},
         {lat: 19.408561, lng: -99.168040},
-        {lat: 19.408116, lng: -99.173963},
-        {lat: 19.407711, lng: -99.177911},
-        {lat: 19.406416, lng: -99.180743},//
+        {lat: 19.409606, lng: -99.179176},
+        {lat: 19.407663, lng: -99.182009},
+        {lat: 19.406416, lng: -99.180743},
         {lat: 19.404149, lng: -99.179413},
         {lat: 19.403056, lng: -99.173147},
         {lat: 19.403421, lng: -99.164950},
@@ -1146,10 +1241,10 @@
 
       var santafeChabacano = [
         {lat: 19.371675, lng: -99.260839},
-        {lat: 19.369327, lng: -99.264187},
-        {lat: 19.365278, lng: -99.267062},
-        {lat: 19.362930, lng: -99.271010},
-        {lat: 19.358780, lng: -99.277448},
+        {lat: 19.370057, lng: -99.267325},
+        {lat: 19.366494, lng: -99.271145},
+        {lat: 19.363215, lng: -99.278097},
+        {lat: 19.357708, lng: -99.280457},
         {lat: 19.356026, lng: -99.278027},
         {lat: 19.355642, lng: -99.275130},
         {lat: 19.356371, lng: -99.272384},
@@ -1245,7 +1340,6 @@
         {lat: 19.444170, lng: -99.192553},
         {lat: 19.447003, lng: -99.202338}
       ];
-
 
 
       //SVBus
@@ -1381,31 +1475,8 @@
         geodesic: true
       });
 
-      new google.maps.Polygon({
-        map: mapNortePolanco,
-        paths: ford,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
 
-      new google.maps.Polygon({
-        map: mapNortePolanco,
-        paths: perinorte,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
-
-      // Line Norte - Polanco
+      // Line Norte - Santa fé
       var lineSymbol = {
         path: 'M 0,-1 0,1',
         strokeOpacity: 0.5,
@@ -1423,33 +1494,10 @@
         map: mapNortePolanco
       });
 
-      var line = new google.maps.Polyline({
-        path: [{lat: 19.634695, lng: -99.194815}, {lat: 19.613150, lng: -99.190528}],
-        strokeOpacity: 0,
-        icons: [{
-          icon: lineSymbol,
-          offset: '0',
-          repeat: '20px'
-        }],
-        map: mapNortePolanco
-      });
-
-      var line = new google.maps.Polyline({
-        path: [{lat: 19.600941, lng: -99.188639}, {lat: 19.5578, lng: -99.2052}],
-        strokeOpacity: 0,
-        icons: [{
-          icon: lineSymbol,
-          offset: '0',
-          repeat: '20px'
-        }],
-        map: mapNortePolanco
-      });
-
-
       // MAPA Cuautitlan - Reforma Xpress
       new google.maps.Polygon({
         map: mapCuautiReformaXpress,
-        paths: reformaXpress,
+        paths: polanco,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -1502,7 +1550,7 @@
       });
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.600941, lng: -99.188639}, {lat: 19.433001, lng: -99.171009}],
+        path: [{lat: 19.600941, lng: -99.188639}, {lat: 19.447779, lng: -99.205983}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbol,
@@ -1578,10 +1626,11 @@
         map: mapCuautiSantafeXpress
       });
 
-      // Santa Fe <-> Polanco
+
+      //Mapa Reforma Polanco - Santa Fe
       new google.maps.Polygon({
         map: mapReformaSantaFe,
-        paths: polanco,
+        paths: polancoReforma,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -1593,7 +1642,7 @@
 
       new google.maps.Polygon({
         map: mapReformaSantaFe,
-        paths: santafe,
+        paths: santafeReforma,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -1772,7 +1821,7 @@
 
       new google.maps.Polygon({
         map: mapNarvarteSantaFe,
-        paths: narvarte,
+        paths: delvalle,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -1782,19 +1831,8 @@
         geodesic: true
       });
 
-      new google.maps.Polygon({
-        map: mapNarvarteSantaFe,
-        paths: napoles,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
 
-      // Line 6 Narvarte - Santa fé
+      // Line 6 Del Valle - Santa fé
       var lineSymbol6 = {
         path: 'M 0,-1 0,1',
         strokeOpacity: 0.5,
@@ -1802,7 +1840,7 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.377859, lng: -99.158918}, {lat: 19.392674, lng: -99.174346}],
+        path: [{lat: 19.386141, lng: -99.181495}, {lat: 19.375855, lng: -99.255135}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbol6,
@@ -1812,18 +1850,7 @@
         map: mapNarvarteSantaFe
       });
 
-      var line = new google.maps.Polyline({
-        path: [{lat: 19.383106, lng: -99.189336}, {lat: 19.375855, lng: -99.255135}],
-        strokeOpacity: 0,
-        icons: [{
-          icon: lineSymbol6,
-          offset: '0',
-          repeat: '20px'
-        }],
-        map: mapNarvarteSantaFe
-      });
-
-      // Mapa 8
+      // Mapa 8 Polanco - Santa Fe
       new google.maps.Polygon({
         map: mapPolancoSantaFe,
         paths: santafe,
@@ -1848,6 +1875,18 @@
         geodesic: true
       });
 
+      new google.maps.Polygon({
+        map: mapPolancoSantaFe,
+        paths: bosques,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
       // Line 8 Polanco - Santa Fe
       var lineSymbol8 = {
         path: 'M 0,-1 0,1',
@@ -1856,7 +1895,7 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.426993, lng: -99.215280}, {lat: 19.3940, lng: -99.2478}],
+        path: [{lat: 19.426993, lng: -99.215280}, {lat: 19.414570, lng: -99.238898}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbol8,
@@ -1866,7 +1905,18 @@
         map: mapPolancoSantaFe
       });
 
-      // Mapa 9
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.401334, lng: -99.241516}, {lat: 19.3940, lng: -99.2478}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol8,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapPolancoSantaFe
+      });
+
+      // Mapa 9 M. Chabacano - Santa Fe
       new google.maps.Polygon({
         map: mapChabacanoSantaFe,
         paths: santafeChabacano,
@@ -1881,7 +1931,7 @@
 
       new google.maps.Polygon({
         map: mapChabacanoSantaFe,
-        paths: chabacano,
+        paths: romaChabacano,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -1893,7 +1943,7 @@
 
       new google.maps.Polygon({
         map: mapChabacanoSantaFe,
-        paths: romaChabacano,
+        paths: chabacano,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
@@ -2078,7 +2128,7 @@
         geodesic: true
       });
 
-      // Line SVBus1 Coacalco - Reforma
+      // Line Coacalco - Reforma
       var lineSymbol12 = {
         path: 'M 0,-1 0,1',
         strokeOpacity: 0.5,
@@ -2106,6 +2156,7 @@
         }],
         map: mapCoacalcoPolancoReforma
       });
+
 
 
       // Mapa SVBus1 Acoxpa - Santa Fe
@@ -2409,6 +2460,7 @@
         }],
         map: mapSVBus7
       });
+
 
       // Mapa RutasUnidas1 Viveros - Santa Fe
       new google.maps.Polygon({
