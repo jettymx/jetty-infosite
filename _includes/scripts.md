@@ -462,37 +462,19 @@
 
       // Mapa 4 Aragón - Santa Fe
       var Marker = new google.maps.Marker({
-        position: {lat: 19.468581, lng: -99.049511},
+        position: {lat: 19.458191, lng: -99.069337},
         map: mapAragonSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.458216, lng: -99.069365},
+        position: {lat: 19.387198, lng: -99.253095},
         map: mapAragonSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.388281, lng: -99.250929},
-        map: mapAragonSantaFe,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.373289, lng: -99.259612},
-        map: mapAragonSantaFe,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.3675155, lng: -99.2636825},
-        map: mapAragonSantaFe,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.357265, lng: -99.274824},
+        position: {lat: 19.3653525, lng: -99.2673518},
         map: mapAragonSantaFe,
         icon: image
       });
@@ -1166,17 +1148,35 @@
         {lat: 19.375855, lng: -99.255135}
       ];
 
+      var santafeAragon = [
+        {lat: 19.394091, lng: -99.247960},
+        {lat: 19.392978, lng: -99.252677},
+        {lat: 19.387068, lng: -99.260404},
+        {lat: 19.380509, lng: -99.266327},
+        {lat: 19.374194, lng: -99.271220},
+        {lat: 19.365530, lng: -99.276456},
+        {lat: 19.360510, lng: -99.275169},
+        {lat: 19.357028, lng: -99.265900},
+        {lat: 19.366258, lng: -99.256372},
+        {lat: 19.371723, lng: -99.250896},
+        {lat: 19.376985, lng: -99.245144},
+        {lat: 19.382106, lng: -99.243010},
+        {lat: 19.386085, lng: -99.241367},
+        {lat: 19.392421, lng: -99.244243}
+      ];
+
       var aragon = [
-        {lat: 19.474689, lng: -99.052102},
-        {lat: 19.469834, lng: -99.057939},
-        {lat: 19.464493, lng: -99.063518},
-        {lat: 19.459637, lng: -99.073217},
-        {lat: 19.452839, lng: -99.076564},
-        {lat: 19.451382, lng: -99.067552},
-        {lat: 19.457695, lng: -99.061200},
-        {lat: 19.461255, lng: -99.048240},
-        {lat: 19.468782, lng: -99.040773},
-        {lat: 19.474770, lng: -99.045579}
+        {lat: 19.462860, lng: -99.070554},
+        {lat: 19.460695, lng: -99.075639},
+        {lat: 19.456811, lng: -99.077034},
+        {lat: 19.453331, lng: -99.075832},
+        {lat: 19.450640, lng: -99.072506},
+        {lat: 19.450923, lng: -99.067700},
+        {lat: 19.452400, lng: -99.064438},
+        {lat: 19.455536, lng: -99.061735},
+        {lat: 19.458753, lng: -99.061906},
+        {lat: 19.462010, lng: -99.063923},
+        {lat: 19.462577, lng: -99.067635}
       ];
 
       var delvalle = [
@@ -1765,7 +1765,7 @@
       // Mapa Aragon Santa Fe
       new google.maps.Polygon({
         map: mapAragonSantaFe,
-        paths: santafe,
+        paths: santafeAragon,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
