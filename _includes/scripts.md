@@ -1155,7 +1155,9 @@
         {lat: 19.380509, lng: -99.266327},
         {lat: 19.374194, lng: -99.271220},
         {lat: 19.365530, lng: -99.276456},
-        {lat: 19.360510, lng: -99.275169},
+        {lat: 19.360660, lng: -99.281048},
+        {lat: 19.354263, lng: -99.284224},
+        {lat: 19.352643, lng: -99.276757},
         {lat: 19.357028, lng: -99.265900},
         {lat: 19.366258, lng: -99.256372},
         {lat: 19.371723, lng: -99.250896},
@@ -1165,18 +1167,30 @@
         {lat: 19.392421, lng: -99.244243}
       ];
 
+      var pradosAragon = [
+        {lat: 19.476714, lng: -99.052051},
+        {lat: 19.474732, lng: -99.056043},
+        {lat: 19.470241, lng: -99.058918},
+        {lat: 19.464738, lng: -99.056515},
+        {lat: 19.463038, lng: -99.052610},
+        {lat: 19.462593, lng: -99.047632},
+        {lat: 19.465223, lng: -99.043125},
+        {lat: 19.469309, lng: -99.041280},
+        {lat: 19.474407, lng: -99.042395},
+        {lat: 19.477119, lng: -99.045613},
+      ];
+
       var aragon = [
-        {lat: 19.462860, lng: -99.070554},
-        {lat: 19.460695, lng: -99.075639},
-        {lat: 19.456811, lng: -99.077034},
-        {lat: 19.453331, lng: -99.075832},
-        {lat: 19.450640, lng: -99.072506},
-        {lat: 19.450923, lng: -99.067700},
-        {lat: 19.452400, lng: -99.064438},
-        {lat: 19.455536, lng: -99.061735},
-        {lat: 19.458753, lng: -99.061906},
-        {lat: 19.462010, lng: -99.063923},
-        {lat: 19.462577, lng: -99.067635}
+        {lat: 19.462391, lng: -99.067028},
+        {lat: 19.460853, lng: -99.071406},
+        {lat: 19.454824, lng: -99.079217},
+        {lat: 19.451992, lng: -99.083122},
+        {lat: 19.449240, lng: -99.084024},
+        {lat: 19.447460, lng: -99.081277},
+        {lat: 19.448633, lng: -99.075655},
+        {lat: 19.452275, lng: -99.070033},
+        {lat: 19.457008, lng: -99.062866},
+        {lat: 19.460569, lng: -99.063981}
       ];
 
       var delvalle = [
@@ -1787,6 +1801,18 @@
         geodesic: true
       });
 
+      new google.maps.Polygon({
+        map: mapAragonSantaFe,
+        paths: pradosAragon,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
       // Line 5 Aragon - Santa fé
       var lineSymbol5 = {
         path: 'M 0,-1 0,1',
@@ -1795,7 +1821,18 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.452839, lng: -99.076564}, {lat: 19.3940, lng: -99.2478}],
+        path: [{lat: 19.449240, lng: -99.084024}, {lat: 19.3940, lng: -99.2478}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbol5,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapAragonSantaFe
+      });
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.464738, lng: -99.056515}, {lat: 19.460569, lng: -99.063981}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbol5,
