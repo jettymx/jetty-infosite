@@ -38,6 +38,7 @@ a:hover{
   color: #7e8080;
 }
 
+
 .btn{
   /*border-radius: 0 !important;*/
   border-radius: 5px;
@@ -1275,7 +1276,7 @@ ul.indice li{
 }
 
 .cobertura h1{
-  color: #7e8080;
+  color: #596972;
 }
 
 .cobertura h2{
@@ -1473,11 +1474,45 @@ ul.testimoniales-blog li img{
 .table{
   margin-bottom: 40px;
   margin-top: 40px;
+  color: rgba(89, 105, 114, 1);
 }
 
 .table>thead>tr>th{
   /*font-size: 16px;*/
   padding: 10px;
+}
+
+.table>thead>tr>th{
+  vertical-align: middle;
+}
+
+.table>tbody>tr>td{
+  vertical-align: middle;
+}
+
+.table>tbody>tr>th{
+  vertical-align: middle;
+}
+
+.columna-jetty{
+  background: #596972 !important;
+  color: #ffffff;
+  border-bottom-color: #738793 !important;
+  font-weight: 700 !important;
+}
+
+.row-jetty{
+  background: rgba(89, 105, 114, 0.2);
+}
+
+.bronce{
+  color: #BD8648;
+}
+.silver{
+  color: #B2B6BA;
+}
+.gold{
+  color: #FBCC34;
 }
 
 /*/// 404 ////*/

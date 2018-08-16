@@ -14,70 +14,473 @@ id: diferencias
 
     </div>
 
-     <div class="col-md-10 col-md-offset-1 text-center">
+     <div class="col-md-12 text-center">
 
       <div class="table-responsive">
         <table class="table table-bordered">
           <thead>
             <tr class="active">
-              <th class="text-center" style="font-size: 18px;"></th>
-              <th class="text-center" style="background: #4abea7; color: #ffffff; padding-right: 50px; padding-left: 50px; font-size: 18px; border-bottom-color: #3c9a87;">JETTY</th>
-              <th class="text-center" style="font-size: 18px;">Transporte público</th>
-              <th class="text-center" style="font-size: 18px;">Taxi</th>
-              <th class="text-center" style="font-size: 18px;">Uber</th>
-              <th class="text-center" style="font-size: 18px;">Table heading</th>
+              <th class="text-center" style="font-size: 16px;"></th>
+              <th class="columna-jetty text-center" style="font-size: 16px; width: 110px">JETTY</th>
+              <th class="text-center" style="font-size: 16px;">Transporte de personal tradicional</th>
+              <th class="text-center" style="font-size: 16px; width: 110px">Taxi por app</th>
+              <th class="text-center" style="font-size: 16px; width: 110px">Taxi</th>
+              <th class="text-center" style="font-size: 16px;">Manejar un coche</th>
+              <th class="text-center" style="font-size: 16px;">Transporte público</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <th scope="row">Seguridad</th>
-              <td style="background: #4abea7; color: #ffffff; border-bottom-color: #3c9a87;">
-                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+            <tr class="row-jetty">
+              <th scope="row"><b>COMODIDAD</b></th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-            </tr>
-            <tr>
-              <th scope="row">Tiempo de traslado</th>
-              <td style="background: #4abea7; color: #ffffff; border-bottom-color: #3c9a87;">
-                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-            </tr>
-            <tr>
-              <th scope="row">Comodidad</th>
-              <td style="background: #4abea7; color: #ffffff; border-bottom-color: #3c9a87;">
-                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
-              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
             </tr>
             <tr>
               <th scope="row">Asiento reservado</th>
-              <td style="background: #4abea7; color: #ffffff; border-bottom-color: #3c9a87;">
+              <td class="columna-jetty">
                 <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
               </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Tener chofer</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Poder descansar en paz</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">CONFIABLE</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-star" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Tener certeza sobre la hora de salida</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Soporte en tiempo real</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">SEGURIDAD</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-star" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Conductor profesional capacitado</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Cámara de seguridad en la unidad</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
             </tr>
             <tr>
-              <th scope="row">5</th>
-              <td style="background: #4abea7; color: #ffffff; border-bottom-color: #3c9a87;">
+              <th scope="row">Compañeros de viaje confiables</th>
+              <td class="columna-jetty">
                 <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">SUSTENTABLE</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Unidades en buen estado</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Viajes compartidos</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">TIEMPO</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Aprovechar tu tiempo de viaje para hacer lo que quieras</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Seguir el GPS para tomar la mejor ruta posible</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus " aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Viajar sin tantas paradas</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus " aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">CONECTIVIDAD</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Chatear con tus amigos o trabajar en tranquilidad</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">WiFi a bordo</th>
+              <td class="columna-jetty">
+                En algunos servicios
               </td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
               <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+            </tr>
+            <tr class="row-jetty">
+              <th scope="row">ASEQUIBILIDAD</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+              <td>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Pagar un precio justo sin tarifa dinámica</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-ok silver" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Pagar solamente el asiento que ocupas</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok bronce" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-ok gold" aria-hidden="true"></span></td>
+            </tr>
+            <tr>
+              <th scope="row">Pagar estacionamiento</th>
+              <td class="columna-jetty">
+                <span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-usd" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-usd" aria-hidden="true"></span></td>
+              <td><span class="glyphicon glyphicon-usd" aria-hidden="true"></span></td>
+              <td>
+                <span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
+              </td>
+              <td><span class="glyphicon glyphicon-usd" aria-hidden="true"></span></td>
             </tr>
           </tbody>
         </table>
