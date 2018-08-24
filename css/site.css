@@ -1890,7 +1890,6 @@ ul.testimoniales-blog li img{
     margin-top: 20px;
   }
 
-
   .number a{
     font-size: 1em
   }
@@ -1899,6 +1898,10 @@ ul.testimoniales-blog li img{
     background-size: 300%;
     padding-bottom: 200px;
     background-position-y: -50px;
+  }
+
+  .menos-head-en{
+    background-position-y: -100px;
   }
 
   .blog li{

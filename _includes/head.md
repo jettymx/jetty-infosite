@@ -27,13 +27,13 @@
     <meta property="og:image" content="https://www.jetty.mx/img/Jetty_MX.png" />
   {% endif %}
 
-  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
-  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/aos.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-datetimepicker.min.css" />
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/site.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/navbar.css">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/aos.css">
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap-datetimepicker.min.css" />
+  <link rel="stylesheet" type="text/css" href="/css/site.css">
+  <link rel="stylesheet" type="text/css" href="/css/navbar.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
