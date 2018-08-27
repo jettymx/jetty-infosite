@@ -955,7 +955,7 @@
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.344076, lng: -99.190099},
+        position: {lat: 19.3441511, lng: -99.18130439},
         map: mapRutasUnidas1,
         icon: image
       });
@@ -973,7 +973,7 @@
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.35800631, lng: -99.276414},
+        position: {lat: 19.35790509, lng: -99.27636846},
         map: mapRutasUnidas1,
         icon: image
       });
@@ -1463,17 +1463,31 @@
       ];
 
       var viverosRuta = [
-        {lat: 19.358958, lng: -99.173842},
-        {lat: 19.356125, lng: -99.181310},
-        {lat: 19.350699, lng: -99.192898},
-        {lat: 19.345112, lng: -99.200966},
-        {lat: 19.338632, lng: -99.211179},
-        {lat: 19.327618, lng: -99.216155},
-        {lat: 19.325675, lng: -99.211435},
-        {lat: 19.339119, lng: -99.194357},
-        {lat: 19.346731, lng: -99.181912},
-        {lat: 19.351912, lng: -99.169551},
-        {lat: 19.356285, lng: -99.167919}
+        {lat: 19.359587, lng: -99.172836},
+        {lat: 19.358171, lng: -99.178200},
+        {lat: 19.354364, lng: -99.182535},
+        {lat: 19.348250, lng: -99.184766},
+        {lat: 19.342177, lng: -99.186139},
+        {lat: 19.339180, lng: -99.185496},
+        {lat: 19.337277, lng: -99.182878},
+        {lat: 19.338046, lng: -99.178544},
+        {lat: 19.342703, lng: -99.177042},
+        {lat: 19.346873, lng: -99.175754},
+        {lat: 19.350315, lng: -99.172664},
+        {lat: 19.357765, lng: -99.170518}
+      ];
+
+      var sanjeronimoRuta = [
+        {lat: 19.335060, lng: -99.212554},
+        {lat: 19.332468, lng: -99.216545},
+        {lat: 19.329593, lng: -99.218262},
+        {lat: 19.325745, lng: -99.217103},
+        {lat: 19.323802, lng: -99.213584},
+        {lat: 19.323518, lng: -99.210365},
+        {lat: 19.325259, lng: -99.206975},
+        {lat: 19.328296, lng: -99.205859},
+        {lat: 19.331617, lng: -99.207061},
+        {lat: 19.334331, lng: -99.209335}
       ];
 
       var santafeRuta = [
@@ -2538,6 +2552,18 @@
 
       new google.maps.Polygon({
         map: mapRutasUnidas1,
+        paths: sanjeronimoRuta,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
+
+      new google.maps.Polygon({
+        map: mapRutasUnidas1,
         paths: santafeRuta,
         strokeColor: '#49bda7',
         strokeOpacity: 0.8,
@@ -2556,7 +2582,18 @@
       };
 
       var line = new google.maps.Polyline({
-        path: [{lat: 19.327618, lng: -99.216155}, {lat: 19.352242, lng: -99.279110}],
+        path: [{lat: 19.337277, lng: -99.182878}, {lat: 19.331617, lng: -99.207061}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbolRutas1,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapRutasUnidas1
+      });
+
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.325745, lng: -99.217103}, {lat: 19.352242, lng: -99.279110}],
         strokeOpacity: 0,
         icons: [{
           icon: lineSymbolRutas1,
