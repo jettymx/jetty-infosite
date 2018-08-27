@@ -695,6 +695,21 @@ img.comillas{
   top:-5px;
 }
 
+.btn-rutas{
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.modal-title{
+  color: #596972;
+  font-weight: 700;
+}
+
+.modal-body{
+  padding: 0;
+}
+
 /*////// ORGANIZACIONES //////*/
 .header-organizaciones{
   background: url('../img/Back_Organizaciones.png') no-repeat;
@@ -1942,6 +1957,11 @@ ul.testimoniales-blog li img{
 
   .vacante img{
     margin-bottom: 20px;
+  }
+
+  .modal-body{
+    height:350px;
+    padding: 0;
   }
 
 }

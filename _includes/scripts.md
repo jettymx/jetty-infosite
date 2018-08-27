@@ -462,19 +462,43 @@
 
       // Mapa 4 Aragón - Santa Fe
       var Marker = new google.maps.Marker({
-        position: {lat: 19.458191, lng: -99.069337},
+        position: {lat: 19.46858, lng: -99.049511},
         map: mapAragonSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.387198, lng: -99.253095},
+        position: {lat: 19.45819, lng: -99.069337},
         map: mapAragonSantaFe,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
-        position: {lat: 19.3653525, lng: -99.2673518},
+        position: {lat: 19.4514, lng: -99.0789173},
+        map: mapAragonSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.3872, lng: -99.253095},
+        map: mapAragonSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.37329, lng: -99.259612},
+        map: mapAragonSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.36783, lng: -99.2637924},
+        map: mapAragonSantaFe,
+        icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.35755, lng: -99.277629},
         map: mapAragonSantaFe,
         icon: image
       });
