@@ -28,7 +28,7 @@ id: cobertura
           </div>
           <div class="panel-body">
             <button type="button" data-toggle="modal" data-target="#ruta1" class="btn-rutas">
-              <img src="img/mapasrutas/Cuautitlan-Perinorte-SantaFe.png">
+              <img src="img/mapasrutas/Cuautitlan-Perinorte-Polanco-Reforma.png">
             </button>
             <!-- <div id="map_canvas_2" class="map_canvas"></div> -->
           </div>
@@ -42,7 +42,7 @@ id: cobertura
           </div>
           <div class="panel-body">
             <button type="button" data-toggle="modal" data-target="#ruta2" class="btn-rutas">
-              <img src="img/mapasrutas/Cuautitlan-Perinorte-Polanco-Reforma.png">
+              <img src="img/mapasrutas/Cuautitlan-Perinorte-SantaFe.png">
             </button>
             <!-- <div id="map_canvas_7" class="map_canvas"></div> -->
           </div>
