@@ -294,7 +294,7 @@ id: cobertura
       </div>
 
       <!-- SVBus 7 -->
-      <div class="col-md-4">
+      <!-- <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading svbus">
             <h4 class="panel-title">Auditorio <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
@@ -303,10 +303,9 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#rutaSVBus7" class="btn-rutas">
               <img src="img/mapasrutas/Auditorio-SantaFe.png">
             </button>
-            <!-- <div id="map_canvas_SVBus7" class="map_canvas"></div> -->
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
 

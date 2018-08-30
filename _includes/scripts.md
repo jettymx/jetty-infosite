@@ -130,10 +130,10 @@
           center: new google.maps.LatLng(19.3500, -99.1800),
           styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-      var mapOptionsSVBus7 = {
-          zoom: 12,
-          center: new google.maps.LatLng(19.4000, -99.2300),
-          styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+      // var mapOptionsSVBus7 = {
+      //     zoom: 12,
+      //     center: new google.maps.LatLng(19.4000, -99.2300),
+      //     styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
       var RutasViverosSanta = {
           zoom: 12,
@@ -194,8 +194,8 @@
       var mapElementSVBus6 = document.getElementById('map_canvas_SVBus6');
       var mapSVBus6 = new google.maps.Map(mapElementSVBus6, mapOptionsSVBus6);
 
-      var mapElementSVBus7 = document.getElementById('map_canvas_SVBus7');
-      var mapSVBus7 = new google.maps.Map(mapElementSVBus7, mapOptionsSVBus7);
+      // var mapElementSVBus7 = document.getElementById('map_canvas_SVBus7');
+      // var mapSVBus7 = new google.maps.Map(mapElementSVBus7, mapOptionsSVBus7);
 
       var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
       var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
@@ -2494,47 +2494,47 @@
 
 
       // Mapa SVBus7 Auditorio - Auditorio
-      new google.maps.Polygon({
-        map: mapSVBus7,
-        paths: auditorio,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
+      // new google.maps.Polygon({
+      //   map: mapSVBus7,
+      //   paths: auditorio,
+      //   strokeColor: '#49bda7',
+      //   strokeOpacity: 0.8,
+      //   strokeWeight: 1.5,
+      //   fillColor: '#49bda7',
+      //   fillOpacity: 0.2,
+      //   draggable: false,
+      //   geodesic: true
+      // });
 
-      new google.maps.Polygon({
-        map: mapSVBus7,
-        paths: santafeSVBus,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
+      // new google.maps.Polygon({
+      //   map: mapSVBus7,
+      //   paths: santafeSVBus,
+      //   strokeColor: '#49bda7',
+      //   strokeOpacity: 0.8,
+      //   strokeWeight: 1.5,
+      //   fillColor: '#49bda7',
+      //   fillOpacity: 0.2,
+      //   draggable: false,
+      //   geodesic: true
+      // });
 
       // Line SVBus7 Cotsco - Auditorio
-      var lineSymbolSVBus7 = {
-        path: 'M 0,-1 0,1',
-        strokeOpacity: 0.5,
-        scale: 4
-      };
+      // var lineSymbolSVBus7 = {
+      //   path: 'M 0,-1 0,1',
+      //   strokeOpacity: 0.5,
+      //   scale: 4
+      // };
 
-      var line = new google.maps.Polyline({
-        path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
-        strokeOpacity: 0,
-        icons: [{
-          icon: lineSymbolSVBus7,
-          offset: '0',
-          repeat: '20px'
-        }],
-        map: mapSVBus7
-      });
+      // var line = new google.maps.Polyline({
+      //   path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
+      //   strokeOpacity: 0,
+      //   icons: [{
+      //     icon: lineSymbolSVBus7,
+      //     offset: '0',
+      //     repeat: '20px'
+      //   }],
+      //   map: mapSVBus7
+      // });
 
 
       // Mapa RutasUnidas1 Viveros - Santa Fe
