@@ -16,6 +16,10 @@ id: prensa
       <a href="mailto:prensa@jetty.mx">prensa@jetty.mx</a></p>
     </div>
 
+    <div class="col-md-8 col-md-offset-2" style="margin-top: 20px; margin-bottom: 20px;">
+      <p>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso. Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</p>
+    </div>
+
     <div class="col-md-10 col-md-offset-1">
 
       <div class="row nota">
@@ -99,6 +103,11 @@ id: prensa
         <div class="col-md-3 logo-medios">
           <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank"><img src="imgs-prensa/reforma.png"></a>
         </div>
+        <div class="col-md-9">
+          <h3>Refleja en documental traslados extremos</h3>
+          <p>No sólo en la Ciudad de México, también ciudadanos de otras urbes del mundo padecen el traslado sobre distancias extremas desde sus hogares hasta sus lugares de trabajo, experimentando pérdida de calidad de vida, violencia y menos tiempo con sus familias.</p>
+          <a href="docs/reforma-documental.pdf" target="_blank">Ver artículo</a>
+        </div>
         <!-- <div class="col-md-9">
           <h3>Ofrecen transporte de lujo en Metrópoli.</h3>
           <p>Ahora, viajar entre Lomas Verdes y Polanco con asiento reservado, wifi y hora de abordaje, será posible a través de una app para iOS y Android.</p>
@@ -106,7 +115,7 @@ id: prensa
         </div> -->
       </div>
 
-      <div class="row nota">
+      <!-- <div class="row nota">
         <div class="col-md-3 logo-medios">
         </div>
         <div class="col-md-9">
@@ -114,7 +123,7 @@ id: prensa
           <p>No sólo en la Ciudad de México, también ciudadanos de otras urbes del mundo padecen el traslado sobre distancias extremas desde sus hogares hasta sus lugares de trabajo, experimentando pérdida de calidad de vida, violencia y menos tiempo con sus familias.</p>
           <a href="docs/reforma-documental.pdf" target="_blank">Ver artículo</a>
         </div>
-      </div>
+      </div> -->
 
 
     </div>
