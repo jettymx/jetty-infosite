@@ -232,7 +232,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Desarrollador/a Jr.</p>
+                 Desarrollador móvil - iOS</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
@@ -246,13 +246,19 @@ id: vacantes
                 <p><b>RESPONSABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Como ingeniero/a de software  estás a cargo del desarrollo de la plataforma. </p>
+                    <p>Como ingeniero/a de software  estarás a cargo del desarrollo de la app de Jetty para iOS.</p>
                   </li>
                   <li>
-                    <p>Te volverás experto/a en testing automatizado. Utilizarías principalmente ruby, pero también otros lenguajes y recursos. Trabajarás con API's de diferentes herramientas.</p>
+                    <p>Construir componentes y funcionalidades de la aplicación de Jetty para iOS.</p>
                   </li>
                   <li>
-                    <p>El equipo de tecnología diseña la arquitectura de la plataforma y se involucra con el equipo de negocios para definir, diseñar e implementar nuevas funcionalidades basadas en un análisis profundo y continuo de datos.</p>
+                    <p>Ayudar a mejorar la calidad del código mediante pruebas unitarias y automatización.</p>
+                  </li>
+                  <li>
+                    <p>Trabajar con el equipo de diseño para entender los requerimientos del usuario final.</p>
+                  </li>
+                  <li>
+                    <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación y seguimiento a los procesos de desarrollo de software.</p>
                   </li>
                 </ul>
 
@@ -261,40 +267,37 @@ id: vacantes
                 <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
                 <ul>
                   <li>
-                    <p>Experiencia con lenguajes dinámicos (como Python, Javascript, Ruby, Elixir, etc.)</p>
+                    <p>Fundamentos sólidos de  Swift 3 y Xcode.</p>
                   </li>
                   <li>
-                    <p>Conocimiento de programación orientada a objetos o programación funcional</p>
+                    <p>Manejo de iOS Frameworks (CoreData, CoreAnimation, AVFoundation, etc).</p>
                   </li>
                   <li>
-                    <p>Experiencia en alguna base de datos relacional</p>
+                    <p>Conocimiento de estándares de codificación iOS y Human Interface guidelines de Apple.</p>
                   </li>
                   <li>
-                    <p>Experiencia con HTML, CSS3, JavaScript</p>
+                    <p>Conocimiento en el proceso de publicación en la App Store</p>
                   </li>
                   <li>
-                    <p>Conocimiento de GIT y Github</p>
+                    <p>Experiencia con Cocoapods.</p>
                   </li>
                   <li>
-                    <p>Dominio del idioma Inglés (hablado, escrito, y leído)</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Es un plus, contar con los siguientes conocimientos:</b></p>
-                <ul>
-                  <li>
-                    <p>Experiencia previa en testing automatizado</p>
+                    <p>Experiencia en programación orientada a objetos sobre el paradigma de Model View Controller.</p>
                   </li>
                   <li>
-                    <p>Experiencia previa en TDD</p>
+                    <p>Conocimiento en el consumo de Web services (REST)</p>
                   </li>
                   <li>
-                    <p>Conocimiento de Ruby</p>
+                    <p>Conocimiento de programación orientada a objetos o programación funcional  y saber aplicarlos de manera eficiente.</p>
                   </li>
                   <li>
-                    <p>Experiencia en PostgreSQL</p>
+                    <p>Conocimiento de GIT y Github.</p>
+                  </li>
+                  <li>
+                    <p>Haber participado en procesos de desarrollo de Software empleando metodologías ágiles.</p>
+                  </li>
+                  <li>
+                    <p>Dominio del idioma Inglés (hablado, escrito, y leído).</p>
                   </li>
                 </ul>
 
@@ -312,25 +315,22 @@ id: vacantes
                     <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
                   </li>
                   <li>
-                    <p>Ser humilde, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
                   <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil. Capaz de trabajar por objetivos y bajo presión.</p>
                   </li>
                   <li>
-                    <p>Fuertes habilidades estructurales y analíticas con la capacidad de establecer procesos de negocio eficientes.</p>
+                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
                   </li>
                   <li>
-                    <p>Demostrar un gran interés en el marketing en línea impulsado por el desempeño y explorar nuevas oportunidades de mercadotecnia.</p>
-                  </li>
-                  <li>
-                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar las decisiones empresariales utilizando información de los datos.</p>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
                 </ul>
 
                 <br>
 
-                <p><b>DATOS GENERALES DEL PUESTO:</b></p>
+                <!-- <p><b>DATOS GENERALES DEL PUESTO:</b></p>
                 <ul>
                   <p><b>1. Jornada Laboral</b></p>
                   <li>
@@ -356,14 +356,10 @@ id: vacantes
                   </li>
                 </ul>
 
-                <br>
+                <br> -->
 
                 <p><b>¿TE INTERESA?</b></p>
-                <ul>
-                  <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Desarrollador/a Jr.">hola@jetty.mx</a> utilizando <b>“Desarrollador/a Jr.”</b> como asunto del correo. Adjunta tu CV, cualquier link que nos ayude a conocerte (github, linkedin, cv) y un párrafo de por qué te interesa la vacante.</p>
-                  </li>
-                </ul>
+                <p>Escríbenos a <a href="mailto:irvin@jetty.mx?subject=Desarrollador/a Jr.">irvin@jetty.mx</a> utilizando <b>“Desarrollador móvil - iOS”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
 
               </div>
             </div>
