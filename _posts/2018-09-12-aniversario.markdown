@@ -28,3 +28,5 @@ Esta semana celebramos nuestro primer aniversario y estamos llevando a cabo dive
 ![Jetty - Conductores]({{site.baseurl}}/imgs-blog/pastel.png)
 
 Finalmente, queremos compartir y celebrar con todos ustedes, y para eso les queremos compartir los resultados que hemos tenido en poco más de 1 año de operación.
+
+<a href="{{site.baseurl}}/docs/Reporte-2018-Jetty.pdf" target="_new"><span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span> Reporte Primer Año</a>
