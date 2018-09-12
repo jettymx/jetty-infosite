@@ -60,7 +60,7 @@ id: prensa
         </div>
         <div class="col-md-9">
           <h3>Jetty deja fuera de circulación a 24 mil 500 autos en un año</h3>
-          <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos. http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano</p>
+          <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos.</p>
           <a href="http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano" target="_blank">Ver artículo</a>
         </div>
       </div>
