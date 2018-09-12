@@ -57,6 +57,16 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
+        </div>
+        <div class="col-md-9">
+          <h3>Jetty deja fuera de circulación a 24 mil 500 autos en un año</h3>
+          <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos. http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano</p>
+          <a href="http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
           <a href="https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/" target="_blank"><img src="imgs-prensa/forbes.png"></a>
         </div>
         <div class="col-md-9">
