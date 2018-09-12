@@ -18,19 +18,19 @@
     <div class="col-md-3">
       <ul class="submenu">
         <li>
-          <a href="{{site.baseurl}}/quienes">About us</a>
+          <a href="{{site.baseurl}}/en/quienes">About us</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/vacantes" target="_self">Work with us</a>
+          <a href="{{site.baseurl}}/en/vacantes" target="_self">Work with us</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/transporte-eventos" target="_self">Events</a>
+          <a href="{{site.baseurl}}/en/transporte-eventos" target="_self">Events</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/prensa" target="_self">Press</a>
+          <a href="{{site.baseurl}}/en/prensa" target="_self">Press</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Driver or transportation operators </a>
+          <a href="{{site.baseurl}}/en/trabajo-conductor" target="_self">Driver or transportation operators </a>
         </li>
       </ul>
     </div>
@@ -41,13 +41,13 @@
           <a href="http://ayuda.jetty.mx" target="_self">FAQs</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/aviso-de-privacidad" target="_self">Privacy</a>
+          <a href="{{site.baseurl}}/en/aviso-de-privacidad" target="_self">Privacy</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/terminos" target="_self">Terms & conditions</a>
+          <a href="{{site.baseurl}}/en/terminos" target="_self">Terms & conditions</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/prestacion" target="_self">Service</a>
+          <a href="{{site.baseurl}}/en/prestacion" target="_self">Service</a>
         </li>
       </ul>
     </div>

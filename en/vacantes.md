@@ -1,5 +1,5 @@
 ---
-layout: default-cobertura
+layout: default-cobertura-en
 title: Jetty | El transporte que mereces
 description: Nuestra misión es ofrecer una alternativa de transporte privado seguro, confiable y accesible. Actualmente ofrecemos soluciones de traslado para personas en viajan entre las zonas de Aragón, Cuautitlán, Condesa, Narvarte, Santa Fe, Polanco.
 id: vacantes
