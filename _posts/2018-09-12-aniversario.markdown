@@ -36,3 +36,7 @@ No podía faltar el equipo de Jetty, por lo que continuamos los festejos reconoc
 Y finalmente, queremos compartir y celebrar con todos ustedes, y para eso les queremos compartir un reporte de los resultados que hemos tenido.
 
 <a href="{{site.baseurl}}/docs/Reporte-2018-Jetty.pdf" target="_new"><span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span> Descargar Reporte</a>
+
+<div class="text-center">
+  <h3>¡Gracias por ser parte de Jetty!</h3>
+</div>
