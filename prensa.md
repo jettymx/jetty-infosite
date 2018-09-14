@@ -16,7 +16,7 @@ id: prensa
       <a href="mailto:prensa@jetty.mx">prensa@jetty.mx</a></p>
     </div>
 
-    <div class="col-md-8 col-md-offset-2" style="margin-top: 20px; margin-bottom: 20px;">
+    <div class="col-md-10 col-md-offset-1" style="margin-top: 20px; margin-bottom: 20px;">
       <p>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso. Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</p>
     </div>
 
@@ -24,10 +24,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="http://expansion.mx/tecnologia/2017/08/09/app-de-transporte-colectivo-movilizara-trayectos-entre-cdmx-y-edomex" target="_blank"><img src="imgs-prensa/expansion.png"></a>
+          <img src="imgs-prensa/expansion.png">
         </div>
         <div class="col-md-9">
-          <h3>APP DE TRANSPORTE COLECTIVO MOVILIZARÁ TRAYECTOS ENTRE CDMX Y EDOMEX</h3>
+          <h3>App de transporte colectivo movilizará trayectos entre CDMX y EDOMEX</h3>
+          <p><small><i>10 agosto 2017</i></small></p>
           <p>La app Jetty ofrecerá servicio de transporte, tipo Uber, en camionetas entre ambos estados; la ruta inicial conectará a la zona de Lomas Verdes con Polanco.</p>
           <a href="http://expansion.mx/tecnologia/2017/08/09/app-de-transporte-colectivo-movilizara-trayectos-entre-cdmx-y-edomex" target="_blank">Ver artículo</a>
         </div>
@@ -35,10 +36,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="http://www.excelsior.com.mx/comunidad/2017/08/09/1180659" target="_blank"><img src="imgs-prensa/excelsior.png"></a>
+          <img src="imgs-prensa/excelsior.png">
         </div>
         <div class="col-md-9">
           <h3>¿Utilizas transporte en Polanco? Lanzan app de servicio colectivo.</h3>
+          <p><small><i>9 agosto 2017</i></small></p>
           <p>Jetty, iniciará servicio la próxima semana en vagonetas que cubrirán la ruta Polanco-Lomas Verdes por un costo de 49 pesos por persona en una ruta metropolitana de 12 kilómetros.</p>
           <a href="http://www.excelsior.com.mx/comunidad/2017/08/09/1180659" target="_blank">Ver artículo</a>
         </div>
@@ -46,10 +48,23 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="http://www.milenio.com/df/jetty-uber-cabify-camionetas-vans-lomas_verdes-polanco-noticias_milenio_0_1008499575.html" target="_blank"><img src="imgs-prensa/milenio.png"></a>
+          <img src="imgs-prensa/milenio.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Jetty deja fuera de circulación a 24 mil 500 autos en un año</h3>
+          <p><small><i>14 septiembre 2018</i></small></p>
+          <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos.</p>
+          <a href="http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano" target="_blank">Ver artículo</a>
+        </div>
+
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
         </div>
         <div class="col-md-9">
           <h3>Camionetas Jetty conectarán Lomas Verdes y Polanco.</h3>
+          <p><small><i>9 agosto 2017</i></small></p>
           <p>Las camionetas tienen características similares en seguridad y estándar que Uber y Cabify pero el precio del viaje será menor, destacó Onésimo Flores, socio fundador de Jetty.</p>
           <a href="http://www.milenio.com/df/jetty-uber-cabify-camionetas-vans-lomas_verdes-polanco-noticias_milenio_0_1008499575.html" target="_blank">Ver artículo</a>
         </div>
@@ -57,20 +72,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-        </div>
-        <div class="col-md-9">
-          <h3>Jetty deja fuera de circulación a 24 mil 500 autos en un año</h3>
-          <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos.</p>
-          <a href="http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano" target="_blank">Ver artículo</a>
-        </div>
-      </div>
-
-      <div class="row nota">
-        <div class="col-md-3 logo-medios">
-          <a href="https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/" target="_blank"><img src="imgs-prensa/forbes.png"></a>
+          <img src="imgs-prensa/forbes.png">
         </div>
         <div class="col-md-9">
           <h3>Una app para cambiar el rumbo del transporte público</h3>
+          <p><small><i>12 febrero 2018</i></small></p>
           <p>Jetty no cuenta con ningún vehículo propio, pero esta app de transporte quiere cambiar la calidad de los viajes de las personas que todos los días se trasladan del Estado de México a la Ciudad para trabajar.</p>
           <a href="https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/" target="_blank">Ver artículo</a>
         </div>
@@ -78,10 +84,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="https://tyt.com.mx/noticias/integran-app-a-servicios-de-svbus/" target="_blank"><img src="imgs-prensa/transportes.png"></a>
+          <img src="imgs-prensa/transportes.png">
         </div>
         <div class="col-md-9">
           <h3>Intengran App a servicios de SVBus</h3>
+          <p><small><i>5 mayo 2018</i></small></p>
           <p>La plataforma de origen mexicano Jetty formó una alianza con SVBUS, empresa dedicada a operar los autobuses que circulan por el segundo piso y por la Supervía Poniente, en la Ciudad de México, en la que los usuarios de este servicio pueden reservar asientos en dichos buses.</p>
           <a href="https://tyt.com.mx/noticias/integran-app-a-servicios-de-svbus/" target="_blank">Ver artículo</a>
         </div>
@@ -89,10 +96,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="https://www.vanguardia.com.mx/articulo/jetty-lanzan-app-de-servicio-colectivo-en-polanco" target="_blank"><img src="imgs-prensa/vanguardia.png"></a>
+          <img src="imgs-prensa/vanguardia.png">
         </div>
         <div class="col-md-9">
           <h3>Jetty: Lanzan app de servicio colectivo en Polanco</h3>
+          <p><small><i>9 agosto 2017</i></small></p>
           <p>Llega una buena noticia para los empleados de la zona de Polanco, una nueva aplicación para teléfonos inteligentes busca ofrecer una mejor opción de transporte colectivo.</p>
           <a href="https://www.vanguardia.com.mx/articulo/jetty-lanzan-app-de-servicio-colectivo-en-polanco" target="_blank">Ver artículo</a>
         </div>
@@ -100,10 +108,11 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="https://www.animalpolitico.com/blogueros-ciudad-posible/2017/08/10/ciudad-mexico-te-presentamos-jetty/" target="_blank"><img src="imgs-prensa/animal-politico.png"></a>
+          <img src="imgs-prensa/animal-politico.png">
         </div>
         <div class="col-md-9">
           <h3>Jetty: Lanzan app de servicio colectivo en Polanco</h3>
+          <p><small><i>10 agosto 2017</i></small></p>
           <p>Todos los días 1.7 millones de personas viajan del Estado de México, donde están las viviendas asequibles, a la CDMX, donde están las oportunidades de empleo. </p>
           <a href="https://www.animalpolitico.com/blogueros-ciudad-posible/2017/08/10/ciudad-mexico-te-presentamos-jetty/" target="_blank">Ver artículo</a>
         </div>
@@ -111,29 +120,26 @@ id: prensa
 
       <div class="row nota">
         <div class="col-md-3 logo-medios">
-          <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank"><img src="imgs-prensa/reforma.png"></a>
+          <img src="imgs-prensa/reforma.png">
         </div>
         <div class="col-md-9">
-          <h3>Refleja en documental traslados extremos</h3>
-          <p>No sólo en la Ciudad de México, también ciudadanos de otras urbes del mundo padecen el traslado sobre distancias extremas desde sus hogares hasta sus lugares de trabajo, experimentando pérdida de calidad de vida, violencia y menos tiempo con sus familias.</p>
-          <a href="docs/reforma-documental.pdf" target="_blank">Ver artículo</a>
+          <h3>Cumple Jetty primer año de traslados</h3>
+          <p><small><i>12 septiembre 2018</i></small></p>
+          <p>La mujer tiene 89 años y desde los 45 había dejado de usar el transporte público por precaución.</p>
+          <a href="https://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1489140&md5=75d84957163b1365bb2bdae2b05a9a72&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=c178f76cd86e823790b69674b20e622c" target="_blank">Ver artículo</a>
         </div>
-        <!-- <div class="col-md-9">
-          <h3>Ofrecen transporte de lujo en Metrópoli.</h3>
-          <p>Ahora, viajar entre Lomas Verdes y Polanco con asiento reservado, wifi y hora de abordaje, será posible a través de una app para iOS y Android.</p>
-          <a href="http://www.reforma.com/aplicacioneslibre/articulo/default.aspx?id=1184435&md5=1f679f6fd54761085bdd31033166b808&ta=0dfdbac11765226904c16cb9ad1b2efe&lcmd5=e79502511d06f4b2cc756574b8436514" target="_blank">Ver artículo</a>
-        </div> -->
       </div>
 
-      <!-- <div class="row nota">
+      <div class="row nota">
         <div class="col-md-3 logo-medios">
         </div>
         <div class="col-md-9">
           <h3>Refleja en documental traslados extremos</h3>
+          <p><small><i>8 junio 2018</i></small></p>
           <p>No sólo en la Ciudad de México, también ciudadanos de otras urbes del mundo padecen el traslado sobre distancias extremas desde sus hogares hasta sus lugares de trabajo, experimentando pérdida de calidad de vida, violencia y menos tiempo con sus familias.</p>
           <a href="docs/reforma-documental.pdf" target="_blank">Ver artículo</a>
         </div>
-      </div> -->
+      </div>
 
 
     </div>
