@@ -364,6 +364,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_2" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -378,6 +381,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_7" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -394,6 +400,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -408,6 +417,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_3" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -424,6 +436,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_4" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -438,6 +453,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_5" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -454,6 +472,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_6" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -468,6 +489,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_8" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -484,6 +508,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_9" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -498,6 +525,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_10" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -514,6 +544,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_11" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -528,6 +561,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_12" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -544,6 +580,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus1" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -558,6 +597,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus2" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -574,6 +616,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus3" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -588,6 +633,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus4" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -604,6 +652,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus5" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -618,6 +669,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus6" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
@@ -634,6 +688,9 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus7" class="map_canvas"></div>
       </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
     </div>
   </div>
 </div>
@@ -648,6 +705,9 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_Rutas1" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
