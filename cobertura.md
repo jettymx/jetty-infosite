@@ -34,7 +34,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta1" class="btn-rutas">
               <img src="img/mapasrutas/Cuautitlan-Perinorte-Polanco-Reforma.png">
             </button>
-            <!-- <div id="map_canvas_2" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -48,7 +47,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta2" class="btn-rutas">
               <img src="img/mapasrutas/Cuautitlan-Perinorte-SantaFe.png">
             </button>
-            <!-- <div id="map_canvas_7" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -62,7 +60,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta3" class="btn-rutas">
               <img src="img/mapasrutas/ZonaNorte-Polanco.png">
             </button>
-            <!-- <div id="map_canvas" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -76,7 +73,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta4" class="btn-rutas">
               <img src="img/mapasrutas/Reforma-SantaFe.png">
             </button>
-            <!-- <div id="map_canvas_3" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -90,7 +86,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta5" class="btn-rutas">
               <img src="img/mapasrutas/ZonaNorte-SantaFe.png">
             </button>
-            <!-- <div id="map_canvas_4" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -104,7 +99,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#ruta6" class="btn-rutas">
               <img src="img/mapasrutas/Aragon-SantaFe.png">
             </button>
-            <!-- <div id="map_canvas_5" class="map_canvas"></div> -->
           </div>
         </div>
       </div>

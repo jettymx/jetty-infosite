@@ -203,13 +203,11 @@
       // Marker points
       var image = {
         url: 'https://www.jetty.mx/img/icon-ascenso.png',
-        // url: 'icon-ascenso.png',
         scaledSize: new google.maps.Size(20, 23) // scaled size
       };
 
       var destiny = {
-        url: 'https://www.jetty.mx/img/con-descenso.png',
-        // url: 'icon-descenso.png',
+        url: 'https://www.jetty.mx/img/icon-descenso.png',
         scaledSize: new google.maps.Size(20, 23) // scaled size
       };
 
@@ -2507,47 +2505,47 @@
 
 
       // Mapa SVBus7 Auditorio - Santa Fe
-      new google.maps.Polygon({
-        map: mapSVBus7,
-        paths: auditorio,
-        strokeColor: '#49bda7',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#49bda7',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
+      // new google.maps.Polygon({
+      //   map: mapSVBus7,
+      //   paths: auditorio,
+      //   strokeColor: '#49bda7',
+      //   strokeOpacity: 0.8,
+      //   strokeWeight: 1.5,
+      //   fillColor: '#49bda7',
+      //   fillOpacity: 0.2,
+      //   draggable: false,
+      //   geodesic: true
+      // });
 
-      new google.maps.Polygon({
-        map: mapSVBus7,
-        paths: santafeSVBus,
-        strokeColor: '#768a96',
-        strokeOpacity: 0.8,
-        strokeWeight: 1.5,
-        fillColor: '#768a96',
-        fillOpacity: 0.2,
-        draggable: false,
-        geodesic: true
-      });
+      // new google.maps.Polygon({
+      //   map: mapSVBus7,
+      //   paths: santafeSVBus,
+      //   strokeColor: '#768a96',
+      //   strokeOpacity: 0.8,
+      //   strokeWeight: 1.5,
+      //   fillColor: '#768a96',
+      //   fillOpacity: 0.2,
+      //   draggable: false,
+      //   geodesic: true
+      // });
 
       // Line SVBus7 Cotsco - Auditorio
-      var lineSymbolSVBus7 = {
-        path: 'M 0,-1 0,1',
-        strokeOpacity: 0.5,
-        scale: 4
-      };
+      // var lineSymbolSVBus7 = {
+      //   path: 'M 0,-1 0,1',
+      //   strokeOpacity: 0.5,
+      //   scale: 4
+      // };
 
-      var line = new google.maps.Polyline({
-        path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
-        strokeOpacity: 0,
-        icons: [{
-          icon: lineSymbolSVBus7,
-          offset: '0',
-          repeat: '20px'
-        }],
-        map: mapSVBus7
-      });
+      // var line = new google.maps.Polyline({
+      //   path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
+      //   strokeOpacity: 0,
+      //   icons: [{
+      //     icon: lineSymbolSVBus7,
+      //     offset: '0',
+      //     repeat: '20px'
+      //   }],
+      //   map: mapSVBus7
+      // });
 
 
       // Mapa RutasUnidas1 Viveros - Santa Fe
