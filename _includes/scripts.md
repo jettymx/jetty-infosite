@@ -202,8 +202,15 @@
 
       // Marker points
       var image = {
-          url: 'https://www.jetty.mx/img/origin-pin-@3.png',
-          scaledSize: new google.maps.Size(20, 28) // scaled size
+        url: 'https://www.jetty.mx/img/icon-ascenso.png',
+        // url: 'icon-ascenso.png',
+        scaledSize: new google.maps.Size(20, 23) // scaled size
+      };
+
+      var destiny = {
+        url: 'https://www.jetty.mx/img/con-descenso.png',
+        // url: 'icon-descenso.png',
+        scaledSize: new google.maps.Size(20, 23) // scaled size
       };
 
       // Mapa 1 Norte > Polanco
@@ -240,25 +247,25 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.4398308, lng: -99.2008781},
         map: mapNortePolanco,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.437806, lng: -99.190349},
         map: mapNortePolanco,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.432371, lng: -99.182103},
         map: mapNortePolanco,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.422768, lng: -99.172115},
         map: mapNortePolanco,
-        icon: image
+        icon: destiny
       });
 
 
@@ -278,25 +285,25 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.4398308, lng: -99.2008781},
         map: mapCuautiReformaXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.437806, lng: -99.190349},
         map: mapCuautiReformaXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.432371, lng: -99.182103},
         map: mapCuautiReformaXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.422768, lng: -99.172115},
         map: mapCuautiReformaXpress,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 7 Cuautitlan > Santa Fe Xpress
@@ -315,50 +322,50 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapCuautiSantafeXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.373289, lng: -99.259612},
         map: mapCuautiSantafeXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.367439, lng: -99.2637558},
         map: mapCuautiSantafeXpress,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapCuautiSantafeXpress,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 3 Reforma Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapReformaSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.373289, lng: -99.259612},
         map: mapReformaSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.367439, lng: -99.2637558},
         map: mapReformaSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapReformaSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
@@ -438,25 +445,25 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapNorteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.373289, lng: -99.259612},
         map: mapNorteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.367439, lng: -99.2637558},
         map: mapNorteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapNorteSantaFe,
-        icon: image
+        icon: destiny
       });
 
 
@@ -482,26 +489,27 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.3872, lng: -99.253095},
         map: mapAragonSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.37329, lng: -99.259612},
         map: mapAragonSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.36783, lng: -99.2637924},
         map: mapAragonSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35755, lng: -99.277629},
         map: mapAragonSantaFe,
-        icon: image
+        icon: destiny
       });
+
 
       // Mapa 5 Parque de los venados/Del Valle - Santa Fe
       var Marker = new google.maps.Marker({
@@ -525,31 +533,31 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.365662, lng: -99.259239},
         map: mapNarvarteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3678265, lng: -99.2637924},
         map: mapNarvarteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapNarvarteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35749292, lng: -99.27764941},
         map: mapNarvarteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35748561, lng: -99.27381145},
         map: mapNarvarteSantaFe,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 6 Polanco Santa Fe
@@ -580,31 +588,31 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapPolancoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.373289, lng: -99.259612},
         map: mapPolancoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3678265, lng: -99.2637924},
         map: mapPolancoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3653525, lng: -99.2673518},
         map: mapPolancoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapPolancoSantaFe,
-        icon: image
+        icon: destiny
       });
 
 
@@ -636,25 +644,25 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.3678265, lng: -99.2637924},
         map: mapChabacanoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3653525, lng: -99.2673518},
         map: mapChabacanoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3574929, lng: -99.2776494},
         map: mapChabacanoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265, lng: -99.274824},
         map: mapChabacanoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 8 Atizapan Santa Fe
@@ -673,31 +681,31 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198, lng: -99.253095},
         map: mapAtizapanSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3678265, lng: -99.2637924},
         map: mapAtizapanSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3653525, lng: -99.2673518},
         map: mapAtizapanSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35749292, lng: -99.27764941},
         map: mapAtizapanSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35741982, lng: -99.27386394},
         map: mapAtizapanSantaFe,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 9 Azcapotzalco Santa Fe
@@ -734,43 +742,43 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.387198000000000, lng: -99.253095000000000},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.373289000000000, lng: -99.259612000000000},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.367826500000000, lng: -99.263792400000000},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.365352500000000, lng: -99.267351800000000},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.362805099999900, lng: -99.265796899999900},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357265000000000, lng: -99.274823999999900},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.357554000000000, lng: -99.277629000000000},
         map: mapAzcapoSantaFe,
-        icon: image
+        icon: destiny
       });
 
       // Mapa 12 Coacalco/Polanco - Reforma
@@ -801,35 +809,35 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.4398308, lng: -99.2008781},
         map: mapCoacalcoPolancoReforma,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.4377816, lng: -99.1903213},
         map: mapCoacalcoPolancoReforma,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.432371, lng: -99.182103},
         map: mapCoacalcoPolancoReforma,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.428951, lng: -99.164615},
         map: mapCoacalcoPolancoReforma,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.422768, lng: -99.172115},
         map: mapCoacalcoPolancoReforma,
-        icon: image
+        icon: destiny
       });
 
 
-      // SVBus Acoxpa
+      // SVBus1 Acoxpa - SantaFe
       var Marker = new google.maps.Marker({
         position: {lat: 19.2991912, lng: -99.1380766},
         map: mapSVBus1,
@@ -837,45 +845,47 @@
       });
 
       var Marker = new google.maps.Marker({
+        position: {lat: 19.368098, lng: -99.26025},
+        map: mapSVBus1,
+        icon: destiny
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.3580063, lng: -99.2769693},
+        map: mapSVBus1,
+        icon: destiny
+      });
+
+
+      // SVBus2 Acoxpa - Auditorio
+      var Marker = new google.maps.Marker({
         position: {lat: 19.2991912, lng: -99.1380766},
         map: mapSVBus2,
         icon: image
       });
 
-      // SVBus Auditorio
       var Marker = new google.maps.Marker({
         position: {lat: 19.425265, lng: -99.193348},
         map: mapSVBus2,
-        icon: image
+        icon: destiny
       });
 
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.425265, lng: -99.193348},
-        map: mapSVBus6,
-        icon: image
-      });
 
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.425265, lng: -99.193348},
-        map: mapSVBus7,
-        icon: image
-      });
-
-      // SVBus Toreo
+      // SVBus3 Toreo - Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.456510, lng: -99.214495},
         map: mapSVBus3,
         icon: image
       });
 
-      // SVBus Santafe2
       var Marker = new google.maps.Marker({
         position: {lat: 19.379889, lng: -99.248893},
         map: mapSVBus3,
-        icon: image
+        icon: destiny
       });
 
-      // SVBus Cotsco Coapa
+
+      // SVBus4 Cotsco Coapa - Santa Fe
       var Marker = new google.maps.Marker({
         position: {lat: 19.284413, lng: -99.137613},
         map: mapSVBus4,
@@ -883,9 +893,43 @@
       });
 
       var Marker = new google.maps.Marker({
+        position: {lat: 19.368098, lng: -99.26025},
+        map: mapSVBus4,
+        icon: destiny
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.3580063, lng: -99.276414},
+        map: mapSVBus4,
+        icon: destiny
+      });
+
+
+      // SVBus5 Cotsco Coapa - Centro Comercial Santa Fe
+      var Marker = new google.maps.Marker({
         position: {lat: 19.284413, lng: -99.137613},
         map: mapSVBus5,
         icon: image
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.368098, lng: -99.26025},
+        map: mapSVBus5,
+        icon: destiny
+      });
+
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.364139, lng: -99.270859},
+        map: mapSVBus5,
+        icon: destiny
+      });
+
+
+      // SVBus6 Cotsco Coapa - Auditorio
+      var Marker = new google.maps.Marker({
+        position: {lat: 19.425265, lng: -99.193348},
+        map: mapSVBus6,
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
@@ -894,57 +938,26 @@
         icon: image
       });
 
-      // SVBus Samara
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.368098, lng: -99.26025},
-        map: mapSVBus1,
-        icon: image
-      });
 
+      // SVBus7 Auditorio - Santa Fe
       var Marker = new google.maps.Marker({
-        position: {lat: 19.368098, lng: -99.26025},
-        map: mapSVBus4,
-        icon: image
-      });
-
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.368098, lng: -99.26025},
-        map: mapSVBus5,
+        position: {lat: 19.425265, lng: -99.193348},
+        map: mapSVBus7,
         icon: image
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.368098, lng: -99.26025},
         map: mapSVBus7,
-        icon: image
-      });
-
-      // SVBus Ac Hotel
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.3580063, lng: -99.2769693},
-        map: mapSVBus1,
-        icon: image
-      });
-
-      // SVBus Office Depot
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.3580063, lng: -99.276414},
-        map: mapSVBus4,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.3580063, lng: -99.276414},
         map: mapSVBus7,
-        icon: image
+        icon: destiny
       });
 
-      // SVBus Centro Comercial Santa Fe
-      var Marker = new google.maps.Marker({
-        position: {lat: 19.364139, lng: -99.270859},
-        map: mapSVBus5,
-        icon: image
-      });
 
 
       // RutasUnidas Viveros - Santa fe
@@ -969,13 +982,13 @@
       var Marker = new google.maps.Marker({
         position: {lat: 19.368098, lng: -99.26025},
         map: mapRutasUnidas1,
-        icon: image
+        icon: destiny
       });
 
       var Marker = new google.maps.Marker({
         position: {lat: 19.35790509, lng: -99.27636846},
         map: mapRutasUnidas1,
-        icon: image
+        icon: destiny
       });
 
 
@@ -1506,10 +1519,10 @@
       new google.maps.Polygon({
         map: mapNortePolanco,
         paths: polanco,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1550,10 +1563,10 @@
       new google.maps.Polygon({
         map: mapCuautiReformaXpress,
         paths: polanco,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1616,10 +1629,10 @@
       new google.maps.Polygon({
         map: mapCuautiSantafeXpress,
         paths: santafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1695,10 +1708,10 @@
       new google.maps.Polygon({
         map: mapReformaSantaFe,
         paths: santafeReforma,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1740,10 +1753,10 @@
       new google.maps.Polygon({
         map: mapNorteSantaFe,
         paths: santafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1818,10 +1831,10 @@
       new google.maps.Polygon({
         map: mapAragonSantaFe,
         paths: santafeAragon,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1885,10 +1898,10 @@
       new google.maps.Polygon({
         map: mapNarvarteSantaFe,
         paths: santafeSMALL,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1929,10 +1942,10 @@
       new google.maps.Polygon({
         map: mapPolancoSantaFe,
         paths: santafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -1995,10 +2008,10 @@
       new google.maps.Polygon({
         map: mapChabacanoSantaFe,
         paths: santafeChabacano,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2085,10 +2098,10 @@
       new google.maps.Polygon({
         map: mapAtizapanSantaFe,
         paths: santafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.3,
         draggable: false,
         geodesic: true
@@ -2139,10 +2152,10 @@
       new google.maps.Polygon({
         map: mapAzcapoSantaFe,
         paths: santafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.3,
         draggable: false,
         geodesic: true
@@ -2194,10 +2207,10 @@
       new google.maps.Polygon({
         map: mapCoacalcoPolancoReforma,
         paths: reforma,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.3,
         draggable: false,
         geodesic: true
@@ -2250,10 +2263,10 @@
       new google.maps.Polygon({
         map: mapSVBus1,
         paths: santafeSVBus,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2293,10 +2306,10 @@
       new google.maps.Polygon({
         map: mapSVBus2,
         paths: auditorio,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2336,10 +2349,10 @@
       new google.maps.Polygon({
         map: mapSVBus3,
         paths: santafeSVBus2,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2379,10 +2392,10 @@
       new google.maps.Polygon({
         map: mapSVBus4,
         paths: santafeSVBus,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2422,10 +2435,10 @@
       new google.maps.Polygon({
         map: mapSVBus5,
         paths: centrocomercialsantafe,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2465,10 +2478,10 @@
       new google.maps.Polygon({
         map: mapSVBus6,
         paths: auditorio,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true
@@ -2493,48 +2506,48 @@
       });
 
 
-      // Mapa SVBus7 Auditorio - Auditorio
-      // new google.maps.Polygon({
-      //   map: mapSVBus7,
-      //   paths: auditorio,
-      //   strokeColor: '#49bda7',
-      //   strokeOpacity: 0.8,
-      //   strokeWeight: 1.5,
-      //   fillColor: '#49bda7',
-      //   fillOpacity: 0.2,
-      //   draggable: false,
-      //   geodesic: true
-      // });
+      // Mapa SVBus7 Auditorio - Santa Fe
+      new google.maps.Polygon({
+        map: mapSVBus7,
+        paths: auditorio,
+        strokeColor: '#49bda7',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#49bda7',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
 
-      // new google.maps.Polygon({
-      //   map: mapSVBus7,
-      //   paths: santafeSVBus,
-      //   strokeColor: '#49bda7',
-      //   strokeOpacity: 0.8,
-      //   strokeWeight: 1.5,
-      //   fillColor: '#49bda7',
-      //   fillOpacity: 0.2,
-      //   draggable: false,
-      //   geodesic: true
-      // });
+      new google.maps.Polygon({
+        map: mapSVBus7,
+        paths: santafeSVBus,
+        strokeColor: '#768a96',
+        strokeOpacity: 0.8,
+        strokeWeight: 1.5,
+        fillColor: '#768a96',
+        fillOpacity: 0.2,
+        draggable: false,
+        geodesic: true
+      });
 
       // Line SVBus7 Cotsco - Auditorio
-      // var lineSymbolSVBus7 = {
-      //   path: 'M 0,-1 0,1',
-      //   strokeOpacity: 0.5,
-      //   scale: 4
-      // };
+      var lineSymbolSVBus7 = {
+        path: 'M 0,-1 0,1',
+        strokeOpacity: 0.5,
+        scale: 4
+      };
 
-      // var line = new google.maps.Polyline({
-      //   path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
-      //   strokeOpacity: 0,
-      //   icons: [{
-      //     icon: lineSymbolSVBus7,
-      //     offset: '0',
-      //     repeat: '20px'
-      //   }],
-      //   map: mapSVBus7
-      // });
+      var line = new google.maps.Polyline({
+        path: [{lat: 19.421167, lng: -99.195687}, {lat: 19.376220, lng: -99.254327}],
+        strokeOpacity: 0,
+        icons: [{
+          icon: lineSymbolSVBus7,
+          offset: '0',
+          repeat: '20px'
+        }],
+        map: mapSVBus7
+      });
 
 
       // Mapa RutasUnidas1 Viveros - Santa Fe
@@ -2565,10 +2578,10 @@
       new google.maps.Polygon({
         map: mapRutasUnidas1,
         paths: santafeRuta,
-        strokeColor: '#49bda7',
+        strokeColor: '#768a96',
         strokeOpacity: 0.8,
         strokeWeight: 1.5,
-        fillColor: '#49bda7',
+        fillColor: '#768a96',
         fillOpacity: 0.2,
         draggable: false,
         geodesic: true

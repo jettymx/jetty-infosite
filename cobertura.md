@@ -19,6 +19,10 @@ id: cobertura
         </a>
     </div>
 
+    <div class="col-md-12">
+      <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+    </div>
+
     <div class="rutas">
 
       <div class="col-md-4">
