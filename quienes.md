@@ -128,7 +128,7 @@ id: quienes
         </li>
         <li>
           <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 300px;">
+            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
           </a>
         </li>
         <li>
@@ -147,7 +147,9 @@ id: quienes
           </a>
         </li>
         <li>
-          <img src="imgs-prensa/lifreinounido.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+          <a href="https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/leaders-in-innovation-fellowships" target="_blank">
+            <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+          </a>
         </li>
       </ul>
     </div>
