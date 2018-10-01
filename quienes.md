@@ -146,6 +146,9 @@ id: quienes
             <img src="imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018" style="width: 160px;">
           </a>
         </li>
+        <li>
+          <img src="imgs-prensa/lifreinounido.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+        </li>
       </ul>
     </div>
 
