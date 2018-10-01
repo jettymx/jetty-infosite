@@ -136,6 +136,11 @@ id: quienes
             <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 80px;">
           </a>
         </li>
+        <li>
+          <a href="https://www.worldsummitawards.org" target="_blank">
+            <img src="imgs-prensa/wsa_logo_2018_national_nominee.png" alt="wsa national nominee 2018" style="width: 140px;">
+          </a>
+        </li>
       </ul>
       <!-- <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
         <img src="imgs-prensa/shared.png" alt="Shared Use Mobility center" style="width: 200px; float:left">
