@@ -121,7 +121,7 @@ id: quienes
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
-          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio">
+          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" style="width: 140px">
         </li>
         <li>
           <img src="imgs-prensa/NEGRO.png">
@@ -141,11 +141,12 @@ id: quienes
             <img src="imgs-prensa/wsa_logo_2018_national_nominee.png" alt="wsa national nominee 2018" style="width: 140px;">
           </a>
         </li>
+        <li>
+          <a href="https://pitchawards.com" target="_blank">
+            <img src="imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018" style="width: 160px;">
+          </a>
+        </li>
       </ul>
-      <!-- <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-        <img src="imgs-prensa/shared.png" alt="Shared Use Mobility center" style="width: 200px; float:left">
-        <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 95px; float:left">
-      </a> -->
     </div>
 
   </div>
