@@ -100,6 +100,11 @@
                   center: new google.maps.LatLng(19.5300, -99.1700),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+              var AguilasSantafe = {
+                  zoom: 13,
+                  center: new google.maps.LatLng(19.3600, -99.2600),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
               var mapOptionsSVBus1 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3300, -99.2000),
@@ -175,6 +180,9 @@
 
               var mapElement12 = document.getElementById('map_canvas_12');
               var mapCoacalcoPolancoReforma = new google.maps.Map(mapElement12, CoacalcoPolancoReforma);
+
+              var mapElement13 = document.getElementById('map_canvas_13');
+              var mapAguilasSantafe = new google.maps.Map(mapElement13, AguilasSantafe);
 
               var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
               var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
@@ -834,6 +842,31 @@
                 icon: destiny
               });
 
+              // Mapa 13 Aguilas - SantaFe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3455743, lng: -99.2375681},
+                map: mapAguilasSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368098, lng: -99.26025},
+                map: mapAguilasSantafe,
+                icon: destiny
+              })
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.357265, lng: -99.274824},
+                map: mapAguilasSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3579051, lng: -99.2763685},
+                map: mapAguilasSantafe,
+                icon: destiny
+              });
+
 
               // SVBus1 Acoxpa - SantaFe
               var Marker = new google.maps.Marker({
@@ -1390,6 +1423,21 @@
                 {lat: 19.447003, lng: -99.202338}
               ];
 
+              var aguilas = [
+                {lat: 19.347608, lng: -99.240115},
+                {lat: 19.345077, lng: -99.243441},
+                {lat: 19.343194, lng: -99.245265},
+                {lat: 19.341453, lng: -99.244149},
+                {lat: 19.340218, lng: -99.241167},
+                {lat: 19.340360, lng: -99.236854},
+                {lat: 19.342546, lng: -99.232004},
+                {lat: 19.344348, lng: -99.228421},
+                {lat: 19.346433, lng: -99.227777},
+                {lat: 19.348741, lng: -99.228399},
+                {lat: 19.350159, lng: -99.231253},
+                {lat: 19.350240, lng: -99.235502}
+              ];
+
 
               //SVBus
               var acoxpa = [
@@ -1420,6 +1468,7 @@
                 {lat: 19.376099, lng: -99.261838},
                 {lat: 19.368852, lng: -99.270636},
                 {lat: 19.360674, lng: -99.281236},
+                {lat: 19.355370, lng: -99.284583},
                 {lat: 19.351078, lng: -99.282351},
                 {lat: 19.351847, lng: -99.275828},
                 {lat: 19.358376, lng: -99.266022},
@@ -2241,6 +2290,49 @@
                   repeat: '20px'
                 }],
                 map: mapCoacalcoPolancoReforma
+              });
+
+              // Mapa 13 Aguilas - Santa Fe
+              new google.maps.Polygon({
+                map: mapAguilasSantafe,
+                paths: aguilas,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapAguilasSantafe,
+                paths: santafeSVBus,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line Aguilas - Santa Fe
+              var lineSymbol13 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.345077, lng: -99.243441}, {lat: 19.370359, lng: -99.252760}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol13,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapAguilasSantafe
               });
 
 
