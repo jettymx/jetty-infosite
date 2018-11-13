@@ -10,7 +10,7 @@ id: vacantes
     <div class="col-md-12">
       <h1>SÚMATE AL EQUIPO</h1>
       <br>
-      <p>En <a href="{{site.baseurl}}/">Jetty</a> estamos construyendo soluciones tecnológicas para mejorar la experiencia de traslado en la ciudad. Nuestra misión es ofrecer una alternativa de transporte privado seguro, confiable y accesible. Actualmente ofrecemos soluciones de traslado para personas en viajan entre las zonas de Aragón, Cuautitlán, Condesa, Narvarte, Santa Fe y Polanco, y próximamente tendremos una cobertura de servicio mayor en el área metropolitana del Valle de México.</p>
+      <p>Jetty propone una nueva forma de moverse en la ciudad para que las personas puedan mejorar sus traslados diarios. Ofrecemos un servicio de transporte  seguro, cómodo y accesible con conductores altamente calificados, a través de una aplicación que permite a los  usuarios monitorear su unidad, calificar su experiencia y asegurar un lugar sentado.</p>
     </div>
 
     <div class="col-md-10 col-md-offset-1 content-vacantes">
@@ -51,16 +51,6 @@ id: vacantes
                 <br>
 
                 <p><b>PRINCIPALES FUNCIONES</b></p>
-                <ul>
-                  <li>
-                    <p>Dar seguimiento a los usuarios sobre el servicio de Jetty por medio de diversos canales de comunicación (ej. Sistema de mensajería, redes sociales, correo electrónico, chat y teléfono).</p>
-                  </li>
-
-                </ul>
-
-                <br>
-
-                <p><b>REQUISITOS</b></p>
                 <ul>
                   <li>
                     <p>Desarrollar proceso de ventas.</p>
