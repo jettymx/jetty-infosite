@@ -138,7 +138,7 @@ id: quienes
         </li>
         <li>
           <a href="https://www.worldsummitawards.org" target="_blank">
-            <img src="imgs-prensa/wsa_logo_2018_national_nominee.png" alt="wsa national nominee 2018" style="width: 140px;">
+            <img src="imgs-prensa/wsa_logo_2018_winner.png" alt="wsa winner 2018" style="width: 140px;">
           </a>
         </li>
         <li>
