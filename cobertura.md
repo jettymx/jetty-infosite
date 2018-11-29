@@ -206,6 +206,32 @@ id: cobertura
         </div>
       </div>
 
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Tacubaya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <button type="button" data-toggle="modal" data-target="#ruta14" class="btn-rutas">
+              <img src="img/mapasrutas/Tacubaya-SantaFe.png">
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading jetty">
+            <h4 class="panel-title">Mixcoac <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+          </div>
+          <div class="panel-body">
+            <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-rutas">
+              <img src="img/mapasrutas/Mixcoac-SantaFe.png">
+            </button>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <!-- RUTAS SVBUS -->
@@ -592,6 +618,42 @@ id: cobertura
       </div>
       <div class="modal-body">
         <div id="map_canvas_13" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 14 /// -->
+<div class="modal fade" id="ruta14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Tacubaya <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_14" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 15 /// -->
+<div class="modal fade" id="ruta15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Mixcoac <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_15" class="map_canvas"></div>
       </div>
       <div class="modal-footer">
         <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>

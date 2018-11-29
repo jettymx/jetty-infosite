@@ -105,6 +105,16 @@
                   center: new google.maps.LatLng(19.3600, -99.2600),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+              var TacubayaSantafe = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3800, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+              var MixcoacSantafe = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3800, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
               var mapOptionsSVBus1 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3300, -99.2000),
@@ -183,6 +193,12 @@
 
               var mapElement13 = document.getElementById('map_canvas_13');
               var mapAguilasSantafe = new google.maps.Map(mapElement13, AguilasSantafe);
+
+              var mapElement14 = document.getElementById('map_canvas_14');
+              var mapTacubayaSantafe = new google.maps.Map(mapElement14, TacubayaSantafe);
+
+              var mapElement15 = document.getElementById('map_canvas_15');
+              var mapMixcoacSantafe = new google.maps.Map(mapElement15, MixcoacSantafe);
 
               var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
               var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
@@ -867,6 +883,81 @@
                 icon: destiny
               });
 
+              // Mapa 14 Tacubaya - SantaFe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.4039793, lng: -99.1903724},
+                map: mapTacubayaSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3765502, lng: -99.25444751},
+                map: mapTacubayaSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.3678265, lng: -99.2637924},
+                map: mapTacubayaSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.36530197, lng: -99.26742812},
+                map: mapTacubayaSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.35748561, lng: -99.27381145},
+                map: mapTacubayaSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.365662, lng: -99.259239},
+                map: mapTacubayaSantafe,
+                icon: destiny
+              });
+
+              // Mapa 15 Mixcoac - SantaFe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.37504886, lng: -99.18689793},
+                map: mapMixcoacSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.365662, lng: -99.259239},
+                map: mapMixcoacSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.36652044, lng: -99.2636891},
+                map: mapMixcoacSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.36530197, lng: -99.26742812},
+                map: mapMixcoacSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.35749292, lng: -99.27764941},
+                map: mapMixcoacSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.35748561, lng: -99.27381145},
+                map: mapMixcoacSantafe,
+                icon: destiny
+              });
+
+
 
               // SVBus1 Acoxpa - SantaFe
               var Marker = new google.maps.Marker({
@@ -1437,6 +1528,55 @@
                 {lat: 19.350159, lng: -99.231253},
                 {lat: 19.350240, lng: -99.235502}
               ];
+
+              var tacubaya = [
+                {lat: 19.408247, lng: -99.190607},
+                {lat: 19.406244, lng: -99.193911},
+                {lat: 19.403815, lng: -99.194469},
+                {lat: 19.401366, lng: -99.193654},
+                {lat: 19.400111, lng: -99.190607},
+                {lat: 19.400395, lng: -99.187259},
+                {lat: 19.402762, lng: -99.185156},
+                {lat: 19.404908, lng: -99.184362},
+                {lat: 19.407984, lng: -99.186465}
+              ];
+
+              var tacubayasantafe = [
+                {lat: 19.386649, lng: -99.247981},
+                {lat: 19.385516, lng: -99.258195},
+                {lat: 19.374099, lng: -99.269869},
+                {lat: 19.361143, lng: -99.279739},
+                {lat: 19.352276, lng: -99.274760},
+                {lat: 19.356932, lng: -99.260984},
+                {lat: 19.369241, lng: -99.248625},
+                {lat: 19.374990, lng: -99.245878},
+                {lat: 19.379605, lng: -99.245362}
+              ];
+
+              var mixcoac = [
+                {lat: 19.381409, lng: -99.189184},
+                {lat: 19.379546, lng: -99.194120},
+                {lat: 19.375538, lng: -99.196008},
+                {lat: 19.370964, lng: -99.194721},
+                {lat: 19.367725, lng: -99.190430},
+                {lat: 19.367845, lng: -99.183006},
+                {lat: 19.371084, lng: -99.179786},
+                {lat: 19.374485, lng: -99.179185},
+                {lat: 19.379100, lng: -99.182661}
+              ];
+
+              var mixcoacsantafe = [
+                {lat: 19.372824, lng: -99.258663},
+                {lat: 19.372177, lng: -99.267505},
+                {lat: 19.365619, lng: -99.272398},
+                {lat: 19.360761, lng: -99.280466},
+                {lat: 19.353797, lng: -99.281410},
+                {lat: 19.353958, lng: -99.272055},
+                {lat: 19.359464, lng: -99.264245},
+                {lat: 19.364483, lng: -99.255918},
+                {lat: 19.370232, lng: -99.254029}
+              ];
+
 
 
               //SVBus
@@ -2334,6 +2474,93 @@
                 }],
                 map: mapAguilasSantafe
               });
+
+              // Mapa 14 Tacubaya - Santa Fe
+              new google.maps.Polygon({
+                map: mapTacubayaSantafe,
+                paths: tacubaya,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapTacubayaSantafe,
+                paths: tacubayasantafe,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line Tacubaya - Santa Fe
+              var lineSymbol14 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.401366, lng: -99.193654}, {lat: 19.386649, lng: -99.247981}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol14,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapTacubayaSantafe
+              });
+
+              // Mapa 15 Mixcoac - Santa Fe
+              new google.maps.Polygon({
+                map: mapMixcoacSantafe,
+                paths: mixcoac,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapMixcoacSantafe,
+                paths: mixcoacsantafe,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line Mixcoac - Santa Fe
+              var lineSymbol15 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.375538, lng: -99.196008}, {lat: 19.370232, lng: -99.254029}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol15,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapMixcoacSantafe
+              });
+
 
 
 
