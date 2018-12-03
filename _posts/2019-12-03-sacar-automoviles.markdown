@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cada Jetty saca entre 7 y 23 automóviles de las calles"
-date:   2018-12-03 12:00:00
+date:   2019-12-03 12:00:00
 post_author: Onésimo Flores
 image: https://www.jetty.mx/imgs-blog/ride-sharing.
 categories: update
