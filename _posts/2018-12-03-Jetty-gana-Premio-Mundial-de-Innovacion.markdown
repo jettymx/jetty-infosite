@@ -24,4 +24,4 @@ Postdata: Y para seguir con las buenas noticias, ¡no fuimos los únicos ganador
 
 [supercivicos]:https://www.supercivicos.com/los-supercivicos-ganan-mundial-de-innovacion-para-mexico-su-app-es-reconocida-como-la-mejor-plataforma-de-gobierno-y-participacion-ciudadana/
 
-[reconocimiento]:[https://www.worldsummitawards.org/2018/11/18/revolutionizing-the-status-quo-with-digital-innovation-meet-the-40-winners-of-2018/]
+[reconocimiento]:https://www.worldsummitawards.org/2018/11/18/revolutionizing-the-status-quo-with-digital-innovation-meet-the-40-winners-of-2018
