@@ -34,7 +34,7 @@ Es decir: Jetty desincentiva el uso del automóvil en los traslados cotidianos y
 
 Somos una empresa muy pequeña, con muchísimos retos que afrontar en el futuro cercano. Sin embargo, se vale soñar:
 
-<b>¿Se imaginan una ciudad menos de la mitad de los automóviles privados circulando en hora pico?</b>
+<b>¿Se imaginan una ciudad con menos de la mitad de los automóviles privados circulando en hora pico?</b>
 
 ![Jetty - Más Jettys]({{site.baseurl}}/imgs-blog/transportes.gif)
 <small>giphy.com</small>
