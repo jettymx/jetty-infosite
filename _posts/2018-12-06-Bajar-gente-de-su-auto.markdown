@@ -3,7 +3,7 @@ layout: post
 title:  "¿Es posible bajar a la gente de su auto privado?"
 date:   2018-12-06 10:00:00
 post_author: Onésimo Flores
-image: https://www.jetty.mx/imgs-blog/ride-sharing.pngs
+image: https://www.jetty.mx/imgs-blog/ride-sharing.png
 categories: update
 ---
 
