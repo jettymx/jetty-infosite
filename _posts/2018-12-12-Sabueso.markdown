@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Operación Sabueso"
+title:  "Operación Sabueso: En Jetty nada se pierde"
 date:   2018-12-12 12:00:00
 post_author: Javier
 image: https://www.jetty.mx/imgs-blog/busqueda.png
@@ -8,8 +8,6 @@ categories: update
 ---
 
 ![Jetty - ¿Es posible bajar a la gente de su auto privado?]({{site.baseurl}}/imgs-blog/busqueda.png)
-
-<h3>En Jetty nada se pierde.</h3>
 
 Nuestra garantía de seguridad significa que te cuidamos antes, durante y después del recorrido. Y esto implica que aún cuando tu viaje haya terminado, nuestros conductores y nuestro equipo de soporte siguen al pendiente de ti. Si por algún motivo olvidas un objeto en tu Jetty, haremos todo lo posible por que lo tengas de regreso lo más pronto posible. No importa si olvidas un libro, un teléfono o una computadora a bordo de Jetty. Pondremos todo nuestro empeño hasta encontrarlo.
 

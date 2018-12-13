@@ -14,7 +14,6 @@ La receta contra la congestión vehicular depende de un ingrediente básico: Con
 Todos sufrimos laaaaargos tiempos de traslado en la ciudad como consecuencia del número de autos que circulan en las calles. No importa qué modo de transporte elijas: Mientras la ciudad siga siga llena de autos semi-vacíos, el promedio de tiempo que invertimos en llegar a nuestro destinos seguirá incrementando.
 
 ![Jetty - trafico]({{site.baseurl}}/imgs-blog/trafico.gif)
-<small>giphy.com</small>
 
 En Jetty nos planteamos una pregunta simple: ¿Qué pasa si construimos una <b>alternativa cómoda, segura y confiable de transporte compartido</b>? ¿Somos o no somos capaces de atraer a aquellos capitalinos que hoy viajan en auto propio, o que gastan grandes cantidades en servicios de taxi con app?
 
@@ -37,4 +36,3 @@ Somos una empresa muy pequeña, con muchísimos retos que afrontar en el futuro 
 <b>¿Se imaginan una ciudad con menos de la mitad de los automóviles privados circulando en hora pico?</b>
 
 ![Jetty - Más Jettys]({{site.baseurl}}/imgs-blog/transportes.gif)
-<small>giphy.com</small>
