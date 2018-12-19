@@ -9,9 +9,9 @@ categories: update
 
 ![Jetty - ¿Es posible bajar a la gente de su auto privado?]({{site.baseurl}}/imgs-blog/busqueda.png)
 
-Nuestra garantía de seguridad significa que te cuidamos antes, durante y después del recorrido. Y esto implica que aún cuando tu viaje haya terminado, nuestros conductores y nuestro equipo de soporte siguen al pendiente de ti. Si por algún motivo olvidas un objeto en tu Jetty, haremos todo lo posible por que lo tengas de regreso lo más pronto posible. No importa si olvidas un libro, un teléfono o una computadora a bordo de Jetty. Pondremos todo nuestro empeño hasta encontrarlo.
+Nuestra garantía de seguridad significa que te cuidamos antes, durante y después del recorrido. Aún cuando tu viaje ha terminado, nuestros conductores y equipo de soporte siguen al pendiente de ti. <b>Si por algún motivo olvidas un objeto en tu Jetty, ¡por favor avísanos de inmediato!</b> Haremos nuestro mayor esfuerzo por que lo tengas de regreso lo más pronto posible. No importa si olvidas un libro, un teléfono o una computadora a bordo de Jetty, ¡activaremos una “operación sabueso”! Revisaremos cámaras, entrevistaremos a los conductores y si es necesario pediremos apoyo a otros usuarios. ¡Si se quedó a bordo, pronto lo encontraremos!
 
-<b><i>“Muchas gracias Sergio por la entrega de mis audífonos la verdad eso me da seguridad de seguir viajando con ustedes y sé que si llego a extraviar algo lo podré recuperar” - Rafael</i></b>
+Les compartimos algunos resultados recientes de Operación Sabueso:
 
 <div class="col-md-6">
   <img src="{{site.baseurl}}/imgs-blog/olvidado-1.png">
@@ -32,4 +32,8 @@ Nuestra garantía de seguridad significa que te cuidamos antes, durante y despu�
 </div>
 <div class="col-md-6">
 
+</div>
+
+<div class="col-md-12">
+  <p><b><i>“Muchas gracias Sergio por la entrega de mis audífonos la verdad eso me da seguridad de seguir viajando con ustedes y sé que si llego a extraviar algo lo podré recuperar” - Rafael</i></b></p>
 </div>
