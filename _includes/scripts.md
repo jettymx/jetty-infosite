@@ -100,10 +100,10 @@
                   center: new google.maps.LatLng(19.5300, -99.1700),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-              var AguilasSantafe = {
-                  zoom: 13,
-                  center: new google.maps.LatLng(19.3600, -99.2600),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+              // var AguilasSantafe = {
+              //     zoom: 13,
+              //     center: new google.maps.LatLng(19.3600, -99.2600),
+              //     styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
               var TacubayaSantafe = {
                   zoom: 12,
@@ -150,6 +150,21 @@
                   center: new google.maps.LatLng(19.4000, -99.2300),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+              var mapOptionsSVBus8 = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3200, -99.2200),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+              var mapOptionsSVBus9 = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3300, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
+              var mapOptionsSVBus10 = {
+                  zoom: 10,
+                  center: new google.maps.LatLng(19.5150, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
               var RutasViverosSanta = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3500, -99.2300),
@@ -191,8 +206,8 @@
               var mapElement12 = document.getElementById('map_canvas_12');
               var mapCoacalcoPolancoReforma = new google.maps.Map(mapElement12, CoacalcoPolancoReforma);
 
-              var mapElement13 = document.getElementById('map_canvas_13');
-              var mapAguilasSantafe = new google.maps.Map(mapElement13, AguilasSantafe);
+              // var mapElement13 = document.getElementById('map_canvas_13');
+              // var mapAguilasSantafe = new google.maps.Map(mapElement13, AguilasSantafe);
 
               var mapElement14 = document.getElementById('map_canvas_14');
               var mapTacubayaSantafe = new google.maps.Map(mapElement14, TacubayaSantafe);
@@ -220,6 +235,15 @@
 
               var mapElementSVBus7 = document.getElementById('map_canvas_SVBus7');
               var mapSVBus7 = new google.maps.Map(mapElementSVBus7, mapOptionsSVBus7);
+
+              var mapElementSVBus8 = document.getElementById('map_canvas_SVBus8');
+              var mapSVBus8 = new google.maps.Map(mapElementSVBus8, mapOptionsSVBus8);
+
+              var mapElementSVBus9 = document.getElementById('map_canvas_SVBus9');
+              var mapSVBus9 = new google.maps.Map(mapElementSVBus9, mapOptionsSVBus9);
+
+              var mapElementSVBus10 = document.getElementById('map_canvas_SVBus10');
+              var mapSVBus10 = new google.maps.Map(mapElementSVBus10, mapOptionsSVBus10);
 
               var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
               var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
@@ -859,29 +883,29 @@
               });
 
               // Mapa 13 Aguilas - SantaFe
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.3455743, lng: -99.2375681},
-                map: mapAguilasSantafe,
-                icon: image
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.3455743, lng: -99.2375681},
+              //   map: mapAguilasSantafe,
+              //   icon: image
+              // });
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.368098, lng: -99.26025},
-                map: mapAguilasSantafe,
-                icon: destiny
-              })
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.368098, lng: -99.26025},
+              //   map: mapAguilasSantafe,
+              //   icon: destiny
+              // })
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.357265, lng: -99.274824},
-                map: mapAguilasSantafe,
-                icon: destiny
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.357265, lng: -99.274824},
+              //   map: mapAguilasSantafe,
+              //   icon: destiny
+              // });
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.3579051, lng: -99.2763685},
-                map: mapAguilasSantafe,
-                icon: destiny
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.3579051, lng: -99.2763685},
+              //   map: mapAguilasSantafe,
+              //   icon: destiny
+              // });
 
               // Mapa 14 Tacubaya - SantaFe
               var Marker = new google.maps.Marker({
@@ -1077,6 +1101,75 @@
               var Marker = new google.maps.Marker({
                 position: {lat: 19.3580063, lng: -99.276414},
                 map: mapSVBus7,
+                icon: destiny
+              });
+
+              // SVBus8 La Joya - Santa Fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.280023, lng: -99.169638},
+                map: mapSVBus8,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368098, lng: -99.26025},
+                map: mapSVBus8,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.360060, lng: -99.270017},
+                map: mapSVBus8,
+                icon: destiny
+              });
+
+              // SVBus9 Pedregal - Santa Fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.306550, lng: -99.204709},
+                map: mapSVBus9,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.303500, lng: -99.193251},
+                map: mapSVBus9,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368098, lng: -99.26025},
+                map: mapSVBus9,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.360060, lng: -99.270017},
+                map: mapSVBus9,
+                icon: destiny
+              });
+
+              // SVBus10 Cuautitlán - Santa Fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.643790, lng: -99.200304},
+                map: mapSVBus10,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.6058121, lng: -99.1895497},
+                map: mapSVBus10,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368098, lng: -99.26025},
+                map: mapSVBus10,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.357894, lng: -99.276368},
+                map: mapSVBus10,
                 icon: destiny
               });
 
@@ -1660,6 +1753,62 @@
                 {lat: 19.455569, lng: -99.212049},
                 {lat: 19.457390, lng: -99.212242},
                 {lat: 19.458574, lng: -99.213498}
+              ];
+
+              var lajoyaSVBus = [
+                {lat: 19.285680, lng: -99.167974},
+                {lat: 19.286085, lng: -99.171450},
+                {lat: 19.283857, lng: -99.174927},
+                {lat: 19.280049, lng: -99.176085},
+                {lat: 19.276930, lng: -99.174541},
+                {lat: 19.275593, lng: -99.170764},
+                {lat: 19.275391, lng: -99.166859},
+                {lat: 19.276282, lng: -99.163211},
+                {lat: 19.281912, lng: -99.163511},
+                {lat: 19.284505, lng: -99.166043}
+              ];
+
+              var pedregalSVBus = [
+                {lat: 19.308951, lng: -99.208589},
+                {lat: 19.305549, lng: -99.210605},
+                {lat: 19.302228, lng: -99.208846},
+                {lat: 19.300324, lng: -99.204339},
+                {lat: 19.298624, lng: -99.198203},
+                {lat: 19.298259, lng: -99.190349},
+                {lat: 19.300486, lng: -99.185543},
+                {lat: 19.303848, lng: -99.184899},
+                {lat: 19.305630, lng: -99.187560},
+                {lat: 19.306967, lng: -99.193782},
+                {lat: 19.307615, lng: -99.199619},
+                {lat: 19.308060, lng: -99.205499}
+              ];
+
+              var cuautliarcoslSVBus = [
+                {lat: 19.650639, lng: -99.202779},
+                {lat: 19.650639, lng: -99.207887},
+                {lat: 19.644859, lng: -99.208788},
+                {lat: 19.641019, lng: -99.209603},
+                {lat: 19.636856, lng: -99.207887},
+                {lat: 19.633299, lng: -99.203166},
+                {lat: 19.633824, lng: -99.197888},
+                {lat: 19.636289, lng: -99.192008},
+                {lat: 19.641948, lng: -99.189475},
+                {lat: 19.646313, lng: -99.190247},
+                {lat: 19.648263, lng: -99.196020},
+                {lat: 19.650557, lng: -99.196985}
+              ];
+
+              var cuautlilecherialSVBus = [
+                {lat: 19.612552, lng: -99.192520},
+                {lat: 19.610328, lng: -99.197499},
+                {lat: 19.605518, lng: -99.199731},
+                {lat: 19.600141, lng: -99.199001},
+                {lat: 19.597391, lng: -99.192393},
+                {lat: 19.598523, lng: -99.186127},
+                {lat: 19.603414, lng: -99.182607},
+                {lat: 19.608427, lng: -99.181620},
+                {lat: 19.612309, lng: -99.184023},
+                {lat: 19.612956, lng: -99.188314}
               ];
 
               var viverosRuta = [
@@ -2433,47 +2582,47 @@
               });
 
               // Mapa 13 Aguilas - Santa Fe
-              new google.maps.Polygon({
-                map: mapAguilasSantafe,
-                paths: aguilas,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 1.5,
-                fillColor: '#49bda7',
-                fillOpacity: 0.2,
-                draggable: false,
-                geodesic: true
-              });
+              // new google.maps.Polygon({
+              //   map: mapAguilasSantafe,
+              //   paths: aguilas,
+              //   strokeColor: '#49bda7',
+              //   strokeOpacity: 0.8,
+              //   strokeWeight: 1.5,
+              //   fillColor: '#49bda7',
+              //   fillOpacity: 0.2,
+              //   draggable: false,
+              //   geodesic: true
+              // });
 
-              new google.maps.Polygon({
-                map: mapAguilasSantafe,
-                paths: santafeSVBus,
-                strokeColor: '#768a96',
-                strokeOpacity: 0.8,
-                strokeWeight: 1.5,
-                fillColor: '#768a96',
-                fillOpacity: 0.2,
-                draggable: false,
-                geodesic: true
-              });
+              // new google.maps.Polygon({
+              //   map: mapAguilasSantafe,
+              //   paths: santafeSVBus,
+              //   strokeColor: '#768a96',
+              //   strokeOpacity: 0.8,
+              //   strokeWeight: 1.5,
+              //   fillColor: '#768a96',
+              //   fillOpacity: 0.2,
+              //   draggable: false,
+              //   geodesic: true
+              // });
 
               // Line Aguilas - Santa Fe
-              var lineSymbol13 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
+              // var lineSymbol13 = {
+              //   path: 'M 0,-1 0,1',
+              //   strokeOpacity: 0.5,
+              //   scale: 4
+              // };
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.345077, lng: -99.243441}, {lat: 19.370359, lng: -99.252760}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbol13,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: mapAguilasSantafe
-              });
+              // var line = new google.maps.Polyline({
+              //   path: [{lat: 19.345077, lng: -99.243441}, {lat: 19.370359, lng: -99.252760}],
+              //   strokeOpacity: 0,
+              //   icons: [{
+              //     icon: lineSymbol13,
+              //     offset: '0',
+              //     repeat: '20px'
+              //   }],
+              //   map: mapAguilasSantafe
+              // });
 
               // Mapa 14 Tacubaya - Santa Fe
               new google.maps.Polygon({
@@ -2864,6 +3013,158 @@
                   repeat: '20px'
                 }],
                 map: mapSVBus7
+              });
+
+              // Mapa SVBus8 La Joya - Santa Fe
+              new google.maps.Polygon({
+                map: mapSVBus8,
+                paths: lajoyaSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus8,
+                paths: centrocomercialsantafe,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line SVBus8 La Joya - Auditorio
+              var lineSymbolSVBus8 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.283857, lng: -99.174927}, {lat: 19.359348, lng: -99.275249}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus8,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus8
+              });
+
+              // Mapa SVBus9 La Joya - Santa Fe
+              new google.maps.Polygon({
+                map: mapSVBus9,
+                paths: pedregalSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus9,
+                paths: centrocomercialsantafe,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line SVBus9 Pedregal - Auditorio
+              var lineSymbolSVBus9 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.305549, lng: -99.210605}, {lat: 19.359348, lng: -99.275249}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus9,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus9
+              });
+
+              // Mapa SVBus10 La Joya - Santa Fe
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: cuautliarcoslSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: cuautlilecherialSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: santafeRuta,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line SVBus10 Cuautitlán - Santa Fe
+              var lineSymbolSVBus10 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.633299, lng: -99.203166}, {lat: 19.612552, lng: -99.192520}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus10,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus10
+              });
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.598523, lng: -99.186127}, {lat: 19.376210, lng: -99.253960}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus10,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus10
               });
 
 
