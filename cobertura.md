@@ -331,7 +331,6 @@ id: cobertura
             <button type="button" data-toggle="modal" data-target="#rutaSVBus6" class="btn-rutas">
               <img src="img/mapasrutas/CostcoCoapa-Auditorio.png">
             </button>
-            <!-- <div id="map_canvas_SVBus6" class="map_canvas"></div> -->
           </div>
         </div>
       </div>
@@ -857,7 +856,7 @@ id: cobertura
         <h4 class="modal-title" id="myModalLabel">Pedregal <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
-        <div id="map_canvas_SVBus8" class="map_canvas"></div>
+        <div id="map_canvas_SVBus9" class="map_canvas"></div>
       </div>
       <div class="modal-footer">
         <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
@@ -875,7 +874,7 @@ id: cobertura
         <h4 class="modal-title" id="myModalLabel">Cuautitlán <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
-        <div id="map_canvas_SVBus8" class="map_canvas"></div>
+        <div id="map_canvas_SVBus10" class="map_canvas"></div>
       </div>
       <div class="modal-footer">
         <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
