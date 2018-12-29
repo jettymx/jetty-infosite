@@ -1,0 +1,16 @@
+var json_REFORMAPOLANCOCUAUTITLAN_8 = {
+"type": "FeatureCollection",
+"name": "REFORMAPOLANCOCUAUTITLAN_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.1893317, 19.6065586 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.1997233, 19.644181 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.174433, 19.4216151 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.1820863, 19.4323609 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.1905295, 19.4380115 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.200893, 19.4398313 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.2348495, 19.5128721 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.2251405, 19.5256107 ] } },
+{ "type": "Feature", "properties": { "Name": "Reforma -> Polanco -> Cuautitlan", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": "-1", "extrude": "0", "visibility": "-1", "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -99.2073327, 19.5493275 ] } }
+]
+}
