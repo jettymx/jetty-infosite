@@ -221,7 +221,7 @@
               var mapMixcoacSantafe = new google.maps.Map(mapElement15, MixcoacSantafe);
 
               var mapElement16 = document.getElementById('map_canvas_16');
-              var mapJuanacatlanSantafe = new google.maps.Map(mapElement16, JuanacatlanSantafe);
+              var mapJuanacatlanSantafe = new google.maps.Map(mapElement16, JuanacatlanSantafe);;
 
               var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
               var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
