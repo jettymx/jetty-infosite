@@ -115,6 +115,11 @@
                   center: new google.maps.LatLng(19.3800, -99.2300),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+              var JuanacatlanSantafe = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3800, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
               var mapOptionsSVBus1 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3300, -99.2000),
@@ -160,10 +165,10 @@
                   center: new google.maps.LatLng(19.3300, -99.2300),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
-              var mapOptionsSVBus10 = {
-                  zoom: 10,
-                  center: new google.maps.LatLng(19.5150, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+              // var mapOptionsSVBus10 = {
+              //     zoom: 10,
+              //     center: new google.maps.LatLng(19.5150, -99.2300),
+              //     styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
               var RutasViverosSanta = {
                   zoom: 12,
@@ -215,6 +220,9 @@
               var mapElement15 = document.getElementById('map_canvas_15');
               var mapMixcoacSantafe = new google.maps.Map(mapElement15, MixcoacSantafe);
 
+              var mapElement16 = document.getElementById('map_canvas_16');
+              var mapJuanacatlanSantafe = new google.maps.Map(mapElement16, JuanacatlanSantafe);
+
               var mapElementSVBus1 = document.getElementById('map_canvas_SVBus1');
               var mapSVBus1 = new google.maps.Map(mapElementSVBus1, mapOptionsSVBus1);
 
@@ -242,8 +250,8 @@
               var mapElementSVBus9 = document.getElementById('map_canvas_SVBus9');
               var mapSVBus9 = new google.maps.Map(mapElementSVBus9, mapOptionsSVBus9);
 
-              var mapElementSVBus10 = document.getElementById('map_canvas_SVBus10');
-              var mapSVBus10 = new google.maps.Map(mapElementSVBus10, mapOptionsSVBus10);
+              // var mapElementSVBus10 = document.getElementById('map_canvas_SVBus10');
+              // var mapSVBus10 = new google.maps.Map(mapElementSVBus10, mapOptionsSVBus10);
 
               var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
               var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
@@ -981,6 +989,19 @@
                 icon: destiny
               });
 
+              // Mapa 16 Juanacatlán - SantaFe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.412303, lng: -99.182379},
+                map: mapJuanacatlanSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.379889, lng: -99.248893},
+                map: mapJuanacatlanSantafe,
+                icon: destiny
+              });
+
 
 
               // SVBus1 Acoxpa - SantaFe
@@ -1149,29 +1170,29 @@
               });
 
               // SVBus10 Cuautitlán - Santa Fe
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.643790, lng: -99.200304},
-                map: mapSVBus10,
-                icon: image
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.643790, lng: -99.200304},
+              //   map: mapSVBus10,
+              //   icon: image
+              // });
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.6058121, lng: -99.1895497},
-                map: mapSVBus10,
-                icon: image
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.6058121, lng: -99.1895497},
+              //   map: mapSVBus10,
+              //   icon: image
+              // });
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.368098, lng: -99.26025},
-                map: mapSVBus10,
-                icon: destiny
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.368098, lng: -99.26025},
+              //   map: mapSVBus10,
+              //   icon: destiny
+              // });
 
-              var Marker = new google.maps.Marker({
-                position: {lat: 19.357894, lng: -99.276368},
-                map: mapSVBus10,
-                icon: destiny
-              });
+              // var Marker = new google.maps.Marker({
+              //   position: {lat: 19.357894, lng: -99.276368},
+              //   map: mapSVBus10,
+              //   icon: destiny
+              // });
 
 
 
@@ -1668,6 +1689,18 @@
                 {lat: 19.359464, lng: -99.264245},
                 {lat: 19.364483, lng: -99.255918},
                 {lat: 19.370232, lng: -99.254029}
+              ];
+
+              var juanacatlan = [
+                {lat: 19.415968, lng: -99.183024},
+                {lat: 19.414592, lng: -99.185213},
+                {lat: 19.412811, lng: -99.185986},
+                {lat: 19.410747, lng: -99.184762},
+                {lat: 19.409553, lng: -99.182059},
+                {lat: 19.409674, lng: -99.179205},
+                {lat: 19.411860, lng: -99.177724},
+                {lat: 19.414248, lng: -99.177274},
+                {lat: 19.416090, lng: -99.179505}
               ];
 
 
@@ -2710,6 +2743,49 @@
                 map: mapMixcoacSantafe
               });
 
+              // Mapa 16 Juanacatlan - Santa Fe
+              new google.maps.Polygon({
+                map: mapJuanacatlanSantafe,
+                paths: juanacatlan,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapJuanacatlanSantafe,
+                paths: santafeSVBus2,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line Juanacatlan - Santa Fe
+              var lineSymbol16 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.410747, lng: -99.184762}, {lat: 19.380161, lng: -99.245843}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol16,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapJuanacatlanSantafe
+              });
+
 
 
 
@@ -3102,70 +3178,70 @@
               });
 
               // Mapa SVBus10 La Joya - Santa Fe
-              new google.maps.Polygon({
-                map: mapSVBus10,
-                paths: cuautliarcoslSVBus,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 1.5,
-                fillColor: '#49bda7',
-                fillOpacity: 0.2,
-                draggable: false,
-                geodesic: true
-              });
+              // new google.maps.Polygon({
+              //   map: mapSVBus10,
+              //   paths: cuautliarcoslSVBus,
+              //   strokeColor: '#49bda7',
+              //   strokeOpacity: 0.8,
+              //   strokeWeight: 1.5,
+              //   fillColor: '#49bda7',
+              //   fillOpacity: 0.2,
+              //   draggable: false,
+              //   geodesic: true
+              // });
 
-              new google.maps.Polygon({
-                map: mapSVBus10,
-                paths: cuautlilecherialSVBus,
-                strokeColor: '#49bda7',
-                strokeOpacity: 0.8,
-                strokeWeight: 1.5,
-                fillColor: '#49bda7',
-                fillOpacity: 0.2,
-                draggable: false,
-                geodesic: true
-              });
+              // new google.maps.Polygon({
+              //   map: mapSVBus10,
+              //   paths: cuautlilecherialSVBus,
+              //   strokeColor: '#49bda7',
+              //   strokeOpacity: 0.8,
+              //   strokeWeight: 1.5,
+              //   fillColor: '#49bda7',
+              //   fillOpacity: 0.2,
+              //   draggable: false,
+              //   geodesic: true
+              // });
 
-              new google.maps.Polygon({
-                map: mapSVBus10,
-                paths: santafeRuta,
-                strokeColor: '#768a96',
-                strokeOpacity: 0.8,
-                strokeWeight: 1.5,
-                fillColor: '#768a96',
-                fillOpacity: 0.2,
-                draggable: false,
-                geodesic: true
-              });
+              // new google.maps.Polygon({
+              //   map: mapSVBus10,
+              //   paths: santafeRuta,
+              //   strokeColor: '#768a96',
+              //   strokeOpacity: 0.8,
+              //   strokeWeight: 1.5,
+              //   fillColor: '#768a96',
+              //   fillOpacity: 0.2,
+              //   draggable: false,
+              //   geodesic: true
+              // });
 
               // Line SVBus10 Cuautitlán - Santa Fe
-              var lineSymbolSVBus10 = {
-                path: 'M 0,-1 0,1',
-                strokeOpacity: 0.5,
-                scale: 4
-              };
+              // var lineSymbolSVBus10 = {
+              //   path: 'M 0,-1 0,1',
+              //   strokeOpacity: 0.5,
+              //   scale: 4
+              // };
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.633299, lng: -99.203166}, {lat: 19.612552, lng: -99.192520}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbolSVBus10,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: mapSVBus10
-              });
+              // var line = new google.maps.Polyline({
+              //   path: [{lat: 19.633299, lng: -99.203166}, {lat: 19.612552, lng: -99.192520}],
+              //   strokeOpacity: 0,
+              //   icons: [{
+              //     icon: lineSymbolSVBus10,
+              //     offset: '0',
+              //     repeat: '20px'
+              //   }],
+              //   map: mapSVBus10
+              // });
 
-              var line = new google.maps.Polyline({
-                path: [{lat: 19.598523, lng: -99.186127}, {lat: 19.376210, lng: -99.253960}],
-                strokeOpacity: 0,
-                icons: [{
-                  icon: lineSymbolSVBus10,
-                  offset: '0',
-                  repeat: '20px'
-                }],
-                map: mapSVBus10
-              });
+              // var line = new google.maps.Polyline({
+              //   path: [{lat: 19.598523, lng: -99.186127}, {lat: 19.376210, lng: -99.253960}],
+              //   strokeOpacity: 0,
+              //   icons: [{
+              //     icon: lineSymbolSVBus10,
+              //     offset: '0',
+              //     repeat: '20px'
+              //   }],
+              //   map: mapSVBus10
+              // });
 
 
               // Mapa RutasUnidas1 Viveros - Santa Fe
