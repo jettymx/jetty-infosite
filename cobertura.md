@@ -265,7 +265,7 @@ id: cobertura
           </div>
           <div class="panel-body">
             <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-rutas">
-              <img src="img/mapasrutas/Juanacatlan-Santafe.png">
+              <img src="img/mapasrutas/Juanacatlan-SantaFe.png">
             </button>
           </div>
         </div>
