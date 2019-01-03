@@ -193,18 +193,6 @@ id: cobertura
         </div>
       </div>
 
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading jetty">
-            <h4 class="panel-title">Las Águilas <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-          </div>
-          <div class="panel-body">
-            <button type="button" data-toggle="modal" data-target="#ruta13" class="btn-rutas">
-              <img src="img/mapasrutas/Aguilas-SantaFe.png">
-            </button>
-          </div>
-        </div>
-      </div> -->
 
       <div class="col-md-4">
         <div class="panel panel-default">
@@ -373,34 +361,6 @@ id: cobertura
           </div>
         </div>
       </div>
-
-      <!-- SVBus 7 -->
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading svbus">
-            <h4 class="panel-title">Auditorio <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-          </div>
-          <div class="panel-body">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus7" class="btn-rutas">
-              <img src="img/mapasrutas/Auditorio-SantaFe.png">
-            </button>
-          </div>
-        </div>
-      </div> -->
-
-      <!-- SVBus 10 -->
-      <!-- <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading svbus">
-            <h4 class="panel-title">Cuautitlán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-          </div>
-          <div class="panel-body">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus10" class="btn-rutas">
-              <img src="img/mapasrutas/Cuautitlan-SantaFe.png">
-            </button>
-          </div>
-        </div>
-      </div> -->
 
     </div>
 
@@ -660,23 +620,6 @@ id: cobertura
   </div>
 </div>
 
-<!-- /// MODAL 13 /// -->
-<!-- <div class="modal fade" id="ruta13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Las Águilas <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-      </div>
-      <div class="modal-body">
-        <div id="map_canvas_13" class="map_canvas"></div>
-      </div>
-      <div class="modal-footer">
-        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
-      </div>
-    </div>
-  </div>
-</div> -->
 
 <!-- /// MODAL 14 /// -->
 <div class="modal fade" id="ruta14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -858,24 +801,42 @@ id: cobertura
   </div>
 </div>
 
-
-<!-- /// MODAL 10 SVBus /// -->
-<!-- <div class="modal fade" id="rutaSVBus10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- /// MODAL 8 SVBus /// -->
+<div class="modal fade" id="rutaSVBus8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cuautitlán <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">La Joya <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
-        <div id="map_canvas_SVBus10" class="map_canvas"></div>
+        <div id="map_canvas_SVBus8" class="map_canvas"></div>
       </div>
       <div class="modal-footer">
         <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
       </div>
     </div>
   </div>
-</div> -->
+</div>
+
+<!-- /// MODAL 9 SVBus /// -->
+<div class="modal fade" id="rutaSVBus9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Pedregal <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_SVBus9" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- /// MODAL 1 RutasUnidas /// -->
 <div class="modal fade" id="rutaUnidas1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
