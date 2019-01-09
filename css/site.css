@@ -637,6 +637,15 @@ img.comillas{
   text-align: center;
 }
 
+.rutas .panel-default .electrico{
+  color: #ffffff;
+  background-color: #8dc63f;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 60px;
+  text-align: center;
+}
+
 .rutas .panel-title{
   font-size: 18px;
   font-weight: 800;

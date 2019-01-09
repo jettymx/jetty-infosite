@@ -364,7 +364,35 @@ id: cobertura
 
     </div>
 
-    <!-- RUTAS UNIDAS-->
+    <!-- TAXIS ELECTRICOS -->
+    <div class="rutas">
+
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Operado por <img src="img/ElectricoCompartido.jpg" width="100" class="logosvbus"></h2>
+        </div>
+        <div class="col-md-8">
+          <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a>
+        </div>
+      </div>
+
+      <!-- TAXIS ELECTRICOS 1 -->
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading electrico">
+            <h4 class="panel-title">Cibeles/Sevilla <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-electrico.svg" width="70" ></h4>
+          </div>
+          <div class="panel-body">
+            <button type="button" data-toggle="modal" data-target="#taxis1" class="btn-rutas">
+              <img src="img/mapasrutas/Cibeles-Sevilla-SantaFe.png">
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- RUTAS UNIDAS -->
     <div class="rutas">
 
       <div class="row">
@@ -376,7 +404,7 @@ id: cobertura
         </div>
       </div>
 
-      <!-- RUTAS UNIDAS -->
+      <!-- RUTAS UNIDAS 1 -->
       <div class="col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading rutasunidas">
@@ -837,6 +865,24 @@ id: cobertura
   </div>
 </div>
 
+
+<!-- /// MODAL 1 TaxisElectricos /// -->
+<div class="modal fade" id="taxis1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Cibeles/Sevilla <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_TaxiElectrico1" class="map_canvas"></div>
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- /// MODAL 1 RutasUnidas /// -->
 <div class="modal fade" id="rutaUnidas1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

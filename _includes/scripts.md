@@ -120,6 +120,11 @@
                   center: new google.maps.LatLng(19.3800, -99.2300),
                   styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
 
+              var CibelesSantafe = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3800, -99.2300),
+                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+
               var mapOptionsSVBus1 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3300, -99.2000),
@@ -245,6 +250,9 @@
 
               var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
               var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
+
+              var mapElementTaxiElectrico1 = document.getElementById('map_canvas_TaxiElectrico1');
+              var mapCibelesSantafe = new google.maps.Map(mapElementTaxiElectrico1, CibelesSantafe);
 
               // Marker points
               var image = {
@@ -965,6 +973,75 @@
               var Marker = new google.maps.Marker({
                 position: {lat: 19.379889, lng: -99.248893},
                 map: mapJuanacatlanSantafe,
+                icon: destiny
+              });
+
+
+
+              // Mapa Taxi Electrico 1 Cibeles - SantaFe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.419539, lng: -99.166215},
+                map: mapCibelesSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.422264, lng: -99.171778},
+                map: mapCibelesSantafe,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.357492, lng: -99.277649},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368098, lng: -99.26025},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.365662, lng: -99.259239},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.373289, lng: -99.259612},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.376714, lng: -99.254265},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.364160, lng: -99.270787},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.366406, lng: -99.263557},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.357419, lng: -99.273788},
+                map: mapCibelesSantafe,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.367731, lng: -99.260733},
+                map: mapCibelesSantafe,
                 icon: destiny
               });
 
@@ -1821,6 +1898,38 @@
                 {lat: 19.361108, lng: -99.264305},
                 {lat: 19.367100, lng: -99.256966},
                 {lat: 19.372323, lng: -99.252415}
+              ];
+
+
+              var CibelesTaxi = [
+                {lat: 19.425864, lng: -99.168283},
+                {lat: 19.426957, lng: -99.173433},
+                {lat: 19.426228, lng: -99.175793},
+                {lat: 19.423436, lng: -99.176866}, //punto linea
+                {lat: 19.420198, lng: -99.176609},
+                {lat: 19.417769, lng: -99.171673},
+                {lat: 19.415462, lng: -99.166996},
+                {lat: 19.415219, lng: -99.162833},
+                {lat: 19.416393, lng: -99.160473},
+                {lat: 19.418457, lng: -99.159528},
+                {lat: 19.421250, lng: -99.160901},
+                {lat: 19.423476, lng: -99.165236}
+              ];
+
+              var SantafeTaxi = [
+                {lat: 19.379272, lng: -99.247115}, //punto linea
+                {lat: 19.381378, lng: -99.251664},
+                {lat: 19.378302, lng: -99.259305},
+                {lat: 19.373120, lng: -99.268490},
+                {lat: 19.365752, lng: -99.275271},
+                {lat: 19.360164, lng: -99.279734},
+                {lat: 19.355225, lng: -99.285313},
+                {lat: 19.352067, lng: -99.283339},
+                {lat: 19.353120, lng: -99.276559},
+                {lat: 19.356844, lng: -99.267804},
+                {lat: 19.362188, lng: -99.260079},
+                {lat: 19.370203, lng: -99.250722},
+                {lat: 19.376195, lng: -99.247888}
               ];
 
 
@@ -2682,6 +2791,51 @@
                   repeat: '20px'
                 }],
                 map: mapJuanacatlanSantafe
+              });
+
+
+
+              // Mapa Taxi Electrico 1 Cibeles - Santa Fe
+              new google.maps.Polygon({
+                map: mapCibelesSantafe,
+                paths: CibelesTaxi,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapCibelesSantafe,
+                paths: SantafeTaxi,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line SVBus1 Acoxpa - Santa Fe
+              var lineSymbolTaxi1 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.423436, lng: -99.176866}, {lat: 19.379272, lng: -99.247115}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolTaxi1,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapCibelesSantafe
               });
 
 
