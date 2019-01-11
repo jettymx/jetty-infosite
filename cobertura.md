@@ -269,7 +269,7 @@ id: cobertura
           <h2>Operado por <img src="img/logo-svbus.png" width="100" class="logosvbus"></h2>
         </div>
         <div class="col-md-8">
-          <a href="http://ayuda.jetty.mx/svbus" class="conocesvbus">Conoce más aquí</a>
+          <!-- <a href="http://ayuda.jetty.mx/svbus" class="conocesvbus">Conoce más aquí</a> -->
         </div>
       </div>
 
@@ -372,7 +372,7 @@ id: cobertura
           <h2>Operado por <img src="img/ElectricoCompartido.jpg" width="100" class="logosvbus"></h2>
         </div>
         <div class="col-md-8">
-          <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a>
+          <!-- <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a> -->
         </div>
       </div>
 
@@ -400,7 +400,7 @@ id: cobertura
           <h2>Operado por <img src="img/logo-Rutas-Unidas.png" width="80" class="logosvbus"></h2>
         </div>
         <div class="col-md-8">
-          <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a>
+          <!-- <a href="http://ayuda.jetty.mx/rutas-unidas" class="conocesvbus">Conoce más aquí</a> -->
         </div>
       </div>
 
