@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_DELVALLESANTAFE_14 = function(feature, resolution){
+var style_CIBELESSEVILLASANTAFE_17 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}

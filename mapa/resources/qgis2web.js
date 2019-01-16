@@ -62,17 +62,14 @@ var map = new ol.Map({
     overlays: [overlayPopup],
     layers: layersList,
     view: new ol.View({
-         maxZoom: 12, minZoom: 6
+         maxZoom: 28, minZoom: 6
     })
 });
 
 var layerSwitcher = new ol.control.LayerSwitcher({tipLabel: "Layers"});
 map.addControl(layerSwitcher);
-layerSwitcher.hidePanel = function() {};
-layerSwitcher.showPanel();
 
-
-map.getView().fit([-11082509.266052, 2179635.560188, -10997215.929069, 2226991.676734], map.getSize());
+map.getView().fit([-11051972.270216, 2187929.898424, -11026141.406141, 2230926.578371], map.getSize());
 
 var NO_POPUP = 0
 var ALL_FIELDS = 1
@@ -113,7 +110,7 @@ var featureOverlay = new ol.layer.Vector({
 });
 
 var doHighlight = true;
-var doHover = true;
+var doHover = false;
 
 var highlight;
 var onPointerMove = function(evt) {
