@@ -9,14 +9,14 @@ id: cobertura
   <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center">
 
-      <h2>Para reservar tu viaje, descarga la app:</h2>
-        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
+      <h2>Mapa de Cobertura</h2>
+        <!-- <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
         </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">
-        </a>
+        </a> -->
     </div>
 
     <embed src="mapa/mapa.html" class="mapaCobertura">
@@ -27,6 +27,17 @@ id: cobertura
       <h3>¿Te interesa tener un Jetty cerca de ti?</h3>
       <p>Ingresa aquí tu origen y destino deseado y lo tomaremos en cuenta:</p>
       <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
+    </div>
+
+    <div class="col-md-8 col-md-offset-2 text-center dondevas">
+      <h2>Para reservar tu viaje, descarga la app:</h2>
+        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
     </div>
 
   </div>
