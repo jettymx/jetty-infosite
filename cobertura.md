@@ -461,7 +461,7 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 10 /// -->
-<!-- <div class="modal fade" id="ruta10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="ruta10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -476,7 +476,7 @@ id: cobertura
       </div>
     </div>
   </div>
-</div> -->
+</div>
 
 <!-- /// MODAL 11 /// -->
 <div class="modal fade" id="ruta11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -777,7 +777,7 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 7 SVBus /// -->
-<!-- <div class="modal fade" id="rutaSVBus7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="rutaSVBus7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -792,7 +792,7 @@ id: cobertura
       </div>
     </div>
   </div>
-</div> -->
+</div>
 
 <!-- /// MODAL 8 SVBus /// -->
 <div class="modal fade" id="rutaSVBus8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
