@@ -1,12 +1,44 @@
 var size = 0;
 var placement = 'point';
+function categories_VALLEDORADOPOLANCOREFORMA_18(feature, value, size, resolution, labelText,
+                       labelFont, labelFill) {
+                switch(value.toString()) {case 'ASCENSO':
+                    return [ new ol.style.Style({
+        image: new ol.style.Icon({
+                  imgSize: [62, 66.242],
+                  scale: 0.41935483871,
+                  anchor: [13, 13],
+                  anchorXUnits: "pixels",
+                  anchorYUnits: "pixels",
+                  rotation: 0.0,
+                  src: "styles/ascenso.svg"
+            }),
+        text: createTextStyle(feature, resolution, labelText, labelFont,
+                              labelFill, placement)
+    })];
+                    break;
+case 'DESCENSO':
+                    return [ new ol.style.Style({
+        image: new ol.style.Icon({
+                  imgSize: [62, 66.243],
+                  scale: 0.41935483871,
+                  anchor: [13, 13],
+                  anchorXUnits: "pixels",
+                  anchorYUnits: "pixels",
+                  rotation: 0.0,
+                  src: "styles/descenso.svg"
+            }),
+        text: createTextStyle(feature, resolution, labelText, labelFont,
+                              labelFill, placement)
+    })];
+                    break;}};
 
 var style_VALLEDORADOPOLANCOREFORMA_18 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
     };
-    var value = ""
+    var value = feature.get("TIPO");
     var labelText = "";
     size = 0;
     var labelFont = "10.725px \'MS Shell Dlg 2\', sans-serif";
@@ -18,12 +50,9 @@ var style_VALLEDORADOPOLANCOREFORMA_18 = function(feature, resolution){
     if ("" !== null) {
         labelText = String("");
     }
-    var style = [ new ol.style.Style({
-        image: new ol.style.Circle({radius: 6.0 + size,
-            stroke: new ol.style.Stroke({color: 'rgba(247,247,247,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(58,190,153,1.0)'})}),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement)
-    })];
+    
+var style = categories_VALLEDORADOPOLANCOREFORMA_18(feature, value, size, resolution, labelText,
+                          labelFont, labelFill);
 
     return style;
 };
