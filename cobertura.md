@@ -8,8 +8,14 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="col-md-8 col-md-offset-2 text-center">
-      <h2>Mapa de Cobertura</h2>
+    <div class="col-md-12">
+      <div class=" text-center">
+        <h2>Mapa de Cobertura</h2>
+     </div>
+
+      <div>
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="18"></b></p>
+      </div>
     </div>
 
     <embed src="mapa/mapa.html" class="mapaCobertura">
@@ -218,23 +224,42 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 1 /// -->
-<div class="modal fade" id="ruta1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-expressGreen.svg" width="60" ></h4>
+        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-expressGreen.svg" width="60"> <!-- <span style="margin-left: 30px;">$49 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_2" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Cuautitlán Express</b> - <i>Av. Jose María Morelos (Palomas, Glorieta, frente al Oxxo)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Perinorte Express</b> - <i>Autopista Qro-Mex (frente a Ford)</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Antara - Miyana</b> - <i>Prolongación Moliere, frente a Miyana</i></li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>KFC Ejército Nacional</b> - <i>Ejército Nacional esq Arquímides</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Mariano Escobedo</b> - <i>Spencer frente a Scotiabank</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Hamburgo esq. Toledo</b> - <i>Hamburgo 314</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -245,8 +270,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 2 /// -->
-<div class="modal fade" id="ruta2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -255,13 +280,25 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_7" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Cuautitlán Express</b> - <i>Av. Jose María Morelos (Palomas, Glorieta, frente al Oxxo)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Perinorte Express</b> - <i>Autopista Qro-Mex (frente a Ford)</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -272,8 +309,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 3 /// -->
-<div class="modal fade" id="ruta3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -282,13 +319,41 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Mundo E</b> - <i>Gasolinera entre las calles de Caléndulas y Lotos</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Hospital Gral. Satélite</b> - <i>Cto. del parque, frente al parque</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Torres de Satélite</b> - <i>Periférico y Circuito Poetas frente al Centro Castellano</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Antara - Miyana</b> - <i>Prolongación Moliere, frente a Miyana</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>KFC Ejército Nacional</b> - <i>Ejército Nacional esq Arquímides</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Mariano Escobedo</b> - <i>Spencer frente a Scotiabank</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Chapultepec</b> - <i>Torre BBVA Bancomer, Paseo de la Reforma, Juárez, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Reforma 222</b> - <i>Paseo de la Reforma 222, Juárez, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -299,8 +364,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 4 /// -->
-<div class="modal fade" id="ruta4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -309,13 +374,37 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_3" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Corp. Citibanamex</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Lieja esq. Hamburgo</b> - <i>Lieja esq. Hamburgo enfrente Restaurante Pialadero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av. Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -326,8 +415,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 5 /// -->
-<div class="modal fade" id="ruta5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -336,13 +425,57 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_4" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Cuautitlán</b> - <i>Av. Jose María Morelos (Palomas, Glorieta, frente al Oxxo)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Perinorte</b> - <i>Autopista Qro-Mex (frente a Ford)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>City Shops Valle Dorado</b> - <i>Periférico Boulevard Manuel Ávila Camacho 3130, Valle Dorado, bahía City Shops</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Santa Mónica</b> - <i>City Club / Puente peatonal frente a Toks</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Mundo E</b> - <i>Gasolinera entre las calles de Caléndulas y Lotos</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Hospital Gral. Satélite</b> - <i>Cto. del parque, frente al parque</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Torres de Satélite</b> - <i>Periférico y Circuito Poetas frente al Centro Castellano</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -353,8 +486,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 6 /// -->
-<div class="modal fade" id="ruta6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -363,13 +496,49 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_5" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Bosques de Egipto</b> - <i>En el entronque con Bosques de África</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Bosque de Africa</b> - <i>Blvrd Bosque de Africa esq Bosque de Rhodesia</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Bosque de Aragón</b> - <i>Puerta 8 del Bosque de Aragón (junto al Metro)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Metro Deportivo Oceanía (AM)</b> - <i>Metro Deportivo Oceanía, bajo el Puente de la Estación</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -380,8 +549,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 7 /// -->
-<div class="modal fade" id="ruta7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta7" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -390,13 +559,41 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_6" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Parque de los Venados</b> - <i>División del Norte, entre Miguel Laurent y Eje 7 Municipio Libre</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Nápoles</b> - <i>San Antonio esq. Pensilvania, sobre San Antonio</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Del Valle-Matías Romero</b> - <i>Matías Romero y Gabriel Mancera</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Westin</b> - <i>Av. Javier Barros Sierra 515</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Pasaje Santa Fe</b> - <i>Ernesto Martínez Domínguez, Frente a Banorte de Pasaje Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe 546</b> - <i>Av Santa Fe 546, Lomas de Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -407,8 +604,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 8 /// -->
-<div class="modal fade" id="ruta8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta8" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -417,13 +614,49 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_8" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Lamartine</b> - <i>Lamartine 220, Polanco V Sección, Mexico City, CDMX</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Parque América</b> - <i>Horacio esq. Anatole France</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Palmas</b> - <i>Palmas esq. Sierra Mojada</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bosques de la Reforma 495</b> - <i>Bosques de la Reforma 495, frente a La Iglesia Señor de la Resurrección</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -434,8 +667,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 9 /// -->
-<div class="modal fade" id="ruta9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta9" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -444,13 +677,49 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_9" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Metro Chabacano</b> - <i>Metro Chabacano, Esquina Jose A. Torres con Eje 3 Sur, frente Comercial Mexicana</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Centro Médico</b> - <i>Av. Baja California 1, Roma Sur, Fuera del salón Belmar</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Metro Chilpancingo</b> - <i>Chilpancingo 70, Fuera de restaurante Jacs</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Patriotismo</b> - <i>Juchitán 9, Frente al Oxxo</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahía Patio Santa Fe (VQ)</b> - <i>Vasco de Quiroga 200-400, Santa Fe, Zedec Sta Fé, 01219 Ciudad de México, CDMX</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Cetelem</b> - <i>Paseo de la Reforma 2693, Lomas de Bezares, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -460,9 +729,9 @@ id: cobertura
   </div>
 </div>
 
-<!-- /// MODAL 10 /// -->
-<div class="modal fade" id="ruta10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<!-- /// MODAL 10 /// CANCELADA -->
+<div class="modal fade" id="ruta10" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -479,8 +748,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 11 /// -->
-<div class="modal fade" id="ruta11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta11" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -489,13 +758,57 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_11" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Azcapotzalco</b> - <i>Frente a Angar Azcapotzalco Av. de las Granjas</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Vips Camarones</b> - <i> Av. Cuitláhuac</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Metro Cuitláhuac </b> - <i>Mariano Escobedo #3  Frente al Oxxo</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Laguna de Términos</b> - <i>Esq. Mariano Escobedo (Gasolinera)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Parque América (AM)</b> - <i>Horacio esq. Anatole France</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta del Parque</b> - <i>Avenida Santa Fe y Av de los Poetas</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ibero</b> - <i>Av. Vasco de Quiroga frente a la Ibero</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 695</b> - <i>Av Sta Fe 695, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -506,8 +819,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 12 /// -->
-<div class="modal fade" id="ruta12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta12" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -516,13 +829,33 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_12" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Maxiplaza Tultitlán (Express)</b> - <i>De las Torres, Fuentes del Valle, Méx., México, enfrente del Soriana</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ejército Nacional (frente Antara)</b> - <i>Antara Fashion Hall, Avenida Ejército Nacional, Granada, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>KFC Ejército Nacional</b> - <i>Ejército Nacional esq Arquímides</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Thiers</b> - <i>Avenida Thiers, Anzures, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Fuente de La Diana Cazadora</b> - <i>Fuente de La Diana Cazadora, Avenida Paseo de la Reforma, Juárez, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Ángel de la Independencia</b> - <i>Paseo de la Reforma 342, Juárez, Ciudad de México, CDMX, México</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -532,10 +865,9 @@ id: cobertura
   </div>
 </div>
 
-
 <!-- /// MODAL 14 /// -->
-<div class="modal fade" id="ruta14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta14" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -544,13 +876,25 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_14" class="map_canvas"></div>
 
-        <<!-- ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Tacubaya</b> - <i>Avenida Observatorio 97, frente a la fuente pasando el puente peatonal</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex 2</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -561,8 +905,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 15 /// -->
-<div class="modal fade" id="ruta15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta15" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -571,13 +915,33 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_15" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Mixcoac</b> - <i>Frente a Office Depot, Avenida Patriotismo, Insurgentes Mixcoac</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Westin</b> - <i>Av. Javier Barros Sierra 515</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Pasaje Santa Fe</b> - <i>Ernesto Martínez Domínguez, Frente a Banorte de Pasaje Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Punta Santa Fe</b> - <i>Entrada peatonal a Punta Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe 546</b> - <i>Av Santa Fe 546, Lomas de Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -588,8 +952,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 16 /// -->
-<div class="modal fade" id="ruta16" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="ruta16" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -598,13 +962,25 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_16" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Juanacatlán</b> - <i>Gral. Pedro Antonio de Los Santos 70, San Miguel Chapultepec II Secc</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex 2</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -615,8 +991,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 1 SVBus /// -->
-<div class="modal fade" id="rutaSVBus1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -625,13 +1001,29 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus1" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Acoxpa</b> - <i>Av. Acoxpa altura de Boutique Palacio</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Tec de Monterrey Santa Fe</b> - <i>Av. de los Poetas, pasando el Tecnológico de Monterrey Campus Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -642,8 +1034,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 2 SVBus /// -->
-<div class="modal fade" id="rutaSVBus2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -652,13 +1044,17 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus2" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Acoxpa</b> - <i>Av. Acoxpa altura de Boutique Palacio</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Auditorio Nacional</b> - <i>Estacionamiento Ecológico del Bosque de Chapultepec</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -669,8 +1065,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 3 SVBus /// -->
-<div class="modal fade" id="rutaSVBus3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -679,13 +1075,25 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus3" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Panteón Sanctorum (Toreo)</b> - <i>Panteón Sanctorum, Mexico City, CDMX, Mexico</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Vasco de Quiroga</b> - <i>Avenida Vasco de Quiroga, Margarita Maza de Juárez, Mexico City, CDMX, Mexico</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -696,8 +1104,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 4 SVBus /// -->
-<div class="modal fade" id="rutaSVBus4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -708,10 +1116,22 @@ id: cobertura
 
         <!-- <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
         </ul> -->
 
       </div>
@@ -723,8 +1143,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 5 SVBus /// -->
-<div class="modal fade" id="rutaSVBus5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -735,10 +1155,22 @@ id: cobertura
 
         <!-- <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b></b> - <i></i>
+          </li>
         </ul> -->
 
       </div>
@@ -750,8 +1182,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 6 SVBus /// -->
-<div class="modal fade" id="rutaSVBus6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -760,13 +1192,17 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus6" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Costco Coapa</b> - <i>Calle Puente 186, frente al Tec de Monterrey</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Auditorio Nacional</b> - <i>Estacionamiento Ecológico del Bosque de Chapultepec</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -776,9 +1212,9 @@ id: cobertura
   </div>
 </div>
 
-<!-- /// MODAL 7 SVBus /// -->
-<div class="modal fade" id="rutaSVBus7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<!-- /// MODAL 7 SVBus /// CANCELADA -->
+<div class="modal fade" id="rutaSVBus7" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -795,8 +1231,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 8 SVBus /// -->
-<div class="modal fade" id="rutaSVBus8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus8" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -805,13 +1241,21 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus8" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>La Joya</b> - <i>Av de los Insurgentes Sur, La Joya, frente a Farmacias del Ahorro</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -822,8 +1266,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 9 SVBus /// -->
-<div class="modal fade" id="rutaSVBus9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaSVBus9" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -832,13 +1276,25 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_SVBus9" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Picacho</b> - <i>Boulevard Cataratas esq Periferico Sur (junto a salida Office Max)</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Perisur</b> - <i>Avenida Zacatepetl, Insurgentes Cuicuilco frente a la entrada de Perisur</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -848,10 +1304,9 @@ id: cobertura
   </div>
 </div>
 
-
 <!-- /// MODAL 1 TaxisElectricos /// -->
-<div class="modal fade" id="taxis1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="taxis1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -860,13 +1315,49 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_TaxiElectrico1" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Cibeles</b> - <i>Fuente de la Cibeles, Plaza Villa de Madrid, Roma Norte, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Sevilla</b> - <i>Toledo, Juárez, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Centro Comercial Santa Fe</b> - <i>Sobre Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahía Patio Santa Fe (VQ)</b> - <i>Vasco de Quiroga 200-400, Santa Fe, Zedec Sta Fé, 01219 Ciudad de México, CDMX</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Corp. Citibanamex 2</b> - <i>Roberto Medellín esq. Av. Vasco de Quiroga</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Pasaje Santa Fe</b> - <i>Ernesto Martínez Domínguez, Frente a Banorte de Pasaje Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Bahia Office Depot</b> - <i>Office Depot, Juan Salvador Agraz, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av Santa Fe 546</b> - <i>Av Santa Fe 546, Lomas de Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Westin</b> - <i>Av. Javier Barros Sierra 515</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">
@@ -877,8 +1368,8 @@ id: cobertura
 </div>
 
 <!-- /// MODAL 1 RutasUnidas /// -->
-<div class="modal fade" id="rutaUnidas1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="rutaUnidas1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -887,13 +1378,41 @@ id: cobertura
       <div class="modal-body">
         <div id="map_canvas_Rutas1" class="map_canvas"></div>
 
-        <!-- <ul class="paradas">
+        <ul class="paradas">
           <p><b>Paradas de esta ruta</b></p>
-          <li>Parada 1</li>
-          <li>Parada 2</li>
-          <li>Parada 3</li>
-          <li>Parada 4</li>
-        </ul> -->
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Miguel Ángel de Quevedo (PM)</b> - <i>Scotiabank Universidad, 1821, Av. Universidad, Oxtopulco, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>San Jerónimo (AM)</b> - <i>Av. Periférico Sur esq. Tarasquillo</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Toyota Santa Fe</b> - <i>Juan Salvador Agraz 20, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Av. Santa Fe 443</b> - <i>Avenida Santa Fe 443, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>GEPP</b> - <i>Avenida Santa Fe 485, Lomas de Santa Fe, Contadero, Ciudad de México, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
 
       </div>
       <div class="modal-footer">

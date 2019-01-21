@@ -759,9 +759,11 @@ ul.nuevas-rutas li .btn-ruta:focus{
 }
 
 .paradas{
+  color: #768A96;
   clear: both;
   list-style: none;
   margin: 20px 0;
+  padding: 20px;
 }
 
 /*////// ORGANIZACIONES //////*/
