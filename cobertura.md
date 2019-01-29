@@ -90,13 +90,13 @@ id: cobertura
             </button>
           </div>
         </li>
-        <li>
+        <!-- <li>
           <div class="col-md-4">
             <button type="button" data-toggle="modal" data-target="#rutaSVBus5" class="btn-ruta">
               <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe</h4>
             </button>
           </div>
-        </li>
+        </li> -->
         <li>
           <div class="col-md-4">
             <button type="button" data-toggle="modal" data-target="#rutaSVBus6" class="btn-ruta">
@@ -1109,7 +1109,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus4" class="map_canvas"></div>
@@ -1148,7 +1148,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus5" class="map_canvas"></div>
@@ -1187,7 +1187,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Auditorio <span style="margin-left: 30px;">$30 pesos</span></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus6" class="map_canvas"></div>
@@ -1310,7 +1310,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cibeles/Sevilla <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Cibeles/Sevilla <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$55 pesos</span></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_TaxiElectrico1" class="map_canvas"></div>
@@ -1373,7 +1373,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$54 pesos</span></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_Rutas1" class="map_canvas"></div>
