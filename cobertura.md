@@ -106,6 +106,13 @@ id: cobertura
         </li>
         <li>
           <div class="col-md-4">
+            <button type="button" data-toggle="modal" data-target="#rutaSVBus10" class="btn-ruta">
+              <h4 class="panel-title">Huipulco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+            </button>
+          </div>
+        </li>
+        <li>
+          <div class="col-md-4">
             <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
               <h4 class="panel-title">Juanacatlán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
             </button>
@@ -1293,6 +1300,49 @@ id: cobertura
           <li>
             <img src="img/icon-descenso.png" width="10">
             <b>Av Santa Fe</b> - <i>Av Sta Fe esq Juan O'Gorman, segunda glorieta de Av Santa Fe</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 10 SVBus /// -->
+<div class="modal fade" id="rutaSVBus10" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Huipulco <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_SVBus10" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Huipulco</b> - <i>Huipulco, San Lorenzo Huipulco, Huipulco, Tlalpan, CDMX, México</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Costco Coapa</b> - <i>Calle Puente 186, frente al Tec de Monterrey</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Tec de Monterrey Santa Fe</b> - <i>Av. de los Poetas, pasando el Tecnológico de Monterrey Campus Santa Fe</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
           </li>
         </ul>
 

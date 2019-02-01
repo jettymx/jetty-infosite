@@ -43,62 +43,62 @@
               var NortePolanco = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.4900, -99.2200),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var CuautiReformaXpress = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.5400, -99.2200),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var CuautiSantafeXpress = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.5000, -99.2200),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var ReformaSantaFe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.4000, -99.2250),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var NorteSantaFe = {
                   zoom: 10,
                   center: new google.maps.LatLng(19.5100, -99.2500),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var AragonSantaFe = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.4200, -99.1600),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var NarvarteSantaFe = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3800, -99.2200),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var PolancoSantaFe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.4100, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var ChabacanoSantaFe = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3900, -99.2050),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var AtizapanSantaFe = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.4700, -99.2800),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var AzcapoSantaFe = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.4250, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var CoacalcoPolancoReforma = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.5300, -99.1700),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               // var AguilasSantafe = {
               //     zoom: 13,
@@ -108,73 +108,78 @@
               var TacubayaSantafe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3800, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var MixcoacSantafe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3800, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var JuanacatlanSantafe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3800, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var CibelesSantafe = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3800, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus1 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3300, -99.2000),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus2 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3700, -99.1700),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus3 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.4200, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus4 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3200, -99.2100),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus5 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3200, -99.2100),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus6 = {
                   zoom: 11,
                   center: new google.maps.LatLng(19.3500, -99.1800),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus7 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.4000, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus8 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3200, -99.2200),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var mapOptionsSVBus9 = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3300, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
+              var mapOptionsSVBus10 = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.3350, -99.2100),
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
               var RutasViverosSanta = {
                   zoom: 12,
                   center: new google.maps.LatLng(19.3500, -99.2300),
-                  styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"} ] }, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"} ] }, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100 }, {"lightness": 45 } ] }, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"} ] }, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"} ] }, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"} ] }, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#c1c9cd"}, {"visibility": "on"} ] } ] };
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
+
 
               var mapElement = document.getElementById('map_canvas');
               var mapNortePolanco = new google.maps.Map(mapElement, NortePolanco);
@@ -247,6 +252,9 @@
 
               var mapElementSVBus9 = document.getElementById('map_canvas_SVBus9');
               var mapSVBus9 = new google.maps.Map(mapElementSVBus9, mapOptionsSVBus9);
+
+              var mapElementSVBus10 = document.getElementById('map_canvas_SVBus10');
+              var mapSVBus10 = new google.maps.Map(mapElementSVBus10, mapOptionsSVBus10);
 
               var mapElementRutasUnidas1 = document.getElementById('map_canvas_Rutas1');
               var mapRutasUnidas1 = new google.maps.Map(mapElementRutasUnidas1, RutasViverosSanta);
@@ -1212,6 +1220,37 @@
                 icon: destiny
               });
 
+              // SVBus10 Huipulco - Santa Fe
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.300575, lng: -99.147373},
+                map: mapSVBus10,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.284435, lng: -99.137572},
+                map: mapSVBus10,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.357905, lng: -99.276368},
+                map: mapSVBus10,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.361343, lng: -99.261317},
+                map: mapSVBus10,
+                icon: destiny
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.368102, lng: -99.260246},
+                map: mapSVBus10,
+                icon: destiny
+              });
+
 
               // RutasUnidas Viveros - Santa fe
               var Marker = new google.maps.Marker({
@@ -1860,6 +1899,47 @@
                 {lat: 19.612309, lng: -99.184023},
                 {lat: 19.612956, lng: -99.188314}
               ];
+
+              var HuipulcoSVBus = [
+                {lat: 19.304990, lng: -99.147673},
+                {lat: 19.304058, lng: -99.150034},
+                {lat: 19.302600, lng: -99.151665},
+                {lat: 19.300514, lng: -99.151922},
+                {lat: 19.298347, lng: -99.150785},
+                {lat: 19.296666, lng: -99.148661},
+                {lat: 19.296747, lng: -99.145227},
+                {lat: 19.298387, lng: -99.142717},
+                {lat: 19.301101, lng: -99.141772},
+                {lat: 19.302823, lng: -99.142717},
+                {lat: 19.304159, lng: -99.144326}
+              ];
+
+              var TecMTYSVBus = [
+                {lat: 19.287017, lng: -99.138538},
+                {lat: 19.286076, lng: -99.140018},
+                {lat: 19.284475, lng: -99.140598},
+                {lat: 19.282946, lng: -99.140029},
+                {lat: 19.282025, lng: -99.138205},
+                {lat: 19.282167, lng: -99.136285},
+                {lat: 19.283382, lng: -99.134772},
+                {lat: 19.284627, lng: -99.134557},
+                {lat: 19.285964, lng: -99.135297},
+                {lat: 19.287058, lng: -99.137250}
+              ];
+
+              var SantaFeHuipulcoBus = [
+                {lat: 19.374671, lng: -99.257369},
+                {lat: 19.372728, lng: -99.263893},
+                {lat: 19.366736, lng: -99.270416},
+                {lat: 19.361796, lng: -99.277626},
+                {lat: 19.354152, lng: -99.281298},
+                {lat: 19.353262, lng: -99.275633},
+                {lat: 19.355692, lng: -99.266965},
+                {lat: 19.357716, lng: -99.262330},
+                {lat: 19.362899, lng: -99.255979},
+                {lat: 19.369862, lng: -99.253919}
+              ];
+
 
               var viverosRuta = [
                 {lat: 19.359587, lng: -99.172836},
@@ -3227,6 +3307,72 @@
                   repeat: '20px'
                 }],
                 map: mapSVBus9
+              });
+
+              // Mapa SVBus10 Huipulco - Santa Fe
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: HuipulcoSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: TecMTYSVBus,
+                strokeColor: '#49bda7',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#49bda7',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              new google.maps.Polygon({
+                map: mapSVBus10,
+                paths: SantaFeHuipulcoBus,
+                strokeColor: '#768a96',
+                strokeOpacity: 0.8,
+                strokeWeight: 1.5,
+                fillColor: '#768a96',
+                fillOpacity: 0.2,
+                draggable: false,
+                geodesic: true
+              });
+
+              // Line SVBus10 Huipulco - Auditorio
+              var lineSymbolSVBus10 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.298387, lng: -99.142717}, {lat: 19.287017, lng: -99.138538}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus10,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus10
+              });
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.282946, lng: -99.140029}, {lat: 19.354152, lng: -99.281298}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolSVBus10,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapSVBus10
               });
 
 
