@@ -899,7 +899,7 @@
 
               // Mapa 14 Tacubaya - SantaFe
               var Marker = new google.maps.Marker({
-                position: {lat: 19.4039793, lng: -99.1903724},
+                position: {lat: 19.402404, lng: -99.189056},
                 map: mapTacubayaSantafe,
                 icon: image
               });
