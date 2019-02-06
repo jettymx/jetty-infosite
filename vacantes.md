@@ -209,7 +209,7 @@ id: vacantes
                 <p><b>¿TE INTERESA?</b></p>
                 <ul>
                   <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Ejecutivo de Soporte a clientes AM">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno matutino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios turno matutino">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno matutino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
                   </li>
                 </ul>
 
@@ -414,7 +414,7 @@ id: vacantes
                 <p><b>¿TE INTERESA?</b></p>
                 <ul>
                   <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Ejecutivo de Soporte a clientes AM">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno verpertino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios turno vespertino">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno vespertino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
                   </li>
                 </ul>
 
@@ -535,34 +535,6 @@ id: vacantes
                 </ul>
 
                 <br>
-
-                <!-- <p><b>DATOS GENERALES DEL PUESTO:</b></p>
-                <ul>
-                  <p><b>1. Jornada Laboral</b></p>
-                  <li>
-                    <p>Lunes a Viernes.</p>
-                  </li>
-                  <li>
-                    <p>40 horas a la semana.</p>
-                  </li>
-                  <li>
-                    <p>6 días de vacaciones al cumplir el primer año de trabajo, incrementos según la ley correspondiente.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <ul>
-                  <p><b>2. Remuneración económica y Prestaciones</b></p>
-                  <li>
-                    <p>Pago por medio de tarjeta de nómina en cada quincena.</p>
-                  </li>
-                  <li>
-                    <p>Prestaciones de ley: Cotización en IMSS e INFONAVIT, prima vacacional y aguinaldo de 1 mes.</p>
-                  </li>
-                </ul>
-
-                <br> -->
 
                 <p><b>¿TE INTERESA?</b></p>
                 <p>Escríbenos a <a href="mailto:irvin@jetty.mx?subject=Desarrollador/a Jr.">irvin@jetty.mx</a> utilizando <b>“Desarrollador móvil - iOS”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
