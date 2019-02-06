@@ -10,7 +10,7 @@ id: cobertura
 
     <div class="col-md-12">
       <div class=" text-center">
-        <h2>Mapa de Cobertura</h2>
+        <h2>Service Areas</h2>
      </div>
 
       <div>
