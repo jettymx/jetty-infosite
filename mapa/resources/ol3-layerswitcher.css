@@ -8,7 +8,7 @@
 
 .layer-switcher {
     position: absolute;
-    top: 3.5em;
+    top: 1.5em;
     right: 0.5em;
     text-align: left;
 }
@@ -34,7 +34,7 @@
 
 .layer-switcher button {
     float: right;
-    width: 229px;
+    width: 247px;
     height: 47px;
     background-image: url('boton-rutas.png') /*logo.png*/;
     background-repeat: no-repeat;
