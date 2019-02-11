@@ -1,6 +1,6 @@
 ---
 layout: default-cobertura
-title: Jetty | ¿Cuándo y dónde funciona Jetty?
+title: Jetty Cobertura | Explora Nuestras Rutas
 description: Consulta nuestra cobertura y nuestros horarios de operaciones en la Zona Metropolitana del Valle de México.
 id: cobertura
 ---
