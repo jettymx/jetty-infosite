@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿Jetty en el transporte público? A partir de hoy puedes usar nuestra app para reservar asientos en SVBUS."
+title:  "Con Jetty, reserva tu asiento en SVBus a Santa Fe y Auditorio"
 date:   2018-05-03 10:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/jetty-svbus.png
