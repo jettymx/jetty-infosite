@@ -789,8 +789,9 @@ id: vacantes
                 Av. Insurgentes Sur 318, Col. Roma Norte, Del. Cuauhtémoc, CDMX, CP 06700</p>
 
                 <p style="margin-top: 22px"><b>RESPONSABILIDADES CLAVE</b></p>
+                <p><b>Reportes y análisis</b></p>
                 <ul>
-                  <p>Reportes y análisis</p>
+
                   <li>
                     <p>Informes periódicos de las métricas de rendimiento para el equipo.</p>
                   </li>
@@ -804,8 +805,8 @@ id: vacantes
 
                 <br>
 
+                <p><b>Relaciones con Gobierno</b></p>
                 <ul>
-                  <p>Relaciones con Gobierno</p>
                   <li>
                     <p>Asegurar el cumpliminento con obligaciones gubernamentales (pago de impuestos, aportación de movilidad, etc.). </p>
                   </li>
@@ -813,8 +814,8 @@ id: vacantes
 
                 <br>
 
+                <p><b>Socios transportistas</b></p>
                 <ul>
-                  <p>Socios transportistas</p>
                   <li>
                     <p>Asegurar que los transportistas cumplan con nuestros estándares de calidad, puntualidad, operadores y especificaciones de las unidades (antigüedad, limpieza, estado general) del vehículo. Esto por medio de calificaciones y reseñas de usuarios.</p>
                   </li>
@@ -831,8 +832,8 @@ id: vacantes
 
                 <br>
 
+                <p><b>Operación</b> </p>
                 <ul>
-                  <p>Operación </p>
                   <li>
                     <p>Analizar con el equipo de Soporte al Cliente las quejas relacionadas a la operación para resolverlas, con el objetivo de encontrar soluciones convenientes para todas las partes. </p>
                   </li>
@@ -855,8 +856,8 @@ id: vacantes
 
                 <br>
 
+                <p><b>Manuales y procesos</b></p>
                 <ul>
-                  <p>Manuales y procesos</p>
                   <li>
                     <p>Documentación y mapeo de procesos y procedimientos generales. </p>
                   </li>
@@ -925,7 +926,7 @@ id: vacantes
                 <br>
 
                 <p style="margin-top: 22px"><b>PRINCIPALES RELACIONES INTERNAS Y EXTERNAS</b></p>
-                <p>Relaciones internas:</p>
+                <p><b>Relaciones internas:</b></p>
                 <ul>
                   <li>
                     <p>Comunicación y colaboración con el Director de operaciones.</p>
@@ -935,74 +936,12 @@ id: vacantes
                   </li>
                 </ul>
 
-                <p>Relaciones externas:</p>
+                <p><b>Relaciones externas:</b></p>
                 <ul>
                   <li>
                     <p>Interacción con usuarios, operadores y transportistas.</p>
                   </li>
                 </ul>
-
-                <br>
-
-                <p style="margin-top: 22px"><b>DATOS GENERALES DEL PUESTO:</b></p>
-                <p>1. Jornada Laboral</p>
-                <ul>
-                  <li>
-                    <p>Lunes a Viernes.</p>
-                  </li>
-                  <li>
-                    <p>40 horas a la semana.</p>
-                  </li>
-                  <li>
-                    <p>Horario definido por la Operación. </p>
-                  </li>
-                  <li>
-                    <p>6 días de vacaciones al cumplir el primer año de trabajo, incrementos según la ley correspondiente.</p>
-                  </li>
-                </ul>
-
-                <p>2. Remuneración económica y Prestaciones</p>
-                <ul>
-                  <li>
-                    <p>Pago por medio de tarjeta de nómina en cada quincena.</p>
-                  </li>
-                  <li>
-                    <p>Prestaciones de ley: Cotización en IMSS e INFONAVIT, prima vacacional y 1 mes de aguinaldo.</p>
-                  </li>
-                </ul>
-
-                <p>3. Documentación a entregar</p>
-                <ul>
-                  <li>
-                    <p>Acta de Nacimiento</p>
-                  </li>
-                  <li>
-                    <p>IFE</p>
-                  </li>
-                  <li>
-                    <p>CURP</p>
-                  </li>
-                  <li>
-                    <p>RFC</p>
-                  </li>
-                  <li>
-                    <p>Comprobante de domicilio </p>
-                  </li>
-                  <li>
-                    <p>NSS (Número de seguro social)</p>
-                  </li>
-                </ul>
-
-                <p>4. Tiempo de contratación</p>
-                <ul>
-                  <li>
-                    <p>Renovación mensual de la oferta durante los primeros 3 meses.</p>
-                  </li>
-                  <li>
-                    <p>Con  base a resultados, después de los primeros 3 meses contratación por tiempo indefinido.</p>
-                  </li>
-                </ul>
-
 
                 <br>
 
