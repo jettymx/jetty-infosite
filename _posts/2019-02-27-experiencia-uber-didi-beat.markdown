@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taxis & Taxis por app"
+title:  "Las mejores aplicaciones de taxis tipo Uber"
 date:   2019-02-27 11:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/taxis-app.png
@@ -8,7 +8,7 @@ categories: update
 ---
 ![uber didi beat, Jetty]({{site.baseurl}}/imgs-blog/taxis-app.png)
 
-<h2>Uber vs. Didi vs. Beat</h2>
+<h2>Uber vs. Didi vs. Beat vs. Cabify</h2>
 
 El servicio de taxi por aplicación es parte de nuestra vida diaria, ya sea para ir a junta, al trabajo o a un evento social, todos hemos llegado a usar este servicio. Entre Uber, Didi, Taxify, Cabify, y ahora Beat, el mercado de los taxis por aplicaciones en la Ciudad de México está más competido que nunca. En Jetty creemos que para tener menos tráfico y reducir la contaminación ambiental los viajes deberían de ser compartidos, aunque sabemos que no contamos con toda la cobertura y los horarios para ofrecer el Jetty ideal para todos los que viven lejos de su trabajo. Por esta razón decidimos analizar la principal alternativa de transporte con la que cuentan nuestros (futuros) usuarios. Si quieres empezar por comparar los precios de las diferentes aplicaciones, puedes dar click en este artículo [https://viaja.jetty.mx/apps-taxi][apps-taxi]
 
@@ -24,7 +24,7 @@ Y esta guerra de precios empezada por los dos gigantes está lejos de terminar, 
 
 <h3>Precio</h3>
 No todas las aplicaciones son transparentes en el desglose de su tarifa. Didi y Uber tienen la famosa y en ocasiones temible tarifa dinámica que puede incrementar considerablemente el precio de los viajes en caso de alta demanda (lluvia, hora pico o salida de eventos).
-Beat no enseña el desglose de su tarifa y tuvimos que hacer varias simulaciones de viajes para deducir los multiplicadores de tiempo y de kilómetros. No hemos podido verificar que cambien dependiendo de la hora (como en Cabify). En promedio fue la aplicación con los precios más bajos (sin importar la hora).
+Beat no enseña el desglose de su tarifa y tuvimos que hacer varias simulaciones de viajes para deducir los multiplicadores de tiempo y de kilómetros. No hemos podido verificar que cambien dependiendo de la hora (como en Cabify). En promedio fue la aplicación con los precios más bajos (sin importar la hora). Para comparar los precios de las diferentes aplicaciones, puedes dar clic [aquí][apps-taxi]
 <br><br>
 <h3>Servicio</h3>
 Muchos usuarios se han quejado de la caída de la calidad del servicio de Uber. Era de esperarse, dado el aumento de la comisión de la plataforma y el número de conductores. En nuestra propia experiencia (después de haber probado todas las plataformas previamente citadas) el servicio se ha estandarizado. La mayor diferencia es en la oferta de servicios que las diferentes aplicaciones tienen. Didi y Beat solamente ofrecen la modalidad básica (con coches sedan económicos) cuando Cabify y Uber ofrecen servicios diferentes adaptados a tu necesidad (Lite, económico o Air, por si quieren viajar en helicóptero vs. UberX, Uber Pool, Uber XL, Uber Black y hasta Uber Vans en Monterrey).
