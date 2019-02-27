@@ -6,7 +6,7 @@ post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/taxis-app.png
 categories: update
 ---
-![Gracias, Jetty]({{site.baseurl}}/imgs-blog/taxis-app.png)
+![uber didi beat, Jetty]({{site.baseurl}}/imgs-blog/taxis-app.png)
 
 <h2>Uber vs. Didi vs. Beat</h2>
 
