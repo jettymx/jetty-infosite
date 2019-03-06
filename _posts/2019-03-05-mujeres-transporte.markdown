@@ -42,10 +42,15 @@ El material fue resultado del taller expuesto por una experta en la incorporaci�
 <br>
 [Incorporación de la perspectiva de género en el transporte colectivo][word]
 
+<i>Es importante que el contenido se adapte a las necesidades de cada empresa.</i>
+
+<br>
 <b>Contacto prensa:</b><br>
 Baruch González Sanginés<br>
 prensa@jetty.mx<br>
 55 2087 0701
+
+
 
 
 
