@@ -48,6 +48,6 @@ prensa@jetty.mx<br>
 55 2087 0701
 
 
-[pdf]:/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf
-[ppt]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx
-[word]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx
+[pdf]:https://www.jetty.mx/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf
+[ppt]:https://www.jetty.mx/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx
+[word]:https://www.jetty.mx/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx
