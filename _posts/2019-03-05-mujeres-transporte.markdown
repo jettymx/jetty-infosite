@@ -34,7 +34,13 @@ Finalmente para llevar esto a un siguiente nivel, Jetty ha puesto a disposición
 [Jetty][jetty] es una plataforma tecnológica que conecta a pasajeros con operadores de transporte colectivo urbano garantizando altos estándares de comodidad, seguridad y confiabilidad. La aplicación puede descargarse en iOS y en Android.
 
 <h3>Sobre el material:</h3>
-El material fue resultado del taller expuesto por una experta en la incorporación de la perspectiva de género en políticas públicas, Maestra en Ciencias Sociales con especialidad en el área de Derechos Humanos. Puede descargarse [aquí][url]
+El material fue resultado del taller expuesto por una experta en la incorporación de la perspectiva de género en políticas públicas, Maestra en Ciencias Sociales con especialidad en el área de Derechos Humanos. Puede descargarse aquí:
+
+[Cuestionario evaluación prepost choferes Jetty][pdf]
+<br>
+[Presentación Incorporación de la perspectiva de género en el transporte colectivo][ppt]
+<br>
+[Incorporación de la perspectiva de género en el transporte colectivo][word]
 
 <b>Contacto prensa:</b><br>
 Baruch González Sanginés<br>
@@ -44,4 +50,6 @@ prensa@jetty.mx<br>
 
 
 [jetty]:https://www.jetty.mx
-[url]:https://drive.google.com/open?id=1h2pSu5J8NY_dKdGnO4kp1a3DpKK2i5Nq
+[pdf]:/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf
+[ppt]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx
+[word]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx
