@@ -34,9 +34,9 @@ Finalmente para llevar esto a un siguiente nivel, Jetty ha puesto a disposición
 El material fue resultado del taller expuesto por una experta en la incorporación de la perspectiva de género en políticas públicas, Maestra en Ciencias Sociales con especialidad en el área de Derechos Humanos. Puede descargarse aquí:
 
 <a href="https://www.jetty.mx/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf" target="blank">Cuestionario evaluación prepost choferes Jetty</a>
-
-<a href="https://www.jetty.mx/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx" target="blank">Presentación Incorporación de la perspectiva de género en el transporte colectivo</a>
-
+<br>
+<a href="https://www.jetty.mx/docs/Presentación-Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx" target="blank">Presentación Incorporación de la perspectiva de género en el transporte colectivo</a>
+<br>
 <a href="https://www.jetty.mx/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx" target="blank">Incorporación de la perspectiva de género en el transporte colectivo</a>
 
 <i>Es importante que el contenido se adapte a las necesidades de cada empresa.</i>
