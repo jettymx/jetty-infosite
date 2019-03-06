@@ -35,7 +35,7 @@ El material fue resultado del taller expuesto por una experta en la incorporaci�
 
 <a href="https://www.jetty.mx/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf" target="blank">Cuestionario evaluación prepost choferes Jetty</a>
 <br>
-<a href="https://www.jetty.mx/docs/Presentación-Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx" target="blank">Presentación Incorporación de la perspectiva de género en el transporte colectivo</a>
+<a href="https://www.jetty.mx/docs/Presentacion-Incorporación-de-la-perspectiva-de-geenero-en-el-transporte-colectivo.pptx" target="blank">Presentación Incorporación de la perspectiva de género en el transporte colectivo</a>
 <br>
 <a href="https://www.jetty.mx/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx" target="blank">Incorporación de la perspectiva de género en el transporte colectivo</a>
 
