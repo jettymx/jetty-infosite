@@ -30,9 +30,6 @@ Adicionalmente, se repasaron casos prácticos en donde los operadores se enfrent
 
 Finalmente para llevar esto a un siguiente nivel, Jetty ha puesto a disposición de todas las empresas de transporte el material necesario para poder dar la capacitación y así impactar la vida de millones de mexicanas que hoy utilizan el transporte. Por ejemplo,  a la capacitación se sumó también un grupo de operadoras y operadores de la empresa OL7 que opera la Línea 7 de Metrobús.
 
-<h3>Sobre Jetty:</h3>
-[Jetty][jetty] es una plataforma tecnológica que conecta a pasajeros con operadores de transporte colectivo urbano garantizando altos estándares de comodidad, seguridad y confiabilidad. La aplicación puede descargarse en iOS y en Android.
-
 <h3>Sobre el material:</h3>
 El material fue resultado del taller expuesto por una experta en la incorporación de la perspectiva de género en políticas públicas, Maestra en Ciencias Sociales con especialidad en el área de Derechos Humanos. Puede descargarse aquí:
 
@@ -51,10 +48,6 @@ prensa@jetty.mx<br>
 55 2087 0701
 
 
-
-
-
-[jetty]:https://www.jetty.mx
 [pdf]:/docs/Cuestionario-evaluación-prepost-choferes-Jetty.pdf
 [ppt]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.pptx
 [word]:/docs/Incorporación-de-la-perspectiva-de-género-en-el-transporte-colectivo.docx
