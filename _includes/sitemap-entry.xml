@@ -1,0 +1,11 @@
+<url>
+  <loc>https://www.jetty.mx{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+    <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}{% if include.entry.priority %}
+    <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+  {% if include.entry.date %}
+    <lastmod>{{include.entry.date}}</lastmod>
+  {% endif %}
+</url>
