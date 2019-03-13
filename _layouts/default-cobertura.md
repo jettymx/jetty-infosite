@@ -13,7 +13,10 @@
 
     {% include footer.md %}
 
+    {% include osm.md %}
+
     {% include scripts.md %}
+
 
   </body>
 
