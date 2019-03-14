@@ -8,19 +8,7 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="col-md-12">
-      <div class=" text-center">
-        <h2>Mapa de Cobertura</h2>
-     </div>
-
-      <div>
-        <p><b>Ascenso <img src="img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="18"></b></p>
-      </div>
-    </div>
-
-    <embed src="mapa/mapa.html" class="mapaCobertura">
-
-    <div class="col-md-8 col-md-offset-2 text-center dondevas">
+    <div class="col-md-8 col-md-offset-2 text-center">
       <h2>Explora nuestas rutas</h2>
     </div>
 
