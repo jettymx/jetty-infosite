@@ -582,6 +582,11 @@ img.comillas{
 }
 
 /*////// COBERTURA //////*/
+.map{
+  height: 400px;
+  width: 100%;
+}
+
 .mapaCobertura{
   width: 100%;
   height: 700px;
