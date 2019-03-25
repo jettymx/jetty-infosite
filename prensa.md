@@ -141,6 +141,54 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/radiocentro.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Buscan regular transporte que va a Santa Fe</h3>
+          <p><small><i>22 Marzo 2019</i></small></p>
+          <p>Tras el conflicto que existe entre operadores de la Ruta 5 y conductores del servicio SVBus, operado por la empresa Jetty, las autoridades capitalinas pretenden organizar los servicios de transporte colectivo privado.</p>
+          <a href="http://radiocentro977.com/noticias/buscan-regular-transporte-que-va-a-santa-fe.html" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/televisa-news.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Choferes de transporte concesionado agreden a conductores de transporte privado</h3>
+          <p><small><i>23 Marzo 2019</i></small></p>
+          <p>En la zona de Santa Fe, al poniente de Ciudad de México, choferes de unidades de transporte colectivo privado de una empresa que se contrata por medio de una aplicación han sido agredidos por choferes de una ruta de transporte concesionado, la Ruta 5, que corre en la misma zona y que así busca evitar la competencia.</p>
+          <a href="https://noticieros.televisa.com/ultimas-noticias/choferes-de-transporte-concesionado-agreden-a-conductores-de-transporte-privado/" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/elfinanciero.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Jetty reanudará servicio a Santa Fe el próximo lunes tras suspensión por inseguridad</h3>
+          <p><small><i>24 Marzo 2019</i></small></p>
+          <p>Durante el jueves y viernes pasado, la startup interrumpió su servicio en seis rutas, que corren desde el sur de la Ciudad y de Cuautitlán a Santa Fe por amenazas de conductores de camiones.</p>
+          <a href="https://www.elfinanciero.com.mx/tech/jetty-reanudara-su-servicio-a-santa-fe-el-proximo-lunes-tras-suspension-por-inseguridad" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/informador.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Jetty, la batalla por el presente</h3>
+          <p><small><i>25 Marzo 2019</i></small></p>
+          <p>Los modelos de transporte público de nuestras ciudades llevan décadas de rezago. Además, constituyen feudos de poder que atemorizan a cualquier gobernador.</p>
+          <a href="https://www.informador.mx/ideas/Jetty-la-batalla-por-el-presente-20190325-0039.html" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
 
     </div>
 
