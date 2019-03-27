@@ -5,7 +5,4 @@
   {% endif %}{% if include.entry.priority %}
     <priority>{{include.entry.priority}}</priority>
   {% endif %}
-  {% if include.entry.date %}
-    <lastmod>{{include.entry.date}}</lastmod>
-  {% endif %}
 </url>
