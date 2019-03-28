@@ -189,6 +189,18 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/elheraldo.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Primero los usuarios</h3>
+          <p><small><i>27 Marzo 2019</i></small></p>
+          <p>Las nuevas empresas han asumido riesgos en búsqueda de mejorar los servicios, por lo que las reglas deberán balancear los incentivos</p>
+          <a href="https://heraldodemexico.com.mx/opinion/primero-los-usuarios/amp/" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
 
     </div>
 
