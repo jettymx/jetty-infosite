@@ -82,7 +82,7 @@ id: mercado-san-juan
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
-        <a href="nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <!-- <div class="col-md-4">
@@ -106,7 +106,7 @@ id: mercado-san-juan
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
-        <a href="santa-maria" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
     </div>

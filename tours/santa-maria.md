@@ -81,7 +81,7 @@ id: santa-maria
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
-        <a href="mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <div class="col-md-4">
@@ -93,7 +93,7 @@ id: santa-maria
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
-        <a href="nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <!-- <div class="col-md-4">

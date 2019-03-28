@@ -92,7 +92,7 @@ id: muralismo-mexicano
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
-        <a href="#" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <div class="col-md-4">
@@ -104,7 +104,7 @@ id: muralismo-mexicano
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
-        <a href="#" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
     </div>
