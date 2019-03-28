@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tours
 title: Jetty | La Mejor Solución de Transporte para tu Evento
 description: Organizas o vas a un evento y estás buscando transporte. ¿Consideras rentar una camioneta con chofer? Nos adaptamos a tu necesidad al mejor precio.
 id: transporte-eventos
@@ -14,8 +14,6 @@ id: transporte-eventos
       </div>
       <div class="col-md-8 col-md-offset-2 text-center">
         <h3>Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</h3>
-
-        <!-- <p class="lead">Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</p> -->
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
           Cotiza
         </button>
@@ -77,39 +75,62 @@ id: transporte-eventos
         </ul>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <a href="#" class="btn btn-gray" style="margin-top: 0px">Nuestros Tours</a>
+      </div>
+    </div>
   </div>
 </div>
 
 
 <div class="container-fluid content-buen-viaje">
   <div class="container buen-viaje">
-    <div class="row">
-      <div class="col-md-12 text-center" data-aos="fade-up">
-        <h1>Beneficios</h1>
+
+    <div class="row tour">
+      <div class="col-md-12 text-center" data-aos="fade">
+        <h2>Nuestros Tours</h2>
       </div>
     </div>
 
-    <div class="row buen-viaje-info">
-      <div class="col-md-4 text-center">
-        <img src="img/mas-autos.svg">
-        <p class="lead">Viaja en menos coches y diviértete con tus amigos.</p>
-      </div>
-      <div class="col-md-4 text-center">
-      <img src="img/drink.svg">
-        <p class="lead">No te preocupes por el conductor designado.</p>
-      </div>
-      <div class="col-md-4 text-center">
-        <img src="img/mas-flexible.svg">
-        <p class="lead">Nos adaptamos a lo que necesitas.</p>
-      </div>
-    </div>
+    <div class="row tour" data-aos="fade">
 
-    <div class="row buen-viaje-info">
-      <div class="col-md-6 col-md-offset-3 text-center" data-aos="fade-up" >
-        <button type="button" class="btn btn-default btn-lg btn-green" data-toggle="modal" data-target="#ModalEventos">
-          Cotiza
+      <div class="col-md-4">
+        <img src="img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
+        <h3>Nuevo Muralismo Mexicano</h3>
+        <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
+        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Incluye:</b> Guía, transportación,</p>
+        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
+          Agendar
         </button>
+        <a href="tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
+
+      <div class="col-md-4">
+        <img src="img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
+        <h3>Mercado de San Juan</h3>
+        <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
+        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Incluye:</b> Guía, transportación,</p>
+        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
+          Agendar
+        </button>
+        <a href="tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
+      </div>
+
+      <div class="col-md-4">
+        <img src="img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
+        <h3>Santa María la Ribera</h3>
+        <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
+        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Incluye:</b> Guía, transportación,</p>
+        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
+          Agendar
+        </button>
+        <a href="tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
+      </div>
+
     </div>
 
   </div>
@@ -125,12 +146,6 @@ id: transporte-eventos
   <div class="row">
     <div class="col-md-8 col-md-offset-2">
       <h2 class="text-center">Nuestro servicio incluye:</h2>
-      <!-- <ul class="lead">
-        <li>Vehículos: Crafter de Volkswagen 2015/2017</li>
-        <li>Asientos: 19 reclinables con cinturones de seguridad en todos los asientos</li>
-        <li>Equipamiento: Aire acondicionado en cabina y para pasajeros, 4 cargadores USB por fila, GPS, WiFi, Cámaras de seguridad hacia el interior y el exterior.</li>
-        <li>Conductor: El conductor pasó un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas, entre otras.</li>
-      </ul> -->
     </div>
 
     <div class="col-md-4 text-center">
@@ -156,7 +171,6 @@ id: transporte-eventos
     </div>
   </div>
 </div>
-
 
 <!-- Modal Eventos -->
 <div class="modal fade" id="ModalEventos" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -421,6 +435,145 @@ id: transporte-eventos
               <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
           </div>
         </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<!-- MODAL TOURS MURALISMO-->
+<div class="modal fade" id="ModalTourMuralismo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header header-modal-muralismo">
+        <h2 class="modal-title title-tours-modal" id="myModalLabel">Nuevo Muralismo Mexicano</h2>
+      </div>
+
+      <div class="modal-body">
+        <form class="form-modal-tours">
+          <div class="form-group col-md-4">
+            <label for="">Nombre</label>
+            <input type="" class="form-control" id="" placeholder="Claudia">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Apellido</label>
+            <input type="" class="form-control" id="" placeholder="Tapía">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Número de personas</label>
+            <input type="" class="form-control" id="" placeholder="5 personas">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Correo electrónico</label>
+            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Celular</label>
+            <input type="" class="form-control" id="" placeholder="55 9876 4321">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Fecha</label>
+            <input type="" class="form-control" id="" placeholder="Abril 30">
+          </div>
+        </form>
+      </div>
+
+      <div class="modal-footer modal-footer-tours">
+        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-green-small">Enviar</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- MODAL TOURS MERCADO-->
+<div class="modal fade" id="ModalTourMercado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header header-modal-mercado">
+        <h2 class="modal-title title-tours-modal" id="myModalLabel">Mercado de San Juan</h2>
+      </div>
+
+      <div class="modal-body">
+        <form class="form-modal-tours">
+          <div class="form-group col-md-4">
+            <label for="">Nombre</label>
+            <input type="" class="form-control" id="" placeholder="Claudia">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Apellido</label>
+            <input type="" class="form-control" id="" placeholder="Tapía">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Número de personas</label>
+            <input type="" class="form-control" id="" placeholder="5 personas">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Correo electrónico</label>
+            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Celular</label>
+            <input type="" class="form-control" id="" placeholder="55 9876 4321">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Fecha</label>
+            <input type="" class="form-control" id="" placeholder="Abril 30">
+          </div>
+        </form>
+      </div>
+
+      <div class="modal-footer modal-footer-tours">
+        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-green-small">Enviar</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- MODAL TOURS SANTA MARIA-->
+<div class="modal fade" id="ModalTourSantamaria" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header header-modal-santamaria">
+        <h2 class="modal-title title-tours-modal" id="myModalLabel">Santa María la Ribera</h2>
+      </div>
+
+      <div class="modal-body">
+        <form class="form-modal-tours">
+          <div class="form-group col-md-4">
+            <label for="">Nombre</label>
+            <input type="" class="form-control" id="" placeholder="Claudia">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Apellido</label>
+            <input type="" class="form-control" id="" placeholder="Tapía">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Número de personas</label>
+            <input type="" class="form-control" id="" placeholder="5 personas">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Correo electrónico</label>
+            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Celular</label>
+            <input type="" class="form-control" id="" placeholder="55 9876 4321">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="">Fecha</label>
+            <input type="" class="form-control" id="" placeholder="Abril 30">
+          </div>
+        </form>
+      </div>
+
+      <div class="modal-footer modal-footer-tours">
+        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-green-small">Enviar</button>
       </div>
 
     </div>

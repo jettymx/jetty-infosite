@@ -189,6 +189,18 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/telediario.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Jetty vuelve a operaciones tras presentar 12 denuncias de agresiones por transportistas de la Ruta 5</h3>
+          <p><small><i>26 Marzo 2019</i></small></p>
+          <p>Operadores del transporte masivo mediante app reanudan operaciones tras bloqueo de choferes de la Ruta 5</p>
+          <a href="https://www.telediario.mx/metrópoli/jetty-vuelve-operaciones-tras-presentar-12-denuncias-de-agresiones-por-transportistas-de-la-ruta-5" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
 
     </div>
 
