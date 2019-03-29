@@ -3,10 +3,10 @@ layout: post
 title:  "No estamos disfrazados"
 date:   2019-03-28 18:00:00
 post_author: Jetty
-image: https://www.jetty.mx/imgs-blog/noticias-jetty-2019.png
+image: https://www.jetty.mx/imgs-blog/jetty-no-disfrazados.jpg
 categories: update
 ---
-![Jetty]({{site.baseurl}}/imgs-blog/noticias-jetty-2019.png)
+![Jetty]({{site.baseurl}}/imgs-blog/jetty-no-disfrazados.jpg)
 
 <b>No estamos disfrazados.</b> Desde el arranque expresamos que somos un app basada 100% en datos y en las necesidades del usuario que funciona a través de alianzas con transportistas que apuestan al futuro y operan con los altos estándares de servicio que diseñamos.
 
