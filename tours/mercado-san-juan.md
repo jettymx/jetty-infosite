@@ -11,7 +11,7 @@ id: mercado-san-juan
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-        <h1>Mercado de San Juan</h1>
+        <h1>Recorrido y clase de cocina por el Mercado de San Juan</h1>
       </div>
       </div>
     </div>
@@ -23,13 +23,75 @@ id: mercado-san-juan
   <div class="container info-tour">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-        <p>Conocer la Ciudad de México en voz de los expertos es mucho más fácil de lo que pensabas. Gracias a la nueva alianza de Time Out México y Jetty, podrás recorrer los lugares más emblemáticos de la metrópoli a través de tours temáticos de un solo día. Los recorridos están pensados para todo público, desde turistas nacionales o extranjeros, hasta locales de la CDMX que quieran conocer más a detalle los secretos de esta ciudad.</p>
+        <p><b>CANTIDAD DE PERSONAS</b></p>
+        <p>12 o 19 personas.</p>
+        <br>
 
-        <p>El periodo de prueba inicia los días 18, 19 y 20 de abril con recorridos por el Mercado de San Juan, Santa María la Ribera y una ruta especial sobre el Nuevo Muralismo Mexicano por la Roma-Condesa.</p>
+        <p><b>LUGAR DE SALIDA</b></p>
+        <p>Roma</p>
+        <br>
 
-        <p>En el tour Las joyas de la Santa María la Ribera visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool. En Nuevo Muralismo Mexicano te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen. Y si de comida se trata, el tour por el Mercado de San Juan será tu favorito; además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
+        <p><b>DURACIÓN</b></p>
+        <p>6 horas.</p>
+        <br>
 
-        <p>“No hay mejor forma que conocer el otro lado de la Ciudad de México que a través de los editores de Time Out, la guía de ciudad más importante del mundo. Con base en esto exploramos un nuevo modelo de negocio de la mano de Jetty y llevamos la experiencia de nuestra revista y de nuestro sitio en línea a la calle”- comentó Paola Palazón Seguel, Directora General de Time Out México.</p><br>
+        <p><b>INCLUYE </b></p>
+        <p>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con  el chef Bernardo Bukantz.</p>
+        <br>
+
+        <p><b>DISPONIBLE</b></p>
+        <p>En español y en inglés </p>
+        <br>
+
+        <p><b>ITINERARIO</b></p>
+        <ul class="list-tours">
+          <li>
+            <p><b>10am </b> | Salida Roma.</p>
+          </li>
+          <li>
+            <p><b>10:45am </b> | Llegada al Mercado de San Juan.</p>
+          </li>
+          <li>
+            <p><b>11am </b> | Don Vergas.</p>
+          </li>
+          <li>
+            <p><b>11:45am </b> | Triana Café Gourmet.</p>
+          </li>
+          <li>
+            <p><b>12:15pm </b> | Las Tapas de San Juan.</p>
+          </li>
+          <li>
+            <p><b>1:45pm </b>  | Llegada al restaurante de Bernardo Bukantz.</p>
+          </li>
+          <li>
+            <p><b>1:45pm a 3:15 pm</b> | Clase de cocina.</p>
+          </li>
+          <li>
+            <p><b>4:00pm </b> | Llegada a la Roma-Condesa.</p>
+          </li>
+        </ul>
+        <br>
+
+        <p><b>ACERCA DE NOSOTROS</b></p>
+        <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
+        <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
+        <br>
+
+        <p><b>QUÉ HAREMOS</b></p>
+        <p>Visitaremos en compañía del Chef Bernardo Bukantz el mercado gastronómico por excelencia de la CDMX. Aquí es donde algunos de los mejores chefs de la ciudad se surten de productos de calidad. Podremos encontrar carnes exóticas (como jabalí o león), quesos internacionales y charcutería fina y frutas y verduras que tal vez nunca habías visto o probado. También haremos algunas paradas en los puestos más famosos para comer, como lo son Don Vergas, Triana Café Gourmet y las Tapas de San Juan.</p>
+        <p>Después del recorrido por el mercado, nos iremos a uno de los restaurantes de Bernardo Bukantz a tomar una clase de cocina.</p>
+        <br>
+
+        <p><b>Un poco sobre Bernardo Bukantz.</b></p>
+        <p>Trabajó durante cinco años en el restaurante Biko y actualmente dirige exitosamente Salón Ríos. En la segunda temporada de Top Chef México, demostró una técnica perfecta y su respeto por el sabor.</p>
+        <br>
+
+        <p><b> QUÉ TRAER </b></p>
+        <ul class="list-tours">
+          <li><p>Llevar tenis y ropa cómoda.</p></li>
+          <li><p>Llevar un poco de dinero extra en pesos mexicanos por si quieren hacer compras en el mercado.</p></li>
+        </ul>
+
 
         <div class="row">
           <div class="col-md-4">
@@ -77,7 +139,7 @@ id: mercado-san-juan
         <img src="{{site.baseurl}}/img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Tiempo del tour: 5hrs</b></p>
         <p><b>Incluye:</b> Guía, transportación,</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
@@ -85,23 +147,11 @@ id: mercado-san-juan
         <a href="{{site.baseurl}}/tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
-      <!-- <div class="col-md-4">
-        <img src="{{site.baseurl}}/img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
-        <h3>Mercado de San Juan</h3>
-        <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
-        <p><b>Incluye:</b> Guía, transportación,</p>
-        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
-          Agendar
-        </button>
-        <a href="#" class="btn btn-dark-gray-small">Más información</a>
-      </div> -->
-
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Tiempo del tour: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, transportación,</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar

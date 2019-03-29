@@ -11,7 +11,7 @@ id: santa-maria
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-        <h1>Santa María la Ribera</h1>
+        <h1>Las joyas de la Santa María la Ribera</h1>
       </div>
       </div>
     </div>
@@ -23,13 +23,76 @@ id: santa-maria
   <div class="container info-tour">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-        <p>Conocer la Ciudad de México en voz de los expertos es mucho más fácil de lo que pensabas. Gracias a la nueva alianza de Time Out México y Jetty, podrás recorrer los lugares más emblemáticos de la metrópoli a través de tours temáticos de un solo día. Los recorridos están pensados para todo público, desde turistas nacionales o extranjeros, hasta locales de la CDMX que quieran conocer más a detalle los secretos de esta ciudad.</p>
 
-        <p>El periodo de prueba inicia los días 18, 19 y 20 de abril con recorridos por el Mercado de San Juan, Santa María la Ribera y una ruta especial sobre el Nuevo Muralismo Mexicano por la Roma-Condesa.</p>
+        <p><b>CANTIDAD DE PERSONAS</b></p>
+        <p>12 o 19 personas.</p>
+        <br>
 
-        <p>En el tour Las joyas de la Santa María la Ribera visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool. En Nuevo Muralismo Mexicano te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen. Y si de comida se trata, el tour por el Mercado de San Juan será tu favorito; además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
+        <p><b>LUGAR DE SALIDA</b></p>
+        <p>Roma</p>
+        <br>
 
-        <p>“No hay mejor forma que conocer el otro lado de la Ciudad de México que a través de los editores de Time Out, la guía de ciudad más importante del mundo. Con base en esto exploramos un nuevo modelo de negocio de la mano de Jetty y llevamos la experiencia de nuestra revista y de nuestro sitio en línea a la calle”- comentó Paola Palazón Seguel, Directora General de Time Out México.</p><br>
+        <p><b>DURACIÓN</b></p>
+        <p>6 horas.</p>
+        <br>
+
+        <p><b>INCLUYE </b></p>
+        <p>Un desayuno, una comida, entradas a los museos.</p>
+        <br>
+
+        <p><b>DISPONIBLE</b></p>
+        <p>En español y en inglés </p>
+        <br>
+
+        <p><b>ITINERARIO</b></p>
+        <ul class="list-tours">
+          <li>
+            <p><b>9am</b> | Salida. Roma-Condesa.</p>
+          </li>
+          <li>
+            <p><b>9:30am</b> |  Desayuno Casa Nool.</p>
+          </li>
+          <li>
+            <p><b>10:30am</b> | Kiosko Morisco.</p>
+          </li>
+          <li>
+            <p><b>11:15am</b> | Casa Equis.</p>
+          </li>
+          <li>
+            <p><b>12pm</b> | Museo de Geología.</p>
+          </li>
+          <li>
+            <p><b>1pm</b> | Museo del Chopo.</p>
+          </li>
+          <li>
+            <p><b>2pm</b> | Comida en María Ciento 38.</p>
+          </li>
+          <li>
+            <p><b>3:30pm</b> | Salida de la Santa María la Ribera.</p>
+          </li>
+          <li>
+            <p><b>4:00pm</b> | Llegada a la Roma-Condesa</p>
+          </li>
+        </ul>
+        <br>
+
+        <p><b>ACERCA DE NOSOTROS</b></p>
+        <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
+        <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
+        <br>
+
+        <p><b>QUÉ HAREMOS</b></p>
+        <p>En este tour exploraremos las joyas de la Santa María la Ribera, desenterraremos su gloria porfiriana y descubrirás que es un barrio vivo en el que están pasando más cosas de las que crees.</p>
+        <p>El punto de salida es de la colonia Roma, de ahí no dirigiremos a desayunar a Casa Nool, después te invitamos a descubrir más de esta colonia, comenzando por el Kiosco Morisco, diseñado por el ingeniero José Ramón Ibarrola y que fue declarado Monumento Artístico de la Nación por el Instituto Nacional de Antropología e Historia (INAH).</p>
+        <p>Llegamos a la parte cultural de nuestro recorrido ya que visitaremos Casa Equis , el Museo de Geología y el Museo Universitario del Chopo. Por último, disfrutaremos una deliciosa comida en María 138. </p>
+        <br>
+
+        <p><b> QUÉ TRAER </b></p>
+        <ul class="list-tours">
+          <li><p>Llevar tenis y ropa cómodos.</p></li>
+          <li><p>Llevar un poco de dinero extra en pesos mexicanos por si quieren hacer compras en las tiendas de los museos.</p></li>
+          <li><p>Llevar una botella de agua para el recorrido.</p></li>
+        </ul>
 
         <div class="row">
           <div class="col-md-4">
@@ -76,7 +139,7 @@ id: santa-maria
         <img src="{{site.baseurl}}/img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Mercado de San Juan</h3>
         <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Tiempo del tour: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, transportación,</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
@@ -88,25 +151,13 @@ id: santa-maria
         <img src="{{site.baseurl}}/img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
+        <p><b>Tiempo del tour: 5hrs</b></p>
         <p><b>Incluye:</b> Guía, transportación,</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
         <a href="{{site.baseurl}}/tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
-
-      <!-- <div class="col-md-4">
-        <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
-        <h3>Santa María la Ribera</h3>
-        <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
-        <p><b>Tiempo del tour: 3hrs</b></p>
-        <p><b>Incluye:</b> Guía, transportación,</p>
-        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
-          Agendar
-        </button>
-        <a href="#" class="btn btn-dark-gray-small">Más información</a>
-      </div> -->
 
     </div>
 

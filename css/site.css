@@ -1139,6 +1139,11 @@ img.logos{
   border-top: none;
 }
 
+.list-tours{
+  list-style: none;
+  padding: 0;
+}
+
 /*////// HEADER TOURS INFO //////*/
 figure.header-tours {
   position: relative;
