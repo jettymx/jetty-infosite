@@ -139,8 +139,8 @@ id: mercado-san-juan
         <img src="{{site.baseurl}}/img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
-        <p><b>Tiempo del tour: 5hrs</b></p>
-        <p><b>Incluye:</b> Guía, transportación,</p>
+        <p><b>Duración: 5hrs</b></p>
+        <p><b>Incluye:</b> Guía y transporte</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
@@ -151,8 +151,8 @@ id: mercado-san-juan
         <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
-        <p><b>Tiempo del tour: 6hrs</b></p>
-        <p><b>Incluye:</b> Guía, transportación,</p>
+        <p><b>Duración: 6hrs</b></p>
+        <p><b>Incluye:</b> Guía y transporte</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
