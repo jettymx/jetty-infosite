@@ -3562,3 +3562,12 @@
     });
   });
 </script>
+
+<!-- /// DATE PICKER /// -->
+<script type="text/javascript">
+  $(function () {
+    $('#datetimepicker').datetimepicker({
+      locale: 'ru'
+    });
+  });
+</script>

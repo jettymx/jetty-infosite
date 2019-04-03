@@ -72,6 +72,10 @@ id: mercado-san-juan
         </ul>
         <br>
 
+        <p><b>Precio por persona</b></p>
+        <p>$2,890 MXN</p>
+        <br>
+
         <p><b>ACERCA DE NOSOTROS</b></p>
         <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
         <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
@@ -179,39 +183,52 @@ id: mercado-san-juan
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Nuevo Muralismo Mexicano</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>
@@ -225,39 +242,52 @@ id: mercado-san-juan
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Mercado de San Juan</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>
@@ -271,39 +301,52 @@ id: mercado-san-juan
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Santa María la Ribera</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>

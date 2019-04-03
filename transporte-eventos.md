@@ -124,7 +124,7 @@ id: transporte-eventos
         <img src="img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
-        <p><b>TDuración: 6hrs</b></p>
+        <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
@@ -452,39 +452,52 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Nuevo Muralismo Mexicano</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>
@@ -498,39 +511,52 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Mercado de San Juan</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>
@@ -544,39 +570,52 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Santa María la Ribera</h2>
       </div>
 
-      <div class="modal-body">
-        <form class="form-modal-tours">
-          <div class="form-group col-md-4">
-            <label for="">Nombre</label>
-            <input type="" class="form-control" id="" placeholder="Claudia">
+      <form class="form-modal-tours">
+        <div class="modal-body">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Nombre</label>
+                <input type="" class="form-control" id="" placeholder="Claudia">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Apellido</label>
+                <input type="" class="form-control" id="" placeholder="Tapía">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Correo electrónico</label>
+                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Celular</label>
+                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+              </div>
+            </div>
           </div>
-          <div class="form-group col-md-4">
-            <label for="">Apellido</label>
-            <input type="" class="form-control" id="" placeholder="Tapía">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Número de personas</label>
-            <input type="" class="form-control" id="" placeholder="5 personas">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Correo electrónico</label>
-            <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="">Celular</label>
-            <input type="" class="form-control" id="" placeholder="55 9876 4321">
-          </div>
-          <div class="form-group col-md-4">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="">Número de personas</label>
+                <input type="" class="form-control" id="" placeholder="5 personas">
+              </div>
+              <div class="form-group col-md-6">
             <label for="">Fecha</label>
-            <input type="" class="form-control" id="" placeholder="Abril 30">
+            <div class='input-group date' id='datetimepicker'>
+              <input type='text' class="form-control" />
+              <span class="input-group-addon">
+                  <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+            </div>
           </div>
-        </form>
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div class="modal-footer modal-footer-tours">
-        <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-        <button type="submit" class="btn btn-green-small">Enviar</button>
-      </div>
+        <div class="modal-footer modal-footer-tours">
+          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
+          <button type="submit" class="btn btn-green-small">Enviar</button>
+        </div>
+      </form>
 
     </div>
   </div>
