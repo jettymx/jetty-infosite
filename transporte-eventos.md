@@ -527,43 +527,59 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Mercado de San Juan</h2>
       </div>
 
-      <form class="form-modal-tours">
+      <form class="js--form-events">
         <div class="modal-body">
           <div class="col-md-12">
             <div class="row">
               <div class="form-group col-md-6">
-                <label for="">Nombre</label>
-                <input type="" class="form-control" id="" placeholder="Claudia">
+                <label for="nuevo-mercado-name">Nombre</label>
+                <input name="name" id="nuevo-mercado-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
+                <input name="eventname" type="hidden" value="Mercado de San Juan">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Apellido</label>
-                <input type="" class="form-control" id="" placeholder="Tapía">
+                <label for="nuevo-mercado-lastname">Apellido</label>
+                <input name="lastname" id="nuevo-mercado-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Correo electrónico</label>
-                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+                <label for="nuevo-mercado-email">Correo electrónico</label>
+                <input name="email" id="nuevo-mercado-email" type="email" class="form-control" placeholder="Correo electrónico">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Celular</label>
-                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+                <label for="nuevo-mercado-phone">Celular</label>
+                <input name="phone" id="nuevo-mercado-phone" type="text" class="form-control" placeholder="Número telefónico">
               </div>
             </div>
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-6">
-                <label for="">Número de personas</label>
-                <input type="" class="form-control" id="" placeholder="5 personas">
+              <div class="form-group col-md-4">
+                <label for="nuevo-mercado-people">Número de personas</label>
+                <input name="people" id="nuevo-mercado-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-6">
-            <label for="">Fecha</label>
-            <div class='input-group date' id='datetimepicker'>
-              <input type='text' class="form-control" />
-              <span class="input-group-addon">
-                  <span class="glyphicon glyphicon-calendar"></span>
-              </span>
-            </div>
-          </div>
+              <div class="form-group col-md-4">
+                <label for="nuevo-mercado-date">Fecha de salida</label>
+                <div class='input-group date datepicker'>
+                  <input  type='text'
+                          class="form-control event-date-picker"
+                          id='nuevo-mercado-date'
+                          maxlength="20"
+                          name="origin_date"
+                          placeholder="Día / Mes / Año"/>
+                  <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                  </span>
+                </div>
+              </div>
+
+              <div class="form-group col-md-4">
+                <label for="nuevo-mercado-time">Hora de salida</label>
+                <input  type="text"
+                        id="nuevo-mercado-time"
+                        maxlength="20"
+                        class="form-control event-time-picker"
+                        name="origin_time"
+                        placeholder="AM / PM" />
+              </div>
             </div>
           </div>
         </div>
@@ -586,43 +602,59 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Santa María la Ribera</h2>
       </div>
 
-      <form class="form-modal-tours">
+      <form class="js--form-events">
         <div class="modal-body">
           <div class="col-md-12">
             <div class="row">
               <div class="form-group col-md-6">
-                <label for="">Nombre</label>
-                <input type="" class="form-control" id="" placeholder="Claudia">
+                <label for="nuevo-santamaria-name">Nombre</label>
+                <input name="name" id="nuevo-santamaria-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
+                <input name="eventname" type="hidden" value="Santa María la Ribera">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Apellido</label>
-                <input type="" class="form-control" id="" placeholder="Tapía">
+                <label for="nuevo-santamaria-lastname">Apellido</label>
+                <input name="lastname" id="nuevo-santamaria-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Correo electrónico</label>
-                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+                <label for="nuevo-santamaria-email">Correo electrónico</label>
+                <input name="email" id="nuevo-santamaria-email" type="email" class="form-control" placeholder="Correo electrónico">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Celular</label>
-                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+                <label for="nuevo-santamaria-phone">Celular</label>
+                <input name="phone" id="nuevo-santamaria-phone" type="text" class="form-control" placeholder="Número telefónico">
               </div>
             </div>
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-6">
-                <label for="">Número de personas</label>
-                <input type="" class="form-control" id="" placeholder="5 personas">
+              <div class="form-group col-md-4">
+                <label for="nuevo-santamaria-people">Número de personas</label>
+                <input name="people" id="nuevo-santamaria-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-6">
-            <label for="">Fecha</label>
-            <div class='input-group date' id='datetimepicker'>
-              <input type='text' class="form-control" />
-              <span class="input-group-addon">
-                  <span class="glyphicon glyphicon-calendar"></span>
-              </span>
-            </div>
-          </div>
+              <div class="form-group col-md-4">
+                <label for="nuevo-santamaria-date">Fecha de salida</label>
+                <div class='input-group date datepicker'>
+                  <input  type='text'
+                          class="form-control event-date-picker"
+                          id='nuevo-santamaria-date'
+                          maxlength="20"
+                          name="origin_date"
+                          placeholder="Día / Mes / Año"/>
+                  <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                  </span>
+                </div>
+              </div>
+
+              <div class="form-group col-md-4">
+                <label for="nuevo-santamaria-time">Hora de salida</label>
+                <input  type="text"
+                        id="nuevo-santamaria-time"
+                        maxlength="20"
+                        class="form-control event-time-picker"
+                        name="origin_time"
+                        placeholder="AM / PM" />
+              </div>
             </div>
           </div>
         </div>
@@ -636,3 +668,4 @@ id: transporte-eventos
     </div>
   </div>
 </div>
+
