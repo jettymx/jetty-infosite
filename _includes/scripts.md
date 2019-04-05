@@ -2,7 +2,7 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
+<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
   $(function(){
@@ -15,13 +15,13 @@
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
 
 <!-- Animated AOS -->
-<script src="js/aos.js"></script>
+<script src="{{site.baseurl}}/js/aos.js"></script>
 <script>
   AOS.init();
 </script>
 
 <!-- SVG Animated -->
-<script src="js/vivus.js"></script>
+<script src="{{site.baseurl}}/js/vivus.js"></script>
 <script>
   obt0 = new Vivus('automovile', {type: 'delayed', duration: 100});
   obt1 = new Vivus('asiento', {type: 'delayed', duration: 100});
@@ -3463,11 +3463,11 @@
 </script>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
-<script type="text/javascript" src="js/forms.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/js/forms.js"></script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
-<script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/js/bootstrap-datetimepicker.min.js"></script>
 
 <script type="text/javascript">
 
@@ -3477,29 +3477,13 @@
   }
 
   $(function () {
-
-    $('#datetimepicker-event-1').datetimepicker({
+    $('.event-date-picker').datetimepicker({
       locale: 'es',
       format: 'DD/MM/YYYY',
-      minDate: new Date(),
-      disabledDates: [new Date()]
+      minDate: new Date()
     });
 
-
-    $('#timepicker-event-1').datetimepicker({
-      locale: 'es',
-      format: 'LT'
-    });
-
-
-    $('#datetimepicker-event-2').datetimepicker({
-      locale: 'es',
-      format: 'DD/MM/YYYY',
-      minDate: new Date(),
-      disabledDates: [new Date()]
-    });
-
-    $('#timepicker-event-2').datetimepicker({
+    $('.event-time-picker').datetimepicker({
       locale: 'es',
       format: 'LT'
     });
@@ -3534,15 +3518,6 @@
   };
 
   (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/' + APP_ID;var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
-</script>
-
-<script>
-  window.intercomSettings = {
-    app_id: "aij161lx",
-    name: <%= current_user.name %>, // Full name
-    email: <%= current_user.email %>, // Email address
-    created_at: <%= current_user.created_at.to_i %> // Signup date as a Unix timestamp
-  };
 
   Intercom('update', {"name": "Usuario Web"});
 </script>

@@ -253,6 +253,28 @@ a.social-medium:hover{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#696a6b', endColorstr='#7e8080',GradientType=0 );
 }
 
+.btn-dark-gray-small{
+  border: none;
+  color: #ffffff;
+  background: rgb(96,112,121);
+  background: -moz-linear-gradient(top, rgba(96,112,121,1) 0%, rgba(68,81,88,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  background: linear-gradient(to bottom, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#607079', endColorstr='#445158',GradientType=0 );
+}
+.btn-dark-gray-small:hover{
+  background: rgb(68,81,88);
+  color: #ffffff;
+}
+.btn-dark-gray-small:active{
+  color: #ffffff;
+  background: rgb(96,112,121);
+  background: -moz-linear-gradient(top, rgba(96,112,121,1) 0%, rgba(68,81,88,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  background: linear-gradient(to bottom, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#607079', endColorstr='#445158',GradientType=0 );
+}
+
 /*////// HOME //////*/
 figure.header {
     position: relative;
@@ -1062,6 +1084,103 @@ img.logos{
 .beneficio p{
   color: #ffffff;
 }
+
+/*////// TOURS //////*/
+.tour{
+  margin-top: 30px;
+}
+
+.tour h2{
+  color: #ffffff;
+}
+
+.tour h3{
+  font-weight: 800;
+}
+
+.tour p{
+  color: #ffffff;
+}
+
+.tour img{
+  width: 100%
+}
+
+.header-modal-muralismo{
+  background-image: url('../img/header-modal-muralismo.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 55px;
+}
+
+.header-modal-mercado{
+  background-image: url('../img/header-modal-mercado.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 55px;
+}
+
+.header-modal-santamaria{
+  background-image: url('../img/header-modal-santamaria.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 55px;
+}
+
+.title-tours-modal{
+  color: #ffffff
+}
+
+.form-modal-tours{
+  margin-top: 20px;
+}
+
+.modal-footer-tours{
+  border-top: none;
+}
+
+.list-tours{
+  list-style: none;
+  padding: 0;
+}
+
+/*////// HEADER TOURS INFO //////*/
+figure.header-tours {
+  position: relative;
+  overflow: hidden;
+}
+
+figure.header-tours img.back {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.header-tours figcaption{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 150px;
+}
+
+.header-tours h1{
+  color: #ffffff;
+}
+
+.tours-content img{
+  width: 100%;
+}
+
+.tours-content button{
+  margin-top: 30px;
+}
+
+.info-tour{
+  margin-bottom: 0px;
+  padding-bottom:50px;
+}
+
 
 /*////// CONDUCTOR O TRANSPORTISTA //////*/
 .conductor{
@@ -2027,6 +2146,18 @@ ul.testimoniales-blog li img{
 
   .mapaCobertura{
     height: 500px;
+  }
+
+  .tour img{
+    margin-top: 50px;
+  }
+
+  figure.header-tours img.back {
+    width: 200%;
+  }
+
+  .header-tours figcaption{
+    top: 90px;
   }
 
 }

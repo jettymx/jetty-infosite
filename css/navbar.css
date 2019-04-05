@@ -23,6 +23,10 @@
   width: 100px;
 }
 
+.brand-tours img{
+  width: 240px !important;
+}
+
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
   background: transparent;
 }
