@@ -57,10 +57,7 @@ $('.js--form-events').submit(function (e){
         destination_date: formSerialized.destination_date,
         destination_time: formSerialized.destination_time
     }
-    
-    
 
-    
     analytics.track("Events - Complete", params)
     $.ajax({
         type: 'POST',
@@ -70,7 +67,7 @@ $('.js--form-events').submit(function (e){
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function(response) {
-            $('#ModalEventos').modal('hide');
+            $('.js--form-events').parents('.modal').modal('hide');
             $('#ModalSuccess').modal('show');
         }
     });

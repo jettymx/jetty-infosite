@@ -174,6 +174,24 @@ id: mercado-san-juan
   <img src="{{site.baseurl}}/img/back-grayblue.png">
 </div>
 
+<div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
+      </div>
+
+      <div class="modal-body text-center">
+        <div class="row">
+          <div class="col-md-12  .center">
+            <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- MODAL TOURS MURALISMO-->
 <div class="modal fade" id="ModalTourMuralismo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
