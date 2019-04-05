@@ -3477,29 +3477,13 @@
   }
 
   $(function () {
-
-    $('#datetimepicker-event-1').datetimepicker({
+    $('.event-date-picker').datetimepicker({
       locale: 'es',
       format: 'DD/MM/YYYY',
-      minDate: new Date(),
-      disabledDates: [new Date()]
+      minDate: new Date()
     });
 
-
-    $('#timepicker-event-1').datetimepicker({
-      locale: 'es',
-      format: 'LT'
-    });
-
-
-    $('#datetimepicker-event-2').datetimepicker({
-      locale: 'es',
-      format: 'DD/MM/YYYY',
-      minDate: new Date(),
-      disabledDates: [new Date()]
-    });
-
-    $('#timepicker-event-2').datetimepicker({
+    $('.event-time-picker').datetimepicker({
       locale: 'es',
       format: 'LT'
     });
@@ -3534,15 +3518,6 @@
   };
 
   (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/' + APP_ID;var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
-</script>
-
-<script>
-  window.intercomSettings = {
-    app_id: "aij161lx",
-    name: <%= current_user.name %>, // Full name
-    email: <%= current_user.email %>, // Email address
-    created_at: <%= current_user.created_at.to_i %> // Signup date as a Unix timestamp
-  };
 
   Intercom('update', {"name": "Usuario Web"});
 </script>
@@ -3559,15 +3534,6 @@
         } else {
             header.removeClass("nav-outback").addClass('nav-background');
         }
-    });
-  });
-</script>
-
-<!-- /// DATE PICKER /// -->
-<script type="text/javascript">
-  $(function () {
-    $('#datetimepicker').datetimepicker({
-      locale: 'ru'
     });
   });
 </script>

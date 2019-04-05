@@ -183,7 +183,7 @@ id: transporte-eventos
         <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
       </div>
 
-      <form id="form-events">
+      <form class="js--form-events">
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
@@ -352,10 +352,10 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Fecha de salida</label>
+              <label for="datetimepicker-event-1">Fecha de salida</label>
               <div class='input-group date datepicker'>
                 <input  type='text'
-                        class="form-control"
+                        class="form-control event-date-picker"
                         id='datetimepicker-event-1'
                         maxlength="20"
                         name="origin_date"
@@ -367,11 +367,11 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Hora de salida</label>
+              <label for="timepicker-event-1">Hora de salida</label>
               <input  type="text"
                       id="timepicker-event-1"
                       maxlength="20"
-                      class="form-control"
+                      class="form-control event-time-picker"
                       name="origin_time"
                       placeholder="AM / PM" />
             </div>
@@ -386,10 +386,10 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Fecha de regreso  </label>
+              <label for="datetimepicker-event-2">Fecha de regreso  </label>
               <div class='input-group' data-date-format="dd/mm/yyyy">
                 <input  type='text'
-                        class="form-control"
+                        class="form-control event-date-picker"
                         id='datetimepicker-event-2'
                         maxlength="20"
                         name="destination_date"
@@ -401,9 +401,9 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Hora de regreso </label>
+              <label for="timepicker-event-2">Hora de regreso </label>
               <input  type="text"
-                      class="form-control"
+                      class="form-control event-time-picker"
                       id="timepicker-event-2"
                       maxlength="20"
                       name="destination_time"
@@ -452,43 +452,59 @@ id: transporte-eventos
         <h2 class="modal-title title-tours-modal" id="myModalLabel">Nuevo Muralismo Mexicano</h2>
       </div>
 
-      <form class="form-modal-tours">
+      <form class="js--form-events">
         <div class="modal-body">
           <div class="col-md-12">
             <div class="row">
               <div class="form-group col-md-6">
-                <label for="">Nombre</label>
-                <input type="" class="form-control" id="" placeholder="Claudia">
+                <label for="nuevo-muralismo-name">Nombre</label>
+                <input name="name" id="nuevo-muralismo-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
+                <input name="eventname" type="hidden" value="Nuevo Muralismo Mexicano">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Apellido</label>
-                <input type="" class="form-control" id="" placeholder="Tapía">
+                <label for="nuevo-muralismo-lastname">Apellido</label>
+                <input name="lastname" id="nuevo-muralismo-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Correo electrónico</label>
-                <input type="" class="form-control" id="" placeholder="claudia@ejemplo.com">
+                <label for="nuevo-muralismo-email">Correo electrónico</label>
+                <input name="email" id="nuevo-muralismo-email" type="email" class="form-control" placeholder="Correo electrónico">
               </div>
               <div class="form-group col-md-6">
-                <label for="">Celular</label>
-                <input type="" class="form-control" id="" placeholder="55 9876 4321">
+                <label for="nuevo-muralismo-phone">Celular</label>
+                <input name="phone" id="nuevo-muralismo-phone" type="text" class="form-control" placeholder="Número telefónico">
               </div>
             </div>
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-6">
-                <label for="">Número de personas</label>
-                <input type="" class="form-control" id="" placeholder="5 personas">
+              <div class="form-group col-md-4">
+                <label for="nuevo-muralismo-people">Número de personas</label>
+                <input name="people" id="nuevo-muralismo-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-6">
-            <label for="">Fecha</label>
-            <div class='input-group date' id='datetimepicker'>
-              <input type='text' class="form-control" />
-              <span class="input-group-addon">
-                  <span class="glyphicon glyphicon-calendar"></span>
-              </span>
-            </div>
-          </div>
+              <div class="form-group col-md-4">
+                <label for="nuevo-muralismo-date">Fecha de salida</label>
+                <div class='input-group date datepicker'>
+                  <input  type='text'
+                          class="form-control event-date-picker"
+                          id='nuevo-muralismo-date'
+                          maxlength="20"
+                          name="origin_date"
+                          placeholder="Día / Mes / Año"/>
+                  <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                  </span>
+                </div>
+              </div>
+
+              <div class="form-group col-md-4">
+                <label for="nuevo-muralismo-time">Hora de salida</label>
+                <input  type="text"
+                        id="nuevo-muralismo-time"
+                        maxlength="20"
+                        class="form-control event-time-picker"
+                        name="origin_time"
+                        placeholder="AM / PM" />
+              </div>
             </div>
           </div>
         </div>

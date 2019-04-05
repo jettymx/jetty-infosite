@@ -163,7 +163,7 @@ id: transporte-eventos
         <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
       </div>
 
-      <form id="form-events">
+      <form class="js--form-events">
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
@@ -332,10 +332,10 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Fecha de salida</label>
-              <div class='input-group date datepicker'>
+              <label for="datetimepicker-event-1">Fecha de salida</label>
+              <div class='input-group date'>
                 <input  type='text'
-                        class="form-control"
+                        class="form-control event-date-picker"
                         id='datetimepicker-event-1'
                         maxlength="20"
                         name="origin_date"
@@ -347,11 +347,11 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Hora de salida</label>
+              <label for="timepicker-event-1">Hora de salida</label>
               <input  type="text"
                       id="timepicker-event-1"
                       maxlength="20"
-                      class="form-control"
+                      class="form-control event-time-picker"
                       name="origin_time"
                       placeholder="AM / PM" />
             </div>
@@ -366,10 +366,10 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Fecha de regreso  </label>
+              <label for="datetimepicker-event-2">Fecha de regreso  </label>
               <div class='input-group' data-date-format="dd/mm/yyyy">
                 <input  type='text'
-                        class="form-control"
+                        class="form-control event-date-picker"
                         id='datetimepicker-event-2'
                         maxlength="20"
                         name="destination_date"
@@ -381,9 +381,9 @@ id: transporte-eventos
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="adress">Hora de regreso </label>
+              <label for="timepicker-event-2">Hora de regreso </label>
               <input  type="text"
-                      class="form-control"
+                      class="form-control event-time-picker"
                       id="timepicker-event-2"
                       maxlength="20"
                       name="destination_time"

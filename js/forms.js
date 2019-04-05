@@ -35,10 +35,10 @@ $('#form-drivers').submit(function (e) {
       });
 });
 
-$('#form-events').submit(function (e){
+$('.js--form-events').submit(function (e){
     e.preventDefault();
 
-    var formSerialized = $('#form-events').serializeArray()
+    var formSerialized = $('.js--form-events').serializeArray()
     .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
 
     var params = {
