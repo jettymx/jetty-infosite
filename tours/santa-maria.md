@@ -36,6 +36,10 @@ id: santa-maria
         <p>6 horas.</p>
         <br>
 
+        <p><b>FECHAS</b></p>
+        <p>23 de abril y 4 de mayo</p>
+        <br>
+
         <p><b>INCLUYE </b></p>
         <p>Un desayuno, una comida, entradas a los museos.</p>
         <br>
@@ -145,6 +149,7 @@ id: santa-maria
         <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fecha:</b> 2 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -157,6 +162,7 @@ id: santa-maria
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fecha:</b> 3 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar

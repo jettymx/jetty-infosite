@@ -35,6 +35,10 @@ id: muralismo-mexicano
         <p>5 horas.</p>
         <br>
 
+        <p><b>FECHA</b></p>
+        <p>3 de mayo</p>
+        <br>
+
         <p><b>INCLUYE</b></p>
         <p>Un lunch, transporte a cada punto.</p>
         <br>
@@ -141,6 +145,7 @@ id: muralismo-mexicano
         <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fecha:</b> 2 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -153,6 +158,7 @@ id: muralismo-mexicano
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fechas:</b> 23 de abril y 4 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar

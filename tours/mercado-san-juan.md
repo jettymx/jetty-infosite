@@ -35,6 +35,10 @@ id: mercado-san-juan
         <p>6 horas.</p>
         <br>
 
+        <p><b>FECHA</b></p>
+        <p>2 de mayo</p>
+        <br>
+
         <p><b>INCLUYE </b></p>
         <p>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con  el chef Bernardo Bukantz.</p>
         <br>
@@ -145,6 +149,7 @@ id: mercado-san-juan
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fecha:</b> 3 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
@@ -157,6 +162,7 @@ id: mercado-san-juan
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Fechas:</b> 23 de abril y 4 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
