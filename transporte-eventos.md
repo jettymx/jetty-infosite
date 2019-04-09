@@ -486,27 +486,9 @@ id: transporte-eventos
               </div>
               <div class="form-group col-md-4">
                 <label for="nuevo-muralismo-date">Fecha de salida</label>
-                <div class='input-group date datepicker'>
-                  <input  type='text'
-                          class="form-control event-date-picker"
-                          id='nuevo-muralismo-date'
-                          maxlength="20"
-                          name="origin_date"
-                          placeholder="Día / Mes / Año"/>
-                  <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                  </span>
-                </div>
-              </div>
-
-              <div class="form-group col-md-4">
-                <label for="nuevo-muralismo-time">Hora de salida</label>
-                <input  type="text"
-                        id="nuevo-muralismo-time"
-                        maxlength="20"
-                        class="form-control event-time-picker"
-                        name="origin_time"
-                        placeholder="AM / PM" />
+                <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
+                  <option>3 de Mayo</option>
+                </select>
               </div>
             </div>
           </div>
