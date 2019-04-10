@@ -38,8 +38,9 @@ $('#form-drivers').submit(function (e) {
 $('.js--form-events').submit(function (e){
     e.preventDefault();
 
-    var formSerialized = $('.js--form-events').serializeArray()
-    .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
+    var formSerialized = $(e.target)
+      .serializeArray()
+      .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
 
     var params = {
         name: formSerialized.name,
@@ -67,11 +68,10 @@ $('.js--form-events').submit(function (e){
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function(response) {
-            $('.js--form-events').parents('.modal').modal('hide');
+            $(e.target).parents('.modal').modal('hide');
             $('#ModalSuccess').modal('show');
         }
     });
-
 });
 
 
