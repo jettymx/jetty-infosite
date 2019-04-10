@@ -233,33 +233,15 @@ id: santa-maria
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-muralismo-people">Número de personas</label>
                 <input name="people" id="nuevo-muralismo-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-muralismo-date">Fecha de salida</label>
-                <div class='input-group date datepicker'>
-                  <input  type='text'
-                          class="form-control event-date-picker"
-                          id='nuevo-muralismo-date'
-                          maxlength="20"
-                          name="origin_date"
-                          placeholder="Día / Mes / Año"/>
-                  <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                  </span>
-                </div>
-              </div>
-
-              <div class="form-group col-md-4">
-                <label for="nuevo-muralismo-time">Hora de salida</label>
-                <input  type="text"
-                        id="nuevo-muralismo-time"
-                        maxlength="20"
-                        class="form-control event-time-picker"
-                        name="origin_time"
-                        placeholder="AM / PM" />
+                <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
+                  <option value="3/Mayo/2019">3 de Mayo del 2019</option>
+                </select>
               </div>
             </div>
           </div>
@@ -308,33 +290,15 @@ id: santa-maria
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-mercado-people">Número de personas</label>
                 <input name="people" id="nuevo-mercado-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-mercado-date">Fecha de salida</label>
-                <div class='input-group date datepicker'>
-                  <input  type='text'
-                          class="form-control event-date-picker"
-                          id='nuevo-mercado-date'
-                          maxlength="20"
-                          name="origin_date"
-                          placeholder="Día / Mes / Año"/>
-                  <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                  </span>
-                </div>
-              </div>
-
-              <div class="form-group col-md-4">
-                <label for="nuevo-mercado-time">Hora de salida</label>
-                <input  type="text"
-                        id="nuevo-mercado-time"
-                        maxlength="20"
-                        class="form-control event-time-picker"
-                        name="origin_time"
-                        placeholder="AM / PM" />
+                <select class="form-control" id="nuevo-mercado-date" name="origin_date">
+                  <option value="2/Mayo/2019">2 de Mayo del 2019</option>
+                </select>
               </div>
             </div>
           </div>
@@ -383,33 +347,16 @@ id: santa-maria
           </div>
           <div class="col-md-12">
             <div class="row">
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-people">Número de personas</label>
                 <input name="people" id="nuevo-santamaria-people" type="text" class="form-control" placeholder="Número">
               </div>
-              <div class="form-group col-md-4">
+              <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
-                <div class='input-group date datepicker'>
-                  <input  type='text'
-                          class="form-control event-date-picker"
-                          id='nuevo-santamaria-date'
-                          maxlength="20"
-                          name="origin_date"
-                          placeholder="Día / Mes / Año"/>
-                  <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                  </span>
-                </div>
-              </div>
-
-              <div class="form-group col-md-4">
-                <label for="nuevo-santamaria-time">Hora de salida</label>
-                <input  type="text"
-                        id="nuevo-santamaria-time"
-                        maxlength="20"
-                        class="form-control event-time-picker"
-                        name="origin_time"
-                        placeholder="AM / PM" />
+                <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
+                  <option value="23/Abril/2019">23 de Abril del 2019</option>
+                  <option value="4/Mayo/2019">4 de Mayo del 2019</option>
+                </select>
               </div>
             </div>
           </div>
