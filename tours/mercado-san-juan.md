@@ -40,7 +40,7 @@ id: mercado-san-juan
         <br>
 
         <p><b>INCLUYE </b></p>
-        <p>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con  el chef Bernardo Bukantz.</p>
+        <p>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con el chef Bernardo Bukantz.</p>
         <br>
 
         <p><b>DISPONIBLE</b></p>
@@ -54,9 +54,6 @@ id: mercado-san-juan
           </li>
           <li>
             <p><b>10:45am </b> | Llegada al Mercado de San Juan.</p>
-          </li>
-          <li>
-            <p><b>11am </b> | Don Vergas.</p>
           </li>
           <li>
             <p><b>11:45am </b> | Triana Café Gourmet.</p>
@@ -86,7 +83,7 @@ id: mercado-san-juan
         <br>
 
         <p><b>QUÉ HAREMOS</b></p>
-        <p>Visitaremos en compañía del Chef Bernardo Bukantz el mercado gastronómico por excelencia de la CDMX. Aquí es donde algunos de los mejores chefs de la ciudad se surten de productos de calidad. Podremos encontrar carnes exóticas (como jabalí o león), quesos internacionales y charcutería fina y frutas y verduras que tal vez nunca habías visto o probado. También haremos algunas paradas en los puestos más famosos para comer, como lo son Don Vergas, Triana Café Gourmet y las Tapas de San Juan.</p>
+        <p>Visitaremos en compañía del Chef Bernardo Bukantz el mercado gastronómico por excelencia de la CDMX. Aquí es donde algunos de los mejores chefs de la ciudad se surten de productos de calidad. Podremos encontrar carnes exóticas (como jabalí o león), quesos internacionales y charcutería fina y frutas y verduras que tal vez nunca habías visto o probado. También haremos algunas paradas en los puestos más famosos para comer, como lo son Triana Café Gourmet y las Tapas de San Juan.</p>
         <p>Después del recorrido por el mercado, nos iremos a uno de los restaurantes de Bernardo Bukantz a tomar una clase de cocina.</p>
         <br>
 
