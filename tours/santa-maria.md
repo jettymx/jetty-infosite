@@ -146,7 +146,7 @@ id: santa-maria
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Mercado de San Juan</h3>
-        <p>Además de comer en locales como Don Vergas, Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
+        <p>Además de comer en locales como Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fecha:</b> 2 de mayo</p>
