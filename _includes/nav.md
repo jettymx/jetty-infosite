@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-fixed-top navbar-default nav-background" id="demo">
   <div class="container-fluid">
     <div class="container">
       <div class="navbar-header">
@@ -8,17 +8,19 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/">
-          <img src="img/logo-jetty.svg">
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/img/logo-jetty.svg">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/">Home</a></li>
-          <li><a href="#">Beneficios</a></li>
-          <li><a href="#">Cobertura</a></li>
-          <li><a href="organizaciones">Organizaciones</a></li>
-          <li><a href="quienes">Quiénes somos</a></li>
+          <li><a href="{{site.baseurl}}/">Inicio</a></li>
+          <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
+          <li><a href="{{site.baseurl}}/transporte-personal">Organizaciones</a></li>
+          <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
+          <li><a href="{{site.baseurl}}/transporte-eventos">Eventos</a></li>
+          <li><a href="{{site.baseurl}}/blog">Blog</a></li>
+          <li><a href="{{site.baseurl}}/en/">English</a></li>
         </ul>
       </div>
     </div>

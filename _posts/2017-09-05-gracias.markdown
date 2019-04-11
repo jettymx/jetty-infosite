@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "¡Gracias a todos por estar al pendiente!"
+date:   2017-09-05 13:09:30
+post_author: Jetty
+categories: update
+---
+![Gracias, Jetty]({{site.baseurl}}/imgs-blog/map-jetty.jpg)
+
+Estamos explorando nuevas áreas de servicio para poder darte un buen viaje y seguimos exigiendo las condiciones necesarias para operar con seguridad.
+
+Exige #TransporteDigno #MerecemosJetty
+
+<b>Equipo de Jetty</b>

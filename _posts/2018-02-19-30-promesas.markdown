@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "30 Promesas de los Negocios 2018."
+date:   2018-02-19 10:30:30
+post_author: Jetty
+categories: update
+---
+
+![El tráfico CDMX, Jetty]({{site.baseurl}}/imgs-blog/30-promesas.jpg)
+
+La Revista Forbes acaba de [seleccionar a Jetty][promesas] como una de las “30 Promesas de los Negocios 2018”. Nunca lo habríamos imaginado, y menos después de los retos que enfrentamos para lanzar nuestro servicio. Arrancamos el 15 de agosto pasado, y ese mismo día algunos transportistas que nos veían como amenaza [nos obligaron][link] a suspender operaciones. La propia Forbes publicó [una nota][forbes] al respecto. Hoy podemos presumirles que ya operamos con tranquilidad y que algunos de los transportistas que nos rechazaron trabajan con nosotros. Jetty cuenta con un gran equipo de conductores, con excelentes desarrolladores que mejoran todos los días nuestra app, con un cuerpo de soporte que está siempre al pendiente de nuestros usuarios y con grandes planes de expansión. Pero lo más importante: Nuestra comunidad de usuarios crece todos los días.
+
+Queremos agradecer a todos aquellos que han viajado con Jetty alguna vez. Ustedes son la verdadera promesa. ¡Juntos estamos transformando la movilidad de nuestra ciudad!
+
+<div class="text-center">
+  <h3>
+    <a href="https://30promesas.com/2018/promesas/tecnolog%C3%ADa.html" target="_blank">¿Nos ayudan votando por Jetty?</a>
+  </h3>
+</div>
+
+
+
+[promesas]:https://www.forbes.com.mx/app-cambia-rumbo-del-transporte-publico/
+[link]:http://www.jetty.mx/update/2017/08/15/comunicado.html
+[forbes]:https://www.forbes.com.mx/jetty-suspende-viajes-inseguridad-edomex/

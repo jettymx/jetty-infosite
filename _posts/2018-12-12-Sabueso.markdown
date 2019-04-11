@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Operación Sabueso: En Jetty nada se pierde"
+date:   2018-12-12 12:00:00
+post_author: Javier
+image: https://www.jetty.mx/imgs-blog/busqueda.png
+categories: update
+---
+
+![Jetty - ¿Es posible bajar a la gente de su auto privado?]({{site.baseurl}}/imgs-blog/busqueda.png)
+
+Nuestra garantía de seguridad significa que te cuidamos antes, durante y después del recorrido. Aún cuando tu viaje ha terminado, nuestros conductores y equipo de soporte siguen al pendiente de ti. <b>Si por algún motivo olvidas un objeto en tu Jetty, ¡por favor avísanos de inmediato!</b> Haremos nuestro mayor esfuerzo por que lo tengas de regreso lo más pronto posible. No importa si olvidas un libro, un teléfono o una computadora a bordo de Jetty, ¡activaremos una “operación sabueso”! Revisaremos cámaras, entrevistaremos a los conductores y si es necesario pediremos apoyo a otros usuarios. ¡Si se quedó a bordo, pronto lo encontraremos!
+
+Les compartimos algunos resultados recientes de Operación Sabueso:
+
+<div class="col-md-6">
+  <img src="{{site.baseurl}}/imgs-blog/olvidado-1.png">
+</div>
+<div class="col-md-6">
+  <img src="{{site.baseurl}}/imgs-blog/olvidado-2.png">
+</div>
+
+<div class="col-md-6">
+  <img src="{{site.baseurl}}/imgs-blog/olvidado-3.png">
+</div>
+<div class="col-md-6">
+  <img src="{{site.baseurl}}/imgs-blog/olvidado-4.png">
+</div>
+
+<div class="col-md-6">
+  <img src="{{site.baseurl}}/imgs-blog/olvidado-5.png">
+</div>
+<div class="col-md-6">
+
+</div>
+
+<div class="col-md-12">
+  <p><b><i>“Muchas gracias Sergio por la entrega de mis audífonos la verdad eso me da seguridad de seguir viajando con ustedes y sé que si llego a extraviar algo lo podré recuperar” - Rafael</i></b></p>
+</div>

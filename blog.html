@@ -1,0 +1,59 @@
+---
+layout: noticias
+title: Jetty | El Blog. Nuestras Últimas Noticias
+description: Consulta el Blog oficial de Jetty para obtener las últimas noticias, anuncios y cosas que hacer en México.
+changefreq: weekly
+---
+<div class="container-fluid marginTop">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1 class="blog-title">Blog</h1>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="blog">
+      <ul>
+        {% for post in site.posts %}
+
+          <li class="col-md-4 col-xs-12" data-aos="fade" data-aos-duration="1000">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              {% assign foundImage = 0 %}
+              {% assign assets = post.content | split:"<img " %}
+              {% for image in assets %}
+                {% if image contains 'src' %}
+                    {% if foundImage == 0 %}
+                        {% assign html = image | split:"/>" | first %}
+                        <img {{ html }} />
+                        {% assign foundImage = 1 %}
+                    {% endif %}
+                {% endif %}
+              {% endfor %}
+              <h2>{{ post.title }}</h2>
+              <span class="date_blog">{{ post.date | date: "%d %B %Y" }}</span><span class="post_author"> | Por: {{ post.post_author }}</span>
+              <!-- <p>{{ post.excerpt }}</p> -->
+            </a>
+          </li>
+
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="pagination" style="text-align: center;">
+
+      {% if paginator.next_page %}
+        <h2><a href="{{ paginator.next_page_path }}" class="next">- more posts -</a></h2>
+      {% endif %}
+
+      {% if paginator.previous_page %}
+        <h2><a href="{{ paginator.previous_page_path }}" class="previous">- previous page -</a></h2>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</div>
