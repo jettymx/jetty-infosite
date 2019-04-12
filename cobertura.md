@@ -8,18 +8,6 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="col-md-12">
-      <div class=" text-center">
-        <h2>Mapa de Cobertura</h2>
-     </div>
-
-      <div>
-        <p><b>Ascenso <img src="img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="18"></b></p>
-      </div>
-    </div>
-
-    <embed src="mapa/mapa.html" class="mapaCobertura">
-
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
       <h2>Explora nuestas rutas</h2>
     </div>
@@ -167,13 +155,13 @@ id: cobertura
             </button>
           </div>
         </li>
-        <li>
+        <!-- <li>
           <div class="col-md-4">
             <button type="button" data-toggle="modal" data-target="#ruta14" class="btn-ruta">
               <h4 class="panel-title">Tacubaya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
             </button>
           </div>
-        </li>
+        </li> -->
         <li>
           <div class="col-md-4">
             <button type="button" data-toggle="modal" data-target="#rutaSVBus3" class="btn-ruta">
@@ -206,6 +194,20 @@ id: cobertura
       </ul>
 
     </div>
+
+    <div class="clearfix"></div>
+
+    <div class="col-md-12">
+      <div class=" text-center">
+        <h2>Mapa de Cobertura</h2>
+     </div>
+
+      <div>
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="18"></b></p>
+      </div>
+    </div>
+
+    <embed src="mapa/mapa.html" class="mapaCobertura">
 
     <div class="clearfix"></div>
 
