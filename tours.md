@@ -30,6 +30,7 @@ id: tours
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fecha:</b> 3 de mayo</p>
+        <p><b>Precio:</b> $980 MXN</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
@@ -44,6 +45,7 @@ id: tours
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fecha:</b> 2 de mayo</p>
+        <p><b>Precio:</b> $2,890 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -56,7 +58,8 @@ id: tours
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
-        <p><b>Fechas:</b> 23 de abril y 4 de mayo</p>
+        <p><b>Fechas:</b> 4 de mayo</p>
+        <p><b>Precio:</b> $980 MXN</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
@@ -222,7 +225,6 @@ id: tours
               <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="23/Abril/2019">23 de Abril del 2019</option>
                   <option value="4/Mayo/2019">4 de Mayo del 2019</option>
                 </select>
               </div>

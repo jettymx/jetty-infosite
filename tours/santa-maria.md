@@ -37,7 +37,7 @@ id: santa-maria
         <br>
 
         <p><b>FECHAS</b></p>
-        <p>23 de abril y 4 de mayo</p>
+        <p>4 de mayo</p>
         <br>
 
         <p><b>INCLUYE </b></p>
@@ -150,6 +150,7 @@ id: santa-maria
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fecha:</b> 2 de mayo</p>
+        <p><b>Precio:</b> $2,890 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -163,6 +164,7 @@ id: santa-maria
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fecha:</b> 3 de mayo</p>
+        <p><b>Precio:</b> $980 MXN</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
@@ -354,7 +356,6 @@ id: santa-maria
               <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="23/Abril/2019">23 de Abril del 2019</option>
                   <option value="4/Mayo/2019">4 de Mayo del 2019</option>
                 </select>
               </div>
