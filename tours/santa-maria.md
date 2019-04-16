@@ -81,7 +81,7 @@ id: santa-maria
         <br>
 
         <p><b>Precio por persona</b></p>
-        <p>$980 MXN</p>
+        <p>$1,290 MXN</p>
         <br>
 
         <p><b>ACERCA DE NOSOTROS</b></p>

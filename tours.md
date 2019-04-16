@@ -59,7 +59,7 @@ id: tours
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía y transporte</p>
         <p><b>Fechas:</b> 4 de mayo</p>
-        <p><b>Precio:</b> $980 MXN</p>
+        <p><b>Precio:</b> $1,290 MXN</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
