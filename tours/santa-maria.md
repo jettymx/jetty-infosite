@@ -22,32 +22,63 @@ id: santa-maria
 
   <div class="container info-tour">
     <div class="row">
+
       <div class="col-md-10 col-md-offset-1">
-
-        <p><b>CANTIDAD DE PERSONAS</b></p>
-        <p>12 o 19 personas.</p>
+        <p class="lead">En este tour exploraremos las joyas de la Santa María la Ribera, desenterraremos su gloria porfiriana y descubrirás que es un barrio vivo en el que están pasando más cosas de las que crees.</p>
+        <p class="lead">El punto de salida es de la colonia Roma, de ahí no dirigiremos a desayunar a Casa Nool, después te invitamos a descubrir más de esta colonia, comenzando por el Kiosco Morisco, diseñado por el ingeniero José Ramón Ibarrola y que fue declarado Monumento Artístico de la Nación por el Instituto Nacional de Antropología e Historia (INAH).</p>
+        <p class="lead">Llegamos a la parte cultural de nuestro recorrido ya que visitaremos Casa Equis , el Museo de Geología y el Museo Universitario del Chopo. Por último, disfrutaremos una deliciosa comida en María 138. </p>
         <br>
+      </div>
 
-        <p><b>LUGAR DE SALIDA</b></p>
-        <p>Roma</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/santamaria-1.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/santamaria-2.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/santamaria-3.jpg">
+          </div>
+        </div>
+      </div>
 
-        <p><b>DURACIÓN</b></p>
-        <p>6 horas.</p>
-        <br>
+      <div class="clearfix info-tour"></div>
 
-        <p><b>FECHAS</b></p>
-        <p>4 de mayo</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <p>Cantidad de personas</p>
+            <p><b>12 o 19 personas.</b></p>
+            <br>
 
-        <p><b>INCLUYE </b></p>
-        <p>Un desayuno, una comida, entradas a los museos.</p>
-        <br>
+            <p>Lugar de salida</p>
+            <p><b>Roma</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Duración</p>
+            <p><b>6 horas.</b></p>
+            <br>
 
-        <p><b>DISPONIBLE</b></p>
-        <p>En español y en inglés </p>
-        <br>
+            <p>Fechas</p>
+            <p><b>4 de mayo</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Disponible</p>
+            <p><b>En español y en inglés </b></p>
+            <br>
 
+              <p>Incluye </p>
+              <p><b>Un desayuno, una comida, entradas a los museos.</b></p>
+              <br>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-10 col-md-offset-1 info-tour">
         <p><b>ITINERARIO</b></p>
         <ul class="list-tours">
           <li>
@@ -79,20 +110,17 @@ id: santa-maria
           </li>
         </ul>
         <br>
-
-        <p><b>Precio por persona</b></p>
-        <p>$1,290 MXN</p>
         <br>
 
+        <p><b>Precio por persona</b></p>
+        <p><b>$1,290 MXN</b></p>
+        <br>
+      </div>
+
+      <div class="col-md-10 col-md-offset-1 info-tour">
         <p><b>ACERCA DE NOSOTROS</b></p>
         <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
         <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
-        <br>
-
-        <p><b>QUÉ HAREMOS</b></p>
-        <p>En este tour exploraremos las joyas de la Santa María la Ribera, desenterraremos su gloria porfiriana y descubrirás que es un barrio vivo en el que están pasando más cosas de las que crees.</p>
-        <p>El punto de salida es de la colonia Roma, de ahí no dirigiremos a desayunar a Casa Nool, después te invitamos a descubrir más de esta colonia, comenzando por el Kiosco Morisco, diseñado por el ingeniero José Ramón Ibarrola y que fue declarado Monumento Artístico de la Nación por el Instituto Nacional de Antropología e Historia (INAH).</p>
-        <p>Llegamos a la parte cultural de nuestro recorrido ya que visitaremos Casa Equis , el Museo de Geología y el Museo Universitario del Chopo. Por último, disfrutaremos una deliciosa comida en María 138. </p>
         <br>
 
         <p><b> QUÉ TRAER </b></p>
@@ -101,18 +129,7 @@ id: santa-maria
           <li><p>Llevar un poco de dinero extra en pesos mexicanos por si quieren hacer compras en las tiendas de los museos.</p></li>
           <li><p>Llevar una botella de agua para el recorrido.</p></li>
         </ul>
-
-        <div class="row">
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/santamaria-1.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/santamaria-2.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/santamaria-3.jpg">
-          </div>
-        </div>
+      </div>
 
       </div>
     </div>
@@ -124,8 +141,9 @@ id: santa-maria
         </button>
       </div>
     </div>
-  </div>
+
 </div>
+
 
 <div>
   <img src="../img/back-grayblue-down.png" style="width: 100%">
@@ -148,7 +166,7 @@ id: santa-maria
         <h3>Mercado de San Juan</h3>
         <p>Además de comer en locales como Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Duración: 6hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, comida y transporte</p>
         <p><b>Fecha:</b> 2 de mayo</p>
         <p><b>Precio:</b> $2,890 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
@@ -162,7 +180,7 @@ id: santa-maria
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
         <p><b>Duración: 5hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, lunch y transporte</p>
         <p><b>Fecha:</b> 3 de mayo</p>
         <p><b>Precio:</b> $980 MXN</p>
         <br>

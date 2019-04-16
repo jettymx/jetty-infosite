@@ -23,30 +23,59 @@ id: mercado-san-juan
   <div class="container info-tour">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-        <p><b>CANTIDAD DE PERSONAS</b></p>
-        <p>12 o 19 personas.</p>
-        <br>
+        <p class="lead">Visitaremos en compañía del Chef Bernardo Bukantz el mercado gastronómico por excelencia de la CDMX. Aquí es donde algunos de los mejores chefs de la ciudad se surten de productos de calidad. Podremos encontrar carnes exóticas (como jabalí o león), quesos internacionales y charcutería fina y frutas y verduras que tal vez nunca habías visto o probado. También haremos algunas paradas en los puestos más famosos para comer, como lo son Triana Café Gourmet y las Tapas de San Juan.</p>
+        <p class="lead">Después del recorrido por el mercado, nos iremos a uno de los restaurantes de Bernardo Bukantz a tomar una clase de cocina.</p>
+      </div>
 
-        <p><b>LUGAR DE SALIDA</b></p>
-        <p>Roma</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/mercado-1.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/mercado-2.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/mercado-3.jpg">
+          </div>
+        </div>
+      </div>
 
-        <p><b>DURACIÓN</b></p>
-        <p>6 horas.</p>
-        <br>
+      <div class="clearfix info-tour"></div>
 
-        <p><b>FECHA</b></p>
-        <p>2 de mayo</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <p>Cantidad de personas</p>
+            <p><b>12 o 19 personas.</b></p>
+            <br>
 
-        <p><b>INCLUYE </b></p>
-        <p>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con el chef Bernardo Bukantz.</p>
-        <br>
+            <p>Lugar de salida</p>
+            <p><b>Roma</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Duración</p>
+            <p><b>6 horas</b>.</p>
+            <br>
 
-        <p><b>DISPONIBLE</b></p>
-        <p>En español y en inglés </p>
-        <br>
+            <p>Fecha</p>
+            <p><b>2 de mayo</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Disponible</p>
+            <p><b>En español y en inglés </b></p>
+            <br>
 
+            <p>Incluye </p>
+            <p><b>Comida en los lugares del Mercado San Juan y los materiales para la clase de cocina con el chef Bernardo Bukantz.</b></p>
+            <br>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-10 col-md-offset-1 info-tour">
         <p><b>ITINERARIO</b></p>
         <ul class="list-tours">
           <li>
@@ -72,20 +101,20 @@ id: mercado-san-juan
           </li>
         </ul>
         <br>
+        <br>
 
         <p><b>Precio por persona</b></p>
-        <p>$2,890 MXN</p>
+        <p><b>$2,890 MXN</b></p>
         <br>
+      </div>
+
+      <div class="col-md-10 col-md-offset-1 info-tour">
 
         <p><b>ACERCA DE NOSOTROS</b></p>
         <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
         <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
         <br>
 
-        <p><b>QUÉ HAREMOS</b></p>
-        <p>Visitaremos en compañía del Chef Bernardo Bukantz el mercado gastronómico por excelencia de la CDMX. Aquí es donde algunos de los mejores chefs de la ciudad se surten de productos de calidad. Podremos encontrar carnes exóticas (como jabalí o león), quesos internacionales y charcutería fina y frutas y verduras que tal vez nunca habías visto o probado. También haremos algunas paradas en los puestos más famosos para comer, como lo son Triana Café Gourmet y las Tapas de San Juan.</p>
-        <p>Después del recorrido por el mercado, nos iremos a uno de los restaurantes de Bernardo Bukantz a tomar una clase de cocina.</p>
-        <br>
 
         <p><b>Un poco sobre Bernardo Bukantz.</b></p>
         <p>Trabajó durante cinco años en el restaurante Biko y actualmente dirige exitosamente Salón Ríos. En la segunda temporada de Top Chef México, demostró una técnica perfecta y su respeto por el sabor.</p>
@@ -97,20 +126,8 @@ id: mercado-san-juan
           <li><p>Llevar un poco de dinero extra en pesos mexicanos por si quieren hacer compras en el mercado.</p></li>
         </ul>
 
-
-        <div class="row">
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/mercado-1.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/mercado-2.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/mercado-3.jpg">
-          </div>
-        </div>
-
       </div>
+
     </div>
 
     <div class="row">
@@ -145,7 +162,7 @@ id: mercado-san-juan
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
         <p><b>Duración: 5hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, lunch y transporte</p>
         <p><b>Fecha:</b> 3 de mayo</p>
         <p><b>Precio:</b> $980 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
@@ -159,7 +176,7 @@ id: mercado-san-juan
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
         <p><b>Duración: 6hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
         <p><b>Fechas:</b> 4 de mayo</p>
         <p><b>Precio:</b> $1,290 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">

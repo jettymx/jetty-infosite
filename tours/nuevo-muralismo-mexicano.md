@@ -22,31 +22,60 @@ id: muralismo-mexicano
 
   <div class="container info-tour">
     <div class="row">
+
       <div class="col-md-10 col-md-offset-1">
-        <p><b>CANTIDAD DE PERSONAS</b></p>
-        <p> 12 o 19 personas.</p>
-        <br>
+        <p class="lead">El muralismo no dejó de existir en México, solo se ha transformado. Aunque ya no tiene una función primordialmente política como en la era de Diego Rivera o David Alfaro Siqueiros, el arte mural revive en los espacios públicos a través de artistas jóvenes que toman la calle como su lienzo. Como parte de un movimiento global de arte urbano, en este tour te llevamos a conocer cinco ejemplos de nuevo muralismo en la Ciudad de México.</p>
+      </div>
 
-        <p><b>LUGAR DE SALIDA</b></p>
-        <p>Roma</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/murales-1.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/murales-2.jpg">
+          </div>
+          <div class="col-md-4">
+            <img src="{{site.baseurl}}/img/murales-3.jpg">
+          </div>
+        </div>
+      </div>
 
-        <p><b>HORAS DE DURACIÓN</b></p>
-        <p>5 horas.</p>
-        <br>
+      <div class="clearfix info-tour"></div>
 
-        <p><b>FECHA</b></p>
-        <p>3 de mayo</p>
-        <br>
+      <div class="col-md-10 col-md-offset-1 info-tour">
+        <div class="row">
+          <div class="col-md-4">
+            <p>Cantidad de personas</p>
+            <p><b> 12 o 19 personas.</b></p>
+            <br>
 
-        <p><b>INCLUYE</b></p>
-        <p>Un lunch, transporte a cada punto.</p>
-        <br>
+            <p>Lugar de salida</p>
+            <p><b>Roma</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Horas de duración</p>
+            <p><b>5 horas.</b></p>
+            <br>
 
-        <p><b>DISPONIBLE</b></p>
-        <p>En español y en inglés</p>
-        <br>
+            <p>Fecha</p>
+            <p><b>3 de mayo</b></p>
+            <br>
+          </div>
+          <div class="col-md-4">
+            <p>Disponible</p>
+            <p><b>En español y en inglés</b></p>
+            <br>
 
+            <p>Incluye</p>
+            <p><b>Guía, lunch y transporte a cada punto.</b></p>
+            <br>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-10 col-md-offset-1 info-tour">
         <p><b>ITINERARIO</b></p>
         <ul class="list-tours">
           <li>
@@ -69,21 +98,14 @@ id: muralismo-mexicano
           </li>
         </ul>
         <br>
+        <br>
 
         <p><b>Precio por persona</b></p>
-        <p>$980 MXN</p>
+        <p><b>$980 MXN</b></p>
         <br>
+      </div>
 
-        <p><b>ACERCA DE NOSOTROS</b></p>
-        <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
-
-        <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
-        <br>
-
-        <p><b>QUÉ HAREMOS</b></p>
-        <p>El muralismo no dejó de existir en México, solo se ha transformado. Aunque ya no tiene una función primordialmente política como en la era de Diego Rivera o David Alfaro Siqueiros, el arte mural revive en los espacios públicos a través de artistas jóvenes que toman la calle como su lienzo. Como parte de un movimiento global de arte urbano, en este tour te llevamos a conocer cinco ejemplos de nuevo muralismo en la Ciudad de México.</p>
-        <br>
-
+      <div class="col-md-10 col-md-offset-1 info-tour">
         <p><b>QUÉ TRAER</b></p>
         <ul class="list-tours">
           <li>
@@ -98,17 +120,10 @@ id: muralismo-mexicano
         </ul>
         <br>
 
-        <div class="row">
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/murales-1.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/murales-2.jpg">
-          </div>
-          <div class="col-md-4">
-            <img src="{{site.baseurl}}/img/murales-3.jpg">
-          </div>
-        </div>
+        <p><b>ACERCA DE NOSOTROS</b></p>
+        <p>Museo Citadino es una plataforma enfocada en el desarrollo de contenidos y de experiencias creadas con base en nuestro conocimiento sobre las audiencias y la ciudad.</p>
+
+        <p>En 2012 lanzamos Time Out México, la guía de entretenimiento y cultura más importante del mundo presente en la Ciudad de México. Desde ese entonces nos hemos convertido no solo en una voz relevante en términos de entretenimiento, sino también en un actor activo de la vida cultural de la ciudad.</p>
 
       </div>
     </div>
@@ -144,7 +159,7 @@ id: muralismo-mexicano
         <h3>Mercado de San Juan</h3>
         <p>Además de comer en locales como Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Duración: 6hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, comida y transporte</p>
         <p><b>Fecha:</b> 2 de mayo</p>
         <p><b>Precio:</b> $2,890 MXN</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
@@ -158,7 +173,7 @@ id: muralismo-mexicano
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
         <p><b>Duración: 6hrs</b></p>
-        <p><b>Incluye:</b> Guía y transporte</p>
+        <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
         <p><b>Fechas:</b> 4 de mayo</p>
         <p><b>Precio:</b> $1,290 MXN</p>
         <br>
