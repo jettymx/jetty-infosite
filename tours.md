@@ -23,6 +23,19 @@ id: tours
   <div class="container">
     <div class="row tour" data-aos="fade">
 
+      <div class="col-md-10 col-md-offset-1 info-tours">
+        <div class="row">
+          <div class="col-md-3 col-md-offset-3">
+            <img src="img/logo-Timeout.svg">
+          </div>
+          <div class="col-md-3">
+            <img src="img/logo-jetty-tours.svg">
+          </div>
+        </div>
+      </div>
+
+      <div class="clearfix info-tours"></div>
+
       <div class="col-md-4 info-tours">
         <img src="img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Nuevo Muralismo Mexicano</h3>
