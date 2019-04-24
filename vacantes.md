@@ -437,7 +437,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Desarrollador móvil - iOS</p>
+                 Desarrollador/a móvil - iOS</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
@@ -557,7 +557,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Desarrollador móvil - Android</p>
+                 Desarrollador/a móvil - Android</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_android" aria-expanded="false" aria-controls="collapse_android">
