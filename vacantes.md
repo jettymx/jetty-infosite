@@ -425,7 +425,7 @@ id: vacantes
         </div>
       </div>
 
-      <!-- VACANTE 2 -->
+      <!-- VACANTE 3 IOS -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -451,7 +451,7 @@ id: vacantes
                 <p><b>RESPONSABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Como ingeniero/a de software  estarás a cargo del desarrollo de la app de Jetty para iOS.</p>
+                    <p>Como ingeniero/a de software estarás a cargo del desarrollo de la app de Jetty para iOS.</p>
                   </li>
                   <li>
                     <p>Construir componentes y funcionalidades de la aplicación de Jetty para iOS.</p>
@@ -472,7 +472,7 @@ id: vacantes
                 <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
                 <ul>
                   <li>
-                    <p>Fundamentos sólidos de  Swift 3 y Xcode.</p>
+                    <p>Fundamentos sólidos de  Swift 4/5 y Xcode.</p>
                   </li>
                   <li>
                     <p>Manejo de iOS Frameworks (CoreData, CoreAnimation, AVFoundation, etc).</p>
@@ -493,13 +493,13 @@ id: vacantes
                     <p>Conocimiento en el consumo de Web services (REST)</p>
                   </li>
                   <li>
-                    <p>Conocimiento de programación orientada a objetos o programación funcional  y saber aplicarlos de manera eficiente.</p>
+                    <p>Conocimiento de programación orientada a objetos o programación funcional y saber aplicarlos de manera eficiente.</p>
                   </li>
                   <li>
-                    <p>Conocimiento de GIT y Github.</p>
+                    <p>Conocimiento de Git y Github.</p>
                   </li>
                   <li>
-                    <p>Haber participado en procesos de desarrollo de Software empleando metodologías ágiles.</p>
+                    <p>Haber participado en procesos de desarrollo de software empleando metodologías ágiles.</p>
                   </li>
                   <li>
                     <p>Dominio del idioma Inglés (hablado, escrito, y leído).</p>
@@ -523,7 +523,7 @@ id: vacantes
                     <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
                   <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil. Capaz de trabajar por objetivos y bajo presión.</p>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
                   </li>
                   <li>
                     <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
@@ -536,7 +536,7 @@ id: vacantes
                 <br>
 
                 <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:irvin@jetty.mx?subject=Desarrollador/a Jr.">irvin@jetty.mx</a> utilizando <b>“Desarrollador móvil - iOS”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
+                <p>Escríbenos a <a href="mailto:jorge@jetty.mx?subject=Desarrollador/a iOS">jorge@jetty.mx</a> utilizando <b>“Desarrollador/a móvil - iOS”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
 
               </div>
             </div>
@@ -545,7 +545,150 @@ id: vacantes
         </div>
       </div>
 
-      <!-- VACANTE 3 -->
+      <!-- VACANTE 4 Android -->
+      <div class="panel panel-default vacante">
+        <div class="panel-body">
+
+          <div class="col-md-1">
+            <img src="img/vacante-developerjr.png" width="60">
+          </div>
+
+          <div class="col-md-11">
+            <div class="row">
+              <div class="col-md-8">
+                <p><b>PUESTO</b><br>
+                 Desarrollador móvil - Android</p>
+              </div>
+              <div class="col-md-4 descripcion-btn-aling">
+                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_android" aria-expanded="false" aria-controls="collapse_android">
+                Ver descripción
+              </a>
+              </div>
+            </div>
+
+            <div class="collapse" id="collapse_android">
+              <div class="descripcion">
+                <p><b>RESPONSABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Construir componentes y funcionalidades de la aplicación de Jetty para usuarios de Android.</p>
+                  </li>
+                  <li>
+                    <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación y seguimiento a los procesos de desarrollo de software.</p>
+                  </li>
+                  <li>
+                    <p>Ayudar a mejorar la calidad del código mediante pruebas unitarias y automatización.</p>
+                  </li>
+                  <li>
+                    <p>Hacer el diseño conceptual y técnico de las soluciones en base a requerimientos de Jetty.</p>
+                  </li>
+                  <li>
+                    <p>Trabajar con el equipo de diseño para entender los requerimientos del usuario final.</p>
+                  </li>
+                  <li>
+                    <p>Participar en sesiones de planeación y tener la oportunidad de contribuir hacia el producto con ideas originales e innovadoras.</p>
+                  </li>
+                  <li>
+                    <p>Atacar problemas complejos y entregar resultados exitosamente en tiempo y forma.</p>
+                  </li>
+                  <li>
+                    <p>Asegurar la calidad de código y arquitectura tecnológica.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
+                <ul>
+                  <li>
+                    <p>Trayectoria de 3 años o más desarrollando para Android, y recientemente con Kotlin.</p>
+                  </li>
+
+                  <li>
+                    <p>Conocimiento profundo del SDK de Android, sus diferentes versiones, y sobre cómo desarrollar para diferentes tamaños de pantalla.</p>
+                  </li>
+
+                  <li>
+                    <p>Dominio profundo de programación orientada a objetos, y experiencia en arquitectura “clean”.</p>
+                  </li>
+
+                  <li>
+                    <p>Familiaridad con el ecosistema open source de Android y las librerías disponibles para tareas comunes.</p>
+                  </li>
+
+                  <li>
+                    <p>Conocimiento de las Material Design Guidelines de Android.</p>
+                  </li>
+
+                  <li>
+                    <p>Experiencia utilizando frameworks de Android para manipulación de sensores y gráficos.</p>
+                  </li>
+
+                  <li>
+                    <p>Experiencia con almacenamiento offline, cómputo paralelo y optimización de rendimiento en Android.</p>
+                  </li>
+
+                  <li>
+                    <p>Conocimiento avanzado de arquitectura y diseño de aplicaciones móviles distribuidas con el apoyo de REST APIs.</p>
+                  </li>
+
+                  <li>
+                    <p>Experiencia publicando código para Android en producción mediante el Play Store de Google.</p>
+                  </li>
+
+                  <li>
+                    <p>Conocimiento de Git.</p>
+                  </li>
+
+                  <li>
+                    <p>Haber participado en procesos de desarrollo de software empleando metodologías ágiles.</p>
+                  </li>
+
+                  <li>
+                    <p>Dominio del idioma Inglés (hablado, escrito, y leído).</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>HABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Excepcionales habilidades de comunicación. Es muy importante que el desarrollador esté en constante comunicación con el equipo de negocio para poder entender sus necesidades y proponer soluciones innovadoras a los problemas. </p>
+                  </li>
+                  <li>
+                    <p>Experiencia en el manejo de proyectos. </p>
+                  </li>
+                  <li>
+                    <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
+                  </li>
+                  <li>
+                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                  </li>
+                  <li>
+                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
+                  </li>
+                  <li>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>¿TE INTERESA?</b></p>
+                <p>Escríbenos a <a href="mailto:jorge@jetty.mx?subject=Desarrollador/a Android">jorge@jetty.mx</a> utilizando <b>“Desarrollador/a móvil - Android”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- VACANTE 5 -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -748,7 +891,7 @@ id: vacantes
         </div>
       </div>
 
-      <!-- VACANTE 4 -->
+      <!-- VACANTE 6 -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
