@@ -75,11 +75,6 @@ id: transporte-eventos
         </ul>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <a href="javascript:$.scrollTo('#destino',800);" class="btn btn-gray" style="margin-top: 0px">Nuestros Tours</a>
-      </div>
-    </div>
   </div>
 </div>
 
