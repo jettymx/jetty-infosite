@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finalista del Keeling Curve Prize"
+title:  "Jetty es finalista del premio Keeling Curve"
 date:   2019-05-06 11:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/keeling-curve-prize.png

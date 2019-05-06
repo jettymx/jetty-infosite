@@ -151,6 +151,11 @@ id: quienes
             <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
           </a>
         </li>
+        <li>
+          <a href="https://www.kcurveprize.org/2019-finalists" target="_blank">
+            <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
+          </a>
+        </li>
       </ul>
     </div>
 
