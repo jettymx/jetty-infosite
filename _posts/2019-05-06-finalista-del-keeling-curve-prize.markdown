@@ -20,6 +20,10 @@ En <b>Jetty</b> estamos trabajando para crear y mejorar alternativas al auto. He
 
 Cada día son más usuarios y más socios transportistas utilizando nuestra plataforma. Muchas gracias por la confianza. La distinción como finalistas del Keeling Curve Prize es de todos ustedes. Juntos resolveremos problemas mucho más trascendentes que nuestros traslados diarios.
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rEbE5fcnFVs" allowfullscreen></iframe>
+</div>
+
 [noticia]:https://www.kcurveprize.org/2019-finalists
 [keeling]:https://www.kcurveprize.org
 [charles]:https://es.m.wikipedia.org/wiki/Charles_David_Keeling
