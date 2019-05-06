@@ -99,16 +99,16 @@ id: quienes
             <img src="imgs-prensa/LOGO_TM.jpg">
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a href="http://www.piplatam.com/" target="_blanck">
             <img src="imgs-prensa/Logo-pip-Latam.png">
           </a>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           <a href="https://www.mheducation.com.mx" target="_blanck">
             <img src="imgs-prensa/MHE-Logo.png">
           </a>
-        </li>
+        </li> -->
         <li>
           <a href="https://www.latamobility.com/" target="_blanck">
             <img src="imgs-prensa/latam-mobility.png">

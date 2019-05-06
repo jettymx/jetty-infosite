@@ -115,6 +115,49 @@ id: transporte-personal
   </div>
 </div>
 
+
+<div class="container alianzas-content">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 text-center">
+      <h1>Algunos de nuestros clientes:</h1>
+      <ul class="alianzas">
+        <li>
+          <a href="http://www.alhel.com/" target="_blank">
+            <img src="imgs-prensa/alhel.png">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.continentaltire.mx/car" target="_blank">
+            <img src="imgs-prensa/continental.svg">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.lexmark.com/es_mx.html" target="_blank">
+            <img src="imgs-prensa/lexmark.svg">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.globant.com/" target="_blank">
+            <img src="imgs-prensa/globant.svg">
+          </a>
+        </li>
+        <li>
+          <a href="http://www.piplatam.com/" target="_blank">
+            <img src="imgs-prensa/Logo-pip-Latam.png">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.mheducation.com.mx" target="_blank">
+            <img src="imgs-prensa/MHE-Logo.png">
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+
 <!-- Modal Organizaciones -->
 <div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
