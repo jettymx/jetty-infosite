@@ -25,7 +25,7 @@ id: santa-maria
 
       <div class="col-md-10 col-md-offset-1">
         <p class="lead">En este tour exploraremos las joyas de la Santa María la Ribera, desenterraremos su gloria porfiriana y descubrirás que es un barrio vivo en el que están pasando más cosas de las que crees.</p>
-        <p class="lead">El punto de salida es de la colonia Roma, de ahí no dirigiremos a desayunar a Casa Nool, después te invitamos a descubrir más de esta colonia, comenzando por el Kiosco Morisco, diseñado por el ingeniero José Ramón Ibarrola y que fue declarado Monumento Artístico de la Nación por el Instituto Nacional de Antropología e Historia (INAH).</p>
+        <p class="lead">El punto de salida es de la colonia Roma, de ahí no dirigiremos a desayunar a Del Reloj Panadería, después te invitamos a descubrir más de esta colonia, comenzando por el Kiosco Morisco, diseñado por el ingeniero José Ramón Ibarrola y que fue declarado Monumento Artístico de la Nación por el Instituto Nacional de Antropología e Historia (INAH).</p>
         <p class="lead">Llegamos a la parte cultural de nuestro recorrido ya que visitaremos Casa Equis , el Museo de Geología y el Museo Universitario del Chopo. Por último, disfrutaremos una deliciosa comida en María 138. </p>
         <br>
       </div>
@@ -85,7 +85,7 @@ id: santa-maria
             <p><b>9am</b> | Salida. Roma-Condesa.</p>
           </li>
           <li>
-            <p><b>9:30am</b> |  Desayuno Casa Nool.</p>
+            <p><b>9:30am</b> |  Desayuno Del Reloj Panadería.</p>
           </li>
           <li>
             <p><b>10:30am</b> | Kiosko Morisco.</p>

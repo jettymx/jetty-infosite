@@ -174,7 +174,7 @@ id: mercado-san-juan
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
-        <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
+        <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Del Reloj Panadería.</p>
         <p><b>Precio por persona:</b><br> $1,290 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
