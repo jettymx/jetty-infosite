@@ -26,10 +26,10 @@ id: tours
       <div class="col-md-10 col-md-offset-1 info-tours">
         <div class="row">
           <div class="col-md-3 col-md-offset-3">
-            <img src="img/logo-Timeout.svg">
+            <img src="{{site.baseurl}}/img/logo-Timeout.svg">
           </div>
           <div class="col-md-3">
-            <img src="img/logo-jetty-tours.svg">
+            <img src="{{site.baseurl}}/img/logo-jetty-tours.svg">
           </div>
         </div>
       </div>
@@ -37,47 +37,47 @@ id: tours
       <div class="clearfix info-tours"></div>
 
       <div class="col-md-4 info-tours">
-        <img src="img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
+        <img src="{{site.baseurl}}/img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Nuevo Muralismo Mexicano</h3>
         <p>Te llevaremos a conocer de cerca el trabajo de artistas urbanos como Smithe, Curiot, Jesús Benítez “Dhear” y Colectivo Germen.</p>
         <p><b>Precio por persona:</b><br> $980 MXN</p>
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía, lunch y transporte</p>
-        <p><b>Próxima fecha:</b> 3 de mayo</p>
+        <p><b>Próxima fecha:</b> 11 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
-        <a href="tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <div class="col-md-4 info-tours">
-        <img src="img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
+        <img src="{{site.baseurl}}/img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Mercado de San Juan</h3>
         <p>Además de comer en locales como Triana Café Gourmet y Las Tapas de San Juan, tendrás una clase de cocina con el chef Bernardo Bukantz.</p>
         <p><b>Precio por persona:</b><br> $2,890 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, comida y transporte</p>
-        <p><b>Próxima fecha:</b> 2 de mayo</p>
+        <p><b>Próxima fecha:</b> 18 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
-        <a href="tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
       <div class="col-md-4 info-tours">
-        <img src="img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
+        <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
-        <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Del Reloj Panadería.</p>
-        <p><b>Precio por persona:</b><br> $1,290 MXN</p>
+        <p>Visitarás lugares como el Kiosco Morisco, el Museo del Chopo, Museo de San Carlos, Casa Equis y Chilakillers.</p>
+        <p><b>Precio por persona:</b><br> $990 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
-        <p><b>Próxima fecha:</b> 4 de mayo</p>
+        <p><b>Próxima fecha:</b> 25 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
-        <a href="tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
+        <a href="{{site.baseurl}}/tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
     </div>
@@ -124,7 +124,7 @@ id: tours
               <div class="form-group col-md-6">
                 <label for="nuevo-muralismo-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
-                  <option value="3/Mayo/2019">3 de Mayo del 2019</option>
+                  <option value="11/Mayo/2019">11 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -181,7 +181,7 @@ id: tours
               <div class="form-group col-md-6">
                 <label for="nuevo-mercado-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-mercado-date" name="origin_date">
-                  <option value="2/Mayo/2019">2 de Mayo del 2019</option>
+                  <option value="18/Mayo/2019">18 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -238,7 +238,7 @@ id: tours
               <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="4/Mayo/2019">4 de Mayo del 2019</option>
+                  <option value="25/Mayo/2019">25 de Mayo del 2019</option>
                 </select>
               </div>
             </div>

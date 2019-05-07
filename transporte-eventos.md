@@ -97,7 +97,7 @@ id: transporte-eventos
         <p><b>Precio:</b><br> $980 MXN</p>
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía, lunch y transporte</p>
-        <p><b>Próxima fecha:</b> 3 de mayo</p>
+        <p><b>Próxima fecha:</b> 11 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
@@ -112,7 +112,7 @@ id: transporte-eventos
         <p><b>Precio:</b><br> $2,890 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, comida y transporte</p>
-        <p><b>Próxima fecha:</b> 2 de mayo</p>
+        <p><b>Próxima fecha:</b> 18 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -123,10 +123,10 @@ id: transporte-eventos
         <img src="img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
         <h3>Santa María la Ribera</h3>
         <p>Visitarás lugares como el Kiosco Morisco, el Museo de Geología, Casa Equis, María Ciento 38 y Casa Nool.</p>
-        <p><b>Precio:</b><br> $1,290 MXN</p>
+        <p><b>Precio:</b><br> $990 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
-        <p><b>Próxima fecha:</b> 4 de mayo</p>
+        <p><b>Próxima fecha:</b> 25 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
@@ -485,7 +485,7 @@ id: transporte-eventos
               <div class="form-group col-md-6">
                 <label for="nuevo-muralismo-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
-                  <option value="3/Mayo/2019">3 de Mayo del 2019</option>
+                  <option value="11/Mayo/2019">11 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -542,7 +542,7 @@ id: transporte-eventos
               <div class="form-group col-md-6">
                 <label for="nuevo-mercado-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-mercado-date" name="origin_date">
-                  <option value="2/Mayo/2019">2 de Mayo del 2019</option>
+                  <option value="18/Mayo/2019">18 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -599,7 +599,7 @@ id: transporte-eventos
               <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="4/Mayo/2019">4 de Mayo del 2019</option>
+                  <option value="25/Mayo/2019">25 de Mayo del 2019</option>
                 </select>
               </div>
             </div>

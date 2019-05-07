@@ -63,7 +63,7 @@ id: santa-maria
             <br>
 
             <p>Fechas</p>
-            <p><b>4 de mayo</b></p>
+            <p><b>25 de mayo</b></p>
             <br>
           </div>
           <div class="col-md-4">
@@ -82,38 +82,35 @@ id: santa-maria
         <p><b>ITINERARIO</b></p>
         <ul class="list-tours">
           <li>
-            <p><b>9am</b> | Salida. Roma-Condesa.</p>
+            <p><b>9:30am</b> | Salida de fuente de cibeles.</p>
           </li>
           <li>
-            <p><b>9:30am</b> |  Desayuno Del Reloj Panadería.</p>
+            <p><b>10:00am</b> |  Desayuno en Casa Equis.</p>
           </li>
           <li>
-            <p><b>10:30am</b> | Kiosko Morisco.</p>
+            <p><b>11:00am</b> | Casa Wabi.</p>
           </li>
           <li>
-            <p><b>11:15am</b> | Casa Equis.</p>
+            <p><b>11:45am</b> | Museo del Chopo.</p>
           </li>
           <li>
-            <p><b>12pm</b> | Museo de Geología.</p>
+            <p><b>12:30pm</b> | Museo de San Carlos.</p>
           </li>
           <li>
-            <p><b>1pm</b> | Museo del Chopo.</p>
+            <p><b>2pm</b> | Kiosko Morisco.</p>
           </li>
           <li>
-            <p><b>2pm</b> | Comida en María Ciento 38.</p>
+            <p><b>2:30pm</b> | Comida en Chilakillers</p>
           </li>
           <li>
-            <p><b>3:30pm</b> | Salida de la Santa María la Ribera.</p>
-          </li>
-          <li>
-            <p><b>4:00pm</b> | Llegada a la Roma-Condesa</p>
+            <p><b>3:30pm</b> | Regreso a la Fuente de la Cibeles.</p>
           </li>
         </ul>
         <br>
         <br>
 
         <p><b>Precio por persona</b></p>
-        <p><b>$1,290 MXN</b></p>
+        <p><b>$990 MXN</b></p>
         <br>
       </div>
 
@@ -168,7 +165,7 @@ id: santa-maria
         <p><b>Precio por persona:</b><br> $2,890 MXN</p>
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, comida y transporte</p>
-        <p><b>Próxima fecha:</b> 2 de mayo</p>
+        <p><b>Próxima fecha:</b> 18 de mayo</p>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
@@ -182,7 +179,7 @@ id: santa-maria
         <p><b>Precio por persona:</b><br> $980 MXN</p>
         <p><b>Duración: 5hrs</b></p>
         <p><b>Incluye:</b> Guía, lunch y transporte</p>
-        <p><b>Próxima fecha:</b> 3 de mayo</p>
+        <p><b>Próxima fecha:</b> 11 de mayo</p>
         <br>
         <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
@@ -260,7 +257,7 @@ id: santa-maria
               <div class="form-group col-md-6">
                 <label for="nuevo-muralismo-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
-                  <option value="3/Mayo/2019">3 de Mayo del 2019</option>
+                  <option value="11/Mayo/2019">11 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -317,7 +314,7 @@ id: santa-maria
               <div class="form-group col-md-6">
                 <label for="nuevo-mercado-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-mercado-date" name="origin_date">
-                  <option value="2/Mayo/2019">2 de Mayo del 2019</option>
+                  <option value="18/Mayo/2019">18 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
@@ -374,7 +371,7 @@ id: santa-maria
               <div class="form-group col-md-6">
                 <label for="nuevo-santamaria-date">Fecha de salida</label>
                 <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="4/Mayo/2019">4 de Mayo del 2019</option>
+                  <option value="25/Mayo/2019">25 de Mayo del 2019</option>
                 </select>
               </div>
             </div>
