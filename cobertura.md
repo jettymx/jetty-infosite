@@ -525,6 +525,10 @@ id: cobertura
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
+            <b>F. C. de Cuernavaca</b> - <i>Av. F. C. de Cuernavaca 2337, Lomas - Virreyes, Lomas de Chapultepec III Secc, 11000 Ciudad de México, CDMX</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
             <b>Arcos Bosques 2</b> - <i>Paseo de Los Tamarindos 150, Bosques de las Lomas, Ciudad de México, CDMX, México</i>
           </li>
           <li>
