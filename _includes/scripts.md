@@ -570,6 +570,12 @@
                 icon: destiny
               });
 
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.427540502202717, lng: -99.2041548932367},
+                map: mapAragonSantaFe,
+                icon: destiny
+              });
+
 
               // Mapa 5 Parque de los venados/Del Valle - Santa Fe
               var Marker = new google.maps.Marker({
@@ -2370,7 +2376,7 @@
               };
 
               var line = new google.maps.Polyline({
-                path: [{lat: 19.449240, lng: -99.084024}, {lat: 19.3940, lng: -99.2478}],
+                path: [{lat: 19.464738, lng: -99.056515}, {lat: 19.460569, lng: -99.063981}],
                 strokeOpacity: 0,
                 icons: [{
                   icon: lineSymbol5,
@@ -2381,7 +2387,18 @@
               });
 
               var line = new google.maps.Polyline({
-                path: [{lat: 19.464738, lng: -99.056515}, {lat: 19.460569, lng: -99.063981}],
+                path: [{lat: 19.449240, lng: -99.084024}, {lat: 19.427540502202717, lng: -99.2041548932367}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbol5,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapAragonSantaFe
+              });
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.427540502202717, lng: -99.2041548932367}, {lat: 19.392495, lng: -99.244277}],
                 strokeOpacity: 0,
                 icons: [{
                   icon: lineSymbol5,
