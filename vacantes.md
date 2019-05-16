@@ -425,19 +425,19 @@ id: vacantes
         </div>
       </div>
 
-      <!-- VACANTE 3 IOS -->
+      <!-- VACANTE 3 Admin / Finanzas -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
-            <img src="img/vacante-developerjr.png" width="60">
+            <img src="img/vacante-administracion.png" width="60">
           </div>
 
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Desarrollador/a móvil - iOS</p>
+                 Administración y Finanzas</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
@@ -451,19 +451,22 @@ id: vacantes
                 <p><b>RESPONSABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Como ingeniero/a de software estarás a cargo del desarrollo de la app de Jetty para iOS.</p>
+                    <p>Tomar decisiones sobre el uso eficiente de los recursos para alcanzar nuestros objetivos. </p>
                   </li>
                   <li>
-                    <p>Construir componentes y funcionalidades de la aplicación de Jetty para iOS.</p>
+                    <p>Desarrollar procesos para mejorar la administración general.</p>
                   </li>
                   <li>
-                    <p>Ayudar a mejorar la calidad del código mediante pruebas unitarias y automatización.</p>
+                    <p>Apoyar a los diferentes equipos con la información necesaria para la toma de decisiones. </p>
                   </li>
                   <li>
-                    <p>Trabajar con el equipo de diseño para entender los requerimientos del usuario final.</p>
+                    <p>Monitorear la salud financiera de la empresa.</p>
                   </li>
                   <li>
-                    <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación y seguimiento a los procesos de desarrollo de software.</p>
+                    <p>Contribuir a que la oficina funcione de la mejor manera mediante el seguimiento a procesos administrativos y el apoyo al personal.</p>
+                  </li>
+                  <li>
+                    <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación.</p>
                   </li>
                 </ul>
 
@@ -472,37 +475,52 @@ id: vacantes
                 <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
                 <ul>
                   <li>
-                    <p>Fundamentos sólidos de  Swift 4/5 y Xcode.</p>
+                    <p>Crear, actualizar y presentar presupuestos de la operación.</p>
                   </li>
                   <li>
-                    <p>Manejo de iOS Frameworks (CoreData, CoreAnimation, AVFoundation, etc).</p>
+                    <p>Identificar las necesidades de fondeo.</p>
                   </li>
                   <li>
-                    <p>Conocimiento de estándares de codificación iOS y Human Interface guidelines de Apple.</p>
+                    <p>Llevar control de ingresos y gastos. </p>
                   </li>
                   <li>
-                    <p>Conocimiento en el proceso de publicación en la App Store</p>
+                    <p>Revisar y presentar periódicamente los Estados Financieros.</p>
                   </li>
                   <li>
-                    <p>Experiencia con Cocoapods.</p>
+                    <p>Llevar la relación con bancos, equipo de contabilidad y nómina.</p>
                   </li>
                   <li>
-                    <p>Experiencia en programación orientada a objetos sobre el paradigma de Model View Controller.</p>
+                    <p>Establecer una política de reembolsos y llevar a cabo los procesos de reembolsos del equipo. </p>
                   </li>
                   <li>
-                    <p>Conocimiento en el consumo de Web services (REST)</p>
+                    <p>Establecer procesos de compras y llevar la relación con proveedores.</p>
                   </li>
                   <li>
-                    <p>Conocimiento de programación orientada a objetos o programación funcional y saber aplicarlos de manera eficiente.</p>
+                    <p>Dar seguimiento a pago de impuestos relacionados a la operación (Fondo de Movilidad).</p>
                   </li>
                   <li>
-                    <p>Conocimiento de Git y Github.</p>
+                    <p>Dar seguimiento a pago de facturas a proveedores.</p>
                   </li>
                   <li>
-                    <p>Haber participado en procesos de desarrollo de software empleando metodologías ágiles.</p>
+                    <p>Ser el vínculo administrativo con los socios en todo lo necesario.</p>
                   </li>
                   <li>
-                    <p>Dominio del idioma Inglés (hablado, escrito, y leído).</p>
+                    <p>Apoyar con procesos de reclutamiento y contrataciones.</p>
+                  </li>
+                  <li>
+                    <p>Hacer todo lo posible para que el equipo tenga lo necesario para trabajar (ej. gestionar compra de equipos de cómputo muebles y papelería), y darle seguimiento a solicitudes del equipo. </p>
+                  </li>
+                  <li>
+                    <p>Generar facturas y dar seguimiento a cuentas por cobrar.</p>
+                  </li>
+                  <li>
+                    <p>Apoyar los esfuerzos de las diferentes áreas.</p>
+                  </li>
+                  <li>
+                    <p>Apoyar a los diferentes equipos para generar los datos para la toma de decisiones.</p>
+                  </li>
+                  <li>
+                    <p>Dar seguimiento a altas y bajas de equipo.</p>
                   </li>
                 </ul>
 
@@ -511,19 +529,22 @@ id: vacantes
                 <p><b>HABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Excepcionales habilidades de comunicación. Es muy importante que el desarrollador esté en constante comunicación con el equipo de negocio para poder entender sus necesidades y proponer soluciones innovadoras a los problemas. </p>
-                  </li>
-                  <li>
-                    <p>Experiencia en el manejo de proyectos. </p>
+                    <p>Excepcionales habilidades de comunicación. </p>
                   </li>
                   <li>
                     <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
                   </li>
                   <li>
-                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. </p>
                   </li>
                   <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en un entorno de alto crecimiento / ágil.</p>
+                  </li>
+                  <li>
+                    <p>Capaz de trabajar por objetivos y bajo presión.</p>
                   </li>
                   <li>
                     <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
@@ -531,12 +552,47 @@ id: vacantes
                   <li>
                     <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
+                  <li>
+                    <p>Licenciatura terminada en administración, finanzas o afines.</p>
+                  </li>
+                  <li>
+                    <p>Mínimo 2 años de experiencia en puestos con responsabilidades administrativas similares.</p>
+                  </li>
+                  <li>
+                    <p>Manejo avanzado de herramientas de Office: Excel, Word, Power Point.</p>
+                  </li>
+                  <li>
+                    <p>Se privilegiaran los perfiles con buen inglés (escrito y hablado).</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>Principales Relaciones Internas y Externas.</b></p>
+                <ul>
+                  Relaciones internas:
+                  <li>
+                    <p>Interacción con todos los miembros del equipo para procesos de alta/baja de nómina y reembolsos.</p>
+                  </li>
+                  <li>
+                    <p>Interacción con equipo de administración de los socios.</p>
+                  </li>
+                  <li>
+                    <p>Reporte directo a CEO de Jetty y socios.</p>
+                  </li>
+                </ul>
+
+                <ul>
+                  Relaciones externas:
+                  <li>
+                    <p>Interacción con clientes, proveedores, aliados, etc.</p>
+                  </li>
                 </ul>
 
                 <br>
 
                 <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:jorge@jetty.mx?subject=Desarrollador/a iOS">jorge@jetty.mx</a> utilizando <b>“Desarrollador/a móvil - iOS”</b> como asunto del correo. Envíanos cualquier link que nos ayude a conocerte (github, linkedin, cv).</p>
+                <p>Escríbenos a <a href="mailto:cristina@jetty.mx?subject=Administración y finanzas">cristina@jetty.mx</a> utilizando <b>“Administración y finanzas”</b> como asunto del correo. Envíanos cualquier link o documento que nos ayude a conocerte (linkedin, cv).</p>
 
               </div>
             </div>
@@ -546,7 +602,7 @@ id: vacantes
       </div>
 
       <!-- VACANTE 4 Android -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -686,7 +742,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 5 -->
       <div class="panel panel-default vacante">
