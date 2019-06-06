@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El mapa de las rutas de Jetty, estilo líneas del metro"
+title:  "El mapa de las rutas de Jetty, estilo líneas del metro de la CDMX"
 date:   2019-06-06 15:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/rutas-jetty.png
@@ -15,7 +15,10 @@ Te presentamos nuestra cobertura como la red de las estaciones del metro para qu
 
 ![Jetty]({{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png)
 
-<a href="http://viaja.jetty.mx/lineasjetty" class="btn btn-green-small">Reserva un viaje</a>
+<div class="text-center">
+  <a href="http://viaja.jetty.mx/lineasjetty" class="btn btn-green">Reserva un viaje</a>
+</div>
+
 <br>
 Por cualquier duda adicional que tengas (tiempo de viaje o costos), te invitamos a preguntarnos por medio del chat. Con gusto te apoyaremos.
 
@@ -23,7 +26,9 @@ Por cualquier duda adicional que tengas (tiempo de viaje o costos), te invitamos
 <br>
 Te invitamos a dejarnos la información de tu origen y destino aquí:
 <br>
-<a href="http://viaja.jetty.mx/nuevo" class="btn btn-green-small">Pedir mi Jetty ideal</a>
+<div class="text-center">
+  <a href="http://viaja.jetty.mx/nuevo" class="btn btn-green">Pedir mi Jetty ideal</a>
+</div>
 
 Te avisaremos en cuanto tengamos un Jetty para ti.
 
