@@ -209,7 +209,7 @@ id: vacantes
                 <p><b>¿TE INTERESA?</b></p>
                 <ul>
                   <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                    <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=Atención a usuarios">liliana@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
                   </li>
                 </ul>
 
