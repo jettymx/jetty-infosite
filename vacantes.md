@@ -27,7 +27,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Ejecutivo de Soporte a clientes</p>
+                 Atención a usuarios</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_0" aria-expanded="false" aria-controls="collapse_0">
