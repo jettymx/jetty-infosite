@@ -16,7 +16,7 @@ id: vacantes
     <div class="col-md-10 col-md-offset-1 content-vacantes">
 
       <!-- VACANTE 1 -->
-      <!-- <div class="panel panel-default vacante">
+      <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -27,7 +27,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p><b>PUESTO</b><br>
-                 Ejecutivo de Soporte a clientes <b>AM</b></p>
+                 Ejecutivo de Soporte a clientes</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_0" aria-expanded="false" aria-controls="collapse_0">
@@ -40,7 +40,7 @@ id: vacantes
               <div class="descripcion">
                 <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
                 <br>
-                Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones, turno matutino.</p>
+                Ofrecer soporte a los usuarios de Jetty y al equipo de operaciones.</p>
 
                 <br>
 
@@ -179,7 +179,7 @@ id: vacantes
                     <p>Lunes a Viernes.</p>
                   </li>
                   <li>
-                    <p>Horario: 5am-2pm. </p>
+                    <p>Horario: 5:30am-9:30am y de 4pm-8pm </p>
                   </li>
                   <li>
                     <p>40 horas a la semana.</p>
@@ -209,7 +209,7 @@ id: vacantes
                 <p><b>¿TE INTERESA?</b></p>
                 <ul>
                   <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios turno matutino">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno matutino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios">hola@jetty.mx</a> utilizando <b>“Atención a usuarios”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
                   </li>
                 </ul>
 
@@ -218,7 +218,7 @@ id: vacantes
           </div>
 
         </div>
-      </div> -->
+      </div>
 
       <!-- VACANTE 2 A -->
       <!-- <div class="panel panel-default vacante">
