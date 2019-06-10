@@ -13,7 +13,9 @@ Revisa nuestra cobertura y aprovecha tu tiempo viajando con Jetty, la aplicació
 
 Te presentamos nuestra cobertura como la red de las estaciones del metro para que ubiques mejor nuestros servicios.
 
-![Jetty]({{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png)
+<a href="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" target="_blank">
+ <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png">
+</a>
 
 <div class="text-center">
   <a href="http://viaja.jetty.mx/lineasjetty" class="btn btn-green">Reserva un viaje</a>
