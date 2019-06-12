@@ -29,7 +29,9 @@ Acoxpa - Auditorio<br>
 Huipulco - Santa Fe<br>
 Toreo - Santa Fe<br>
 
-[Descarga la app para consultar los horarios][download]
+<div class="text-center">
+  <a href="https://viaja.jetty.mx/HorariosSVBus" class="btn btn-green">Descarga la app y Consulta los horarios</a>
+</div>
 <br>
 <br>
 
@@ -44,7 +46,4 @@ Toreo - Santa Fe<br>
  <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-svbus.png">
 </a>
 
-
-
 [svbus]:https://www.facebook.com/SVBusOficial
-[download]:https://viaja.jetty.mx/HorariosSVBus
