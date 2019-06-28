@@ -40,7 +40,7 @@ id: trabajo-conductor
 <div class="clearfix"></div>
 
 <div class="space-greenUp">
-  <img src="img/back-green-up.png">
+  <img src="img/back-green-up.png" style="margin-top: -1px">
 </div>
 
 <!-- <div class="container">
