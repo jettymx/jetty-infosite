@@ -152,7 +152,7 @@ id: quienes
           </a>
         </li>
         <li>
-          <a href="https://www.kcurveprize.org/2019-finalists" target="_blank">
+          <a href="https://www.kcurveprize.org" target="_blank">
             <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
           </a>
         </li>
