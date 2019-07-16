@@ -179,6 +179,23 @@ a.social-medium:hover{
   background: url('../img/redes.png') -145px -87px;
 }
 
+.social-linkedin{
+  width: 29px;
+  height: 29px;
+  padding: 0 !important;
+  margin-top: 20px;
+  margin-left: 10px;
+  display: inline-block;
+  background: url('../img/redes.png') 0 -116px;
+  background-size: 58px;
+  overflow: hidden;
+}
+
+a.social-linkedin:hover{
+  background: url('../img/redes.png') -145px -116px;
+  background-size: 58px;
+}
+
 
 .btn-green{
   border: none;
@@ -1844,7 +1861,7 @@ ul.testimoniales-blog li img{
     /*-webkit-animation-iteration-count: infinite;*/
   }
   .footer ul{
-    margin-left: 12%;
+    margin-left: 0;
     text-align: center;
   }
 

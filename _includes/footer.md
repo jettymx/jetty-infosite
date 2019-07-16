@@ -72,6 +72,9 @@
         <li class="social-mobile">
           <a href="https://medium.com/@jettymx" target="_blank" class="social-medium"></a>
         </li>
+        <li class="social-mobile">
+          <a href="https://mx.linkedin.com/company/jetty.mx" target="_blank" class="social-linkedin"></a>
+        </li>
       </ul>
     </div>
   </div>
