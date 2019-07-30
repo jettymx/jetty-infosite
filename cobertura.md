@@ -16,7 +16,7 @@ id: cobertura
      </div>
 
       <div>
-        <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" style="width: 100%">
+        <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" alt="Cobertura Jetty" style="width: 100%">
       </div>
     </div>
 
