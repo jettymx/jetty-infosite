@@ -156,6 +156,11 @@ id: quienes
             <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
           </a>
         </li>
+        <li>
+          <a href="https://www.mitinclusiveinnovation.com" target="_blank">
+            <img src="imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
+          </a>
+        </li>
       </ul>
     </div>
 
