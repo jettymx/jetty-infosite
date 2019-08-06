@@ -16,7 +16,7 @@ id: vacantes
     <div class="col-md-10 col-md-offset-1 content-vacantes">
 
       <!-- VACANTE 1 -->
-      <!-- <div class="panel panel-default vacante">
+      <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -218,7 +218,7 @@ id: vacantes
           </div>
 
         </div>
-      </div> -->
+      </div>
 
       <!-- VACANTE 2 A -->
       <!-- <div class="panel panel-default vacante">
