@@ -602,7 +602,7 @@ id: vacantes
       </div> -->
 
       <!-- VACANTE 4 Android -->
-      <!-- <div class="panel panel-default vacante">
+      <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -742,7 +742,7 @@ id: vacantes
           </div>
 
         </div>
-      </div> -->
+      </div>
 
       <!-- VACANTE 5 -->
       <div class="panel panel-default vacante">
