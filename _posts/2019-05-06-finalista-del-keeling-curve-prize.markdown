@@ -22,7 +22,22 @@ En <b>Jetty</b> estamos trabajando para crear y mejorar alternativas al auto. He
 
 Cada día son más usuarios y más socios transportistas utilizando nuestra plataforma. Muchas gracias por la confianza. La distinción como finalistas del Keeling Curve Prize es de todos ustedes. Juntos resolveremos problemas mucho más trascendentes que nuestros traslados diarios.
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="col-md-12 text-center" style="margin-top: 0px">
+  <ul class="alianzas">
+    <li>
+      <a href="https://www.kcurveprize.org" target="_blank">
+        <img src="{{site.baseurl}}/imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mitinclusiveinnovation.com" target="_blank">
+        <img src="{{site.baseurl}}/imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="col-md-12 embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rEbE5fcnFVs" allowfullscreen></iframe>
 </div>
 

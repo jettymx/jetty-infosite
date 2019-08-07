@@ -3546,7 +3546,7 @@
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
 
-        if (scroll >= 180) {
+        if (scroll >= 80) {
             header.removeClass('nav-background').addClass("nav-outback");
         } else {
             header.removeClass("nav-outback").addClass('nav-background');

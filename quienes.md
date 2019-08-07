@@ -24,51 +24,6 @@ id: quienes
 
 <div class="clearfix"></div>
 
-<!-- <div class="space-greenUp">
-  <img src="img/back-green-down.png">
-</div> -->
-
-<!-- <div class="nosotros">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h1>¿Quiénes somos?</h1>
-      </div>
-    </div>
-    <div class="row text-center equipo">
-      <div class="col-md-3">
-        <img src="img/Onesimo-Flores.jpg" alt="Onesimo Flores, Equipo Jetty">
-        <h3><strong>Onésimo Flores</strong></h3>
-        <p><strong>Socio fundador</strong></p>
-        <p>Fue académico de MIT y es experto en transporte y desarrollo urbano.</p>
-      </div>
-      <div class="col-md-3">
-        <img src="img/Diego-Guzman.jpg" alt="Diego Guzman, Equipo Jetty">
-        <h3><strong>Diego Guzman</strong></h3>
-        <p><strong>Director de Operaciones</strong></p>
-        <p>Trabajó en arrendadoras y es experto en mejoras de calidad y reingeniería de procesos.</p>
-      </div>
-      <div class="col-md-3">
-        <img src="img/Cristina-Palacios.jpg" alt="Cristina Palacios, Equipo Jetty">
-        <h3><strong>Cristina Palacios</strong></h3>
-        <p><strong>Socia y directora</strong></p>
-        <p>Fue directora y fundadora de Aventones. Socia de www.innku.com</p>
-      </div>
-      <div class="col-md-3">
-        <img src="img/Celestin-Soubrier.jpg" alt="Célestin Soubrier, Equipo Jetty">
-        <h3><strong>Célestin Soubrier</strong></h3>
-        <p><strong>Director de Marketing</strong></p>
-        <p>Fue director de marketing en México de la empresa más grande de viajes compartidos.</p><br>
-      </div>
-    </div>
-
-  </div>
-</div> -->
-
-<!-- <div class="space-greenUp">
-  <img src="img/back-green-up.png">
-</div> -->
-
 <div class="container alianzas-content">
   <div class="row">
     <div class="col-md-10 col-md-offset-1 text-center">
