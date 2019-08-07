@@ -98,16 +98,6 @@ id: quienes
           </a>
         </li>
         <li>
-          <a href="http://www.piplatam.com/" target="_blanck">
-            <img src="imgs-prensa/Logo-pip-Latam.png">
-          </a>
-        </li>
-        <li>
-          <a href="https://www.mheducation.com.mx" target="_blanck">
-            <img src="imgs-prensa/MHE-Logo.png">
-          </a>
-        </li>
-        <li>
           <a href="https://www.latamobility.com/" target="_blanck">
             <img src="imgs-prensa/latam-mobility.png">
           </a>
@@ -119,19 +109,44 @@ id: quienes
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
-          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio">
+          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" style="width: 140px">
         </li>
         <li>
           <img src="imgs-prensa/NEGRO.png">
         </li>
         <li>
           <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 300px;">
+            <img src="{{site.baseurl}}/imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
           </a>
         </li>
         <li>
           <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-            <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 80px;">
+            <img src="{{site.baseurl}}/imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 80px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.worldsummitawards.org" target="_blank">
+            <img src="{{site.baseurl}}/imgs-prensa/wsa_logo_2018_winner.png" alt="wsa winner 2018" style="width: 140px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://pitchawards.com" target="_blank">
+            <img src="{{site.baseurl}}/imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018" style="width: 160px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/leaders-in-innovation-fellowships" target="_blank">
+            <img src="{{site.baseurl}}/imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.kcurveprize.org" target="_blank">
+            <img src="{{site.baseurl}}/imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.mitinclusiveinnovation.com" target="_blank">
+            <img src="{{site.baseurl}}/imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
           </a>
         </li>
       </ul>

@@ -8,18 +8,6 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <!-- <div class="col-md-12">
-      <div class=" text-center">
-        <h2>Service Areas</h2>
-     </div>
-
-      <div>
-        <p><b>Ascenso <img src="../img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="../img/icon-descenso.png" width="18"></b></p>
-      </div>
-    </div>
-
-    <embed src="../mapa/mapa.html" class="mapaCobertura"> -->
-
     <div class="clearfix"></div>
 
     <div class="col-md-12">
