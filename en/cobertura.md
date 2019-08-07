@@ -8,7 +8,7 @@ id: cobertura
 <div class="container cobertura">
   <div class="row">
 
-    <div class="col-md-12">
+    <!-- <div class="col-md-12">
       <div class=" text-center">
         <h2>Service Areas</h2>
      </div>
@@ -18,10 +18,22 @@ id: cobertura
       </div>
     </div>
 
-    <embed src="../mapa/mapa.html" class="mapaCobertura">
+    <embed src="../mapa/mapa.html" class="mapaCobertura"> -->
+
+    <div class="clearfix"></div>
+
+    <div class="col-md-12">
+      <div class=" text-center">
+        <h2>Service Areas</h2>
+     </div>
+
+      <div>
+        <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" alt="Cobertura Jetty" style="width: 100%">
+      </div>
+    </div>
 
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
-      <h2>Explora nuestas rutas</h2>
+      <h2>Our routes</h2>
     </div>
 
     <div class="rutas">
