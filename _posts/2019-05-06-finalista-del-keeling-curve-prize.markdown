@@ -8,6 +8,8 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/keeling-curve-prize.png)
 
+<b>ACTUALIZACIÓN:</b> El 28 de junio se anunció la organización anunció que ¡Jetty ganó en la categoría de Transporte! El premio de USD $25,000 será utilizado para continuar con el crecimiento de la empresa y acelerar el desarrollo de nuestra tecnología (más info aquí: [www.kcurveprize.org][kcp])
+
 Acabamos de [recibir la noticia][noticia] de que Jetty es finalista para el [Keeling Curve Prize,][keeling] un premio otorgado a iniciativas con potencial de <b>“alterar y acelerar los esfuerzos actuales para reducir el calentamiento global”.</b>
 
 El premio es un homenaje a [Charles David Keeling,][charles] científico norteamericano que midió la concentración de CO2 en la atmósfera, comprobando una muy preocupante tendencia a la alza (que se refleja en la curva que lleva su nombre). En [este video][video] pueden ver más sobre la Curva de Keeling.
@@ -24,6 +26,7 @@ Cada día son más usuarios y más socios transportistas utilizando nuestra plat
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rEbE5fcnFVs" allowfullscreen></iframe>
 </div>
 
+[kcp]:https://www.kcurveprize.org
 [noticia]:https://www.kcurveprize.org/2019-finalists
 [keeling]:https://www.kcurveprize.org
 [charles]:https://es.m.wikipedia.org/wiki/Charles_David_Keeling
@@ -33,3 +36,4 @@ Cada día son más usuarios y más socios transportistas utilizando nuestra plat
 [ong2]:https://greengasmovement.org
 [genera]:https://greengasmovement.org
 [grafica]:https://data.worldbank.org/indicator/EN.CO2.TRAN.ZS?contextual=aggregate&end=2014&locations=MX&start=1972&view=chart
+
