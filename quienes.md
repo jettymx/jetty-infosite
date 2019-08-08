@@ -13,8 +13,6 @@ id: quienes
         <div class="col-md-10">
           <h1>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso.</h1>
           <h2>Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</h2>
-          <!-- <h1>Creamos e implementamos soluciones tecnológicas para eficientar y mejorar la calidad del transporte.</h1>
-          <h2>Nuestro objetivo es mejorar la experiencia del pasajero al mismo tiempo que mejoramos la rentabilidad del empresario de transporte colectivo.</h2>-->
           <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
         </div>
       </div>
@@ -26,43 +24,8 @@ id: quienes
 
 <div class="container alianzas-content">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1 text-center">
-      <h1>Alianzas</h1>
-      <ul class="alianzas">
-        <li>
-          <a href="http://xibalbafestival.com" target="_blanck">
-            <img src="imgs-prensa/logo-xibalba.png">
-          </a>
-        </li>
-        <li>
-          <a href="https://courses.platzi.com" target="_blanck">
-            <img src="imgs-prensa/platzi.png">
-          </a>
-        </li>
-        <li>
-          <a href="#" target="_blanck">
-            <img src="imgs-prensa/conecta-cuatro.png">
-          </a>
-        </li>
-        <li>
-          <a href="http://impact0.org/" target="_blanck">
-            <img src="imgs-prensa/impacto.jpg">
-          </a>
-        </li>
-        <li>
-          <a href="http://mexicotravesias.com" target="_blanck">
-            <img src="imgs-prensa/LOGO_TM.jpg">
-          </a>
-        </li>
-        <li>
-          <a href="https://www.latamobility.com/" target="_blanck">
-            <img src="imgs-prensa/latam-mobility.png">
-          </a>
-        </li>
-      </ul>
-    </div>
 
-    <div class="col-md-12 text-center" style="margin-top: 50px">
+    <div class="col-md-12 text-center">
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
@@ -109,14 +72,7 @@ id: quienes
       </ul>
     </div>
 
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div class="container reconocimientos">
-  <div class="row">
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center" style="margin-top: 50px">
       <h1>Jetty en la prensa</h1>
       <ul class="alianzas">
         <li>
@@ -137,9 +93,47 @@ id: quienes
       </ul>
       <a href="/prensa" class="btn btn-green">Prensa</a>
     </div>
+
+    <div class="col-md-10 col-md-offset-1 text-center"  style="margin-top: 80px">
+      <h1>Alianzas</h1>
+      <ul class="alianzas">
+        <li>
+          <a href="http://xibalbafestival.com" target="_blanck">
+            <img src="imgs-prensa/logo-xibalba.png">
+          </a>
+        </li>
+        <li>
+          <a href="https://courses.platzi.com" target="_blanck">
+            <img src="imgs-prensa/platzi.png">
+          </a>
+        </li>
+        <li>
+          <a href="#" target="_blanck">
+            <img src="imgs-prensa/conecta-cuatro.png">
+          </a>
+        </li>
+        <li>
+          <a href="http://impact0.org/" target="_blanck">
+            <img src="imgs-prensa/impacto.jpg">
+          </a>
+        </li>
+        <li>
+          <a href="http://mexicotravesias.com" target="_blanck">
+            <img src="imgs-prensa/LOGO_TM.jpg">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.latamobility.com/" target="_blanck">
+            <img src="imgs-prensa/latam-mobility.png">
+          </a>
+        </li>
+      </ul>
+    </div>
+
   </div>
 </div>
 
+<div class="clearfix"></div>
 
 <div class="container mobility">
   <div class="row">
