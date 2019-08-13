@@ -633,9 +633,6 @@ id: vacantes
                     <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación y seguimiento a los procesos de desarrollo de software.</p>
                   </li>
                   <li>
-                    <p>Ayudar a mejorar la calidad del código mediante pruebas unitarias y automatización.</p>
-                  </li>
-                  <li>
                     <p>Hacer el diseño conceptual y técnico de las soluciones en base a requerimientos de Jetty.</p>
                   </li>
                   <li>
@@ -661,7 +658,7 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Conocimiento profundo del SDK de Android, sus diferentes versiones, y sobre cómo desarrollar para diferentes tamaños de pantalla.</p>
+                    <p>Conocimiento del SDK de Android, sus diferentes versiones, y sobre cómo desarrollar para diferentes tamaños de pantalla.</p>
                   </li>
 
                   <li>
@@ -677,19 +674,11 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Experiencia utilizando frameworks de Android para manipulación de sensores y gráficos.</p>
+                    <p>Experiencia con APIs tipo REST.</p>
                   </li>
 
                   <li>
-                    <p>Experiencia con almacenamiento offline, cómputo paralelo y optimización de rendimiento en Android.</p>
-                  </li>
-
-                  <li>
-                    <p>Conocimiento avanzado de arquitectura y diseño de aplicaciones móviles distribuidas con el apoyo de REST APIs.</p>
-                  </li>
-
-                  <li>
-                    <p>Experiencia publicando código para Android en producción mediante el Play Store de Google.</p>
+                    <p>Experiencia publicando aplicaciones en el Play Store de Google.</p>
                   </li>
 
                   <li>
@@ -699,10 +688,6 @@ id: vacantes
                   <li>
                     <p>Haber participado en procesos de desarrollo de software empleando metodologías ágiles.</p>
                   </li>
-
-                  <li>
-                    <p>Dominio del idioma Inglés (hablado, escrito, y leído).</p>
-                  </li>
                 </ul>
 
                 <br>
@@ -710,16 +695,16 @@ id: vacantes
                 <p><b>HABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Excepcionales habilidades de comunicación. Es muy importante que el desarrollador esté en constante comunicación con el equipo de negocio para poder entender sus necesidades y proponer soluciones innovadoras a los problemas. </p>
+                    <p>Excepcionales habilidades de comunicación. Es muy importante que el/la desarrollador/a esté en constante comunicación con el equipo de negocio para poder entender sus necesidades y proponer soluciones innovadoras a los problemas</p>
                   </li>
                   <li>
-                    <p>Experiencia en el manejo de proyectos. </p>
+                    <p>Experiencia en el manejo de proyectos.</p>
                   </li>
                   <li>
                     <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
                   </li>
                   <li>
-                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
                   <li>
                     <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
