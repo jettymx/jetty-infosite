@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mapa líneas metro metrobus trolebus rtp"
-date:   2019-08-16 15:00:00
+date:   2019-08-16 12:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/movilidad-integrada-CDMX-Jetty.png
 categories: update
