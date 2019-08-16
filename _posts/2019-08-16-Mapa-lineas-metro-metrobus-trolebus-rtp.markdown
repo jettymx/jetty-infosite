@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Mapa líneas metro metrobus trolebus rtp"
+title:  "Mapa con todas las líneas del metro, metrobús, trolebús, rutas RTP, y las mejores rutas para llegar a Santa Fe y Polanco"
 date:   2019-08-16 12:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/movilidad-integrada-CDMX-Jetty.png
 categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/movilidad-integrada-CDMX-Jetty.png)
-
-Mapa con todas las líneas del metro, metrobús, trolebús, rutas RTP, y las mejores rutas para llegar a Santa Fe y Polanco
 
 Hace poco la Secretaría de Movilidad de la Ciudad de México presentó un mapa que muestra, en una sola imagen, las rutas y estaciones del Metro, Metrobús, Cablebús, Trolebús, RTP (Red de Transporte de Pasajeros), Mexibús y Tren Suburbano. El mapa hace mucho más fácil navegar una ciudad tan compleja como la nuestra, mostrando las opciones de transbordo y las áreas que son accesibles con transporte colectivo.
 
