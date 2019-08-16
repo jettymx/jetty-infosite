@@ -12,7 +12,7 @@ id: cobertura
 
     <div class="col-md-12">
       <div class=" text-center">
-        <h2>Nuestra de Cobertura</h2>
+        <h2>Nuestra Cobertura</h2>
      </div>
 
       <div>
