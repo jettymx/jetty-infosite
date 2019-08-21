@@ -180,6 +180,11 @@
                   center: new google.maps.LatLng(19.3500, -99.2300),
                   styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
+              var mapPuebla1 = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.076433, -98.243783),
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
+
 
               var mapElement = document.getElementById('map_canvas');
               var mapNortePolanco = new google.maps.Map(mapElement, NortePolanco);
@@ -261,6 +266,9 @@
 
               var mapElementTaxiElectrico1 = document.getElementById('map_canvas_TaxiElectrico1');
               var mapCibelesSantafe = new google.maps.Map(mapElementTaxiElectrico1, CibelesSantafe);
+
+              var mapElementPuebla1 = document.getElementById('map_canvas_Puebla1');
+              var mapPuebla1 = new google.maps.Map(mapElementPuebla1, mapPuebla1);
 
               // Marker points
               var image = {
@@ -1286,6 +1294,19 @@
               var Marker = new google.maps.Marker({
                 position: {lat: 19.35790509, lng: -99.27636846},
                 map: mapRutasUnidas1,
+                icon: destiny
+              });
+
+              // Puebla 1 Angelopolis
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.353294, lng: -99.176412},
+                map: mapPuebla1,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.35790509, lng: -99.27636846},
+                map: mapPuebla1,
                 icon: destiny
               });
 

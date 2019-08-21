@@ -13,214 +13,249 @@ id: cobertura
     <div class="col-md-12">
       <div class=" text-center">
         <h2>Nuestra Cobertura</h2>
-     </div>
-
-      <div>
-        <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" alt="Cobertura Jetty" style="width: 100%">
       </div>
+
+      <div class="col-md-12">
+
+        <ul class="nav nav-tabs" role="tablist">
+          <li role="presentation" class="active"><a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a></li>
+          <li role="presentation"><a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="cdmx">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" alt="Cobertura Jetty CDMX" style="width: 100%">
+            </div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="puebla">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-Puebla.jpg" alt="Cobertura Jetty Puebla" style="width: 100%">
+            </div>
+          </div>
+        </div>
+
+      </div>
+
     </div>
 
-
+    <!-- Rutas -->
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
-      <h2>Explora nuestas rutas</h2>
+      <h2>Explora nuestras rutas</h2>
     </div>
-
-    <div class="rutas">
-
-      <ul class="nuevas-rutas">
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta6" class="btn-ruta">
-              <h4 class="panel-title">Aragón <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus1" class="btn-ruta">
-              <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus2" class="btn-ruta">
-              <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta11" class="btn-ruta">
-              <h4 class="panel-title">Azcapotzalco/Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta12" class="btn-ruta">
-              <h4 class="panel-title">Coacalco/Satélite <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco/Reforma</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta1" class="btn-ruta">
-              <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta2" class="btn-ruta">
-              <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#taxis1" class="btn-ruta">
-              <h4 class="panel-title">Cibeles/Sevilla <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus4" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <!-- <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus5" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe</h4>
-            </button>
-          </div>
-        </li> -->
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus6" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus10" class="btn-ruta">
-              <h4 class="panel-title">Huipulco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
-              <h4 class="panel-title">Juanacatlán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus8" class="btn-ruta">
-              <h4 class="panel-title">La Joya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-ruta">
-              <h4 class="panel-title">Mixcoac <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta9" class="btn-ruta">
-              <h4 class="panel-title">M. Chabacano/Condesa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta7" class="btn-ruta">
-              <h4 class="panel-title">Parque de los venados/Del Valle <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta8" class="btn-ruta">
-              <h4 class="panel-title">Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus9" class="btn-ruta">
-              <h4 class="panel-title">Pedregal <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta4" class="btn-ruta">
-              <h4 class="panel-title">Reforma <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <!-- <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta14" class="btn-ruta">
-              <h4 class="panel-title">Tacubaya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li> -->
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus3" class="btn-ruta">
-              <h4 class="panel-title">Toreo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaUnidas1" class="btn-ruta">
-              <h4 class="panel-title">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta3" class="btn-ruta">
-              <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta5" class="btn-ruta">
-              <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-
-      </ul>
-
-    </div>
-
-    <!-- <div class="clearfix"></div>
 
     <div class="col-md-12">
-      <div class=" text-center">
-        <h2>Mapa de Cobertura</h2>
-     </div>
 
-      <div>
-        <p><b>Ascenso <img src="img/icon-ascenso.png" width="18" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="18"></b></p>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active"><a href="#rutascdmx" aria-controls="rutascdmx" role="tab" data-toggle="tab"><b>RUTAS CDMX</b></a></li>
+        <!-- <li role="presentation"><a href="#rutaspuebla" aria-controls="rutaspuebla" role="tab" data-toggle="tab"><b>RUTAS PUEBLA</b></a></li> -->
+      </ul>
+
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="rutascdmx">
+          <div class="rutas">
+
+            <ul class="nuevas-rutas">
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta6" class="btn-ruta">
+                    <h4 class="panel-title">Aragón <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus1" class="btn-ruta">
+                    <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus2" class="btn-ruta">
+                    <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta11" class="btn-ruta">
+                    <h4 class="panel-title">Azcapotzalco/Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta12" class="btn-ruta">
+                    <h4 class="panel-title">Coacalco/Satélite <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco/Reforma</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta1" class="btn-ruta">
+                    <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-express.svg" width="60" ></h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta2" class="btn-ruta">
+                    <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#taxis1" class="btn-ruta">
+                    <h4 class="panel-title">Cibeles/Sevilla <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus4" class="btn-ruta">
+                    <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus6" class="btn-ruta">
+                    <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus10" class="btn-ruta">
+                    <h4 class="panel-title">Huipulco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
+                    <h4 class="panel-title">Juanacatlán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus8" class="btn-ruta">
+                    <h4 class="panel-title">La Joya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-ruta">
+                    <h4 class="panel-title">Mixcoac <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta9" class="btn-ruta">
+                    <h4 class="panel-title">M. Chabacano/Condesa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta7" class="btn-ruta">
+                    <h4 class="panel-title">Parque de los venados/Del Valle <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta8" class="btn-ruta">
+                    <h4 class="panel-title">Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus9" class="btn-ruta">
+                    <h4 class="panel-title">Pedregal <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta4" class="btn-ruta">
+                    <h4 class="panel-title">Reforma <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaSVBus3" class="btn-ruta">
+                    <h4 class="panel-title">Toreo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#rutaUnidas1" class="btn-ruta">
+                    <h4 class="panel-title">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta3" class="btn-ruta">
+                    <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#ruta5" class="btn-ruta">
+                    <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+                  </button>
+                </div>
+              </li>
+
+            </ul>
+
+          </div>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="rutaspuebla">
+          <div class="rutas">
+
+            <ul class="nuevas-rutas">
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#puebla1" class="btn-ruta">
+                    <h4 class="panel-title">Angelópolis <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#puebla2" class="btn-ruta">
+                    <h4 class="panel-title">Cholula <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+                  </button>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4">
+                  <button type="button" data-toggle="modal" data-target="#puebla3" class="btn-ruta">
+                    <h4 class="panel-title">Cuautlancingo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+                  </button>
+                </div>
+              </li>
+            </ul>
+
+          </div>
+        </div>
       </div>
-    </div> -->
 
-    <!-- <embed src="mapa/mapa.html" class="mapaCobertura"> -->
+    </div>
+
 
     <div class="clearfix"></div>
 
@@ -1476,6 +1511,100 @@ id: cobertura
           <li>
             <img src="img/icon-descenso.png" width="10">
             <b>Samara</b> - <i>Av. Santa Fe esquina Antonio Dovali Jaime</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- /// MODAL 1 Puebla /// -->
+<div class="modal fade" id="puebla1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Angelópolis <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla1" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 2 Puebla /// -->
+<div class="modal fade" id="puebla2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Cholula <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla2" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 3 Puebla /// -->
+<div class="modal fade" id="puebla3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Cuautlancingo <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla3" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
