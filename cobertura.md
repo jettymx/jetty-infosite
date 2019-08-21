@@ -19,7 +19,7 @@ id: cobertura
 
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a></li>
-          <!-- <li role="presentation"><a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a></li> -->
+          <li role="presentation"><a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a></li>
         </ul>
 
         <div class="tab-content">
@@ -48,7 +48,7 @@ id: cobertura
 
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#rutascdmx" aria-controls="rutascdmx" role="tab" data-toggle="tab"><b>SERVICIOS CDMX</b></a></li>
-        <li role="presentation"><a href="#rutaspuebla" aria-controls="rutaspuebla" role="tab" data-toggle="tab"><b>SERVICIOS PUEBLA</b></a></li>
+        <!-- <li role="presentation"><a href="#rutaspuebla" aria-controls="rutaspuebla" role="tab" data-toggle="tab"><b>SERVICIOS PUEBLA</b></a></li> -->
       </ul>
 
       <div class="tab-content">
