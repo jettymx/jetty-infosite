@@ -13,7 +13,7 @@ Si vives en Lomas de Angelópolis, San Andrés Cholula o Cuautlancingo, y trabaj
 <ol>
   <li>Descargar nuestra app en www.jetty.mx</li>
   <li>Dar de alta tus detalles</li>
-  <li>Ingresar tu origen y destino</li>
+  <li>Dar de alta tu origen y destino</li>
   <li>Seleccionar el horario que te acomoda</li>
   <li>Hacer tu reserva</li>
 </ol>
