@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jetty | Soluciona El Transporte de Personal de tu Empresa
-description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu transporte empresarial. Sin plazo forzoso ni presupuesto mínimo.
+title: Jetty | Explora Nuestras Rutas
+description: Consulta nuestra cobertura y nuestros horarios de operaciones en la Ciuda de Puebla.
 id: diafi
 ---
 
