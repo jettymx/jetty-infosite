@@ -2005,10 +2005,21 @@ ul.testimoniales-blog li img{
     height: 700px;
   }
 
+  figure.landing{
+    height: 300px;
+  }
+
   figure.header img.back {
     width: 450%;
     position: relative;
     left: -50%;
+  }
+
+  figure.landing img.back {
+    width: 450%;
+    position: relative;
+    left: -50%;
+    top: -380px;
   }
 
   figure.header-quienes{
