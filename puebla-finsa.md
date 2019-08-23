@@ -13,6 +13,10 @@ id: puebla-finsa
       <img src="{{site.baseurl}}/img/beneficios-landing.jpg" width="100%" style="margin-top: 50px;">
     </div>
 
+    <div class="col-md-12 text-center">
+      <a href="http://jty.mx/explanadaDiafi" class="btn btn-default btn-green">Reservar viaje</a>
+    </div>
+
     <div class="col-md-12">
       <img src="{{site.baseurl}}/img/Mapa-Rutas-Puebla-Landing.jpg" width="90%" style="margin-bottom: 20px;">
     </div>
