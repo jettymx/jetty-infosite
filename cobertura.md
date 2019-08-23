@@ -48,7 +48,7 @@ id: cobertura
 
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#rutascdmx" aria-controls="rutascdmx" role="tab" data-toggle="tab"><b>SERVICIOS CDMX</b></a></li>
-        <!-- <li role="presentation"><a href="#rutaspuebla" aria-controls="rutaspuebla" role="tab" data-toggle="tab"><b>SERVICIOS PUEBLA</b></a></li> -->
+        <li role="presentation"><a href="#rutaspuebla" aria-controls="rutaspuebla" role="tab" data-toggle="tab"><b>SERVICIOS PUEBLA</b></a></li>
       </ul>
 
       <div class="tab-content">
@@ -1542,11 +1542,52 @@ id: cobertura
           <p><b>Paradas de esta ruta</b></p>
           <li>
             <img src="img/icon-ascenso.png" width="10">
-            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+            <b>Parque Mariposas Zona Azul</b> - <i>Lomas de Angelópolis, Tlaxcalancingo.d</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Glorieta Dominó</b> - <i>Gran Boulevard, Lomas de Angelópolis, Tlaxcalancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Oxxo Angelopolis</b> - <i>Boulevard de los Reyes, Av del Castillo 1, Lomas de Angelópolis</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
-            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
           </li>
         </ul>
 
@@ -1573,11 +1614,52 @@ id: cobertura
           <p><b>Paradas de esta ruta</b></p>
           <li>
             <img src="img/icon-ascenso.png" width="10">
-            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+            <b>Plaza Sur</b> - <i>Carr Izucar de Matamoros 5003, Jardines de San Carlos, Emiliano Zapata.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Puente UDLAP</b> - <i>Esq. Periferico con Calz. del Ciprés s/n, Residencial Real de Cholula. </i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Puente Carcaña, Oxxo Periferico Oriente</b> - <i>Anillo Perif. Ecológico 3220, Santiago Momoxpan, 72775 San Andrés Cholula.</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
-            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
           </li>
         </ul>
 
@@ -1604,11 +1686,52 @@ id: cobertura
           <p><b>Paradas de esta ruta</b></p>
           <li>
             <img src="img/icon-ascenso.png" width="10">
-            <b>Viveros (OD)</b> - <i>Frente a Office Depot de Av. Universidad</i>
+            <b>Deportivo San Jose, Cuautlancingo</b> - <i>Barrio del Perdón, San Juan Cuautlancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Mercado Municipal, Cuautlancingo</b> - <i>Av México - Puebla, Barrio del Calvario, San Juan Cuautlancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Bodega Aurrera, Cuautlancingo</b> - <i>Av México - Puebla, Barrio del Calvario,San Juan Cuautlancingo.</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
-            <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
           </li>
         </ul>
 

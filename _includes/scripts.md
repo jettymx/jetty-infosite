@@ -185,6 +185,16 @@
                   center: new google.maps.LatLng(19.076433, -98.243783),
                   styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
 
+              var mapPuebla2 = {
+                  zoom: 12,
+                  center: new google.maps.LatLng(19.076433, -98.243783),
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
+
+              var mapPuebla3 = {
+                  zoom: 13,
+                  center: new google.maps.LatLng(19.1100, -98.2600),
+                  styles: [{"featureType": "all","elementType": "all","stylers": [{"saturation": "-100"}]}]};
+
 
               var mapElement = document.getElementById('map_canvas');
               var mapNortePolanco = new google.maps.Map(mapElement, NortePolanco);
@@ -269,6 +279,12 @@
 
               var mapElementPuebla1 = document.getElementById('map_canvas_Puebla1');
               var mapPuebla1 = new google.maps.Map(mapElementPuebla1, mapPuebla1);
+
+              var mapElementPuebla2 = document.getElementById('map_canvas_Puebla2');
+              var mapPuebla2 = new google.maps.Map(mapElementPuebla2, mapPuebla2);
+
+              var mapElementPuebla3 = document.getElementById('map_canvas_Puebla3');
+              var mapPuebla3 = new google.maps.Map(mapElementPuebla3, mapPuebla3);
 
               // Marker points
               var image = {
@@ -1299,14 +1315,190 @@
 
               // Puebla 1 Angelopolis
               var Marker = new google.maps.Marker({
-                position: {lat: 19.353294, lng: -99.176412},
+                position: {lat: 18.973944, lng: -98.285056},
+                map: mapPuebla1,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 18.992093, lng: -98.276311},
+                map: mapPuebla1,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.005912, lng: -98.265378},
                 map: mapPuebla1,
                 icon: image
               });
 
               var Marker = new google.maps.Marker({
-                position: {lat: 19.35790509, lng: -99.27636846},
+                position: {lat: 19.1200251, lng: -98.244528},
                 map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1179088, lng: -98.2413747},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1193933, lng: -98.2388493},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1169524, lng: -98.2399528},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1138589, lng: -98.2415317},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1121169, lng: -98.243385},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1115492, lng: -98.2457024},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.11351, lng: -98.247794},
+                map: mapPuebla1,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.119484, lng: -98.255644},
+                map: mapPuebla1,
+                icon: destiny
+              });
+
+              // Puebla 2 Cholula
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.033298, lng: -98.262718},
+                map: mapPuebla2,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.05157, lng: -98.278071},
+                map: mapPuebla2,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.06848, lng: -98.276645},
+                map: mapPuebla2,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1200251, lng: -98.244528},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1179088, lng: -98.2413747},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1193933, lng: -98.2388493},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1169524, lng: -98.2399528},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1138589, lng: -98.2415317},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1121169, lng: -98.243385},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1115492, lng: -98.2457024},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.11351, lng: -98.247794},
+                map: mapPuebla2,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.119484, lng: -98.255644},
+                map: mapPuebla2,
+                icon: destiny
+              });
+
+              // Puebla 3 Cuautlancingo
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.086796, lng: -98.265602},
+                map: mapPuebla3,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.094434, lng: -98.269991},
+                map: mapPuebla3,
+                icon: image
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.107076, lng: -98.277296},
+                map: mapPuebla3,
+                icon: image
+              });
+
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1200251, lng: -98.244528},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1179088, lng: -98.2413747},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1193933, lng: -98.2388493},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1169524, lng: -98.2399528},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1138589, lng: -98.2415317},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1121169, lng: -98.243385},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.1115492, lng: -98.2457024},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.11351, lng: -98.247794},
+                map: mapPuebla3,
+                icon: destiny
+              });
+              var Marker = new google.maps.Marker({
+                position: {lat: 19.119484, lng: -98.255644},
+                map: mapPuebla3,
                 icon: destiny
               });
 
@@ -3478,6 +3670,61 @@
                   repeat: '20px'
                 }],
                 map: mapRutasUnidas1
+              });
+
+
+              // Line Puebla1 Angelopolis - Finsa
+              var lineSymbolPuebla1 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.005912, lng: -98.265378}, {lat: 19.11351, lng: -98.247794}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolPuebla1,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapPuebla1
+              });
+
+              // Line Puebla2 Cholula - Finsa
+              var lineSymbolPuebla2 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.06848, lng: -98.276645}, {lat: 19.11351, lng: -98.247794}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolPuebla2,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapPuebla2
+              });
+
+              // Line Puebla3 Cholula - Finsa
+              var lineSymbolPuebla3 = {
+                path: 'M 0,-1 0,1',
+                strokeOpacity: 0.5,
+                scale: 4
+              };
+
+              var line = new google.maps.Polyline({
+                path: [{lat: 19.107076, lng: -98.277296}, {lat: 19.11351, lng: -98.247794}],
+                strokeOpacity: 0,
+                icons: [{
+                  icon: lineSymbolPuebla3,
+                  offset: '0',
+                  repeat: '20px'
+                }],
+                map: mapPuebla3
               });
 
           }
