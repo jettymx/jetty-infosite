@@ -1063,7 +1063,7 @@ id: vacantes
       </div>
 
       <!-- VACANTE 7 -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -1268,7 +1268,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
 
     </div>
