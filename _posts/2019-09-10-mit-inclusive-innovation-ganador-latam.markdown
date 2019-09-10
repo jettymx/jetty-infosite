@@ -26,7 +26,7 @@ Les contamos también esta historia dual desde la perspectiva de los transportis
 
 Obviamente seguimos puliendo el modelo, pero en los dos años que llevamos operando hemos demostrado que SÍ es posible construir un mejor sistema para todos. Estamos a pocas semanas de vender nuestro asiento número 1 millón, y algunos de los transportistas que trabajan con nosotros han triplicado sus ingresos. Ganemos o no en el MIT en noviembre, compartimos desde hoy la distinción de ser finalistas con todos nuestros usuarios y socios transportistas. Gracias por su confianza. Juntos construiremos un futuro mejor conectado y mucho más inclusivo.
 
-<div class="embed-responsive embed-responsive-4by3">
+<div class="embed-responsive embed-responsive-6by9">
   <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1_NjFZm3-Rj26kMiKtLDT5O3LXxeuvFdY/preview"></iframe>
 </div>
 
