@@ -10,9 +10,10 @@ categories: update
 
 <i>“Escuchamos que gente de menores ingresos en México finalmente puede descifrar cuál es la manera más segura para ir a trabajar, y tiene la habilidad de dar retroalimentación instantánea -alertar a la compañía, calificar al chófer- si ese viaje no funcionó tan bien. Yo creo que eso es fantástico…. En la era de Uber y Lyft, tengo formas increíblemente poderosas, formas increíblemente buenas para alertar a las compañías, para contarle a alguien de mis malas experiencias. Lo que escuché esta tarde de Jetty, es que esa habilidad está desplazándose hacia abajo en la pirámide, y ampliándose a mucha más gente. ¿Por qué un mecanismo para alertar a alguien de una mala experiencia debería mantenerse reservada para la gente rica en el mundo rico?”</i>
 
-<b>Andrew McAfee</b><br>
-co-director de la Iniciativa para la Economía Digital del Instituto Tecnológico de Massachusetts,
-durante la ceremonia de premiación del Desafío de Innovación Inclusiva.
+<small>
+ <b>Andrew McAfee</b><br>
+  co-director de la Iniciativa para la Economía Digital del Instituto Tecnológico de Massachusetts, durante la ceremonia de premiación del Desafío de Innovación Inclusiva.
+</small>
 
 El pasado martes, Jetty fue seleccionado para representar a Latinoamérica en el [Desafío de Innovación Inclusiva][mit] promovido por la [Iniciativa para la Economía Digital][economia] del MIT. Este concurso busca identificar y acelerar empresas que están construyendo el “Futuro del Trabajo”. No se refieren a aquel futuro distópico en que un ejército de drones y robots nos roban “la chamba”, sino de uno en el que la tecnología ayuda a cerrar brechas sociales y a generar nuevas oportunidades, incluídas para los que menos tienen. Más de 1600 empresas de más de 100 países respondieron a la convocatoria del MIT este año, todas con ideas y proyectos fascinantes. El próximo 21 de Noviembre las 20 empresas finalistas, ganadoras de las cinco etapas regionales, competiremos en Cambridge, Massachusetts por una bolsa de 1 millón de dólares.
 
