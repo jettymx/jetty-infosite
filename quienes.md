@@ -29,14 +29,23 @@ id: quienes
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
-          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" style="width: 140px">
+          <a href="https://www.raeng.org.uk/grants-and-prizes/grants/international-research-and-collaborations/newton-fund-programmes/leaders-innovation-fellowships" target="_blank">
+            <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+          </a>
         </li>
         <li>
-          <img src="imgs-prensa/NEGRO.png">
+          <a href="https://www.kcurveprize.org" target="_blank">
+            <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
+          </a>
         </li>
         <li>
-          <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
+          <a href="https://www.mitinclusiveinnovation.com" target="_blank">
+            <img src="imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.mitinclusiveinnovation.com/regions/latin-america/" target="_blank">
+            <img src="imgs-prensa/MIT-Income.jpg" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
           </a>
         </li>
         <li>
@@ -55,18 +64,14 @@ id: quienes
           </a>
         </li>
         <li>
-          <a href="https://www.raeng.org.uk/grants-and-prizes/grants/international-research-and-collaborations/newton-fund-programmes/leaders-innovation-fellowships" target="_blank">
-            <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
-          </a>
+          <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" style="width: 140px">
         </li>
         <li>
-          <a href="https://www.kcurveprize.org" target="_blank">
-            <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px;">
-          </a>
+          <img src="imgs-prensa/NEGRO.png">
         </li>
         <li>
-          <a href="https://www.mitinclusiveinnovation.com" target="_blank">
-            <img src="imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
+          <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
+            <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
           </a>
         </li>
       </ul>
