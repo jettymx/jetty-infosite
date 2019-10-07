@@ -411,6 +411,61 @@ img.img-como-funciona{
   width: 100%;
 }
 
+/*////// INDEX V2 //////*/
+.gradient{
+  background: rgb(75,191,167);
+  background: linear-gradient(90deg, rgba(75,191,167,1) 0%, rgba(51,183,207,1) 100%);
+  clear: both;
+}
+
+.gradient h1{
+  color: white
+}
+
+.gradient p{
+  color: white
+}
+
+.amenidad h3{
+  color: white
+  font-weight: 800 !important;
+}
+
+.lottie-trasnporte{
+ /* width: 800px;
+  height: 700px;*/
+  margin: 0 auto;
+}
+
+.header-index{
+margin-bottom: 50px;
+}
+
+.header-text{
+  margin-top: 140px;
+}
+
+.como{
+  margin-top: 80px;
+}
+
+.info-1{
+  position: absolute;
+  top: 160px;
+  left: 350px
+}
+
+.info-2{
+  position: absolute;
+  top: 300px;
+  right: 350px
+}
+
+.testimonios{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 /*////// DESCARGA LA APP //////*/
 p.text-downapp{
   color: #4bbea8;

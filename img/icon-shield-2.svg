@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.528" height="110.628" viewBox="0 0 85.528 110.628">
+  <g id="icon-shield" transform="translate(-28.136 -15.536)">
+    <path id="Path_1" data-name="Path 1" d="M70.9,124.4s-41-19.2-41-42.6V29.2l41-11.9,41,11.9V81.8C111.9,105.2,70.9,124.4,70.9,124.4Z" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.528" opacity="0.7"/>
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_2" data-name="Path 2" d="M89.3,77l-8.5-3.2,8-3.9,2.6,1Z" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+      <line id="Line_1" data-name="Line 1" y2="14.2" transform="translate(54.5 71.4)" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+      <line id="Line_2" data-name="Line 2" x2="5.8" transform="translate(54.5 78.5)" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+      <line id="Line_3" data-name="Line 3" y1="4" x2="3.7" transform="translate(63.9 72.5)" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+      <path id="Path_3" data-name="Path 3" d="M76.7,75.8,56.3,68.1l4.2-11.9,31.8,12Z" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.5" cy="2.6" rx="2.5" ry="2.6" transform="translate(60 75.3)" fill="none" stroke="#2d414d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.352"/>
+    </g>
+  </g>
+</svg>
