@@ -432,9 +432,7 @@ img.img-como-funciona{
 }
 
 .lottie-trasnporte{
- /* width: 800px;
-  height: 700px;*/
-  margin: 0 auto;
+  margin: 20px auto 0 auto;
 }
 
 .header-index{
@@ -449,22 +447,38 @@ margin-bottom: 50px;
   margin-top: 80px;
 }
 
-.info-1{
+.txt-left{
   position: absolute;
-  top: 160px;
-  left: 350px
+  top: 220px;
+  left: 94%;
+  width: 60%;
 }
 
-.info-2{
+.txt-right{
   position: absolute;
-  top: 300px;
-  right: 350px
+  top: 460px;
+  right: 92%;
+  width: 62%;
+}
+
+.app-right{
+  position: absolute;
+  top: 100px;
+}
+
+.app-vistas-dos{
+  margin-top: 50px
+}
+
+.descarga{
+  margin-top: 100px;
 }
 
 .testimonios{
   margin-top: 100px;
   margin-bottom: 100px;
 }
+
 
 /*////// DESCARGA LA APP //////*/
 p.text-downapp{
@@ -2257,6 +2271,55 @@ ul.testimoniales-blog li img{
   .header-tours figcaption{
     top: 90px;
   }
+
+  /*///// INDEX V2 /////*/
+  /* .lottie-trasnporte{
+    margin: 20px auto 0 auto;
+  }*/
+
+  /* .header-index{
+  margin-bottom: 50px;
+  }*/
+
+  .header-text{
+    margin-top: 0px;
+  }
+
+  /*.como{
+    margin-top: 80px;
+  }*/
+
+  .txt-left{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  .txt-right{
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 100%;
+  }
+
+  .app-right{
+    position: relative;
+    top: 0;
+  }
+
+  .app-vistas-dos{
+    margin-top: 0px;
+  }
+
+  /*.descarga{
+    margin-top: 100px;
+  }
+
+  .testimonios{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }*/
 
 }
 

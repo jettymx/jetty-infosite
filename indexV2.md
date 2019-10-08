@@ -12,7 +12,7 @@ priority: 1.0
 
     <!-- HEADER -->
     <div class="row header-index">
-      <div class="col-md-7">
+      <div class="col-md-7" >
         <lottie-player
             src="lottie/transporte.json" background="transparent" speed="0.5" loop autoplay class="lottie-trasnporte">
         </lottie-player>
@@ -58,47 +58,59 @@ priority: 1.0
         <h1>Cómo funciona</h1>
       </div>
 
-      <div class="col-md-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-        <div class="app-jetty">
-          <img src="img/app-jetty-1.png" alt="Jetty, Cómo funciona" style="width: 350px">
+      <div class="col-md-12">
+
+        <div class="row">
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+            <div class="txt-left">
+              <img src="img/arrow-left.svg">
+              <p>Dinos de dónde sales y a dónde viajas.</p>
+            </div>
+            <div class="app-jetty text-left">
+              <img src="img/app-jetty-1.png" alt="Jetty, Cómo funciona">
+            </div>
+          </div>
+
+          <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+            <div class="text-right txt-right">
+              <img src="img/arrow-right.svg">
+              <p>Revisa las opciones y elige la que más te convenga.</p>
+            </div>
+            <div class="app-jetty app-right">
+              <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona">
+            </div>
+          </div>
+
         </div>
-        <div class="info-1">
-          <img src="img/arrow-left.svg">
-          <p>Dinos de dónde sales y a dónde viajas.</p>
+
+        <div class="row clear app-vistas-dos">
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+            <div class="txt-left">
+              <img src="img/arrow-left.svg">
+              <p>Reserva pagando con tu tarjeta y monitorea tu Jetty.</p>
+            </div>
+            <div class="app-jetty text-left">
+              <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona">
+            </div>
+          </div>
+
+          <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+            <div class="text-right txt-right">
+              <img src="img/arrow-right.svg">
+              <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
+            </div>
+            <div class="app-jetty app-right">
+              <img src="img/app-jetty-4.png" alt="Jetty, Cómo funciona">
+            </div>
+          </div>
+
         </div>
+
       </div>
 
-      <div class="col-md-6 text-right" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-        <div class="app-jetty">
-          <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona" style="width: 350px; margin-top: 100px">
-        </div>
-        <div class="info-2">
-          <img src="img/arrow-right.svg">
-          <p>Revisa las opciones y elige la que más te convenga.</p>
-        </div>
-      </div>
-
-      <div class="col-md-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-        <div class="app-jetty">
-          <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona" style="width: 350px">
-        </div>
-        <div class="info-1">
-          <img src="img/arrow-left.svg">
-          <p>Reserva pagando con tu tarjeta y monitorea tu Jetty.</p>
-        </div>
-      </div>
-
-      <div class="col-md-6 text-right" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-        <div class="app-jetty">
-          <img src="img/app-jetty-4.png" alt="Jetty, Cómo funciona" style="width: 350px; margin-top: 100px">
-        </div>
-        <div class="info-2">
-          <img src="img/arrow-right.svg">
-          <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
-        </div>
-      </div>
-
-      <div class="col-md-12 text-center">
+      <div class="col-md-12 text-center descarga">
         <p class="text-downapp-index">Descarga la app.</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
