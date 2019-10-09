@@ -18,9 +18,8 @@ priority: 1.0
         </lottie-player>
       </div>
       <div class="col-md-5 text-left header-text">
-        <h1>¿Te incomoda ir parado en el camión?</h1>
-        <p>Olvida esas preocupaciones, viaja cómodo y seguro. En Jetty convertiremos cada traslado en un buen viaje.</p>
-
+        <h1>Te llevamos cómodo y seguro a tu destino.</h1>
+        <p class="lead">Contamos con una gran cobertura hacia los principales puntos de trabajo para llevarte a tu casa u oficina.</p>
         <p class="text-downapp-index">Descarga la app.</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
