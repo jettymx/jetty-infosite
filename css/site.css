@@ -456,7 +456,7 @@ margin-bottom: 50px;
 
 .txt-right{
   position: absolute;
-  top: 460px;
+  top: 380px;
   right: 92%;
   width: 62%;
 }
@@ -477,6 +477,9 @@ margin-bottom: 50px;
 .testimonios{
   margin-top: 100px;
   margin-bottom: 100px;
+}
+.testimonios h1{
+  margin-bottom: 40px;
 }
 
 

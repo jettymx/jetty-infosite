@@ -19,7 +19,8 @@ priority: 1.0
       </div>
       <div class="col-md-5 text-left header-text">
         <h1>Te llevamos cómodo y seguro a tu destino.</h1>
-        <p class="lead">Contamos con una gran cobertura hacia los principales puntos de trabajo para llevarte a tu casa u oficina.</p>
+        <br>
+        <p class="lead">Contamos con una gran cobertura hacia los principales puntos de la ciudad para llevarte a tu casa u oficina.</p>
         <p class="text-downapp-index">Descarga la app.</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
@@ -74,7 +75,7 @@ priority: 1.0
           <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
             <div class="text-right txt-right">
               <img src="img/arrow-right.svg">
-              <p>Revisa las opciones y elige la que más te convenga.</p>
+              <p>Revisa el día, horario y elige el que más te convenga.</p>
             </div>
             <div class="app-jetty app-right">
               <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona">
@@ -88,7 +89,7 @@ priority: 1.0
           <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
             <div class="txt-left">
               <img src="img/arrow-left.svg">
-              <p>Reserva pagando con tu tarjeta y monitorea tu Jetty.</p>
+              <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
             </div>
             <div class="app-jetty text-left">
               <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona">
@@ -134,6 +135,10 @@ priority: 1.0
           <ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
           </ol>
 
           <!-- Wrapper for slides -->
@@ -144,6 +149,7 @@ priority: 1.0
                   <img src="img/stars.svg">
                 </div>
                 <div class="col-md-10">
+                  <br>
                   <p>Excelente servicio, de hecho extraordinario de verdad, lo recomendaré mucho. <i>Juan Carlos C.</i></p>
                 </div>
               </div>
@@ -153,8 +159,49 @@ priority: 1.0
                 <div class="col-md-2 text-right">
                   <img src="img/stars.svg">
                 </div>
-                <div class="col-md-101">
+                <div class="col-md-10">
                   <p>Genial servicio! Conductor súper amable. Cada vez van abriendo más servicios y si no te queda alguna puedes preguntar para que te digan por donde pasa y te recojan. Seguro, rápido y cómodo. No hay mejor manera para llegar a Santa Fé. <i>Nancy G.</i></p>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-md-2 text-right">
+                  <img src="img/stars.svg">
+                </div>
+                <div class="col-md-10">
+                  <p>Muy buen servicio, las camionetas son super puntuales, cuentan con cámaras de seguridad y el servicio al cliente siempre está atento a lo que necesites, lo utilizaré casi diario. <i>Rafael C.</i></p>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-md-2 text-right">
+                  <img src="img/stars.svg">
+                </div>
+                <div class="col-md-10">
+                  <p>Excelente, llevo varios meses viajando en Jetty y el servicio es perfecto, Enrique es super amable muy educado y siempre preocupado porque lleguemos a tiempo y con bien a nuestro destino, al servicio y a Enrique les doy 5 estrellas, gracias. <i>Hugo C.</i></p>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-md-2 text-right">
+                  <img src="img/stars.svg">
+                </div>
+                <div class="col-md-10">
+                  <br>
+                  <p>Excelente servicio, ya no uso mi carro para ir a la oficina. <i>Luis Antonio F.</i></p>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-md-2 text-right">
+                  <img src="img/corazon.svg">
+                </div>
+                <div class="col-md-10">
+                  <p>Como ya se está volviendo una maravillosa costumbre, JETTY me acompaña casi diario para comenzar bien mi día... ¡Son únicos! ¡Los amo! <i>Klaus</i></p>
                 </div>
               </div>
             </div>
