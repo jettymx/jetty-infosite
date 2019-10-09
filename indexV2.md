@@ -177,7 +177,7 @@ priority: 1.0
             <div class="item">
               <div class="row">
                 <div class="col-md-2 text-right">
-                  <img src="img/stars.svg">
+                  <img src="img/clock.svg">
                 </div>
                 <div class="col-md-10">
                   <p>Excelente, llevo varios meses viajando en Jetty y el servicio es perfecto, Enrique es super amable muy educado y siempre preocupado porque lleguemos a tiempo y con bien a nuestro destino, al servicio y a Enrique les doy 5 estrellas, gracias. <i>Hugo C.</i></p>
@@ -223,4 +223,4 @@ priority: 1.0
   </div>
 </div>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->

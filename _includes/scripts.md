@@ -21,7 +21,7 @@
 </script>
 
 <!-- SVG Animated -->
-<script src="{{site.baseurl}}/js/vivus.js"></script>
+<!-- <script src="{{site.baseurl}}/js/vivus.js"></script>
 <script>
   obt0 = new Vivus('automovile', {type: 'delayed', duration: 100});
   obt1 = new Vivus('asiento', {type: 'delayed', duration: 100});
@@ -33,8 +33,12 @@
   obt7 = new Vivus('rocket', {type: 'delayed', duration: 100});
   obt8 = new Vivus('flexible', {type: 'delayed', duration: 100});
   obt9 = new Vivus('conductor', {type: 'delayed', duration: 100});
-</script>
+</script> -->
 
+<!-- LOTTIE ANIMACIONES -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<!-- COBERTURA -->
 <script type="text/javascript">
           google.maps.event.addDomListener(window, 'load', initMap);
 
