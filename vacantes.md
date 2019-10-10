@@ -606,7 +606,7 @@ id: vacantes
         <div class="panel-body">
 
           <div class="col-md-1">
-            <img src="img/vacante-developerjr.png" width="60">
+            <img src="img/vacante-android.png" width="60">
           </div>
 
           <div class="col-md-11">
@@ -730,11 +730,11 @@ id: vacantes
       </div>
 
       <!-- VACANTE 5 iOS -->
-      <!-- <div class="panel panel-default vacante">
+      <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
-            <img src="img/vacante-developerjr.png" width="60">
+            <img src="img/vacante-iOS.png" width="60">
           </div>
 
           <div class="col-md-11">
@@ -788,7 +788,7 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Conocimiento en el proceso de publicación en la App Store.</p>
+                    <p>Conocimiento en el proceso de publicación en la App Store. </p>
                   </li>
 
                   <li>
@@ -800,7 +800,7 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Conocimiento en el consumo de Web services (REST).</p>
+                    <p>Conocimiento en el consumo de Web services (REST). </p>
                   </li>
 
                   <li>
@@ -828,7 +828,7 @@ id: vacantes
                     <p>Excepcionales habilidades de comunicación. Es muy importante que el desarrollador esté en constante comunicación con el equipo de negocio para poder entender sus necesidades y proponer soluciones innovadoras a los problemas.</p>
                   </li>
                   <li>
-                    <p>Experiencia en el manejo de proyectos. </p>
+                    <p>Experiencia en el manejo de proyectos.</p>
                   </li>
                   <li>
                     <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
@@ -840,7 +840,7 @@ id: vacantes
                     <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil. Capaz de trabajar por objetivos y bajo presión.</p>
                   </li>
                   <li>
-                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación. </p>
+                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
                   </li>
                   <li>
                     <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
@@ -857,7 +857,7 @@ id: vacantes
           </div>
 
         </div>
-      </div> -->
+      </div>
 
       <!-- VACANTE 6 -->
       <div class="panel panel-default vacante">

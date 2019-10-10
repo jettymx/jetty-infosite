@@ -64,7 +64,7 @@ priority: 1.0
 
           <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
             <div class="txt-left">
-              <img src="img/arrow-left.svg">
+              <img src="img/arrow-left.svg" class="arrow-hidden">
               <p>Dinos de dónde sales y a dónde viajas.</p>
             </div>
             <div class="app-jetty text-left">
@@ -73,8 +73,8 @@ priority: 1.0
           </div>
 
           <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-            <div class="text-right txt-right">
-              <img src="img/arrow-right.svg">
+            <div class="txt-right">
+              <img src="img/arrow-right.svg" class="arrow-hidden">
               <p>Revisa el día, horario y elige el que más te convenga.</p>
             </div>
             <div class="app-jetty app-right">
@@ -88,7 +88,7 @@ priority: 1.0
 
           <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
             <div class="txt-left">
-              <img src="img/arrow-left.svg">
+              <img src="img/arrow-left.svg" class="arrow-hidden">
               <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
             </div>
             <div class="app-jetty text-left">
@@ -97,8 +97,8 @@ priority: 1.0
           </div>
 
           <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-            <div class="text-right txt-right">
-              <img src="img/arrow-right.svg">
+            <div class="txt-right">
+              <img src="img/arrow-right.svg" class="arrow-hidden">
               <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
             </div>
             <div class="app-jetty app-right">

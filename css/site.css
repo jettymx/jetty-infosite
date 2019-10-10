@@ -462,6 +462,7 @@ margin-bottom: 50px;
   top: 380px;
   right: 92%;
   width: 62%;
+  text-align: right;
 }
 
 .app-right{
@@ -2256,6 +2257,7 @@ ul.testimoniales-blog li img{
     top: 0;
     right: 0;
     width: 100%;
+    text-align: left;
   }
 
   .app-right{
@@ -2265,6 +2267,10 @@ ul.testimoniales-blog li img{
 
   .app-vistas-dos{
     margin-top: 0px;
+  }
+
+  .arrow-hidden{
+    display: none;
   }
 
   /*.descarga{
