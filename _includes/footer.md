@@ -12,6 +12,9 @@
           <li>
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
+          <!-- <li>
+            <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Tu camioneta con Jetty</a>
+          </li> -->
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>
@@ -21,9 +24,7 @@
           <li>
             <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
           </li>
-          <li>
-            <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Conductor o transportista</a>
-          </li>
+
         </ul>
       </div>
 
@@ -40,6 +41,9 @@
           </li>
           <li>
             <a href="{{site.baseurl}}/prestacion" target="_self">Prestación de servicio</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/conductor" target="_self">Eres conductor</a>
           </li>
         </ul>
       </div>

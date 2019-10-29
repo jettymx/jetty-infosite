@@ -5,43 +5,157 @@ description: Buscamos conductores confiables, profesionales y amables, para unir
 id: trabajo-conductor
 ---
 
-<div class="container-fluid conductor">
-  <div class="container marginTop">
+<div class="container-fluid gradient">
+  <div class="container transportista">
+
+    <div class="row trabajar">
+      <div class="col-md-10">
+        <h1>¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?</h1>
+        <br>
+      </div>
+      <div class="col-md-12 text-right">
+        <img src="img/camioneta-blanca.png" width="90%">
+      </div>
+
+    </div>
+
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 text-center">
-        <h1>¿ERES CONDUCTOR O DUEÑO DE UN VEHÍCULO Y QUIERES TRABAJAR CON NOSOTROS?</h1>
-        <div class="row">
-          <div class="col-md-6 text-left">
-            <h3>Si tienes un vehículo...</h3>
-            <p>Jetty pone a trabajar tu vehículo de lunes a viernes. No tienes que preocuparte por buscar clientes. Nosotros nos encargamos.</p>
-            <p>Buscamos vehículos en buen estado, de no más de 5 años, de hasta 24 asientos con pasillo central.</p>
+      <div class="col-md-12">
+        <h2>Beneficios de ser Socio Jetty.</h2>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-ingresosV2.svg">
+        <h3>Ingresos garantizados</h3>
+        <p>Al trabajar con nosotros tienes un ingreso garantizado que cubre los costos de operación del vehículo.</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-rutasV2.svg">
+        <h3>Rutas y horarios definidos</h3>
+        <p>Con Jetty te liberas de planear los recorridos y tiempos de traslado, nosotros lo hacemos por ti.</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-crecimientoV2.svg">
+        <h3>Oportunidad de crecimiento</h3>
+        <p>Además de participar en la operación diaria, tienes la oportunidad de incrementar tus ingresos al trabajar en eventos especiales como conciertos, eventos deportivos y más.</p>
+      </div>
+
+      <!-- <div class="col-md-12 text-center">
+        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
+          Regístrate con Jetty
+        </button>
+      </div> -->
+    </div>
+
+    <div class="row preguntas">
+
+      <div class="col-md-12">
+        <h2>Preguntas frecuentes</h2>
+      </div>
+
+      <div class="col-md-6">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+              <h4 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  ¿Qué tipo de licencia de conductor necesito para trabajar en Jetty?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+              <div class="panel-body">
+                Si tu vas a manejar la unidad o vas a contratar a un conductor se necesita la Licencia tipo C
+              </div>
+            </div>
           </div>
-          <div class="col-md-6 text-left">
-            <h3>Si eres un conductor...</h3>
-            <p>Siempre buscamos reclutar a conductores profesionales, responsables y con excelente trato.</p>
-            <p>Como requisito, debes contar con una licencia tipo "C".</p>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwo">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  ¿Qué tipo de seguro se necesita para trabajar con Jetty?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+              <div class="panel-body">
+                Póliza de seguro de transporte público con cobertura amplia, nosotros te podemos aconsejar que con quien contratar.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingThree">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  ¿Qué tipo de placas necesita el vehículo?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div class="panel-body">
+                De preferencia placas federales para que puedas participar en los viajes privados de fin de semana.
+              </div>
+            </div>
           </div>
         </div>
-
-        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
-          Quiero ser parte de Jetty
-        </button>
       </div>
 
-    </div>
-    <div class="row">
-      <div class="col-md-4 col-md-offset-4 text-center">
-        <img src="img/jetty-mx-camioneta.png">
+      <div class="col-md-6">
+        <div class="panel-group" id="accordionTwo" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingUno">
+              <h4 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordionTwo" href="#collapseUno" aria-expanded="true" aria-controls="collapseUno">
+                  ¿Cuánto puedo ganar al ser socio de Jetty?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseUno" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingUno">
+              <div class="panel-body">
+                Contactanos para hacerte una propuesta de acuerdo con tus expectativas.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingDos">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionTwo" href="#collapseDos" aria-expanded="false" aria-controls="collapseDos">
+                  ¿El conductor de la unidad es contratado por Jetty?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseDos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingDos">
+              <div class="panel-body">
+                No, los dueños de los vehículos se encargan de la relación laboral con los conductores.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTres">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionTwo" href="#collapseTres" aria-expanded="false" aria-controls="collapseTres">
+                  ¿Qué tipo de camionetas se pueden utilizar?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTres" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTres">
+              <div class="panel-body">
+                Sprinter (Mercedes Benz), Hiace (Toyota ), Crafter (Volkswagen), Transit (Ford), Urvan (Nissan)..
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
+
+    </div><!-- Fin Preguntas -->
+
   </div>
 </div>
 
-<div class="clearfix"></div>
+<!-- <div class="clearfix"></div>
 
 <div class="space-greenUp">
   <img src="img/back-green-up.png" style="margin-top: -1px">
-</div>
+</div> -->
 
 <!-- <div class="container">
   <div class="row conductor-request">
@@ -79,7 +193,7 @@ id: trabajo-conductor
   <img src="img/back-green-down.png">
 </div> -->
 
-<div class="conatiner-fluid proceso">
+<!-- <div class="conatiner-fluid proceso">
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
@@ -95,7 +209,6 @@ id: trabajo-conductor
           </div>
           <div class="col-md-10 col-xs-9">
             <p class="lead">Llena este formulario:</p>
-            <!-- <a class="typeform-share btn btn-gray" href="https://cledestino.typeform.com/to/CLXSOj" data-mode="1" target="_blank">Quiero ser parte de Jetty</a> -->
             <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
               Quiero ser parte de Jetty
             </button>
@@ -134,7 +247,7 @@ id: trabajo-conductor
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="clearfix"></div>
 

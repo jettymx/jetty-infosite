@@ -36,6 +36,15 @@ a:hover{
   color: #7e8080;
 }
 
+.camioneta{
+  background: url('/img/underline.png') 10px 34px;
+  background-repeat: no-repeat;
+}
+
+.icon-van{
+  width: 30px;
+  margin-bottom: 1px;
+}
 
 .btn{
   /*border-radius: 0 !important;*/
@@ -49,7 +58,6 @@ a:hover{
 /*///// FOOTER /////*/
 .footer{
   padding: 50px 0;
-  /*background-color: #2D414D;*/ /* DARK */
 }
 
 .footer .logo-footer{
@@ -76,13 +84,13 @@ a:hover{
 }
 
 .footer ul li a{
-  color: #4fbca7;
+  color: #7e8080;
   /*color: white;*/ /* DARK */
   text-decoration: none;
 }
 
 .footer ul li a:hover{
-  color: #7e8080;
+  color: #4fbca7;
 }
 
 .footer ul.social{
@@ -250,30 +258,70 @@ a.social-linkedin:hover{
 .btn-gray{
   border: none;
   color: #ffffff;
-  background: rgb(126,128,128);
+  background-color: #2D414D;
+  /*background: rgb(126,128,128);
   background: -moz-linear-gradient(top, rgb(126,128,128) 0%, rgb(105,106,107) 100%);
   background: -webkit-linear-gradient(top, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
   background: linear-gradient(to bottom, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e8080', endColorstr='#696a6b',GradientType=0 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e8080', endColorstr='#696a6b',GradientType=0 );*/
+  font-weight: 600;
+  font-size: 1.8em;
+}
+
+.btn-gray:focus{
+  border: none;
+  color: #ffffff;
+  background-color: #2D414D;
   font-weight: 600;
   font-size: 1.8em;
 }
 
 .btn-gray:hover{
-  background: rgb(76,77,77);
+  background-color: #395260;
   color: #ffffff;
 }
 
 .btn-gray:active{
+  color: #7D8D96 !important;
+  background-color: #1C272E !important;
+}
+
+.btn-gray-small{
+  border: none;
   color: #ffffff;
-  background: rgb(105,106,107);
-  background: -moz-linear-gradient(top, rgb(105,106,107) 0%, rgb(126,128,128) 100%);
-  background: -webkit-linear-gradient(top, rgb(105,106,107) 0%,rgb(126,128,128) 100%);
-  background: linear-gradient(to bottom, rgb(105,106,107) 0%,rgb(126,128,128) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#696a6b', endColorstr='#7e8080',GradientType=0 );
+  background-color: #2D414D;
+  /*background: rgb(126,128,128);
+  background: -moz-linear-gradient(top, rgb(126,128,128) 0%, rgb(105,106,107) 100%);
+  background: -webkit-linear-gradient(top, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
+  background: linear-gradient(to bottom, rgb(126,128,128) 0%,rgb(105,106,107) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e8080', endColorstr='#696a6b',GradientType=0 );*/
+  font-weight: 600;
+}
+.btn-gray-small:focus{
+  border: none;
+  color: #ffffff;
+  background-color: #2D414D;
+  font-weight: 600;
+}
+.btn-gray-small:hover{
+  background-color: #395260;
+  color: #ffffff;
+}
+.btn-gray-small:active{
+  color: #7D8D96 !important;
+  background-color: #1C272E !important;
 }
 
 .btn-dark-gray-small{
+  border: none;
+  color: #ffffff;
+  background: rgb(96,112,121);
+  background: -moz-linear-gradient(top, rgba(96,112,121,1) 0%, rgba(68,81,88,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  background: linear-gradient(to bottom, rgba(96,112,121,1) 0%,rgba(68,81,88,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#607079', endColorstr='#445158',GradientType=0 );
+}
+.btn-dark-gray-small:focus{
   border: none;
   color: #ffffff;
   background: rgb(96,112,121);
@@ -880,7 +928,7 @@ ul.nuevas-rutas li .btn-ruta:focus{
   padding-top: 100px;
 }
 
-.header-organizaciones h2{
+.header-organizaciones h1{
   color: #ffffff;
   display: block;
 }
@@ -891,10 +939,19 @@ ul.nuevas-rutas li .btn-ruta:focus{
 
 }
 
-.header-organizaciones .btn{
+/*.header-organizaciones .btn{
   margin-top: 30px;
   padding-left: 30px;
   padding-right: 30px;
+}*/
+
+.organizaciones{
+  margin: 150px 0;
+}
+
+.organizaciones img{
+  margin: 0;
+  width: 100%;
 }
 
 .valor{
@@ -902,9 +959,14 @@ ul.nuevas-rutas li .btn-ruta:focus{
   margin-top: -30px;
 }
 
+.valor h2{
+  /*color: #2D414D;*/
+  color: white;
+}
+
 .valor p{
   margin-bottom: 60px;
-  color: #768A96;
+  color: white;
 }
 
 .valor .btn{
@@ -920,18 +982,22 @@ ul.nuevas-rutas li .btn-ruta:focus{
   margin-bottom: 20px;
 }
 
+.porque-title h2{
+  color: white;
+}
+
 .porque-title p{
   font-weight: 700;
   margin-bottom: 40px;
 }
 
 .cuatro-puntos{
-  margin-bottom: 120px;
+  margin-bottom: 100px;
 }
 
 .cuatro-puntos > .porque{
-  background: #4abea7;
-  border: 4px solid #ffffff;
+  /*background: #4abea7;*/
+  /*border: 4px solid #ffffff;*/
   padding: 10px;
   min-height: 330px;
 }
@@ -948,8 +1014,12 @@ ul.nuevas-rutas li .btn-ruta:focus{
 .tres-puntos{
   margin-bottom: 50px;
 }
+.tres-puntos h2{
+  color: white;
+}
+
 .tres-puntos p{
-  color: #768A96;
+  color: white;
 }
 
 .tres-puntos img{
@@ -961,13 +1031,22 @@ ul.nuevas-rutas li .btn-ruta:focus{
   margin-bottom: 30px;
 }
 
-.middle{
-  border-left: 1px solid #7e8080;
-  border-right: 1px solid #7e8080;
+ul.clientes{
+  padding: 0;
+  padding-bottom: 30px;
+}
+
+ul.clientes li{
+  display: inline;
+  padding: 0 10px;
+}
+
+ul.clientes li img{
+  width: 140px;
 }
 
 /*////// QUIENES //////*/
-figure.header-quienes {
+/*figure.header-quienes {
   position: relative;
   overflow: hidden;
 }
@@ -994,8 +1073,23 @@ figure.header-quienes img.back {
 }
 .header-content-quienes h3{
   color: white;
+}*/
+
+.quienes{
+  padding-top: 140px;
+  padding-bottom: 80px;
+  margin-bottom: 40px;
 }
 
+.quienes h1{
+  color: white;
+}
+.quienes h2{
+  color: white;
+}
+.quienes h3{
+  color: white;
+}
 
 .quienes-content{
   margin-top: -130px;
@@ -1088,14 +1182,14 @@ img.logos{
 .beneficios{
   padding: 90px 0;
   /*background: #49bda7;*/
-  background-image: url('../img/back-beneficios.png');
+  /*background-image: url('../img/back-beneficios.png');
   background-size: 100% 100%;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }
 
 .beneficios h1{
   color: #ffffff;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .beneficios .uno{
@@ -1236,6 +1330,63 @@ figure.header-tours img.back {
   background-repeat: no-repeat;
 }
 
+.transportista{
+  margin-top: 100px;
+}
+
+.transportista h2{
+  color: white;
+}
+
+.transportista h3{
+  font-weight: 800
+}
+
+.trabajar{
+  margin-bottom: 40px
+}
+
+.preguntas{
+  margin-bottom: 80px;
+  margin-top: 60px;
+}
+
+.panel-default{
+  /*border: none !important;*/
+}
+
+.panel{
+  /*background: transparent !important;*/
+}
+
+.panel-default>.panel-heading{
+  /*color: white;
+  background: transparent;
+  border: none;*/
+}
+
+.panel-title>a{
+  color: #596972;
+  font-weight: 600;
+}
+
+.panel-title>a:hover{
+  color: #4fbca7;
+  text-decoration: none;
+}
+
+.panel-body{
+  color: #596972;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.van-jetty img{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+}
+
 .conductor h1{
   color: #ffffff;
   text-transform: uppercase;
@@ -1281,6 +1432,7 @@ figure.header-tours img.back {
 
 .proceso{
   margin-bottom: 80px;
+  margin-top: 50px;
 }
 
 .proceso h3,p{
@@ -1302,6 +1454,18 @@ figure.header-tours img.back {
 .number ul li{
   color: #7e8080;
   font-size: 16px;
+}
+
+/*///// ERES CONDUCTOR /////*/
+.eres-conductor h1{
+  color: #596972;
+}
+
+ul.requisitos{
+  color: #768A96;
+  padding-bottom: 30px;
+  font-size: 16px;
+  line-height: 1.7
 }
 
 /*////// PRIVACIDAD //////*/
@@ -1385,12 +1549,11 @@ ul.indice li{
   background-position-y: -230px;
 }
 
-.header-content-eventos{
+/*.header-content-eventos{
   padding-top: 100px;
 }
 
 .header-eventos h1{
-  /*text-transform: uppercase;*/
   color: #ffffff;
 }
 .header-eventos h3{
@@ -1410,15 +1573,33 @@ ul.indice li{
 .eventos-content{
   margin-top: -100px;
   padding-bottom: 200px;
-}
+}*/
 
 .eventos{
-  margin-bottom: 0px;
-  padding-bottom:50px;
+  padding-top: 50px;
+  padding-bottom:30px;
+}
+
+.tipo-eventos{
+  margin-top: 60px;
+}
+
+.incluye-eventos{
+  margin-top: 80px;
 }
 
 .eventos h2{
-  margin-bottom: 50px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.incluye-eventos h3{
+  color: white;
+  font-weight: 800;
+}
+
+.incluye-eventos h2{
+  margin-bottom: 20px;
 }
 
 .eventos img{
@@ -1426,9 +1607,9 @@ ul.indice li{
   box-shadow: 0 13px 12px -10px rgba(0, 0, 0, 0.5);
 }
 
-.eventos a{
+/*.eventos a{
   margin-top: 50px;
-}
+}*/
 
 .eventos ul{
   list-style-type: none;
@@ -1477,7 +1658,7 @@ ul.indice li{
 }
 
 .eventos ul li figure figcaption h3{
-  color: #ffffff;
+  color: #2D414D;
   font-weight: 800;
   font-size: 20px;
 }
@@ -1623,6 +1804,10 @@ h1.blog-title{
 .post-content{
   margin-top: 20px;
   margin-bottom: 40px;
+}
+
+.post-content h1{
+  color: #596972;
 }
 
 .post-content h3,h2{

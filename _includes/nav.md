@@ -22,6 +22,7 @@
           <!-- <li><a href="{{site.baseurl}}/tours">Tours</a></li> -->
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a href="{{site.baseurl}}/en/">English</a></li>
+          <!-- <li><a href="{{site.baseurl}}/trabajo-conductor" class="camioneta">Tu <img src="img/icon-van.png" class="icon-van"> con Jetty</a></li> -->
         </ul>
       </div>
     </div>

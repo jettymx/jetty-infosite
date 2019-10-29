@@ -5,27 +5,38 @@ description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido
 id: quienes
 ---
 
-<figure class="header-quienes">
+<!-- <figure class="header-quienes">
   <img src="img/Back_Quienes.jpg" alt="Jetty MX" class="back">
   <figcaption>
     <div class="container header-content-quienes">
       <div class="row">
         <div class="col-md-10">
-          <h1>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso.</h1>
-          <h2>Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</h2>
-          <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
+
+
         </div>
       </div>
     </div>
   </figcaption>
 </figure>
 
-<div class="clearfix"></div>
+<div class="clearfix"></div> -->
+
+<div class="container-fluid gradient quienes">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso.</h1>
+        <h2>Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</h2>
+        <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="container alianzas-content">
   <div class="row">
 
-    <div class="col-md-12 text-center">
+    <div class="col-md-12">
       <h1>Reconocimientos</h1>
       <ul class="alianzas">
         <li>
@@ -77,7 +88,7 @@ id: quienes
       </ul>
     </div>
 
-    <div class="col-md-12 text-center" style="margin-top: 50px">
+    <div class="col-md-12" style="margin-top: 50px">
       <h1>Jetty en la prensa</h1>
       <ul class="alianzas">
         <li>
@@ -99,7 +110,7 @@ id: quienes
       <a href="/prensa" class="btn btn-green">Prensa</a>
     </div>
 
-    <div class="col-md-10 col-md-offset-1 text-center"  style="margin-top: 80px">
+    <div class="col-md-12"  style="margin-top: 80px">
       <h1>Alianzas</h1>
       <ul class="alianzas">
         <li>

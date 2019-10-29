@@ -1,17 +1,19 @@
 ---
-layout: tours
+layout: default
 title: Jetty | La Mejor Solución de Transporte para tu Evento
 description: Organizas o vas a un evento y estás buscando transporte. ¿Consideras rentar una camioneta con chofer? Nos adaptamos a tu necesidad al mejor precio.
 id: transporte-eventos
 ---
 
-<div class="header-eventos">
-  <div class="container header-content-organizaciones">
+<div class="container-fluid beneficios gradient">
+  <div class="container eventos">
+
     <div class="row">
       <div class="col-md-12 text-center">
         <h1>¿Estás buscando transporte para un evento?</h1>
         <h1>¿Consideras rentar una camioneta con chofer?</h1>
       </div>
+
       <div class="col-md-8 col-md-offset-2 text-center">
         <h3>Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</h3>
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
@@ -19,17 +21,12 @@ id: transporte-eventos
         </button>
       </div>
     </div>
-  </div>
-</div>
 
-<div class="container-fluid eventos-content backgrayblue-down">
-  <div class="container eventos">
-    <div class="row">
+    <div class="row tipo-eventos">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h2>Ya sea que organices o vayas a un evento masivo, tenemos la solución para ti.</h2>
       </div>
-    </div>
-    <div class="row">
+
       <div class="col-md-12 eventos">
         <ul>
           <li>
@@ -75,12 +72,6 @@ id: transporte-eventos
         </ul>
       </div>
     </div>
-  </div>
-</div>
-
-
-<div class="container-fluid content-buen-viaje" id="destino">
-  <div class="container buen-viaje">
 
     <div class="row tour">
       <div class="col-md-12 text-center" data-aos="fade">
@@ -99,7 +90,7 @@ id: transporte-eventos
         <p><b>Incluye:</b> Guía, lunch y transporte</p>
         <p><b>Próxima fecha:</b> 11 de mayo</p>
         <br>
-        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMuralismo">
+        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourMuralismo">
           Agendar
         </button>
         <a href="tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">Más información</a>
@@ -113,7 +104,7 @@ id: transporte-eventos
         <p><b>Duración: 6hrs</b></p>
         <p><b>Incluye:</b> Guía, comida y transporte</p>
         <p><b>Próxima fecha:</b> 18 de mayo</p>
-        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourMercado">
+        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourMercado">
           Agendar
         </button>
         <a href="tours/mercado-san-juan" class="btn btn-dark-gray-small">Más información</a>
@@ -128,7 +119,7 @@ id: transporte-eventos
         <p><b>Incluye:</b> Guía, desayuno, comida y transporte</p>
         <p><b>Próxima fecha:</b> 25 de mayo</p>
         <br>
-        <button type="button" class="btn btn-green-small" data-toggle="modal" data-target="#ModalTourSantamaria">
+        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourSantamaria">
           Agendar
         </button>
         <a href="tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
@@ -136,42 +127,36 @@ id: transporte-eventos
 
     </div>
 
-  </div>
-</div>
 
-<div class="clearfix"></div>
+    <div class="row incluye-eventos">
+      <div class="col-md-8 col-md-offset-2">
+        <h2 class="text-center">Nuestro servicio incluye:</h2>
+      </div>
 
-<div class="space-greenUp">
-  <img src="img/back-grayblue.png">
-</div>
+      <div class="col-md-4 text-center">
+        <img src="img/chofer.png" class="img-servicios">
+        <h3>Conductores profesionales</h3>
+        <p>El conductor pasó un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas, entre otras.</p>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/interiores.png" class="img-servicios">
+        <h3>Equipamiento</h3>
+        <p>Aire acondicionado en cabina y para pasajeros, 4 cargadores USB por fila, GPS, Cámaras de seguridad hacia el interior y el exterior.</p>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/camionetas.png" class="img-servicios">
+        <h3>Vehículos nuevos</h3>
+        <p>Crafter VW - 19pax <br> Transit Ford - 14 y 17pax</p>
+      </div>
 
-<div class="container eventos-servicios">
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2">
-      <h2 class="text-center">Nuestro servicio incluye:</h2>
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
+          Cotiza
+        </button>
+      </div>
     </div>
 
-    <div class="col-md-4 text-center">
-      <img src="img/chofer.png" class="img-servicios">
-      <h3>Conductores profesionales</h3>
-      <p>El conductor pasó un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas, entre otras.</p>
-    </div>
-    <div class="col-md-4 text-center">
-      <img src="img/interiores.png" class="img-servicios">
-      <h3>Equipamiento</h3>
-      <p>Aire acondicionado en cabina y para pasajeros, 4 cargadores USB por fila, GPS, Cámaras de seguridad hacia el interior y el exterior.</p>
-    </div>
-    <div class="col-md-4 text-center">
-      <img src="img/camionetas.png" class="img-servicios">
-      <h3>Vehículos nuevos</h3>
-      <p>Crafter VW - 19pax <br> Transit Ford - 14 y 17pax</p>
-    </div>
 
-    <div class="col-md-8 col-md-offset-2 text-center">
-      <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalEventos">
-        Cotiza
-      </button>
-    </div>
   </div>
 </div>
 
@@ -181,245 +166,9 @@ id: transporte-eventos
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <!-- <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4> -->
       </div>
 
       <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
-
-      <!-- <form class="js--form-events">
-        <div class="modal-body">
-
-            <div class="col-md-6 form-group">
-              <label  for="name">Nombre</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="30"
-                      name="name"
-                      placeholder="Nombre" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label  for="lastname">Apellido</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="60"
-                      name="lastname"
-                      placeholder="Apellido" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="mail">Correo electrónico</label>
-              <input  type="email"
-                      class="form-control"
-                      required
-                      maxlength="60"
-                      name="email"
-                      placeholder="Correo electrónico" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="cellphone">Número telefónico</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="20"
-                      name="phone"
-                      placeholder="Número telefónico">
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="eventname">¿Cómo se llama el evento?</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="150"
-                      name="eventname"
-                      placeholder="">
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="company">¿Eres uno de los organizadores?</label>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="organizer"
-                          value="true"
-                          checked>
-                  Sí
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="organizer"
-                          value="false">
-                  No
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="company">¿Cuál es tu necesidad?</label>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Viaje sencillo" checked>
-                  Viaje sencillo
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Viaje redondo">
-                  Viaje redondo
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Vueltas constantes">
-                  Vueltas constantes
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="company">¿Número de asistentes?</label>
-            </div>
-            <div class="col-md-6 form-group">
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="1-14" checked>
-                  1 a 14
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="15-19">
-                  15 a 19
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="20-28">
-                  20 a 28
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="29-38">
-                  29 a 38
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="39-58">
-                  39 a 58
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="+59">
-                  Más de 59
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="adress">Dirección de salida</label>
-              <input  type="text"
-                      class="form-control"
-                      name="origin_address"
-                      maxlength="200"
-                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="datetimepicker-event-1">Fecha de salida</label>
-              <div class='input-group date datepicker'>
-                <input  type='text'
-                        class="form-control event-date-picker"
-                        id='datetimepicker-event-1'
-                        maxlength="20"
-                        name="origin_date"
-                        placeholder="Día / Mes / Año"/>
-                <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                </span>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="timepicker-event-1">Hora de salida</label>
-              <input  type="text"
-                      id="timepicker-event-1"
-                      maxlength="20"
-                      class="form-control event-time-picker"
-                      name="origin_time"
-                      placeholder="AM / PM" />
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="adress">Dirección de Llegada</label>
-              <input  type="text"
-                      class="form-control"
-                      maxlength="200"
-                      name="destination_address"
-                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="datetimepicker-event-2">Fecha de regreso  </label>
-              <div class='input-group' data-date-format="dd/mm/yyyy">
-                <input  type='text'
-                        class="form-control event-date-picker"
-                        id='datetimepicker-event-2'
-                        maxlength="20"
-                        name="destination_date"
-                        placeholder="Día / Mes / Año" />
-                <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                </span>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="timepicker-event-2">Hora de regreso </label>
-              <input  type="text"
-                      class="form-control event-time-picker"
-                      id="timepicker-event-2"
-                      maxlength="20"
-                      name="destination_time"
-                      placeholder="AM / PM">
-            </div>
-
-        </div>
-        <div class="clearfix"></div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
-        </div>
-      </form> -->
 
     </div>
   </div>
