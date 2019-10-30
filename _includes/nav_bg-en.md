@@ -20,7 +20,7 @@
           <li><a href="{{site.baseurl}}/en/cobertura">Service areas</a></li>
           <li><a href="{{site.baseurl}}/en/transporte-eventos">Events</a></li>
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
-          <li><a href="{{site.baseurl}}/"><img src="img/flagMX.png" class="translate"></a></li>
+          <li><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/flagMX.png" class="translate"></a></li>
         </ul>
       </div>
     </div>
