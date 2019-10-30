@@ -22,7 +22,7 @@
           <a href="{{site.baseurl}}/en/prensa" target="_self">Press</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/en/trabajo-conductor" target="_self">Driver or transportation operators </a>
+          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Your van with Jetty</a>
         </li>
       </ul>
     </div>
