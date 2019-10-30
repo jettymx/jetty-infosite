@@ -43,7 +43,7 @@
             <a href="{{site.baseurl}}/prestacion" target="_self">Prestación de servicio</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/conductor" target="_self">Bolsa de trabajo conductores</a>
+            <a href="{{site.baseurl}}/bolsa-trabajo-conductor" target="_self">Bolsa de trabajo conductores</a>
           </li>
         </ul>
       </div>
