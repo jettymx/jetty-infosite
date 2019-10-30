@@ -5,115 +5,155 @@ description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu tra
 id: transporte-personal
 ---
 
-<div class="header-organizaciones">
-  <div class="container header-content-organizaciones">
-    <div class="row">
-      <div class="col-md-9" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="1000">
-        <div class="text-fadein text-organizaciones">
-          <h2>¿Está considerando contratar los servicios de una empresa de transporte de personal?</h2>
-          <h2>¿Le preocupa que no sea eficiente?</h2>
-          <h2>¿No quiere firmar un contrato a plazo forzoso con una empresa de transporte empresarial?</h2>
-          <h2>¿No tiene suficiente presupuesto dedicado al transporte?</h2>
+<div class="container-fluid gradient">
+
+  <div class="organizaciones">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
+          <h1>We take your staff safe and on time!</h1>
+          <p class="lead">Jetty adapts to the needs of your organization under different schemes to achieve the best results.</p>
+          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+            Request information
+          </button>
         </div>
-        <p class="lead">Jetty se adapta a su necesidad bajo diferentes esquemas para alcanzar los mejores resultados.</p>
+        <div class="col-md-6 text-right">
+          <img src="{{site.baseurl}}/img/choferes.png">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container valor">
+    <div class="row">
+      <div class="col-md-4">
+        <div>
+          <img src="{{site.baseurl}}/img/icon-tecnologiaV2.svg" alt="Jetty, Tecnología">
+          <h2>Technology</h2>
+        </div>
+        <p>With the <b> Jetty app, </b> it's easier to review and book your trips. You can also <b> monitor the location </b> of your Jetty. </p>
+      </div>
+      <div class="col-md-4">
+        <div>
+          <img src="{{site.baseurl}}/img/icon-seguroV2.svg">
+          <h2>Premium vehicles</h2>
+        </div>
+        <p>All have <b> seat belts </b> in all seats, AC, USBs, GPS, and <b> security cameras. </b> </p>
+      </div>
+      <div class="col-md-4">
+        <div>
+          <img src="{{site.baseurl}}/img/icon-conductoresV2.svg">
+          <h2>Professional Drivers</h2>
+        </div>
+        <p>All go through a strict <b> selection process </b> that includes interviews, toxicological examinations and psychometric evaluations. </p>
+      </div>
+      <div class="col-md-12 text-center">
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-          Solicita información
+          Request information
         </button>
       </div>
-      <div class="col-md-3"></div>
     </div>
   </div>
+
+  <div class="container porque-content">
+    <div class="row">
+      <div class="col-md-12 text-center porque-title" data-aos="fade-up">
+        <h2>Benefits for your organization</h2>
+      </div>
+    </div>
+
+    <div class="row cuatro-puntos">
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
+        <img src="img/engrane.svg">
+        <p><strong>Increase productivity</strong></p>
+        <p>Traveling by Jetty can rest during the trip or catch up with your emails.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
+        <img src="img/mundo.svg">
+        <p><strong>Social responsability</strong></p>
+        <p>Promotes the use of greener transport.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
+        <img src="img/alcancia.svg">
+        <p><strong>Big savings</strong></p>
+        <p>With Jetty, you can save on the cost of transfers and parking.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
+        <img src="img/manos.svg">
+        <p><strong>Use Jetty as a recruiting weapon</strong></p>
+        <p>Transportation is one of the most important factors in accepting a job.</p>
+      </div>
+    </div>
+
+    <div class="row tres-puntos" data-aos="fade" data-aos-duration="1000">
+      <div class="col-md-7 col-md-push-3">
+
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Jetty is not a traditional transport service</h2>
+
+            <p class="lead">We offer you different schemes to adapt to the needs of your organization:</p>
+
+            <p>• Promote Jetty services. We can create you a discount code</p>
+            <p>• Quote exclusive services for people in your organization.</p>
+            <p>• Subsidize a part or 100% of trips from your collaborators.</p>
+
+            <br><br>
+            <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+              Request information
+            </button>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>Our clients:</h1>
+        <ul class="clientes">
+          <li>
+            <a href="http://www.alhel.com/" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/alhel.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.continentaltire.mx/car" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/continental.svg">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.lexmark.com/es_mx.html" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/lexmark.svg">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.globant.com/" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/globant.svg">
+            </a>
+          </li>
+          <li>
+            <a href="http://www.piplatam.com/" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/PiP-white.png" alt="Jetty PiP Latam" width="70">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.mheducation.com.mx" target="_blank">
+              <img src="{{site.baseurl}}/imgs-prensa/MHE-Logo.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
 </div>
 
-<div class="container valor">
-  <div class="row">
-    <div class="col-md-4">
-      <div class="text-center">
-        <img src="img/icon-tecnologia.svg" alt="Jetty, Tecnología">
-        <h2>Tecnología</h2>
-      </div>
-      <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
-    </div>
-    <div class="col-md-4">
-      <div class="text-center">
-        <img src="img/icon-seguridad.svg">
-        <h2>Vehículos de primera</h2>
-      </div>
-      <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, y<b> cámaras de seguridad.</b></p>
-    </div>
-    <div class="col-md-4">
-      <div class="text-center">
-        <img src="img/icon-choferes.svg">
-        <h2>Conductores expertos</h2>
-      </div>
-      <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
-    </div>
-    <div class="col-md-12 text-center">
-      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-        Solicita información
-      </button>
-    </div>
-  </div>
-</div>
-
-<div class="container porque-content">
-  <div class="row">
-    <div class="col-md-12 text-center porque-title" data-aos="fade-up">
-      <h2>Beneficios para tu organización</h2>
-    </div>
-  </div>
-
-  <div class="row cuatro-puntos">
-    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
-      <img src="img/engrane.svg">
-      <p><strong>Aumenta la productividad</strong></p>
-      <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
-    </div>
-    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
-      <img src="img/mundo.svg">
-      <p><strong>Responsabilidad social</strong></p>
-      <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
-    </div>
-    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
-      <img src="img/alcancia.svg">
-      <p><strong>Grandes ahorros</strong></p>
-      <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
-    </div>
-    <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
-      <img src="img/manos.svg">
-      <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
-      <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
-    </div>
-  </div>
-
-  <div class="row tres-puntos">
-    <div class="col-md-12 text-center tres-puntos-title" data-aos="fade-up" data-aos-duration="1000">
-      <h2>Jetty no es un servicio de transporte tradicional</h2>
-      <p class="lead">
-        <b>Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</b>
-      </p>
-    </div>
-
-    <div class="col-md-4 text-center" data-aos="fade-right" data-aos-duration="1000">
-      <p>Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
-    </div>
-    <div class="col-md-4 text-center middle" data-aos="fade-up" data-aos-duration="1000">
-      <p>Cotiza servicios exclusivos para la gente de tu organización.</p>
-    </div>
-    <div class="col-md-4 text-center" data-aos="fade-left" data-aos-duration="1000">
-      <p>Subsidia parte o el 100% de viajes de tus colaboradores.</p>
-    </div>
-  </div>
-
-  <div class="row tres-puntos">
-    <div class="col-md-12 text-center" data-aos="fade-up">
-      <!-- Button trigger modal -->
-      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-        Solicita información
-      </button>
-    </div>
-  </div>
-</div>
 
 <!-- Modal Organizaciones -->
 <div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

@@ -5,22 +5,6 @@ description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido
 id: quienes
 ---
 
-<!-- <figure class="header-quienes">
-  <img src="img/Back_Quienes.jpg" alt="Jetty MX" class="back">
-  <figcaption>
-    <div class="container header-content-quienes">
-      <div class="row">
-        <div class="col-md-10">
-
-
-        </div>
-      </div>
-    </div>
-  </figcaption>
-</figure>
-
-<div class="clearfix"></div> -->
-
 <div class="container-fluid gradient quienes">
   <div class="container">
     <div class="row">
