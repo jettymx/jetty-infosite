@@ -146,7 +146,9 @@ id: transporte-eventos
       <div class="col-md-4 text-center">
         <img src="img/camionetas.png" class="img-servicios">
         <h3>Vehículos nuevos</h3>
-        <p>Crafter VW - 19pax <br> Transit Ford - 14 y 17pax</p>
+        <p>
+          Caddy - 6 pax <br> Urvan - 13 pax <br> Transit - 14 y 17 pax <br> Crafter - 19 pax <br> Linner G - 41-45
+        </p>
       </div>
 
       <div class="col-md-8 col-md-offset-2 text-center">
