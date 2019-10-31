@@ -41,7 +41,7 @@ priority: 1.0
         <p>Todos nuestros viajes son monitoreados por nuestro equipo.</p>
       </div>
       <div class="col-md-4 amenidad" >
-        <img src="img/icon-tranqulidadV2.svg" alt="Jetty, Tranquilidads">
+        <img src="img/icon-tranqulidadV2.svg" alt="Jetty, Tranquilidad">
         <h3 style="font-weight: 800">Tranquilidad</h3>
         <p>Nuestros conductores y el equipo de soporte, están capacitados para darte el mejor servicio.</p>
       </div>
@@ -68,7 +68,7 @@ priority: 1.0
               <p>Dinos de dónde sales y a dónde viajas.</p>
             </div>
             <div class="app-jetty text-left">
-              <img src="img/app-jetty-1.png" alt="Jetty, Cómo funciona">
+              <img src="img/app-jetty-1.png" alt="Jetty, De dónde sales">
             </div>
           </div>
 
@@ -78,7 +78,7 @@ priority: 1.0
               <p>Revisa el día, horario y elige el que más te convenga.</p>
             </div>
             <div class="app-jetty app-right">
-              <img src="img/app-jetty-2.png" alt="Jetty, Cómo funciona">
+              <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario">
             </div>
           </div>
 
@@ -92,7 +92,7 @@ priority: 1.0
               <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
             </div>
             <div class="app-jetty text-left">
-              <img src="img/app-jetty-3.png" alt="Jetty, Cómo funciona">
+              <img src="img/app-jetty-3.png" alt="Jetty, Reserva tu asiento">
             </div>
           </div>
 
@@ -102,7 +102,7 @@ priority: 1.0
               <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
             </div>
             <div class="app-jetty app-right">
-              <img src="img/app-jetty-4.png" alt="Jetty, Cómo funciona">
+              <img src="img/app-jetty-4.png" alt="Jetty, Muestra tu pase">
             </div>
           </div>
 

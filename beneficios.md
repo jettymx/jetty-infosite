@@ -17,17 +17,17 @@ id: Beneficios
     <div class="row uno">
       <div class="col-md-12">
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-asientoV2.svg">
+          <img src="img/icon-asientoV2.svg" alt="Jetty, Asiento reservado">
           <h3><strong>Sabes que siempre tendrás tu lugar sentado.</strong></h3>
-          <p>En Jetty cada espacio en el vehículo está identificado y asignado, nunca "sobre vendemos" asientos.</p>
+          <p>En jetty puedes reservar tu asiento desde la app, siempre llegarás cómodo y seguro.</p>
         </div>
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-pinesV2.svg">
+          <img src="img/icon-pinesV2.svg" alt="Jetty, Traslado directo">
           <h3><strong>No perder tiempo en vueltas innecesarias.</strong></h3>
           <p>En Jetty el conductor conoce su ruta, sabe dónde se suben y bajan los usuarios.</p>
         </div>
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-suenoV2.svg">
+          <img src="img/icon-suenoV2.svg" alt="Jetty, Recupera horas de sueño">
           <h3><strong>Recupera horas perdidas de sueño.</strong></h3>
           <p>En Jetty puedes ir relajado sabiendo que el conductor sabe lo que hace.</p>
         </div>
@@ -37,17 +37,17 @@ id: Beneficios
     <div class="row uno">
       <div class="col-md-12">
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-ahorroV2.svg">
+          <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorra en traslados">
           <h3><strong>No gastes tu quincena en tus traslados.</strong></h3>
           <p>Jetty te cuesta 30% menos que llevar tu auto y 60% menos que otros servicios.</p>
         </div>
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-mailV2.svg">
+          <img src="img/icon-mailV2.svg" alt="Jetty, Envía el último mail">
           <h3><strong>Manda ese último correo en el viaje de regreso.</strong></h3>
           <p>En Jetty puedes sacar tranquilamente tu celular o laptop.</p>
         </div>
         <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-          <img src="img/icon-conductorV2.svg">
+          <img src="img/icon-conductorV2.svg" alt="Jetty, Conductores profesionales">
           <h3><strong>Tienes un conductor profesional y considerado.</strong></h3>
           <p>Todos nuestros conductores están altamente certificados para ofrecerles el mejor servicio.</p>
         </div>
@@ -58,9 +58,3 @@ id: Beneficios
     </div>
   </div>
 </div>
-
-<!-- <div class="clearfix"></div>
-
-<div class="space-greenUp">
-  <img src="img/back-green-up.png" style="margin-top: -1px">
-</div> -->
