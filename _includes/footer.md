@@ -12,9 +12,9 @@
           <li>
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
-          <!-- <li>
-            <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Tu camioneta con Jetty</a>
-          </li> -->
+          <li>
+            <a href="{{site.baseurl}}/trabajo-transportista" target="_self">Tu camioneta con Jetty</a>
+          </li>
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>

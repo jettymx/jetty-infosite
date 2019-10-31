@@ -39,11 +39,11 @@ id: trabajo-conductor
         <p>Además de participar en la operación diaria, tienes la oportunidad de incrementar tus ingresos al trabajar en eventos especiales como conciertos, eventos deportivos y más.</p>
       </div>
 
-      <div class="col-md-12 text-center">
-        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
+      <!-- <div class="col-md-12 text-center">
+        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalTransportistas">
           Regístrate con Jetty
         </button>
-      </div>
+      </div> -->
     </div>
 
     <div class="row preguntas">
@@ -151,108 +151,9 @@ id: trabajo-conductor
   </div>
 </div>
 
-<!-- <div class="clearfix"></div>
 
-<div class="space-greenUp">
-  <img src="img/back-green-up.png" style="margin-top: -1px">
-</div> -->
-
-<!-- <div class="container">
-  <div class="row conductor-request">
-    <div class="col-md-4 text-center">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="img/icon-van.svg">
-          <h2>Jetty te ofrece la posibilidad de:</h2>
-          <p>Poner a trabajar tu vehículo de lunes a viernes. No tener que preocuparte por buscar clientes. Nosotros nos encargamos.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 text-center">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="img/icon-check.svg">
-          <h2>¿Cuáles son los requisitos para propietarios?</h2>
-          <p>Tener un vehículo en buen estado, de no más de 5 años, con por lo menos 12 asientos y pasillo central.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 text-center">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="img/icon-card.svg">
-          <h2>¿Cuáles son los requisitos para conductores?</h2>
-          <p>Tener o tramitar licencia tipo "C". </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> -->
-
-<!-- <div class="space-greenUp">
-  <img src="img/back-green-down.png">
-</div> -->
-
-<!-- <div class="conatiner-fluid proceso">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h2>¿Cúal es el proceso?</h2>
-        <br>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3 number">
-        <div class="row">
-          <div class="col-md-2 col-xs-3 text-right">
-            <img src="img/icon-uno.svg">
-          </div>
-          <div class="col-md-10 col-xs-9">
-            <p class="lead">Llena este formulario:</p>
-            <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
-              Quiero ser parte de Jetty
-            </button>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-md-offset-3 number">
-        <div class="row">
-          <div class="col-md-2 col-xs-3 text-right">
-            <img src="img/icon-dos.svg">
-          </div>
-          <div class="col-md-10 col-xs-9">
-            <p class="lead">Un miembro del equipo de Jetty se pondrá en contacto contigo para:</p>
-            <ul>
-              <li>Hacerte una entrevista personal </li>
-              <li>Hacer una inspección a tu vehículo. </li>
-              <li>Crear tu expediente</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-md-offset-3 number">
-        <div class="row">
-          <div class="col-md-2 col-xs-3 text-right">
-            <img src="img/icon-tres.svg">
-          </div>
-          <div class="col-md-10 col-xs-9">
-            <p class="lead">Únete a Jetty, la tecnología que cambiará la forma de transportarte en México</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h3>Nosotros te podemos dar asesoría para sacar los permisos que necesitas</h3>
-      </div>
-    </div>
-  </div>
-</div> -->
-
-<div class="clearfix"></div>
-
- <!-- Modal Conductor -->
-<div class="modal fade" id="ModalConductor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+ <!-- Modal Transportistas -->
+<div class="modal fade" id="ModalTransportistas" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -260,7 +161,7 @@ id: trabajo-conductor
         <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
       </div>
 
-      <form id="form-drivers">
+      <form id="form-transportistas">
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
@@ -303,7 +204,7 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">¿En qué colonia y delegación/municipio vives?</label>
+              <label for="address">¿En qué colonia tendría origen la unidad?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
@@ -312,11 +213,20 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">¿Cuentas con licencia tipo C?</label>
+              <label for="licencia">Tipo de licencia del Conductor:</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="120"
+                      name="licencia"
+                      required />
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="experience">¿Tienes experiencia en transporte de personal o transporte público?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
-                          name="license"
+                          name="experience"
                           value="true"
                           checked />
                   Sí
@@ -325,77 +235,66 @@ id: trabajo-conductor
               <div class="radio">
                 <label>
                   <input  type="radio"
-                          name="license"
+                          name="experience"
                           value="false" />
                   No
                 </label>
               </div>
             </div>
 
-
             <div class="col-md-12 form-group">
-              <label for="company">¿Cuentas con una camioneta para pasajeros?</label>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="isOwner"
-                          value="true">
-                  Sí
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="isOwner"
-                          value="false" checked>
-                  No
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="vehicle">¿De qué marca es tu vehículo?</label>
-              <select class="form-control" name="vehicleModel">
-                <option selected disabled value="none">Selecciona una opción</option>
-                <option>Volkswagen</option>
-                <option>Toyota</option>
-                <option>Nissan</option>
-                <option>Mercedes</option>
-                <option>Fiat</option>
-                <option>Pegout</option>
-                <option>Otros</option>
-              </select>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="">¿De qué año es tu vehículo?</label>
-              <select class="form-control" name="vehicleYear">
-                <option selected disabled value="none">Selecciona una opción</option>
-                <option>2017</option>
-                <option>2016</option>
-                <option>2015</option>
-                <option>2014</option>
-                <option>2013</option>
-                <option>2012 o anterior</option>
-              </select>
+              <p style="color: #333"><b>Cuéntanos tu experiencia como operador de transporte:</b></p>
+              <label for="years">Años de experiencia</label>
+              <textarea class="form-control" rows="3" name="years"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">¿Cuentas con algún permiso o placas especializadas?</label>
+              <label for="vehiculos">¿Cuántos Vehículos tienes?</label>
+              <textarea class="form-control" rows="3" name="vehiculos"></textarea>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="tipo">¿Qué tipos de vehículos tienes?</label>
+              <textarea class="form-control" rows="3" name="tipo"></textarea>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="why">Porqué quieres trabajar con Jetty</label>
+              <textarea class="form-control" rows="3" name="why"></textarea>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="how">¿Cómo te enteraste de Jetty?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
-                          name="plates"
+                          name="how"
                           value="true" />
-                  Sí
+                  Amigo que trabaja en Jetty
                 </label>
               </div>
               <div class="radio ">
                 <label>
                   <input  type="radio"
-                          name="plates"
+                          name="how"
                           value="false" />
-                  No
+                  Vi un vehículo en la calle
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="false" />
+                  Recomendación
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="false" />
+                  Otro
                 </label>
               </div>
             </div>
@@ -413,7 +312,7 @@ id: trabajo-conductor
 </div>
 
 
- <!-- Modal Conductor -->
+ <!-- Modal Transportistas Success -->
  <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -424,7 +323,7 @@ id: trabajo-conductor
 
       <div class="modal-body text-center">
         <div class="row">
-          <div class="col-md-12  .center">
+          <div class="col-md-12 text-center">
               <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
           </div>
         </div>

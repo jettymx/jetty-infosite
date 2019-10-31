@@ -1,4 +1,4 @@
-
+// Conductores
 $('#form-drivers').submit(function (e) {
     e.preventDefault();
 
@@ -35,6 +35,43 @@ $('#form-drivers').submit(function (e) {
       });
 });
 
+// Transportistas
+$('#form-transportistas').submit(function (e) {
+    e.preventDefault();
+
+    var formSerialized = $('#form-transportistas').serializeArray()
+    .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
+
+    var params = {
+        name: formSerialized.name,
+        lastname: formSerialized.lastname,
+        mail: formSerialized.mail,
+        phone: formSerialized.phone,
+        address: formSerialized.address,
+        licencia: formSerialized.licencia,
+        experience: formSerialized.experience,
+        years: formSerialized.years,
+        vehiculos: formSerialized.vehiculos,
+        tipo: formSerialized.tipo,
+        why: formSerialized.why,
+        how: formSerialized.how
+    };
+
+    $.ajax({
+        type: 'POST',
+        url: "https://jetty-web.herokuapp.com/api/driver",
+        data: JSON.stringify(params),
+        crossDomain: false,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function(response) {
+            $('#ModalTransportistas').modal('hide');
+            $('#ModalSuccess').modal('show');
+        }
+      });
+});
+
+// Eventos
 $('.js--form-events').submit(function (e){
     e.preventDefault();
 
@@ -75,7 +112,7 @@ $('.js--form-events').submit(function (e){
 });
 
 
-
+// Empresas
 $('#form-company').submit(function (e){
     e.preventDefault();
 

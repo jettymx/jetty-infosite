@@ -720,13 +720,26 @@ a.download-app img{
   background-image: none;
 }
 
+/*.carousel-inner{
+  padding: 0 12px;
+}*/
+
 .carousel-inner .item p{
   color: #fff;
   font-weight: 600;
 }
 
+.carousel-inner .item{
+  height: 110px;
+  padding-top: 20px;
+}
+
 .carousel-control{
   width: 0%;
+}
+
+.item-text-right{
+  text-align: right;
 }
 
 /* Carousel testimonial */
@@ -1003,7 +1016,7 @@ ul.nuevas-rutas li .btn-ruta:focus{
 .cuatro-puntos > .porque{
   /*background: #4abea7;*/
   /*border: 4px solid #ffffff;*/
-  padding: 10px;
+  /*padding: 10px;*/
   min-height: 330px;
 }
 
@@ -2198,6 +2211,16 @@ ul.testimoniales-blog li img{
 
   .contacta{
     margin-top: 20px;
+    text-align: left;
+  }
+
+  .carousel-inner .item{
+    height: 300px;
+    padding-top: 20px;
+    padding: 0 10px;
+  }
+
+  .item-text-right{
     text-align: left;
   }
 

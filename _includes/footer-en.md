@@ -13,6 +13,9 @@
           <a href="{{site.baseurl}}/en/quienes">About us</a>
         </li>
         <li>
+          <a href="{{site.baseurl}}/trabajo-transportista" target="_self">Your van with Jetty</a>
+        </li>
+        <li>
           <a href="{{site.baseurl}}/en/vacantes" target="_self">Work with us</a>
         </li>
         <li>
@@ -20,9 +23,6 @@
         </li>
         <li>
           <a href="{{site.baseurl}}/en/prensa" target="_self">Press</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/trabajo-conductor" target="_self">Your van with Jetty</a>
         </li>
       </ul>
     </div>

@@ -73,13 +73,13 @@ id: transporte-eventos
       </div>
     </div>
 
-    <div class="row tour">
+    <!-- <div class="row tour">
       <div class="col-md-12 text-center" data-aos="fade">
         <h2>Nuestros Tours</h2>
       </div>
-    </div>
+    </div> -->
 
-    <div class="row tour" data-aos="fade">
+    <!-- <div class="row tour" data-aos="fade">
 
       <div class="col-md-4">
         <img src="img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
@@ -125,7 +125,7 @@ id: transporte-eventos
         <a href="tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
       </div>
 
-    </div>
+    </div> -->
 
 
     <div class="row incluye-eventos">

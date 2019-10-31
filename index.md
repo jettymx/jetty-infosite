@@ -38,7 +38,7 @@ priority: 1.0
       <div class="col-md-4 amenidad">
         <img src="img/icon-seguridadV2.svg" alt="Jetty, Seguridad">
         <h3 style="font-weight: 800">Seguridad</h3>
-        <p>Todas nuestras unidades cuentan con cámaras de vigilancia y son monitoreadas vía GPS.</p>
+        <p>Todos nuestros viajes son monitoreados por nuestro equipo.</p>
       </div>
       <div class="col-md-4 amenidad" >
         <img src="img/icon-tranqulidadV2.svg" alt="Jetty, Tranquilidads">
@@ -145,10 +145,10 @@ priority: 1.0
           <div class="carousel-inner" role="listbox">
             <div class="item active">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/stars.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <br>
                   <p>Excelente servicio, de hecho extraordinario de verdad, lo recomendaré mucho. <i>Juan Carlos C.</i></p>
                 </div>
@@ -156,40 +156,40 @@ priority: 1.0
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/stars.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <p>Genial servicio! Conductor súper amable. Cada vez van abriendo más servicios y si no te queda alguna puedes preguntar para que te digan por donde pasa y te recojan. Seguro, rápido y cómodo. No hay mejor manera para llegar a Santa Fé. <i>Nancy G.</i></p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/stars.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <p>Muy buen servicio, las camionetas son super puntuales, cuentan con cámaras de seguridad y el servicio al cliente siempre está atento a lo que necesites, lo utilizaré casi diario. <i>Rafael C.</i></p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/clock.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <p>Excelente, llevo varios meses viajando en Jetty y el servicio es perfecto, Enrique es super amable muy educado y siempre preocupado porque lleguemos a tiempo y con bien a nuestro destino, al servicio y a Enrique les doy 5 estrellas, gracias. <i>Hugo C.</i></p>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/stars.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <br>
                   <p>Excelente servicio, ya no uso mi carro para ir a la oficina. <i>Luis Antonio F.</i></p>
                 </div>
@@ -197,10 +197,10 @@ priority: 1.0
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-md-2 text-right">
+                <div class="col-md-2 item-text-right">
                   <img src="img/corazon.svg">
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-9">
                   <p>Como ya se está volviendo una maravillosa costumbre, JETTY me acompaña casi diario para comenzar bien mi día... ¡Son únicos! ¡Los amo! <i>Klaus</i></p>
                 </div>
               </div>

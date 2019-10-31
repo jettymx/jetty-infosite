@@ -169,33 +169,6 @@ id: conductor
               <textarea class="form-control" rows="3" name="why"></textarea>
             </div>
 
-            <!-- <div class="col-md-6 form-group">
-              <label for="vehicle">¿De qué marca es tu vehículo?</label>
-              <select class="form-control" name="vehicleModel">
-                <option selected disabled value="none">Selecciona una opción</option>
-                <option>Volkswagen</option>
-                <option>Toyota</option>
-                <option>Nissan</option>
-                <option>Mercedes</option>
-                <option>Fiat</option>
-                <option>Pegout</option>
-                <option>Otros</option>
-              </select>
-            </div> -->
-
-            <!-- <div class="col-md-6 form-group">
-              <label for="">¿De qué año es tu vehículo?</label>
-              <select class="form-control" name="vehicleYear">
-                <option selected disabled value="none">Selecciona una opción</option>
-                <option>2017</option>
-                <option>2016</option>
-                <option>2015</option>
-                <option>2014</option>
-                <option>2013</option>
-                <option>2012 o anterior</option>
-              </select>
-            </div> -->
-
             <div class="col-md-12 form-group">
               <label for="company">Cómo te enteraste de Jetty</label>
               <div class="radio">
@@ -256,7 +229,7 @@ id: conductor
 
       <div class="modal-body text-center">
         <div class="row">
-          <div class="col-md-12  .center">
+          <div class="col-md-12 text-center">
               <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
           </div>
         </div>

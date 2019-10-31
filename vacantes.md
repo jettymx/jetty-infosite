@@ -1052,7 +1052,7 @@ id: vacantes
                 <br>
 
                 <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Conductor ejecutivo">hola@jetty.mx</a> utilizando <b>“Conductor ejecutivo”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
+                <p>Llena este <a href="{{site.baseurl}}/bolsa-trabajo-conductor#destino">formulario</a>  con tus datos y nos pondremos en contacto contigo</p>
 
               </div>
             </div>

@@ -26,21 +26,21 @@ id: transporte-personal
 
   <div class="container valor">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-6">
         <div>
           <img src="img/icon-tecnologiaV2.svg" alt="Jetty, Tecnología">
           <h2>Tecnología</h2>
         </div>
         <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
       </div>
-      <div class="col-md-4">
+      <!-- <div class="col-md-4">
         <div>
           <img src="img/icon-seguroV2.svg">
           <h2>Vehículos de primera</h2>
         </div>
         <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, y<b> cámaras de seguridad.</b></p>
-      </div>
-      <div class="col-md-4">
+      </div> -->
+      <div class="col-md-6">
         <div>
           <img src="img/icon-conductoresV2.svg">
           <h2>Conductores expertos</h2>
@@ -144,6 +144,11 @@ id: transporte-personal
           <li>
             <a href="https://www.mheducation.com.mx" target="_blank">
               <img src="imgs-prensa/MHE-Logo.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.verifone.com/es/mx" target="_blank">
+              <img src="imgs-prensa/verifone.png">
             </a>
           </li>
         </ul>
