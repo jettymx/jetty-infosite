@@ -36,8 +36,3 @@ categories: update
 <small>*** Recuerda que el pago con QR no te garantiza asiento. Si deseas tener la certeza de viajar sentado, debes reservar de la manera habitual en la app.</small>
 
 <img src="/imgs-blog/app-jetty-QR.png">
-
-<p>Cualquiera debería poder abrir su app, y saber cuántos minutos faltan para que pase el siguiente micro o autobús, conocer cuántos asientos quedan disponibles, quién es el chófer y a que empresa pertenece. Todos deberíamos poder abordar sin utilizar efectivo, y viajar con la tranquilidad de que alguien además del chofer está a cargo de tu viaje. Dar retroalimentación debería ser un proceso sencillo e intuitivo.
-</p>
-
-<p>Todos los choferes de la ciudad deberían pasar filtros de seguridad, todos los vehículos deberían tener buen estándar y todas las rutas deberían adaptarse a la demanda de los pasajeros. Pero vamos poco a poco. </p>
