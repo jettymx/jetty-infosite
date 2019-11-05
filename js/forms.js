@@ -2,22 +2,23 @@
 $('#form-drivers').submit(function (e) {
     e.preventDefault();
 
-    var formSerialized = $('#form-drivers').serializeArray()
-    .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
+    var formSerialized = $('#form-drivers').
+      serializeArray().
+      reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
 
     var params = {
-        name: formSerialized.name,
-        lastname: formSerialized.lastname,
-        edad: formSerialized.edad,
-        phone: formSerialized.phone,
-        address: formSerialized.address,
-        waze: formSerialized.waze,
-        owner: formSerialized.isOwner,
-        experience: formSerialized.vexperience,
-        why: formSerialized.why,
-        how: formSerialized.how
+      name: formSerialized.name,
+      lastname: formSerialized.lastname,
+      age: formSerialized.age,
+      phone: formSerialized.phone,
+      email: formSerialized.email,
+      address: formSerialized.address,
+      waze: formSerialized.waze,
+      owner: formSerialized.isOwner,
+      experience: formSerialized.experience,
+      why: formSerialized.why,
+      how: formSerialized.how
     };
-
 
     analytics.track("Driver - Complete", params);
 

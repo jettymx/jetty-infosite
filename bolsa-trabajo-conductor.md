@@ -69,56 +69,73 @@ id: conductor
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
-              <label  for="name">Nombre</label>
+              <label  for="form-drivers--name">Nombre</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Nombre"
                       maxlength="30"
                       name="name"
+                      id="form-drivers--name"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="lastname">Apellidos</label>
+              <label  for="form-drivers--lastname">Apellidos</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Apellidos"
                       maxlength="60"
                       name="lastname"
+                      id="form-drivers--lastname"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="edad">Edad</label>
+              <label  for="form-drivers--age">Edad</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
                       placeholder="21 años"
-                      name="edad" />
+                      name="age"
+                      id="form-drivers--age"
+                      />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="phone">Número telefónico</label>
+              <label  for="form-drivers--phone">Número telefónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="20"
                       placeholder="Número telefónico"
                       name="phone"
+                      id="form-drivers--phone"
                       required>
             </div>
 
+            <div class="col-md-6 form-group">
+              <label  for="form-drivers--mail">Correo electrónico</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="60"
+                      placeholder="Correo electrónico"
+                      name="email"
+                      id="form-drivers--email"
+                      />
+            </div>
+
             <div class="col-md-12 form-group">
-              <label for="company">¿Dónde vives?</label>
+              <label for="form-drivers--address">¿Dónde vives?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
                       placeholder="No. Calle, Colonia, Alcaldia/Municipio, C.P."
                       name="address"
+                      id="form-drivers--address"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="company">¿Sabes usar Waze?</label>
+              <label>¿Sabes usar Waze?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
@@ -138,9 +155,8 @@ id: conductor
               </div>
             </div>
 
-
-            <div class="col-md-6 form-group">
-              <label for="company">¿Cuentas con una camioneta para pasajeros?</label>
+            <div class="col-md-12 form-group">
+              <label>¿Cuentas con una camioneta para pasajeros?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
@@ -160,22 +176,22 @@ id: conductor
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="experience">Cuéntanos tu experiencia como conductor (empresa, tipo de vehículo, años).</label>
-              <textarea class="form-control" rows="3" name="experience"></textarea>
+              <label for="form-drivers--experience">Cuéntanos tu experiencia como conductor (empresa, tipo de vehículo, años).</label>
+              <textarea class="form-control" rows="3" name="experience" id="form-drivers--experience"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="why">Porqué quieres trabajar en Jetty</label>
-              <textarea class="form-control" rows="3" name="why"></textarea>
+              <label for="form-drivers--why">Porqué quieres trabajar en Jetty</label>
+              <textarea class="form-control" rows="3" name="why" id="form-drivers--why"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">Cómo te enteraste de Jetty</label>
+              <label>Cómo te enteraste de Jetty</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="true" />
+                          value="amigo-trabaja-en-jetty" />
                   Amigo que trabaja en Jetty
                 </label>
               </div>
@@ -183,7 +199,7 @@ id: conductor
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="false" />
+                          value="vi-vehiculo-en-calle" />
                   Vi un vehículo en la calle
                 </label>
               </div>
@@ -191,20 +207,19 @@ id: conductor
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="false" />
+                          value="recomendacion" />
                   Recomendación
                 </label>
               </div>
               <div class="radio ">
                 <label>
                   <input  type="radio"
-                          name="how"
+                          name="otro"
                           value="false" />
                   Otro
                 </label>
               </div>
             </div>
-
         </div>
         <div class="clearfix"></div>
         <div class="modal-footer">
@@ -212,7 +227,6 @@ id: conductor
           <button type="submit" class="btn btn-green-small">Enviar</button>
         </div>
       </form>
-
     </div>
   </div>
 </div>
