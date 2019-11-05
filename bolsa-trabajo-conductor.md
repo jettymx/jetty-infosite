@@ -113,7 +113,7 @@ id: conductor
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="form-drivers--mail">Correo electrónico</label>
+              <label  for="form-drivers--email">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
@@ -214,8 +214,8 @@ id: conductor
               <div class="radio ">
                 <label>
                   <input  type="radio"
-                          name="otro"
-                          value="false" />
+                          name="how"
+                          value="otro" />
                   Otro
                 </label>
               </div>

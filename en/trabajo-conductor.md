@@ -195,7 +195,7 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="form-drivers--mail">Correo electrónico</label>
+              <label  for="form-drivers--email">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
