@@ -151,54 +151,93 @@ id: trabajo-conductor
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
-              <label  for="name">Nombre</label>
+              <label  for="form-drivers--name">Nombre</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Nombre"
                       maxlength="30"
                       name="name"
+                      id="form-drivers--name"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="lastname">Apellidos</label>
+              <label  for="form-drivers--lastname">Apellidos</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Apellidos"
                       maxlength="60"
                       name="lastname"
+                      id="form-drivers--lastname"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="mail">Correo electrónico</label>
+              <label  for="form-drivers--age">Edad</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="60"
+                      placeholder="21 años"
+                      name="age"
+                      id="form-drivers--age"
+                      />
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="form-drivers--phone">Número telefónico</label>
+              <input  type="text"
+                      class="form-control"
+                      maxlength="20"
+                      placeholder="Número telefónico"
+                      name="phone"
+                      id="form-drivers--phone"
+                      required>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label  for="form-drivers--email">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
                       placeholder="Correo electrónico"
-                      name="email" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label  for="phone">Número telefónico</label>
-              <input  type="text"
-                      class="form-control"
-                      maxlength="20"
-                      placeholder="Número telefonico"
-                      name="phone"
-                      required>
+                      name="email"
+                      id="form-drivers--email"
+                      />
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">¿En qué colonia y delegación/municipio vives?</label>
+              <label for="form-drivers--address">¿Dónde vives?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
+                      placeholder="No. Calle, Colonia, Alcaldia/Municipio, C.P."
                       name="address"
+                      id="form-drivers--address"
                       required />
             </div>
 
-            <div class="col-md-12 form-group">
+            <div class="col-md-6 form-group">
+              <label>¿Sabes usar Waze?</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="waze"
+                          value="true"
+                          checked />
+                          Sí
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="waze"
+                          value="false" />
+                          No
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
               <label for="company">¿Cuentas con licencia tipo C?</label>
               <div class="radio">
                 <label>
@@ -219,9 +258,8 @@ id: trabajo-conductor
               </div>
             </div>
 
-
             <div class="col-md-12 form-group">
-              <label for="company">¿Cuentas con una camioneta para pasajeros?</label>
+              <label>¿Cuentas con una camioneta para pasajeros?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
@@ -241,8 +279,8 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="vehicle">¿De qué marca es tu vehículo?</label>
-              <select class="form-control" name="vehicleModel">
+              <label for="form-drivers--vehicleModel">¿De qué marca es tu vehículo?</label>
+              <select class="form-control" name="vehicleModel" id="form-drivers--vehicleModel">
                 <option selected disabled value="none">Selecciona una opción</option>
                 <option>Volkswagen</option>
                 <option>Toyota</option>
@@ -255,8 +293,8 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-6 form-group">
-              <label for="">¿De qué año es tu vehículo?</label>
-              <select class="form-control" name="vehicleYear">
+              <label for="form-drivers--vehicleYear">¿De qué año es tu vehículo?</label>
+              <select class="form-control" name="vehicleYear" id="form-drivers--vehicleYear">
                 <option selected disabled value="none">Selecciona una opción</option>
                 <option>2017</option>
                 <option>2016</option>
@@ -268,7 +306,17 @@ id: trabajo-conductor
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="company">¿Cuentas con algún permiso o placas especializadas?</label>
+              <label for="form-drivers--experience">Cuéntanos tu experiencia como conductor (empresa, tipo de vehículo, años).</label>
+              <textarea class="form-control" rows="3" name="experience" id="form-drivers--experience"></textarea>
+            </div>
+
+            <div class="col-md-12 form-group">
+              <label for="form-drivers--why">Porqué quieres trabajar en Jetty</label>
+              <textarea class="form-control" rows="3" name="why" id="form-drivers--why"></textarea>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label>¿Cuentas con algún permiso o placas especializadas?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
@@ -283,6 +331,42 @@ id: trabajo-conductor
                           name="plates"
                           value="false" />
                   No
+                </label>
+              </div>
+            </div>
+
+            <div class="col-md-6 form-group">
+              <label>Cómo te enteraste de Jetty</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="amigo-trabaja-en-jetty" />
+                  Amigo que trabaja en Jetty
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="vi-vehiculo-en-calle" />
+                  Vi un vehículo en la calle
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="recomendacion" />
+                  Recomendación
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="how"
+                          value="otro" />
+                  Otro
                 </label>
               </div>
             </div>
