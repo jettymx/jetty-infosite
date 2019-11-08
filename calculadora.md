@@ -83,5 +83,17 @@ id: vacantes
       </div>
     </form>
 
+    <div class="col-md-6">
+      <h2>En costo ahorras </h2>
+      <h1>$300 pesos</h1>
+      <p>Al viajar en Jetty</p>
+    </div>
+
+    <div class="col-md-6">
+      <h2>En tiempo ahorras</h2>
+      <h1>20 minutos</h1>
+      <p>Al viajar en Jetty</p>
+    </div>
+
   </div>
 </div>
