@@ -1279,7 +1279,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Auditorio <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Auditorio <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus7" class="map_canvas"></div>

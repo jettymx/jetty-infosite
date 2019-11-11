@@ -1972,6 +1972,15 @@ ul.testimoniales-blog li img{
   color: #596972;
 }
 
+.ahorro{
+  font-size: 56px;
+  line-height: 0;
+}
+
+.imgAhorro{
+  text-align: right;
+}
+
 .form-calc{
   margin-top: 40px;
 }
@@ -2636,6 +2645,11 @@ select.form-control {
 
   .text-404{
     margin-top: 10px;
+  }
+
+  .imgAhorro{
+    text-align: left;
+    margin-top: 20px;
   }
 
 }

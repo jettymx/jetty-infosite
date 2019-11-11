@@ -49,16 +49,16 @@ id: vacantes
         </select>
       </div>
       <div class="form-group col-md-6">
-        <label>Gasolina, costo semanal</label>
-        <input type="text" class="form-control" placeholder="Costo aproximado">
+        <label>Gasolina (Gasto semanal)</label>
+        <input type="text" class="form-control" placeholder="Gasto semanal">
       </div>
       <div class="form-group col-md-6">
-        <label>Caseta de cobro</label>
-        <input type="text" class="form-control" placeholder="Costo por cruce">
+        <label>Caseta de cobro (Gasto por viaje)</label>
+        <input type="text" class="form-control" placeholder="Gasto por viaje">
       </div>
       <div class="form-group col-md-6">
-        <label>Pensión/Estacionamiento</label>
-        <input type="text" class="form-control" placeholder="Costo mensual">
+        <label>Pensión/Estacionamiento (Gasto mensual)</label>
+        <input type="text" class="form-control" placeholder="Gasto mensual">
       </div>
       <div class="form-group col-md-6">
         <label>Tiempo por trayecto</label>
@@ -84,15 +84,29 @@ id: vacantes
     </form>
 
     <div class="col-md-6">
-      <h2>En costo ahorras </h2>
-      <h1>$300 pesos</h1>
-      <p>Al viajar en Jetty</p>
+      <div class="row">
+        <div class="col-md-4 imgAhorro">
+          <img src="img/icon-ahorroV2.svg">
+        </div>
+        <div class="col-md-8  ">
+          <h2>En costo ahorras </h2>
+          <h1><span class="ahorro">$300</span> pesos</h1>
+          <p>Al mes viajando en Jetty</p>
+        </div>
+      </div>
     </div>
 
     <div class="col-md-6">
-      <h2>En tiempo ahorras</h2>
-      <h1>20 minutos</h1>
-      <p>Al viajar en Jetty</p>
+      <div class="row">
+        <div class="col-md-4 imgAhorro">
+          <img src="img/icon-rutasV2.svg">
+        </div>
+        <div class="col-md-8">
+          <h2>En tiempo ahorras</h2>
+          <h1><span class="ahorro">20</span> minutos</h1>
+          <p>Al mes viajando en Jetty</p>
+        </div>
+      </div>
     </div>
 
   </div>
