@@ -40,13 +40,14 @@ $('#form-drivers').submit(function (e) {
 $('#form-transportistas').submit(function (e) {
     e.preventDefault();
 
-    var formSerialized = $('#form-transportistas').serializeArray()
-    .reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
+    var formSerialized = $('#form-transportistas').
+      serializeArray().
+      reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
 
     var params = {
         name: formSerialized.name,
         lastname: formSerialized.lastname,
-        mail: formSerialized.mail,
+        email: formSerialized.email,
         phone: formSerialized.phone,
         address: formSerialized.address,
         licencia: formSerialized.licencia,
@@ -60,7 +61,7 @@ $('#form-transportistas').submit(function (e) {
 
     $.ajax({
         type: 'POST',
-        url: "https://jetty-web.herokuapp.com/api/driver",
+        url: "https://jetty-web.herokuapp.com/api/operator",
         data: JSON.stringify(params),
         crossDomain: false,
         contentType: "application/json; charset=utf-8",

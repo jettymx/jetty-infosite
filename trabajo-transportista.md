@@ -165,69 +165,76 @@ id: trabajo-conductor
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
-              <label  for="name">Nombre</label>
+              <label  for="from-transportistas--name">Nombre</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Nombre"
                       maxlength="30"
                       name="name"
+                      id="form-transportistas--name"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="lastname">Apellidos</label>
+              <label  for="form-transportistas--lastname">Apellidos</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Apellidos"
                       maxlength="60"
                       name="lastname"
+                      id="form-transportistas--lastname"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="mail">Correo electrónico</label>
+              <label  for="form-transportistas--mail">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
                       placeholder="Correo electrónico"
-                      name="email" />
+                      name="email"
+                      id="form-transportistas--email"
+                      />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="phone">Número telefónico</label>
+              <label  for="form-transportistas--phone">Número telefónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="20"
                       placeholder="Número telefonico"
                       name="phone"
+                      id="form-transportistas--phone"
                       required>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="address">¿En qué colonia tendría origen la unidad?</label>
+              <label for="form-transportistas--address">¿En qué colonia tendría origen la unidad?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
                       name="address"
+                      id="form-transportistas--address"
                       required />
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="licencia">Tipo de licencia del Conductor:</label>
+              <label for="form-transportistas--licencia">Tipo de licencia del Conductor:</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
                       name="licencia"
+                      id="form-transportistas--licencia"
                       required />
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="experience">¿Tienes experiencia en transporte de personal o transporte público?</label>
+              <label for="">¿Tienes experiencia en transporte de personal o transporte público?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="experience"
-                          value="true"
+                          value="SI"
                           checked />
                   Sí
                 </label>
@@ -236,7 +243,7 @@ id: trabajo-conductor
                 <label>
                   <input  type="radio"
                           name="experience"
-                          value="false" />
+                          value="NO" />
                   No
                 </label>
               </div>
@@ -244,32 +251,32 @@ id: trabajo-conductor
 
             <div class="col-md-12 form-group">
               <p style="color: #333"><b>Cuéntanos tu experiencia como operador de transporte:</b></p>
-              <label for="years">Años de experiencia</label>
-              <textarea class="form-control" rows="3" name="years"></textarea>
+              <label for="form-transportistas--years">Años de experiencia</label>
+              <textarea class="form-control" rows="3" name="years" id="form-transportistas--years"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="vehiculos">¿Cuántos Vehículos tienes?</label>
-              <textarea class="form-control" rows="3" name="vehiculos"></textarea>
+              <label for="form-transportistas--vehiculos">¿Cuántos Vehículos tienes?</label>
+              <textarea class="form-control" rows="3" name="vehiculos" id="form-transportistas--vehiculos"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="tipo">¿Qué tipos de vehículos tienes?</label>
-              <textarea class="form-control" rows="3" name="tipo"></textarea>
+              <label for="form-transportistas--tipo">¿Qué tipos de vehículos tienes?</label>
+              <textarea class="form-control" rows="3" name="tipo" id="form-transportistas--tipo"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="why">Porqué quieres trabajar con Jetty</label>
-              <textarea class="form-control" rows="3" name="why"></textarea>
+              <label for="form-transportistas--why">Porqué quieres trabajar con Jetty</label>
+              <textarea class="form-control" rows="3" name="why" id="form-transportistas--why"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="how">¿Cómo te enteraste de Jetty?</label>
+              <label for="">¿Cómo te enteraste de Jetty?</label>
               <div class="radio">
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="true" />
+                          value="amigo-trabaja-en-jetty" />
                   Amigo que trabaja en Jetty
                 </label>
               </div>
@@ -277,7 +284,7 @@ id: trabajo-conductor
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="false" />
+                          value="vi-vehiculo-en-calle" />
                   Vi un vehículo en la calle
                 </label>
               </div>
@@ -285,7 +292,7 @@ id: trabajo-conductor
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="false" />
+                          value="recomendacion" />
                   Recomendación
                 </label>
               </div>
@@ -293,7 +300,7 @@ id: trabajo-conductor
                 <label>
                   <input  type="radio"
                           name="how"
-                          value="false" />
+                          value="otro" />
                   Otro
                 </label>
               </div>
