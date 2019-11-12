@@ -18,7 +18,7 @@ id: vacantes
     <form class="form-calc">
 
       <div class="col-md-12">
-        <p><b>Elige un tipo de transporte</b></p>
+        <p><b>Elige el tipo de transporte que utilizas.</b></p>
       </div>
       <div class="form-group col-md-6 inputGroup">
         <input id="radio1" name="radio" type="radio"/>

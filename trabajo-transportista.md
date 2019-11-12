@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Jetty | Los beneficios de trabajar como socio conductor
-description: Buscamos conductores confiables, profesionales y amables, para unirse a nuestro equipo y marcar la diferencia en la movilidad urbana.
-id: trabajo-conductor
+title: Jetty | Los beneficios de trabajar como socio transportista
+description: ¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?
+id: socio-transportista
 ---
 
 <div class="container-fluid gradient">
@@ -39,11 +39,11 @@ id: trabajo-conductor
         <p>Además de participar en la operación diaria, tienes la oportunidad de incrementar tus ingresos al trabajar en eventos especiales como conciertos, eventos deportivos y más.</p>
       </div>
 
-      <!-- <div class="col-md-12 text-center">
+      <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalTransportistas">
           Regístrate con Jetty
         </button>
-      </div> -->
+      </div>
     </div>
 
     <div class="row preguntas">
