@@ -2,6 +2,8 @@
 $('#form-drivers').submit(function (e) {
     e.preventDefault();
 
+    $('#form-drivers').find("button[type='submit']").button('loading');
+
     var formSerialized = $('#form-drivers').
       serializeArray().
       reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
@@ -30,8 +32,9 @@ $('#form-drivers').submit(function (e) {
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function(response) {
-            $('#ModalConductor').modal('hide');
-            $('#ModalSuccess').modal('show');
+          $('#ModalConductor').modal('hide');
+          $('#ModalSuccess').modal('show');
+          $('#form-drivers').find("button[type='submit']").button('reset');
         }
       });
 });
@@ -39,6 +42,8 @@ $('#form-drivers').submit(function (e) {
 // Transportistas
 $('#form-transportistas').submit(function (e) {
     e.preventDefault();
+
+    $('#form-transportistas').find("button[type='submit']").button('loading');
 
     var formSerialized = $('#form-transportistas').
       serializeArray().
@@ -67,8 +72,9 @@ $('#form-transportistas').submit(function (e) {
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function(response) {
-            $('#ModalTransportistas').modal('hide');
-            $('#ModalSuccess').modal('show');
+          $('#ModalTransportistas').modal('hide');
+          $('#ModalSuccess').modal('show');
+          $('#form-transportistas').find("button[type='submit']").button('reset');
         }
       });
 });

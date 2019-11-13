@@ -39,11 +39,11 @@ id: socio-transportista
         <p>Además de participar en la operación diaria, tienes la oportunidad de incrementar tus ingresos al trabajar en eventos especiales como conciertos, eventos deportivos y más.</p>
       </div>
 
-      <!-- <div class="col-md-12 text-center">
+       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalTransportistas">
           Regístrate con Jetty
         </button>
-      </div> -->
+      </div>
     </div>
 
     <div class="row preguntas">
@@ -305,12 +305,11 @@ id: socio-transportista
                 </label>
               </div>
             </div>
-
         </div>
         <div class="clearfix"></div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
+          <button type="submit" class="btn btn-green-small" data-loading-text="Espera...">Enviar</button>
         </div>
       </form>
 

@@ -224,7 +224,7 @@ id: conductor
         <div class="clearfix"></div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
+          <button type="submit" class="btn btn-green-small" data-loading-text="Espera...">Enviar</button>
         </div>
       </form>
     </div>
