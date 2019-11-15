@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/conductor-estrellaMarcoVenegas.png)
 
-Desde la incorporación al equipo, Marcó demostró una gran proactividad y actitud de servicio. <b>Su calificación es casi perfecta 4,99 en promedio de 5,</b> tiene muy claro que lo más importante es el trato con nuestros usuarios. Busca generar una relación cordial de persona a persona. Si has viajado con Marco, sabes que cada día recibirás un saludo, un recorrido grato y una despedida amable. Su objetivo se centra en que quienes viajan con nosotros, además está al pendiente de cualquier incidente que se pueda presentar y sientan la mayor cordialidad para que reciban el mejor trato a la hora de abordar durante el recorrido y al descender, siempre haciendo <b>“un buen viaje siempre”.</b>
+Desde la incorporación al equipo, Marco demostró una gran proactividad y actitud de servicio. <b>Su calificación es casi perfecta 4,99 en promedio de 5,</b> tiene muy claro que lo más importante es el trato con nuestros usuarios. Busca generar una relación cordial de persona a persona. Si has viajado con Marco, sabes que cada día recibirás un saludo, un recorrido grato y una despedida amable. Su objetivo se centra en que quienes viajan con nosotros, además está al pendiente de cualquier incidente que se pueda presentar y sientan la mayor cordialidad para que reciban el mejor trato a la hora de abordar durante el recorrido y al descender, siempre haciendo <b>“un buen viaje siempre”.</b>
 
 “Hay usuarios que salen de su casa muy temprano y como valor agregado, llego un poco más temprano a mi primer punto para que no corran riesgo al estar expuestos en la calle y aborden en cuanto llegue”.
 

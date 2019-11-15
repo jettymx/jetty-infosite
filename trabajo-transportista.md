@@ -25,7 +25,7 @@ id: socio-transportista
       </div>
       <div class="col-md-4">
         <img src="img/icon-ingresosV2.svg">
-        <h3>Ingresos garantizados</h3>
+        <h3>Mayores ingresos</h3>
         <p>Al trabajar con nosotros tienes un ingreso garantizado que cubre los costos de operación del vehículo.</p>
       </div>
       <div class="col-md-4">
@@ -111,7 +111,7 @@ id: socio-transportista
             </div>
             <div id="collapseUno" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingUno">
               <div class="panel-body">
-                Contactanos para hacerte una propuesta de acuerdo con tus expectativas.
+                Contáctanos para hacerte una propuesta de acuerdo con tus expectativas.
               </div>
             </div>
           </div>
