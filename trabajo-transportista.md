@@ -26,7 +26,7 @@ id: socio-transportista
       <div class="col-md-4">
         <img src="img/icon-ingresosV2.svg">
         <h3>Mayores ingresos</h3>
-        <p>Al trabajar con nosotros tienes un ingreso garantizado que cubre los costos de operación del vehículo.</p>
+        <p>Si trabajas con nosotros tienes acceso a un mercado que demanda un servicio de transporte de alta calidad. Al cumplir con nuestros estándares los dueños de vehículos obtienen mayores ingresos.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
