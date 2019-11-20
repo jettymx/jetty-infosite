@@ -1607,6 +1607,14 @@ ul.indice li{
   padding-bottom:30px;
 }
 
+.tropico{
+  background-image: url(/img/bgTropico.png);
+  background-size: 150%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  padding: 30px 0 150px 0;
+}
+
 .tipo-eventos{
   margin-top: 60px;
 }
@@ -2654,6 +2662,14 @@ select.form-control {
 
   .panel-group{
      margin-bottom: 5px;§
+  }
+
+  .tropico{
+    background-image: url(/img/bgTropico.png);
+    background-size: 450%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 30px 0 200px 0;
   }
 
 }
