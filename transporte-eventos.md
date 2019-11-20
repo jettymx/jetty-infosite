@@ -73,6 +73,18 @@ id: transporte-eventos
       </div>
     </div>
 
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 text-center">
+        <h2>Te llevamos a la séptima edición de Trópico que se realizará del 6 al 8 de diciembre en el hotel Pierre Mundo Imperial, Acapulco.</h2>
+        <img src="img/logo_tropico.png" style="box-shadow: none; margin: 10px 0 30px 0;" width="250">
+      </div>
+      <div class="col-md-12 text-center">
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalTropico">
+          Reserva tu transporte
+        </button>
+      </div>
+    </div>
+
     <div class="row incluye-eventos">
       <div class="col-md-8 col-md-offset-2">
         <h2 class="text-center">Nuestro servicio incluye:</h2>
@@ -116,6 +128,21 @@ id: transporte-eventos
       </div>
 
       <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
+
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal Tropico -->
+<div class="modal fade" id="ModalTropico" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+
+      <div class="_form_7"></div><script src="https://jetty.activehosted.com/f/embed.php?id=7" type="text/javascript" charset="utf-8"></script>
 
     </div>
   </div>
