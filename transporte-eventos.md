@@ -78,12 +78,12 @@ id: transporte-eventos
         <h1>Te llevamos a la séptima edición de Trópico que se realizará del 6 al 8 de diciembre en Acapulco.</h1>
         <h2>Transporte cómodo y seguro a la sede del festival: Hotel Pierre Mundo Imperial.</h2>
         <p>Paga con tarjeta o en efectivo en muchas tiendas de conveniencia.</p>
-        <img src="img/logo_tropico.png" style="box-shadow: none; margin: 10px 0 30px 0;" width="250">
-      </div>
-      <div class="col-md-12 text-center">
         <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalTropico">
           Reserva tu transporte
         </button>
+      </div>
+      <div class="col-md-12 text-center"><img src="img/logo_tropico.png" style="box-shadow: none; margin: 10px 0 30px 0;" width="250">
+
       </div>
     </div>
 
