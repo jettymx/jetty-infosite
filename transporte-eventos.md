@@ -73,7 +73,7 @@ id: transporte-eventos
       </div>
     </div>
 
-    <div class="row tropico">
+    <div class="row tropico" id="tropico">
       <div class="col-md-10 col-md-offset-1 text-center">
         <h1>Te llevamos a la séptima edición de Trópico que se realizará del 6 al 8 de diciembre en Acapulco.</h1>
         <h2>Transporte cómodo y seguro a la sede del festival: Hotel Pierre Mundo Imperial.</h2>
