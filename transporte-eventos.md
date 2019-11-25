@@ -61,7 +61,7 @@ id: transporte-eventos
               </figcaption>
             </figure>
           </li>
-          <li>
+          <li >
             <figure>
               <img src="img/evento-ecoturismo.jpg" alt="jetty, Evento ecoturismo">
               <figcaption>
