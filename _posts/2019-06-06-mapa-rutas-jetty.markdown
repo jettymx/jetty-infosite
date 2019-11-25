@@ -13,8 +13,8 @@ Revisa nuestra cobertura y aprovecha tu tiempo viajando con Jetty, la aplicació
 
 Te presentamos nuestra cobertura como la red de las estaciones del metro para que ubiques mejor nuestros servicios.
 
-<a href="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" target="_blank">
- <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png">
+<a href="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.svg" target="_blank">
+ <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.svg">
 </a>
 
 <div class="text-center">
