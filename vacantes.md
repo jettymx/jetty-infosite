@@ -26,8 +26,8 @@ id: vacantes
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                 Full Stack Developer - Ruby on Rails</p>
+                <p>Puesto<br>
+                 <b>Full Stack Developer - Ruby on Rails</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_0" aria-expanded="false" aria-controls="collapse_0">
@@ -535,8 +535,8 @@ id: vacantes
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                 Desarrollador/a móvil - Android</p>
+                <p>Puesto<br>
+                 <b>Desarrollador/a móvil - Android</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_android" aria-expanded="false" aria-controls="collapse_android">
@@ -663,8 +663,8 @@ id: vacantes
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                 Desarrollador/a móvil - iOS</p>
+                <p>Puesto<br>
+                 <b>Desarrollador/a móvil - iOS</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_ios" aria-expanded="false" aria-controls="collapse_ios">
@@ -782,6 +782,111 @@ id: vacantes
         </div>
       </div>
 
+      <!-- VACANTE 7 -->
+      <div class="panel panel-default vacante">
+        <div class="panel-body">
+
+          <div class="col-md-1">
+            <img src="img/vacante-operaciones.png" width="60">
+          </div>
+
+          <div class="col-md-11">
+            <div class="row">
+              <div class="col-md-8">
+                <p>Puesto<br>
+                <b>Communication and Business Development Manager</b>
+                <br><small>Localidad: Ciudad de México</small></p>
+              </div>
+              <div class="col-md-4 descripcion-btn-aling">
+                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
+                Ver descripción
+              </a>
+              </div>
+            </div>
+
+            <div class="collapse" id="collapse_4">
+              <div class="descripcion">
+
+                <p><b>RESPONSABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Generación de contenido de negocios</p>
+                  </li>
+                  <li>
+                    <p>Estrategias de relaciones públicas y comunicación corporativa</p>
+                  </li>
+                  <li>
+                    <p>Comunicados de prensa</p>
+                  </li>
+                  <li>
+                    <p>Artículos de opinión</p>
+                  </li>
+                  <li>
+                    <p>Manejo de bases de datos de medios de comunicación</p>
+                  </li>
+                  <li>
+                    <p>Organización de Eventos con Medios de Comunicación</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
+                <ul>
+                  <li>
+                    <p>2 años de experiencia en relación con medios, coordinación de equipos de trabajo, experiencia en RP</p>
+                  </li>
+                  <li>
+                    <p>Dominio de base Office / Google Suite</p>
+                  </li>
+                  <li>
+                    <p>Dominio de herramienta de Mailings</p>
+                  </li>
+                  <li>
+                    <p>Dominio avanzado del idioma inglés</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>HABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Habilidades de comunicación escrita para generación de contenido de negocios</p>
+                  </li>
+                  <li>
+                    <p>Experiencia en el manejo de proyectos.</p>
+                  </li>
+                  <li>
+                    <p>Extremadamente organizado y motivado</p>
+                  </li>
+                  <li>
+                    <p>Enfocado a resultados</p>
+                  </li>
+                  <li>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                  </li>
+                  <li>
+                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>¿TE INTERESA?</b></p>
+                <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=Communication and Business Development Manager">liliana@jetty.mx</a> utilizando <b>“Communication and Business Development Manager”</b> como asunto del correo.</p>
+
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+
       <!-- VACANTE 6 -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
@@ -793,8 +898,8 @@ id: vacantes
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                Conductor ejecutivo</p>
+                <p>Puesto<br>
+                <b>Conductor ejecutivo</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
@@ -984,214 +1089,6 @@ id: vacantes
 
         </div>
       </div>
-
-      <!-- VACANTE 7 -->
-      <!-- <div class="panel panel-default vacante">
-        <div class="panel-body">
-
-          <div class="col-md-1">
-            <img src="img/vacante-operaciones.png" width="60">
-          </div>
-
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                Supervisor de Operaciones Jetty</p>
-              </div>
-              <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
-                Ver descripción
-              </a>
-              </div>
-            </div>
-
-            <div class="collapse" id="collapse_4">
-              <div class="descripcion">
-                <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
-                <br>
-                El Supervisor de Operaciones es responsable de la ejecución de los procesos que permitan:
-                <br>
-                1) La entrega de los servicios de transporte de Jetty con sus clientes.
-                <br>
-                2) Elaboración de procesos y procedimientos robustos.
-                </p>
-
-                <p><b>LOCALIDAD</b>
-                <br>
-                CDMX</p>
-
-                <p><b>OFICINA</b>
-                <br>
-                Av. Insurgentes Sur 318, Col. Roma Norte, Del. Cuauhtémoc, CDMX, CP 06700</p>
-
-                <p style="margin-top: 22px"><b>RESPONSABILIDADES CLAVE</b></p>
-                <p><b>Reportes y análisis</b></p>
-                <ul>
-
-                  <li>
-                    <p>Informes periódicos de las métricas de rendimiento para el equipo.</p>
-                  </li>
-                  <li>
-                    <p>Dar seguimiento a los objetivos clave y los KPIs.</p>
-                  </li>
-                  <li>
-                    <p>Analizar costos y rentabilidad de los servicios para transportistas y Jetty. </p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Relaciones con Gobierno</b></p>
-                <ul>
-                  <li>
-                    <p>Asegurar el cumpliminento con obligaciones gubernamentales (pago de impuestos, aportación de movilidad, etc.). </p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Socios transportistas</b></p>
-                <ul>
-                  <li>
-                    <p>Asegurar que los transportistas cumplan con nuestros estándares de calidad, puntualidad, operadores y especificaciones de las unidades (antigüedad, limpieza, estado general) del vehículo. Esto por medio de calificaciones y reseñas de usuarios.</p>
-                  </li>
-                  <li>
-                    <p>Trabajar de cerca con operadores y administradores de flotilla para conocer sus necesidad y encontrar soluciones convenientes para todas las partes.</p>
-                  </li>
-                  <li>
-                    <p>Dar seguimiento a los comentarios y quejas con los transportistas.</p>
-                  </li>
-                  <li>
-                    <p>Definir e implementar procesos para la operación.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Operación</b> </p>
-                <ul>
-                  <li>
-                    <p>Analizar con el equipo de Soporte al Cliente las quejas relacionadas a la operación para resolverlas, con el objetivo de encontrar soluciones convenientes para todas las partes. </p>
-                  </li>
-                  <li>
-                    <p>Comunicar problemas a los diferentes equipos y proponer o trabajar en conjunto para encontrar formas de solucionarlos.</p>
-                  </li>
-                  <li>
-                    <p>Colaborar con equipos multidisciplinarios (marketing, operaciones, tecnología) para definir, diseñar e implementar nuevas funciones para mejorar la experiencia de usuario. </p>
-                  </li>
-                  <li>
-                    <p>Mantenerse al tanto de los procesos y herramientas de Jetty. </p>
-                  </li>
-                  <li>
-                    <p>Trabajar en colaboración con colegas y otros departamentos para agilizar procesos.</p>
-                  </li>
-                  <li>
-                    <p>Ejecutar mejoras a los puntos de ascenso, descenso y tiempos de servicio con el fin de aumentar el factor de carga de nuestra flota.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Manuales y procesos</b></p>
-                <ul>
-                  <li>
-                    <p>Documentación y mapeo de procesos y procedimientos generales. </p>
-                  </li>
-                  <li>
-                    <p>Seguir construyendo el manual de operaciones. </p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p style="margin-top: 22px"><b>HABILIDADES NECESARIAS</b></p>
-                <ul>
-                  <li>
-                    <p>Excepcionales habilidades de comunicación.</p>
-                  </li>
-                  <li>
-                    <p>Pensamiento estructurado, organizado, motivado y proactivo.</p>
-                  </li>
-                  <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
-                  </li>
-                  <li>
-                    <p>Una mente aguda y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar soluciones a problemas.</p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Enfoque orientado al cliente y a la resolución de problemas.</p>
-                  </li>
-                  <li>
-                    <p>Habilidad de administración de sus tiempos y objetivos.</p>
-                  </li>
-                  <li>
-                    <p>Fuertes habilidades de estructuración y análisis con la capacidad de establecer procesos de negocio eficientes.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p style="margin-top: 22px"><b>REQUISITOS</b></p>
-                <ul>
-                  <li>
-                    <p>Escolaridad: Licenciatura concluida.</p>
-                  </li>
-                  <li>
-                    <p>Mínimo de 2 años en gestión de flotas, consultoría o logística y cadena de suministro.</p>
-                  </li>
-                  <li>
-                    <p>Experiencia en gestión de proyectos y equipos.</p>
-                  </li>
-                  <li>
-                    <p>Excelente dominio de Excel y de paquetería de Microsoft Office básica.</p>
-                  </li>
-                  <li>
-                    <p>Disponibilidad de horarios.</p>
-                  </li>
-                  <li>
-                    <p>Conocimientos de conducción y de mecánica automotriz (identificar el estado o la condición mecánica de su unidad).</p>
-                  </li>
-                  <li>
-                    <p>Inglés.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p style="margin-top: 22px"><b>PRINCIPALES RELACIONES INTERNAS Y EXTERNAS</b></p>
-                <p><b>Relaciones internas:</b></p>
-                <ul>
-                  <li>
-                    <p>Comunicación y colaboración con el Director de operaciones.</p>
-                  </li>
-                  <li>
-                    <p>Comunicación y colaboración con las áreas de tecnología, soporte y marketing.</p>
-                  </li>
-                </ul>
-
-                <p><b>Relaciones externas:</b></p>
-                <ul>
-                  <li>
-                    <p>Interacción con usuarios, operadores y transportistas.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Supervisor de Operaciones">hola@jetty.mx</a> utilizando <b>“Supervisor de Operaciones”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
-
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </div> -->
 
 
     </div>
