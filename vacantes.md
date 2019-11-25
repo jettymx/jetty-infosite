@@ -348,182 +348,6 @@ id: vacantes
         </div>
       </div> -->
 
-      <!-- VACANTE 3 Admin / Finanzas -->
-      <!-- <div class="panel panel-default vacante">
-        <div class="panel-body">
-
-          <div class="col-md-1">
-            <img src="img/vacante-administracion.png" width="60">
-          </div>
-
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-8">
-                <p><b>PUESTO</b><br>
-                 Administración y Finanzas</p>
-              </div>
-              <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
-                Ver descripción
-              </a>
-              </div>
-            </div>
-
-            <div class="collapse" id="collapse_1">
-              <div class="descripcion">
-                <p><b>RESPONSABILIDADES</b></p>
-                <ul>
-                  <li>
-                    <p>Tomar decisiones sobre el uso eficiente de los recursos para alcanzar nuestros objetivos. </p>
-                  </li>
-                  <li>
-                    <p>Desarrollar procesos para mejorar la administración general.</p>
-                  </li>
-                  <li>
-                    <p>Apoyar a los diferentes equipos con la información necesaria para la toma de decisiones. </p>
-                  </li>
-                  <li>
-                    <p>Monitorear la salud financiera de la empresa.</p>
-                  </li>
-                  <li>
-                    <p>Contribuir a que la oficina funcione de la mejor manera mediante el seguimiento a procesos administrativos y el apoyo al personal.</p>
-                  </li>
-                  <li>
-                    <p>Aportar tu conocimiento, creatividad y experiencia en reuniones de planeación.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
-                <ul>
-                  <li>
-                    <p>Crear, actualizar y presentar presupuestos de la operación.</p>
-                  </li>
-                  <li>
-                    <p>Identificar las necesidades de fondeo.</p>
-                  </li>
-                  <li>
-                    <p>Llevar control de ingresos y gastos. </p>
-                  </li>
-                  <li>
-                    <p>Revisar y presentar periódicamente los Estados Financieros.</p>
-                  </li>
-                  <li>
-                    <p>Llevar la relación con bancos, equipo de contabilidad y nómina.</p>
-                  </li>
-                  <li>
-                    <p>Establecer una política de reembolsos y llevar a cabo los procesos de reembolsos del equipo. </p>
-                  </li>
-                  <li>
-                    <p>Establecer procesos de compras y llevar la relación con proveedores.</p>
-                  </li>
-                  <li>
-                    <p>Dar seguimiento a pago de impuestos relacionados a la operación (Fondo de Movilidad).</p>
-                  </li>
-                  <li>
-                    <p>Dar seguimiento a pago de facturas a proveedores.</p>
-                  </li>
-                  <li>
-                    <p>Ser el vínculo administrativo con los socios en todo lo necesario.</p>
-                  </li>
-                  <li>
-                    <p>Apoyar con procesos de reclutamiento y contrataciones.</p>
-                  </li>
-                  <li>
-                    <p>Hacer todo lo posible para que el equipo tenga lo necesario para trabajar (ej. gestionar compra de equipos de cómputo muebles y papelería), y darle seguimiento a solicitudes del equipo. </p>
-                  </li>
-                  <li>
-                    <p>Generar facturas y dar seguimiento a cuentas por cobrar.</p>
-                  </li>
-                  <li>
-                    <p>Apoyar los esfuerzos de las diferentes áreas.</p>
-                  </li>
-                  <li>
-                    <p>Apoyar a los diferentes equipos para generar los datos para la toma de decisiones.</p>
-                  </li>
-                  <li>
-                    <p>Dar seguimiento a altas y bajas de equipo.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>HABILIDADES</b></p>
-                <ul>
-                  <li>
-                    <p>Excepcionales habilidades de comunicación. </p>
-                  </li>
-                  <li>
-                    <p>Gran capacidad de análisis para poder tomar decisiones conforme a los datos.</p>
-                  </li>
-                  <li>
-                    <p>Ser humilde, autodidacta, estructurado, organizado, motivado por la innovación y proactivo. </p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Comodidad trabajando en un entorno de alto crecimiento / ágil.</p>
-                  </li>
-                  <li>
-                    <p>Capaz de trabajar por objetivos y bajo presión.</p>
-                  </li>
-                  <li>
-                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Licenciatura terminada en administración, finanzas o afines.</p>
-                  </li>
-                  <li>
-                    <p>Mínimo 2 años de experiencia en puestos con responsabilidades administrativas similares.</p>
-                  </li>
-                  <li>
-                    <p>Manejo avanzado de herramientas de Office: Excel, Word, Power Point.</p>
-                  </li>
-                  <li>
-                    <p>Se privilegiaran los perfiles con buen inglés (escrito y hablado).</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>Principales Relaciones Internas y Externas.</b></p>
-                <ul>
-                  Relaciones internas:
-                  <li>
-                    <p>Interacción con todos los miembros del equipo para procesos de alta/baja de nómina y reembolsos.</p>
-                  </li>
-                  <li>
-                    <p>Interacción con equipo de administración de los socios.</p>
-                  </li>
-                  <li>
-                    <p>Reporte directo a CEO de Jetty y socios.</p>
-                  </li>
-                </ul>
-
-                <ul>
-                  Relaciones externas:
-                  <li>
-                    <p>Interacción con clientes, proveedores, aliados, etc.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:cristina@jetty.mx?subject=Administración y finanzas">cristina@jetty.mx</a> utilizando <b>“Administración y finanzas”</b> como asunto del correo. Envíanos cualquier link o documento que nos ayude a conocerte (linkedin, cv).</p>
-
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
       <!-- VACANTE 4 Android -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
@@ -794,8 +618,7 @@ id: vacantes
             <div class="row">
               <div class="col-md-8">
                 <p>Puesto<br>
-                <b>Communication and Business Development Manager</b>
-                <br><small>Localidad: Ciudad de México</small></p>
+                <b>Communication and Business Development Manager</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
                 <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
@@ -806,6 +629,8 @@ id: vacantes
 
             <div class="collapse" id="collapse_4">
               <div class="descripcion">
+
+                <p><b>Localidad:</b> Ciudad de México</p>
 
                 <p><b>RESPONSABILIDADES</b></p>
                 <ul>
@@ -882,6 +707,118 @@ id: vacantes
               </div>
             </div>
 
+          </div>
+
+        </div>
+      </div>
+
+      <!-- VACANTE 3  -->
+      <div class="panel panel-default vacante">
+        <div class="panel-body">
+
+          <div class="col-md-1">
+            <img src="img/vacante-operaciones.png" width="60">
+          </div>
+
+          <div class="col-md-11">
+            <div class="row">
+              <div class="col-md-8">
+                <p>Puesto<br>
+                <b>Community Manager Jr.</b></p>
+              </div>
+              <div class="col-md-4 descripcion-btn-aling">
+                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
+                Ver descripción
+              </a>
+              </div>
+            </div>
+
+            <div class="collapse" id="collapse_1">
+              <div class="descripcion">
+
+                <p><b>Localidad:</b> Ciudad de México</p>
+                <p><b>Esquema de contratación:</b> Outsourcing de Nómina</p>
+
+                <br>
+
+                <p><b>RESPONSABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Comunicación con la comunidad</p>
+                  </li>
+                  <li>
+                    <p>Administración de redes sociales</p>
+                  </li>
+                  <li>
+                    <p>Creación y gestión de contenidos para la comunidad en (FB, IG, TW y LinkedIn); Artículos, Imágenes y videos</p>
+                  </li>
+                  <li>
+                    <p>Establecer diálogos bidireccionales</p>
+                  </li>
+                  <li>
+                    <p>Monitorización de todos los parámetros: engagement, crecimiento comunidad...</p>
+                  </li>
+                  <li>
+                    <p>Humanizar la marca y generar valor</p>
+                  </li>
+                  <li>
+                    <p>Planificar y ejecutar las campañas comunicacionales dirigidas a las distintas plataformas.</p>
+                  </li>
+                  <li>
+                    <p>Investigación de temas relacionados con nuestros usuarios</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
+                <ul>
+                  <li>
+                    <p>Licenciatura en Periodismo, Publicidad y Relaciones Públicas, Marketing y/o Comunicación.</p>
+                  </li>
+                  <li>
+                    <p>2 año de experiencia en gestión de redes sociales</p>
+                  </li>
+                  <li>
+                    <p>Conocimientos de diseño para generación de imágenes y material para redes sociales</p>
+                  </li>
+                  <li>
+                    <p>Conocimiento de Analytics e interpretación y reportabilidad de las mismas</p>
+                  </li>
+                  <li>
+                    <p>Estar al corriente de las tendencias en herramientas y buenas prácticas para las redes sociales</p>
+                  </li>
+                </ul>
+
+                <br>
+
+                <p><b>HABILIDADES</b></p>
+                <ul>
+                  <li>
+                    <p>Habilidades de comunicación escrita para generación de contenido de negocios</p>
+                  </li>
+                  <li>
+                    <p>Excelente actitud, extroversión, creativo, propositivo, proactivo</p>
+                  </li>
+                  <li>
+                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento</p>
+                  </li>
+                  <li>
+                    <p>Una mente aguda, analítica y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación</p>
+                  </li>
+                </ul>
+
+                <br>
+
+
+                <p><b>¿TE INTERESA?</b></p>
+                <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=>Community Manager Jr.">liliana@jetty.mx</a> utilizando <b>“Community Manager Jr.”</b> como asunto del correo.</p>
+
+              </div>
+            </div>
           </div>
 
         </div>
