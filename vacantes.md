@@ -605,7 +605,7 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Conocimiento de Git.</p>
+                    <p>Conocimiento de Git y Github.</p>
                   </li>
 
                   <li>
@@ -699,7 +699,7 @@ id: vacantes
                 <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
                 <ul>
                   <li>
-                    <p>Fundamentos sólidos de Swift 3 y Xcode.</p>
+                    <p>Fundamentos sólidos de Swift y Xcode.</p>
                   </li>
 
                   <li>
@@ -731,7 +731,7 @@ id: vacantes
                   </li>
 
                   <li>
-                    <p>Conocimiento de GIT y Github.</p>
+                    <p>Conocimiento de Git y Github.</p>
                   </li>
 
                   <li>
