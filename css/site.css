@@ -1915,7 +1915,8 @@ ul.testimoniales-blog li img{
 }
 
 .vacante{
-  padding: 20px
+  padding: 20px;
+  background: #f1f3f4;
 }
 
 .vacante .btn{
