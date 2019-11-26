@@ -10,15 +10,31 @@ id: cobertura
 
     <div class="clearfix"></div>
 
-    <div class="col-md-12">
-      <div class=" text-center">
-        <h2>Service Areas</h2>
-     </div>
-
-      <div>
-        <img src="{{site.baseurl}}/imgs-blog/mapa-rutas-jetty.png" alt="Cobertura Jetty" style="width: 100%">
-      </div>
+    <div class="col-md-12 text-center">
+      <h2>Service Areas</h2>
     </div>
+
+    <div class="col-md-12">
+
+        <ul class="nav nav-tabs" role="tablist">
+          <li role="presentation" class="active"><a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a></li>
+          <li role="presentation"><a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="cdmx">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.svg" alt="Cobertura Jetty CDMX" style="width: 100%">
+            </div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="puebla">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-Puebla.jpg" alt="Cobertura Jetty Puebla" style="width: 100%">
+            </div>
+          </div>
+        </div>
+
+      </div>
 
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
       <h2>Our routes</h2>
