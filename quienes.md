@@ -98,12 +98,17 @@ id: quienes
       <h1>Alianzas</h1>
       <ul class="alianzas">
         <li>
-          <a href="http://xibalbafestival.com" target="_blanck">
+          <a href="https://www.maaslatam.org" target="_blank">
+            <img src="img/Logo-MaaS.png">
+          </a>
+        </li>
+        <li>
+          <a href="http://xibalbafestival.com" target="_blank">
             <img src="imgs-prensa/logo-xibalba.png">
           </a>
         </li>
         <li>
-          <a href="https://courses.platzi.com" target="_blanck">
+          <a href="https://courses.platzi.com" target="_blank">
             <img src="imgs-prensa/platzi.png">
           </a>
         </li>
@@ -113,17 +118,17 @@ id: quienes
           </a>
         </li>
         <li>
-          <a href="http://impact0.org/" target="_blanck">
+          <a href="http://impact0.org/" target="_blank">
             <img src="imgs-prensa/impacto.jpg">
           </a>
         </li>
         <li>
-          <a href="http://mexicotravesias.com" target="_blanck">
+          <a href="http://mexicotravesias.com" target="_blank">
             <img src="imgs-prensa/LOGO_TM.jpg">
           </a>
         </li>
         <li>
-          <a href="https://www.latamobility.com/" target="_blanck">
+          <a href="https://www.latamobility.com/" target="_blank">
             <img src="imgs-prensa/latam-mobility.png">
           </a>
         </li>
