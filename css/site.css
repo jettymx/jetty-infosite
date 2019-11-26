@@ -217,6 +217,20 @@ a.social-linkedin:hover{
   background-size: 58px;
 }
 
+.miembrosMaas{
+  margin-top: 30px;
+}
+
+.miembrosMaas p{
+  color: #7e8080;
+  font-size: 16px;
+}
+
+.miembrosMaas img{
+  margin-left: 8px;
+  width: 60px;
+}
+
 
 .btn-green{
   border: none;

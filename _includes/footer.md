@@ -81,6 +81,12 @@
 
       </div>
 
+      <div class="col-md-12 text-center miembrosMaas">
+        <p>Miembros de <a href="https://www.maaslatam.org" target="_blank">
+          <img src="/img/Logo-MaaS.png"></a>
+        </p>
+      </div>
+
     </div>
 
   </div>

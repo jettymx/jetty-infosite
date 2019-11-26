@@ -76,25 +76,13 @@
 
     </div>
 
+    <div class="col-md-12 text-center miembrosMaas">
+      <p>Members of <a href="https://www.maaslatam.org" target="_blank">
+        <img src="/img/Logo-MaaS.png"></a>
+      </p>
+    </div>
+
   </div>
 
-<!--   <div class="row">
-    <div class="col-md-12">
-      <ul class="social text-center">
-        <li class="social-mobile">
-          <a href="https://www.facebook.com/JettyMX/" target="_blank" class="social-fb"></a>
-        </li>
-        <li class="social-mobile">
-          <a href="https://twitter.com/jettymx" target="_blank" class="social-tw"></a>
-        </li>
-        <li class="social-mobile">
-          <a href="https://www.instagram.com/jetty.mx" target="_blank" class="social-ins"></a>
-        </li>
-        <li class="social-mobile">
-          <a href="https://medium.com/@jettymx" target="_blank" class="social-medium"></a>
-        </li>
-      </ul>
-    </div>
-  </div> -->
 
 </div>
