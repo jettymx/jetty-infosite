@@ -667,6 +667,12 @@ id: vacantes
                   <li>
                     <p>Participar en eventos relacionados a la MaaS (asociación de empresas de movilidad).</p>
                   </li>
+                  <li>
+                    <p>Supervisar el trabajo del área de soporte para mejorar la calidad de la respuesta.</p>
+                  </li>
+                  <li>
+                    <p>Supervisar el uso de la marca y branding en toda la empresa (marketing, cromática, etc.).</p>
+                  </li>
                 </ul>
 
                 <br>
