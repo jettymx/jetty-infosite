@@ -213,6 +213,18 @@ id: prensa
         </div>
       </div>
 
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/entrepreneur.png">
+        </div>
+        <div class="col-md-9">
+          <h3>La startup mexicana JETTY gana el Desafío MIT de la Innovación Inclusiva 2019</h3>
+          <p><small><i>28 Noviembre 2019</i></small></p>
+          <p>La app ofrece servicio de transporte colectivo de pasajeros en la Ciudad de México, Estado de México y Puebla. Comenzó sus operaciones en 2017 y hoy tiene más de 10,000 usuarios en promedio al mes.</p>
+          <a href="https://www.entrepreneur.com/article/343165" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
