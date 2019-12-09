@@ -73,59 +73,6 @@ id: transporte-eventos
       </div>
     </div>
 
-    <div class="row tropico" id="tropico">
-      <div class="col-md-10 col-md-offset-1 text-center">
-        <h1>Te llevamos a la séptima edición de Trópico que se realizará del 6 al 8 de diciembre en Acapulco.</h1>
-        <h2>Transporte cómodo y seguro a la sede del festival: Hotel Pierre Mundo Imperial.</h2>
-        <p>Paga con tarjeta o en efectivo en muchas tiendas de conveniencia.</p>
-
-
-        <div class="row">
-          <div class="col-md-6 text-left">
-            <p><b>Salida</b><br>
-              Satelite<br>
-              Polanco Plaza Carso<br>
-              Perisur<br>
-              Parque Hundido<br>
-              Glorieta de la Cibeles
-            </p>
-          </div>
-          <br>
-          <br>
-          <div class="col-md-6 text-left">
-            <p><b>Destino</b><br>
-              Hotel Pierre Mundo Imperial<br>
-              Av. Costera de las Palmas s/n, Granjas del<br>
-              Marqués, 39890 Acapulco de Juárez, Gro.
-            </p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 text-left">
-            <p><b>Fechas y Horarios</b><br>
-            Salida: Viernes 06 de diciembre 09:00 hrs<br>
-            Salida: Viernes 06 de diciembre 15:00 hrs</p>
-          </div>
-          <div class="col-md-6 text-left">
-            <p> </p>
-            <p>Regreso: Domingo 08 de diciembre 15:00 hrs<br>
-              Regreso: Domingo 08 de diciembre 18:00 hrs</p>
-          </div>
-        </div>
-
-        <button type="button" class="btn btn-default btn-green" data-toggle="modal" data-target="#ModalTropico">
-          Reserva tu transporte
-        </button>
-
-      </div>
-
-
-      <div class="col-md-12 text-center"><img src="img/logo_tropico.png" style="box-shadow: none; margin: 10px 0 30px 0;" width="250">
-
-      </div>
-    </div>
-
     <div class="row incluye-eventos">
       <div class="col-md-8 col-md-offset-2">
         <h2 class="text-center">Nuestro servicio incluye:</h2>

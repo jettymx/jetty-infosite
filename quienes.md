@@ -69,6 +69,11 @@ id: quienes
             <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
           </a>
         </li>
+        <li>
+          <a href="https://developers.google.com/community/launchpad" target="_blank">
+            <img src="imgs-prensa/Google-Launchpad.png" alt="Google Launchpad" style="width: 250px;">
+          </a>
+        </li>
       </ul>
     </div>
 
