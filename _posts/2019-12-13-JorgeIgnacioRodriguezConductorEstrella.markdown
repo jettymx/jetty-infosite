@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jorge Ignacio Rodríguez Covarrubias, Conductor estrella"
-date:   2019-12-12 11:00:00
+date:   2019-12-13 11:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/JorgeIgnacio.png
 categories: update
