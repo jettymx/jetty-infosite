@@ -8,12 +8,11 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/JorgeIgnacio.png)
 
-Jorge se caracteriza por su proactividad y actitud de servicio. Es uno de nuestros conductores que hace diferenciador en nuestras unidades, con calificación de 5 (evaluacion perfecta), se incorporó en 2018 a nuestro equipo, demostrando siempre sentido de urgencia y profesionalismo para realizar cada día su trabajo generando siempre el sentido de respeto y atención hacia nuestros usuarios y compañeros de la mejor manera haciendo <b>“un buen viaje siempre”.</b>
+Jorge se incorporó en 2018 al equipo de conductores y siempre ha tenido una actitud profesional y de respeto hacia los usuarios. Jorge tiene una calificación promedia de 4.91 estrellas después de haber cumplido más de mil viajes en la plataforma, demostrando así su excelente trato y calidad de manejo incluso en situaciones de tráfico complicadas. Es uno de los conductores que mejor representa nuestro lema <b>“Buen viaje. Siempre.”</b>
 
-<b>“Soy empático, amable, cordial y atento con nuestros usuarios, para que nunca pierdan la confianza en el servicio con el valor agregado de la tecnología que ofrecemos para confort y seguridad de ellos.”</b>
+<i><b>“Soy empático, amable, cordial y atento con nuestros usuarios, para que nunca pierdan la confianza en el servicio con el valor agregado de la tecnología que ofrecemos para confort y seguridad de ellos.”</b></i>
 
 Quienes han viajado con Jorge reconocen su gran trabajo:
-
 
 <ul>
   <li>
