@@ -133,20 +133,20 @@ id: cobertura
                   </button>
                 </div>
               </li>
-              <li>
+              <!-- <li>
                 <div class="col-md-4">
                   <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
                     <h4 class="panel-title">Juanacatlán <img src="img/arrowWhite-cobertura.png" class="arrow-cobertura"> Santa Fe</h4>
                   </button>
                 </div>
-              </li>
-              <li>
+              </li> -->
+              <!-- <li>
                 <div class="col-md-4">
                   <button type="button" data-toggle="modal" data-target="#rutaSVBus8" class="btn-ruta">
                     <h4 class="panel-title">La Joya <img src="img/arrowWhite-cobertura.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
                   </button>
                 </div>
-              </li>
+              </li> -->
               <li>
                 <div class="col-md-4">
                   <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-ruta">
