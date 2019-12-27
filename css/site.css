@@ -1923,6 +1923,59 @@ ul.testimoniales-blog li img{
   width: 300px;
 }
 
+.shared-panel{
+  overflow: auto;
+  margin-bottom: 40px;
+}
+.shared-panel span{
+  margin: 10px 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+.shared {
+  display: inline-block;
+  margin: 5px 0;
+  padding: 6px 15px;
+  margin-right: 5px;
+  cursor: pointer;
+  border-radius: 3px;
+  color: white;
+  background: rgb(185, 185, 185);
+}
+
+.shared.fb:hover{
+  background-color: #3b5999;
+  color: white;
+  text-decoration: none;
+}
+.shared.tt:hover{
+  background-color: #43BDF0;
+  color: white;
+  text-decoration: none;
+}
+.shared.in:hover{
+  background-color: #035f8f;
+  color: white;
+  text-decoration: none;
+}
+.shared.wa:hover{
+  background-color: #0dc143;
+  color: white;
+  text-decoration: none;
+}
+.shared.ce:hover{
+  background-color: #efa61c;
+  color: white;
+  text-decoration: none;
+}
+
+/*.st2{
+   border-radius: 0;
+}
+.st3{
+   border-radius: 5px;
+}
+*/
 /*/// Vacantes ///*/
 .content-vacantes{
   margin-top: 50px;

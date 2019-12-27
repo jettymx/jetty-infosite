@@ -18,6 +18,15 @@
           {{ content }}
         </div>
 
+        <div class="col-md-12 text-center shared-panel">
+          <p>Compartir</p>
+          <a target="_blank" class="shared fb" title="Facebook">Facebook</a>
+          <a target="_blank" class="shared tt" title="Twitter">Twitter</a>
+          <!-- <a target="_blank" class="shared in" title="Linkedin">Linkedin</a> -->
+          <a data-action='share/whatsapp/share' class="shared wa" title="WhatsApp">WhatsApp</a>
+          <a target="_blank" class="shared ce" id="sml" title="Email">E-mail</a>
+        </div>
+
         <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
           <a href="{{site.baseurl}}/blog">Regresar al Blog</a>
         </div>
@@ -27,6 +36,46 @@
       {% include footer.md %}
 
     </div>
+
+    <!-- SHARED BLOG -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).on('click', ".shared", function() {
+      var url = window.location.href;
+      var title = document.title;
+
+      url = encodeURIComponent(url);
+      title = encodeURIComponent(title);
+
+      //Boton Facebook
+      if($(this).hasClass('fb')){
+        // url = 'https://www.facebook.com/sharer/sharer.php?u='+url+'&t='+title;
+        url = 'https://www.facebook.com/sharer/sharer.php?='+url+'&t='+title;
+
+      //Boton Twitter
+      }else if($(this).hasClass('tt')){
+        user = 'JettyMX';//Nuestro usuario de twitter para mostrar como @user
+        url = 'https://twitter.com/intent/tweet?text='+title+'&url='+url+'&via='+user;
+
+      //Boton Linkedin
+      // }else if($(this).hasClass('in')){
+      //   url = 'https://www.linkedin.com/shareArticle?mini=true&url=&title=';
+
+      //Boton WhatsApp
+      }else if($(this).hasClass('wa')){
+        url = 'whatsapp://send?text="'+document.title+'" - "'+window.location.href+'"';
+
+      //Boton correo electronico
+      }else if($(this).hasClass('ce')){
+        url = 'mailto:?subject='+title+'&body='+url;
+
+      //Ningun boton valido
+      }else return;
+
+      //Abrimos la url
+      window.open(url, '_blank');
+    });
+    </script>
 
   </body>
 
