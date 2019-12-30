@@ -1935,7 +1935,7 @@ ul.testimoniales-blog li img{
 .shared {
   display: inline-block;
   margin: 5px 0;
-  padding: 6px 15px;
+  padding: 4px 12px;
   margin-right: 5px;
   cursor: pointer;
   border-radius: 3px;
@@ -1969,13 +1969,7 @@ ul.testimoniales-blog li img{
   text-decoration: none;
 }
 
-/*.st2{
-   border-radius: 0;
-}
-.st3{
-   border-radius: 5px;
-}
-*/
+
 /*/// Vacantes ///*/
 .content-vacantes{
   margin-top: 50px;

@@ -22,10 +22,17 @@
           <p>Compartir</p>
           <a target="_blank" class="shared fb" title="Facebook">Facebook</a>
           <a target="_blank" class="shared tt" title="Twitter">Twitter</a>
-          <!-- <a target="_blank" class="shared in" title="Linkedin">Linkedin</a> -->
+          <a target="_blank" class="shared in" href="javascript:void(window.open('http://www.linkedin.com/shareArticle?url='+encodeURIComponent(location),'','width=600,height=400,left=50,top=50'));">Linkedin</a>
           <a data-action='share/whatsapp/share' class="shared wa" title="WhatsApp">WhatsApp</a>
           <a target="_blank" class="shared ce" id="sml" title="Email">E-mail</a>
+
+
         </div>
+
+       <!--  <a href="javascript:void(window.open('http://www.linkedin.com/shareArticle?url='+encodeURIComponent(location),'','width=600,height=400,left=50,top=50'));">
+
+          <img style="margin:12px 0 12px 0;" src="../img/icon2/compartir-linkedin.jpeg" width="220" height="65" alt="Compartir esta página en Linkedin" title="Da un clic para compartir esta página en Linkedin">
+        </a> -->
 
         <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
           <a href="{{site.baseurl}}/blog">Regresar al Blog</a>
@@ -49,7 +56,6 @@
 
       //Boton Facebook
       if($(this).hasClass('fb')){
-        // url = 'https://www.facebook.com/sharer/sharer.php?u='+url+'&t='+title;
         url = 'https://www.facebook.com/sharer/sharer.php?='+url+'&t='+title;
 
       //Boton Twitter
@@ -59,7 +65,7 @@
 
       //Boton Linkedin
       // }else if($(this).hasClass('in')){
-      //   url = 'https://www.linkedin.com/shareArticle?mini=true&url=&title=';
+      //   url = 'http://www.linkedin.com/shareArticle?mini=true&url=';
 
       //Boton WhatsApp
       }else if($(this).hasClass('wa')){
