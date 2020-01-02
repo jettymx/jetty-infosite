@@ -1923,6 +1923,16 @@ ul.testimoniales-blog li img{
   width: 300px;
 }
 
+.btn-back{
+  font-weight: 700;
+}
+
+a.btn-back:hover{
+  color: #4fbca7;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
 .shared-panel{
   overflow: auto;
   margin-bottom: 40px;
