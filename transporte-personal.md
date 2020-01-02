@@ -33,13 +33,7 @@ id: transporte-personal
         </div>
         <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
       </div>
-      <!-- <div class="col-md-4">
-        <div>
-          <img src="img/icon-seguroV2.svg">
-          <h2>Vehículos de primera</h2>
-        </div>
-        <p>Todos cuentan con <b>cinturones de seguridad</b> en todos los asientos, AC, USBs, GPS, y<b> cámaras de seguridad.</b></p>
-      </div> -->
+
       <div class="col-md-6">
         <div>
           <img src="img/icon-conductoresV2.svg">
@@ -64,22 +58,22 @@ id: transporte-personal
 
     <div class="row cuatro-puntos">
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
-        <img src="img/engrane.svg">
+        <img src="img/icon-productividadV2.svg" alt="Jetty, Productividad">
         <p><strong>Aumenta la productividad</strong></p>
         <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
-        <img src="img/mundo.svg">
+        <img src="img/icon-worldV2.svg" alt="Jetty, Responsabilidad social">
         <p><strong>Responsabilidad social</strong></p>
         <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
-        <img src="img/alcancia.svg">
+        <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorros">
         <p><strong>Grandes ahorros</strong></p>
         <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
-        <img src="img/manos.svg">
+        <img src="img/icon-empleoV2.svg" alt="Jetty, Transporte personal">
         <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
         <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
       </div>
