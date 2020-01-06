@@ -15,6 +15,11 @@
   font-weight: 700;
 }
 
+.navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  /*color: #4fbca7;*/
+  color: #2D414D;
+}
+
 .navbar-brand{
   padding: 0;
 }
@@ -55,6 +60,7 @@
 }
 .nav-outback{
   background-color: rgba(79, 188, 167, 1);
+  /*background-color: #2D414D;*/
   transition: all 0.5s;
 }
 

@@ -125,7 +125,7 @@ priority: 1.0
     </div>
 
     <!-- TESTIMONIOS -->
-    <div class="row testimonios">
+    <div class="row testimonios" id="loquedicennuestrosusuarios">
       <div class="col-md-12 text-center ">
         <h1>Lo que dicen nuestros usuarios</h1>
       </div>
