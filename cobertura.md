@@ -40,7 +40,7 @@ id: cobertura
     </div>
 
     <!-- Rutas -->
-    <div class="col-md-8 col-md-offset-2 text-center dondevas">
+    <!-- <div class="col-md-8 col-md-offset-2 text-center dondevas">
       <h2>Explora nuestros servicios</h2>
     </div>
 
@@ -133,20 +133,13 @@ id: cobertura
                   </button>
                 </div>
               </li>
-              <!-- <li>
-                <div class="col-md-4">
-                  <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
-                    <h4 class="panel-title">Juanacatlán <img src="img/arrowWhite-cobertura.png" class="arrow-cobertura"> Santa Fe</h4>
-                  </button>
-                </div>
-              </li> -->
-              <!-- <li>
+              <li>
                 <div class="col-md-4">
                   <button type="button" data-toggle="modal" data-target="#rutaSVBus8" class="btn-ruta">
                     <h4 class="panel-title">La Joya <img src="img/arrowWhite-cobertura.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
                   </button>
                 </div>
-              </li> -->
+              </li>
               <li>
                 <div class="col-md-4">
                   <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-ruta">
@@ -254,7 +247,7 @@ id: cobertura
         </div>
       </div>
 
-    </div>
+    </div> -->
 
 
     <div class="clearfix"></div>
