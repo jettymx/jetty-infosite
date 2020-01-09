@@ -92,7 +92,7 @@ id: transporte-eventos
         <img src="img/camionetas.png" class="img-servicios">
         <h3>Vehículos nuevos</h3>
         <p>
-          Caddy - 6 pax <br> Urvan - 13 pax <br> Transit - 14 y 17 pax <br> Crafter - 19 pax <br> Linner G - 41-45
+          Caddy - 6 pax <br> Urvan - 13 pax <br> Transit - 14 y 17 pax <br> Crafter - 19 pax <br> Linner G - 41-45 <br> Hiace - 14 pax <br> Sprinter - 20 pax
         </p>
       </div>
 
