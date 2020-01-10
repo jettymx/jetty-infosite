@@ -102,11 +102,11 @@ id: quienes
     <div class="col-md-12"  style="margin-top: 80px">
       <h1>Alianzas</h1>
       <ul class="alianzas">
-        <li>
+        <!-- <li>
           <a href="https://www.maaslatam.org" target="_blank">
             <img src="img/Logo-MaaS.png" alt="MaaS Latam">
           </a>
-        </li>
+        </li> -->
         <li>
           <a href="http://xibalbafestival.com" target="_blank">
             <img src="imgs-prensa/logo-xibalba.png">
