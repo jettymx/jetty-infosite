@@ -21,10 +21,10 @@ id: cobertura
           <li role="presentation" class="active">
             <a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a>
           </li>
-          <!--
+
           <li role="presentation">
-            <a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a>
-          </li> -->
+            <a href="#saltillo" aria-controls="saltillo" role="tab" data-toggle="tab"><b>SALTILLO</b></a>
+          </li>
         </ul>
 
         <div class="tab-content">
@@ -33,9 +33,9 @@ id: cobertura
               <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.svg" alt="Cobertura Jetty CDMX" style="width: 100%">
             </div>
           </div>
-          <div role="tabpanel" class="tab-pane" id="puebla">
+          <div role="tabpanel" class="tab-pane" id="saltillo">
             <div>
-              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-Puebla.jpg" alt="Cobertura Jetty Puebla" style="width: 100%">
+              <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Saltillo.jpg" alt="Cobertura Jetty Saltillo" style="width: 100%">
             </div>
           </div>
         </div>
