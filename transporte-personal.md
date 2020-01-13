@@ -18,91 +18,10 @@ id: transporte-personal
           </button>
         </div>
         <div class="col-md-6 text-right">
-          <img src="img/choferes.png" alt="Jetty, NUestros vehículos">
+          <img src="img/choferes.png" alt="Jetty, Nuestros vehículos">
         </div>
       </div>
     </div>
-  </div>
-
-  <div class="container valor">
-    <div class="row">
-      <div class="col-md-6">
-        <div>
-          <img src="img/icon-tecnologiaV2.svg" alt="Jetty, Tecnología">
-          <h2>Tecnología</h2>
-        </div>
-        <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
-      </div>
-
-      <div class="col-md-6">
-        <div>
-          <img src="img/icon-conductoresV2.svg">
-          <h2>Conductores expertos</h2>
-        </div>
-        <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
-      </div>
-      <div class="col-md-12 text-center">
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-          Solicita información
-        </button>
-      </div>
-    </div>
-  </div>
-
-  <div class="container porque-content">
-    <div class="row">
-      <div class="col-md-12 text-center porque-title" data-aos="fade-up">
-        <h2>Beneficios para tu organización</h2>
-      </div>
-    </div>
-
-    <div class="row cuatro-puntos">
-      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
-        <img src="img/icon-productividadV2.svg" alt="Jetty, Productividad">
-        <p><strong>Aumenta la productividad</strong></p>
-        <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
-      </div>
-      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
-        <img src="img/icon-worldV2.svg" alt="Jetty, Responsabilidad social">
-        <p><strong>Responsabilidad social</strong></p>
-        <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
-      </div>
-      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
-        <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorros">
-        <p><strong>Grandes ahorros</strong></p>
-        <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
-      </div>
-      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
-        <img src="img/icon-empleoV2.svg" alt="Jetty, Transporte personal">
-        <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
-        <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
-      </div>
-    </div>
-
-    <div class="row tres-puntos" data-aos="fade" data-aos-duration="1000">
-      <div class="col-md-7 col-md-push-3">
-
-        <div class="row">
-          <div class="col-md-12">
-            <h2>Jetty no es un servicio de transporte tradicional</h2>
-
-            <p class="lead">Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</p>
-
-            <p>• Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
-            <p>• Cotiza servicios exclusivos para la gente de tu organización.</p>
-            <p>• Subsidia parte o el 100% de viajes de tus colaboradores.</p>
-
-            <br><br>
-            <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-              Solicita información
-            </button>
-
-          </div>
-        </div>
-
-      </div>
-    </div>
-
   </div>
 
   <div class="container">
@@ -148,6 +67,90 @@ id: transporte-personal
         </ul>
       </div>
 
+    </div>
+  </div>
+
+  <div class="container porque-content">
+    <div class="row">
+      <div class="col-md-12 text-center porque-title" data-aos="fade-up">
+        <h2>Beneficios para tu organización</h2>
+      </div>
+    </div>
+
+    <div class="row cuatro-puntos">
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
+        <img src="img/icon-productividadV2.svg" alt="Jetty, Productividad">
+        <p><strong>Aumenta la productividad</strong></p>
+        <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
+        <img src="img/icon-worldV2.svg" alt="Jetty, Responsabilidad social">
+        <p><strong>Responsabilidad social</strong></p>
+        <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
+        <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorros">
+        <p><strong>Grandes ahorros</strong></p>
+        <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
+      </div>
+      <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
+        <img src="img/icon-empleoV2.svg" alt="Jetty, Transporte personal">
+        <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
+        <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
+      </div>
+
+      <div class="col-md-12 text-center">
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+          Solicita información
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container valor">
+    <div class="row">
+      <div class="col-md-6">
+        <div>
+          <img src="img/icon-tecnologiaV2.svg" alt="Jetty, Tecnología">
+          <h2>Tecnología</h2>
+        </div>
+        <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
+      </div>
+
+      <div class="col-md-6">
+        <div>
+          <img src="img/icon-conductoresV2.svg">
+          <h2>Conductores expertos</h2>
+        </div>
+        <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container">
+    <div class="row tres-puntos" data-aos="fade" data-aos-duration="1000">
+      <div class="col-md-7 col-md-push-3">
+
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Jetty no es un servicio de transporte tradicional</h2>
+
+            <p class="lead">Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</p>
+
+            <p>• Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
+            <p>• Cotiza servicios exclusivos para la gente de tu organización.</p>
+            <p>• Subsidia parte o el 100% de viajes de tus colaboradores.</p>
+
+            <br><br>
+            <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+              Solicita información
+            </button>
+
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
 

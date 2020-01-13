@@ -983,7 +983,9 @@ ul.nuevas-rutas li .btn-ruta:focus{
 }*/
 
 .organizaciones{
-  margin: 150px 0;
+  /*margin: 150px 0;*/
+  margin-top: 150px;
+  margin-bottom: 50px;
 }
 
 .organizaciones img{
@@ -992,8 +994,8 @@ ul.nuevas-rutas li .btn-ruta:focus{
 }
 
 .valor{
-  margin-bottom: 120px;
-  margin-top: -30px;
+  margin-bottom: 40px;
+ /* margin-top: -30px;*/
 }
 
 .valor h2{

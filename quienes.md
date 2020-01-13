@@ -9,8 +9,8 @@ id: quienes
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso.</h1>
-        <h2>Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</h2>
+        <h1>La plataforma que mejora el transporte colectivo. </h1>
+        <h2>Conectamos empresarios transportistas que cumplen altos estándares de confiabilidad, comodidad y seguridad con miles de usuarios que demandan una mejor experiencia de viaje. </h2>
         <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
       </div>
     </div>
