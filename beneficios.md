@@ -8,9 +8,25 @@ id: Beneficios
 <div class="container-fluid beneficios gradient">
   <div class="container">
 
+    <div class="row marginBottom">
+      <div class="col-md-12">
+        <h1>Beneficios para los usuarios</h1>
+      </div>
+      <div class="col-md-12">
+        <ul>
+          <li><h3>Acceder a información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</h3></li>
+          <li><h3>Evitar uso de efectivo y evitar tener cambio.</h3></li>
+          <li><h3>Recargar saldos desde cualquier lugar.</h3></li>
+          <li><h3>Calificar el servicio y dar retroalimentación sobre el conductor y experiencia de viaje.</h3></li>
+          <li><h3>Conocer quién es su conductor, vehículo y punto de ascenso.</h3></li>
+          <li><h3>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje.</h3></li>
+        </ul>
+      </div>
+    </div>
+
     <div class="row">
       <div class="col-md-7" data-aos="fade" data-aos-easing="ease-in-sine">
-        <h1>Conoce los beneficios que obtienes al viajar con nosotros.</h1>
+        <h1>Conoce los beneficios de nuestros servicios ejecutivos</h1>
       </div>
     </div>
 
