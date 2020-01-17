@@ -1503,6 +1503,33 @@ figure.header-tours img.back {
   font-size: 16px;
 }
 
+/*///// TRANSPORTE CONCESIONAD /////*/
+.concesionado{
+  margin-top: 100px;
+}
+
+.concesionado h1,h2{
+  color: #ffffff !important;
+}
+
+.concesionado h3{
+  color: #596972;
+  font-weight: 700;
+}
+
+.caracteristicas{
+  margin-bottom: 60px;
+}
+
+.caracteristicas h3{
+  color: #ffffff;
+}
+
+.caracteristicas ul{
+  padding: 0;
+  list-style: none;
+}
+
 /*///// ERES CONDUCTOR /////*/
 .eres-conductor h1{
   color: #596972;
