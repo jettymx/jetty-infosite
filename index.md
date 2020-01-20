@@ -110,7 +110,7 @@ priority: 1.0
 
       </div>
 
-      <div class="col-md-12 text-center descarga">
+      <div class="col-md-12 text-center descarga marginBottom">
         <p class="text-downapp-index">Descarga la app.</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
@@ -122,6 +122,43 @@ priority: 1.0
         </a>
       </div>
 
+    </div>
+
+    <!-- BENEFICIOS USUARIOS -->
+    <div class="row marginBottom">
+      <div class="col-md-12 text-center">
+        <h1>Beneficios para los usuarios</h1>
+      </div>
+    </div>
+
+    <div class="row marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+      <div class="col-md-4">
+        <img src="img/icon-pinesV2.svg" alt="Jetty, Traslado directo">
+        <p class="lead"><strong>Acceder a información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</strong></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-PagoQR.svg" alt="Jetty, Pago QR">
+        <p class="lead"><strong>Evitar uso de efectivo y evitar tener cambio.</strong></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-saldoV2.svg" alt="Jetty, Recargar saldo">
+        <p class="lead"><strong>Recargar saldos desde cualquier lugar.</strong></p>
+      </div>
+    </div>
+
+    <div class="row marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+      <div class="col-md-4">
+        <img src="img/icon-calificarV2.svg" alt="Jetty, Calificar servicio">
+        <p class="lead"><strong>Calificar el servicio y dar retroalimentación sobre el conductor y experiencia de viaje.</strong></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-condutor-vehiculo.svg" alt="Jetty, Conductores profesionales">
+        <p class="lead"><strong>Conocer quién es su conductor, vehículo y punto de ascenso.</strong></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-soporteV2.svg" alt="Jetty, Soporte en tiempo real">
+        <p class="lead"><strong>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje.</strong></p>
+      </div>
     </div>
 
     <!-- TESTIMONIOS -->
