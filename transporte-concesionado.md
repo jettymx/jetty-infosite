@@ -18,31 +18,48 @@ id: transporte-concesionado
     <div class="row">
       <div class="col-md-10 col-md-offset-1 text-center">
         <h1>¿Cómo?</h1>
-        <h2>Tenemos diversos productos que puedes implementar: </h2>
-
-        <div class="col-md-5 col-md-offset-1 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <h3>Sistema de reserva de asiento.</h3>
-          <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
-        </div>
-
-        <div class="col-md-5 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <h3>Pago con QR.</h3>
-          <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
-        </div>
       </div>
-    </div>
 
-    <div class="row caracteristicas">
-      <div class="col-md-6 col-md-offset-3">
-        <h3><b>Características</b></h3>
-        <ul>
-          <li><p>• Medio de pago.</p></li>
-          <li><p>• Canal de atención al usuario.</p></li>
-          <li><p>• Mecanismo de supervisión de la operación.</p></li>
-          <li><p>• Sistema de planificación.</p></li>
-          <li><p>• Herramientas para monitoreo y control de unidades, operadores, rutas, corridas.</p></li>
-        </ul>
+      <div class="col-md-4 text-center">
+        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago">
+        <h3 class="titleConcesionado">Medio de pago.</h3>
       </div>
+      <div class="col-md-4 text-center">
+        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades">
+        <h3 class="titleConcesionado">Canal de atención al usuario.</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/icon-condutor-vehiculo.svg" alt="jetty, Supervisión de la operación">
+        <h3 class="titleConcesionado">Mecanismo de supervisión de la operación.</h3>
+      </div>
+
+      <div class="clearfix marginBottom"></div>
+
+      <div class="col-md-4 col-md-offset-2 text-center">
+        <img src="img/icon-pinesV2.svg" alt="Jetty, Planificación de rutas">
+        <h3 class="titleConcesionado">Sistema de planificación.</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades">
+        <h3 class="titleConcesionado">Herramientas para monitoreo y control de unidades, operadores, rutas, corridas.</h3>
+      </div>
+
+      <div class="clearfix marginBottom"></div>
+
+      <div class="col-md-12 text-center">
+        <h2 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h2>
+      </div>
+
+      <div class="col-md-5 col-md-offset-1 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Sistema de reserva de asiento.</h3>
+        <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
+      </div>
+
+      <div class="col-md-5 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Pago con QR.</h3>
+        <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
+      </div>
+
     </div>
 
     <hr style="margin-bottom: 60px; opacity: 0">
@@ -62,6 +79,8 @@ id: transporte-concesionado
             <li><p>• Rutas y horarios definidos.</p></li>
             <li><p>• Oportunidad de crecimiento.</p></li>
           </ul>
+          <br>
+          <a href="/trabajo-transportista" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
       <div class="col-md-6">
@@ -79,8 +98,12 @@ id: transporte-concesionado
             <li><p>• Optimización de frecuencias y horarios.</p></li>
             <li><p>• Mejora del servicio.</p></li>
             <li><p>• Demostrar al usuario que el transporte concesionado también puede innovar.</p></li>
-            <li><p>• Capacitación a a los conductores en servicio al cliente y perspectiva de género.</p></li>
+            <li><p>• Capacitación a los conductores en servicio al cliente y perspectiva de género.</p></li>
           </ul>
+          <br>
+          <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
+          Solicita tu registro
+        </button>
         </div>
       </div>
     </div>
@@ -92,13 +115,13 @@ id: transporte-concesionado
       </div>
     </div>
 
-    <div class="row caracteristicas">
+    <!-- <div class="row caracteristicas">
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
           Solicita tu registro
         </button>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>

@@ -1509,12 +1509,16 @@ figure.header-tours img.back {
 }
 
 .concesionado h1,h2{
-  color: #ffffff !important;
+  color: #ffffff;
 }
 
 .concesionado h3{
   color: #596972;
   font-weight: 700;
+}
+
+.titleConcesionado{
+  color: #ffffff !important;
 }
 
 .caracteristicas{

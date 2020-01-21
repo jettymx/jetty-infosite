@@ -15,6 +15,9 @@
           <li>
             <a href="{{site.baseurl}}/trabajo-transportista" target="_self">Tu camioneta con Jetty</a>
           </li>
+         <!--  <li>
+            <a href="{{site.baseurl}}/transporte-concesionado" target="_self">Transporte concesionado</a>
+          </li> -->
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>
