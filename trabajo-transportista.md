@@ -46,8 +46,8 @@ id: transporte-concesionado
 
       <div class="clearfix marginBottom"></div>
 
-      <div class="col-md-12 text-center">
-        <h2 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h2>
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
       </div>
 
       <div class="col-md-5 col-md-offset-1 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
@@ -72,7 +72,7 @@ id: transporte-concesionado
         <div class="col-md-9"></div>
         <div class="col-md-12">
           <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
-          <p><b>*Beneficios de ser Socio Jetty.</b></p>
+          <!-- <p><b>*Beneficios de ser Socio Jetty.</b></p> -->
           <!-- <ul>
             <li><p>• Mayores ingresos.</p></li>
             <li><p>• Rutas y horarios definidos.</p></li>
@@ -90,7 +90,7 @@ id: transporte-concesionado
         <div class="col-md-12">
           <h3>¿Tienes una concesión de transporte público?</h3>
           <br>
-          <p><b>*Beneficios para concesionarios.</b></p>
+          <!-- <p><b>*Beneficios para concesionarios.</b></p> -->
           <!-- <ul>
             <li><p>• Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</p></li>
             <li><p>• Supervisión de conductores gracias a retroalimentación de los usuarios.</p></li>
