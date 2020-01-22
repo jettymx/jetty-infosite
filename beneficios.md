@@ -6,5 +6,5 @@ id: beneficios
 ---
 
 <script type="text/javascript">
-  window.location="{{site.baseurl}}/servicios-ejecutivos";
+  window.location="https://www.jetty.mx/servicios-ejecutivos";
 </script>
