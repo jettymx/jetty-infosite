@@ -16,36 +16,29 @@ id: transporte-concesionado
     </div>
 
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 text-center">
-        <h1>¿Cómo?</h1>
-      </div>
 
-      <div class="col-md-4 text-center">
-        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago">
+      <div class="col-md-3 text-center">
+        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
         <h3 class="titleConcesionado">Medio de pago.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades">
+      <div class="col-md-3 text-center">
+        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
         <h3 class="titleConcesionado">Canal de atención al usuario.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-condutor-vehiculo.svg" alt="jetty, Supervisión de la operación">
-        <h3 class="titleConcesionado">Mecanismo de supervisión de la operación.</h3>
+      <div class="col-md-3 text-center">
+        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
+        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
       </div>
-
-      <div class="clearfix marginBottom"></div>
-
-      <div class="col-md-4 col-md-offset-2 text-center">
-        <img src="img/icon-pinesV2.svg" alt="Jetty, Planificación de rutas">
+      <div class="col-md-3 text-center">
+        <img src="img/icon-pinesV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
         <h3 class="titleConcesionado">Sistema de planificación.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades">
-        <h3 class="titleConcesionado">Herramientas para monitoreo y control de unidades, operadores, rutas, corridas.</h3>
-      </div>
 
-      <div class="clearfix marginBottom"></div>
+    </div>
 
+    <div class="clearfix marginBottom"></div>
+
+    <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
       </div>
@@ -59,7 +52,6 @@ id: transporte-concesionado
         <h3>Pago con QR.</h3>
         <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
       </div>
-
     </div>
 
     <hr style="margin-bottom: 60px; opacity: 0">

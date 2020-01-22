@@ -161,6 +161,14 @@ priority: 1.0
       </div>
     </div>
 
+    <div class="clearfix"></div>
+
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <a href="servicios-ejecutivos" class="btn btn-gray">Beneficios de servicios ejecutivos</a>
+      </div>
+    </div>
+
     <!-- TESTIMONIOS -->
     <div class="row testimonios" id="loquedicennuestrosusuarios">
       <div class="col-md-12 text-center ">
