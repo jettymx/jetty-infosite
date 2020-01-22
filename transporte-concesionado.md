@@ -1,133 +1,70 @@
 ---
 layout: default
-title: Jetty | Jetty en el transporte público concesionado.
-description: Lleva los beneficios de la tecnología Jetty al transporte público concesionado.
+title: Jetty | Los beneficios de trabajar como Jetty en transporte público
+description: ¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?
 id: transporte-concesionado
 ---
 
 <div class="container-fluid gradient">
-  <div class="container concesionado">
+  <div class="container transportista">
 
     <div class="row trabajar">
-      <div class="col-md-10 col-md-offset-1">
-        <h1>Lleva los beneficios de la tecnología Jetty al transporte público concesionado, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
+      <div class="col-md-10">
+        <h1>¿Tienes una concesión de transporte público?</h1>
         <br>
       </div>
+      <div class="col-md-12 text-right">
+        <img src="img/camioneta-blanca.png" width="90%">
+      </div>
+
     </div>
 
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1 text-center">
-        <h1>¿Cómo?</h1>
+    <div class="row marginBottom">
+
+      <div class="col-md-12">
+        <h2>Beneficios para concesionarios.</h2>
       </div>
 
-      <div class="col-md-4 text-center">
-        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago">
-        <h3 class="titleConcesionado">Medio de pago.</h3>
+      <div class="col-md-4">
+        <img src="img/icon-Mediopago.svg">
+        <h3>Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades">
-        <h3 class="titleConcesionado">Canal de atención al usuario.</h3>
+      <div class="col-md-4">
+        <img src="img/icon-conductorV2.svg">
+        <h3>Supervisión de conductores gracias a retroalimentación de los usuarios.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-condutor-vehiculo.svg" alt="jetty, Supervisión de la operación">
-        <h3 class="titleConcesionado">Mecanismo de supervisión de la operación.</h3>
+      <div class="col-md-4">
+        <img src="img/icon-rutasV2.svg">
+        <h3>Optimización de frecuencias y horarios.</h3>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
-      <div class="col-md-4 col-md-offset-2 text-center">
-        <img src="img/icon-pinesV2.svg" alt="Jetty, Planificación de rutas">
-        <h3 class="titleConcesionado">Sistema de planificación.</h3>
+      <div class="col-md-4">
+        <img src="img/icon-servicioV2.svg">
+        <h3>Mejora del servicio.</h3>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades">
-        <h3 class="titleConcesionado">Herramientas para monitoreo y control de unidades, operadores, rutas, corridas.</h3>
+      <div class="col-md-4">
+        <img src="img/icon-inovacionV2.svg">
+        <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
       </div>
-
-      <div class="clearfix marginBottom"></div>
-
-      <div class="col-md-12 text-center">
-        <h2 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h2>
+      <div class="col-md-4">
+        <img src="img/icon-capacitacionV2.svg">
+        <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
       </div>
 
-      <div class="col-md-5 col-md-offset-1 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Sistema de reserva de asiento.</h3>
-        <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
-      </div>
-
-      <div class="col-md-5 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Pago con QR.</h3>
-        <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
-      </div>
-
-    </div>
-
-    <hr style="margin-bottom: 60px; opacity: 0">
-
-    <div class="row caracteristicas">
-      <div class="col-md-6">
-        <div class="col-md-3">
-          <img src="img/icon-vehiculoV2.svg" width="100%">
-        </div>
-        <div class="col-md-9">
-          <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
-        </div>
-        <div class="col-md-12">
-          <p><b>*Beneficios de ser Socio Jetty.</b></p>
-          <ul>
-            <li><p>• Mayores ingresos.</p></li>
-            <li><p>• Rutas y horarios definidos.</p></li>
-            <li><p>• Oportunidad de crecimiento.</p></li>
-          </ul>
-          <br>
-          <a href="/trabajo-transportista" class="btn btn-gray">Conoce más</a>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="col-md-3">
-          <img src="img/icon-transporteV2.svg" width="100%">
-        </div>
-        <div class="col-md-9">
-          <h3>¿Tienes una concesión de transporte público?</h3>
-        </div>
-        <div class="col-md-12">
-          <p><b>*Beneficios para concesionarios.</b></p>
-          <ul>
-            <li><p>• Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</p></li>
-            <li><p>• Supervisión de conductores gracias a retroalimentación de los usuarios.</p></li>
-            <li><p>• Optimización de frecuencias y horarios.</p></li>
-            <li><p>• Mejora del servicio.</p></li>
-            <li><p>• Demostrar al usuario que el transporte concesionado también puede innovar.</p></li>
-            <li><p>• Capacitación a los conductores en servicio al cliente y perspectiva de género.</p></li>
-          </ul>
-          <br>
-          <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
-          Solicita tu registro
-        </button>
-        </div>
-      </div>
-    </div>
-
-    <div class="row caracteristicas">
-      <div class="col-md-12 text-center">
-        <h3>Empresas con las que trabajamos:</h3>
-        <p>SVBus, San Pedro Santa Clara, Transportes Tangamanga, Estrella del Noreste</p>
-      </div>
-    </div>
-
-    <!-- <div class="row caracteristicas">
-      <div class="col-md-12 text-center">
+      <div class="col-md-12 text-center marginBottom">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
           Solicita tu registro
         </button>
       </div>
-    </div> -->
+
+    </div>
 
   </div>
 </div>
 
-
- <!-- Modal Concesionado -->
+<!-- Modal Concesionado -->
 <div class="modal fade" id="ModalConcesionado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -293,3 +230,6 @@ id: transporte-concesionado
     </div>
   </div>
 </div>
+
+
+
