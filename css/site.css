@@ -2221,8 +2221,6 @@ select.form-control {
 
 
 
-
-
 /*/// 404 ////*/
 .content-404{
   padding: 100px 0;
@@ -2236,12 +2234,12 @@ select.form-control {
 }
 
 .lottie-notFound{
-  margin: 20px auto 0 auto;
-  width: 70%;
+  margin: 40px auto 0 auto;
+  width: 80%;
 }
 
 .text-404{
-  margin-top: 140px;
+  margin-top: 100px;
 }
 
 .text-404 h1{
