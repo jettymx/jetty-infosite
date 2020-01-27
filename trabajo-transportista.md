@@ -27,10 +27,10 @@ id: transporte-concesionado
       </div>
       <div class="col-md-3 text-center">
         <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
+        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación.</h3>
       </div>
       <div class="col-md-3 text-center">
-        <img src="img/icon-pinesV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
+        <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
         <h3 class="titleConcesionado">Sistema de planificación.</h3>
       </div>
 
