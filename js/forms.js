@@ -79,6 +79,45 @@ $('#form-transportistas').submit(function (e) {
       });
 });
 
+// Concesionario Transporte Publico
+$('#form-concesionado').submit(function (e) {
+    e.preventDefault();
+
+    $('#form-concesionado').find("button[type='submit']").button('loading');
+
+    var formSerialized = $('#form-concesionado').
+      serializeArray().
+      reduce(function(a, x) { a[x.name] = x.value; return a; }, {});
+
+    var params = {
+        name: formSerialized.name,
+        lastname: formSerialized.lastname,
+        email: formSerialized.email,
+        phone: formSerialized.phone,
+        city: formSerialized.city,
+        route: formSerialized.route,
+        years: formSerialized.years,
+        vehiculos: formSerialized.vehiculos,
+        tipo: formSerialized.tipo,
+        why: formSerialized.why,
+        how: formSerialized.how
+    };
+
+    $.ajax({
+        type: 'POST',
+        url: "https://jetty-web.herokuapp.com/api/operator-public-transport",
+        data: JSON.stringify(params),
+        crossDomain: false,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function(response) {
+          $('#ModalConcesionado').modal('hide');
+          $('#ModalSuccess').modal('show');
+          $('#form-concesionado').find("button[type='submit']").button('reset');
+        }
+      });
+});
+
 // Eventos
 $('.js--form-events').submit(function (e){
     e.preventDefault();

@@ -3737,7 +3737,7 @@
 </script>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/js/forms.js?v=20191113"></script>
+<script type="text/javascript" src="{{site.baseurl}}/js/forms.js?v=2020020401"></script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/locale/es.js"></script>
