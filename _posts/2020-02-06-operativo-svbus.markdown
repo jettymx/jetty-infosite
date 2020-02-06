@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Operativo SVBus: Comunicado del 6 de febrero del 2020"
-date:   2020-02-06 14:00:00
+date:   2020-02-06 14:20:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/Jetty-Noticias.png
 categories: update
