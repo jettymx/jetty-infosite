@@ -30,4 +30,4 @@ Jetty.
 
 
 [disfrazados]:https://www.jetty.mx/update/2019/03/28/No-estamos-disfrazados.html
-[acoxpa]:https://www.jetty.mx
+[acoxpa]:https://www.jetty.mx/update/2020/02/06/acoxpa-antes-y-despues.html
