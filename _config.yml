@@ -19,7 +19,7 @@ description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jettymx
-github_username:  innku
+github_username:  jettymx
 
 # Build settings
 markdown: kramdown
