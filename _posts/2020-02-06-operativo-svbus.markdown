@@ -29,5 +29,5 @@ Muchas gracias por tu confianza,
 Jetty.
 
 
-[disfrazados]:[https://www.jetty.mx/update/2019/03/28/No-estamos-disfrazados.html]
-[acoxpa]:[https://www.jetty.mx]
+[disfrazados]:https://www.jetty.mx/update/2019/03/28/No-estamos-disfrazados.html
+[acoxpa]:https://www.jetty.mx
