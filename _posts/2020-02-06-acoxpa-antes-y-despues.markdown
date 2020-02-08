@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ACOXPA: Antes y Después"
+title:  "Transporte colectivo a Santa Fe: Antes y después de Jetty"
 date:   2020-02-06 16:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/acoxpa.png
@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/acoxpa.png)
 
-<h2>Acoxpa, una mañana cualquiera, hace dos años: </h2>
+<h2>Del sur a Santa Fe, una mañana cualquiera, hace dos años: </h2>
 <b>Hacinamiento, inseguridad e incertidumbre.</b>
 
 Hace dos años los usuarios de transporte público que se trasladaban de Acoxpa a Santa Fe sufrían, algo que resulta familiar en el transporte público en México, hacinamiento, inseguridad e incertidumbre en sus viajes.  La situación era la siguiente había:
@@ -23,7 +23,7 @@ Se trataba de un esquema que no tenía en el centro la seguridad y comodidad del
 
 Hace dos años sólo usaban el servicio quienes NO tenían alternativa. Muchos preferían pagar hasta 5 veces el precio en servicios de transporte individual por aplicación o viajan en auto. Nadie estaba contento: Ni los usuarios, ni los conductores, ni los empresarios que operan el servicio.
 
-<h2>Acoxpa, hace algunos días. </h2>
+<h2>Del sur a Santa Fe, hace algunos días. </h2>
 <p>Comodidad, seguridad y confianza</p>
 
 En Jetty trabajamos mejorar el servicio de transporte colectivo en México ofreciendo comodidad, seguridad y confianza a nuestros usuarios. Por ello, hemos apostado en seguir innovando para ofrecer a las empresas de transporte público, como SVBUS, nuestra plataforma.
@@ -34,10 +34,10 @@ En dos años de operación, la confianza de los más de <b>17,000 mil usuarios</
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OT2_mqD2fbU"></iframe>
 </div>
-<br>
-<div class="embed-responsive embed-responsive-16by9">
+
+<!-- <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VFCNSfD5LlM"></iframe>
-</div>
+</div> -->
 
 <br>
 <br>
@@ -46,7 +46,7 @@ En dos años de operación, la confianza de los más de <b>17,000 mil usuarios</
 
 <b>¿Cómo logramos cambiar el servicio de SVBUS?</b> Gracias a la alianza con Jetty, los usuarios de SVBUS tienen opciones que no existen en el transporte público tradicional y que mejoran radicalmente su experiencia. Sin la alianza SVBUS-Jetty para reservar un asiento un usuario tendría que tomar tres transportes distintos para llegar a Santa Fé desde Acoxpa. Es decir, una combi, un metro y un autobus en un trayecto que puede prolongarse por más de dos horas.
 
-<small><i>Imagen 2. Mapa con los trayectos de Acoxpa-Santa Fe</i></small>
+<small><i>Imagen 2. Mapa con los trayectos Del sur a Santa Fe</i></small>
 ![Jetty]({{site.baseurl}}/imgs-blog/b2b_v4.gif)
 
 Con la plataforma de tecnología de Jetty, hemos cambiado la experiencia de viaje de los usuarios brindándoles:
