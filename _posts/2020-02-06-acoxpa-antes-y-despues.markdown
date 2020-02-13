@@ -39,14 +39,9 @@ En dos años de operación, la confianza de los más de <b>17,000 mil usuarios</
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VFCNSfD5LlM"></iframe>
 </div> -->
 
-<br>
-<br>
-<small><i>Imagen 1. Número de viajes realizados con Jetty y SVBUS</i></small>
-![Jetty]({{site.baseurl}}/imgs-blog/800-viajes.jpg)
-
 <b>¿Cómo logramos cambiar el servicio de SVBUS?</b> Gracias a la alianza con Jetty, los usuarios de SVBUS tienen opciones que no existen en el transporte público tradicional y que mejoran radicalmente su experiencia. Sin la alianza SVBUS-Jetty para reservar un asiento un usuario tendría que tomar tres transportes distintos para llegar a Santa Fé desde Acoxpa. Es decir, una combi, un metro y un autobus en un trayecto que puede prolongarse por más de dos horas.
 
-<small><i>Imagen 2. Mapa con los trayectos Del sur a Santa Fe</i></small>
+<small><i>Imagen 1. Mapa con los trayectos Del sur a Santa Fe</i></small>
 ![Jetty]({{site.baseurl}}/imgs-blog/b2b_v4.gif)
 
 Con la plataforma de tecnología de Jetty, hemos cambiado la experiencia de viaje de los usuarios brindándoles:
