@@ -30,14 +30,15 @@ En cuanto a los <b>horarios,</b> el mayor aporte de Jetty fue dar certidumbre al
 
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-santafe-3.png)
 
-En el tema de seguridad, Jetty aportaba con un control sobre quién abordaba el bus, ya que, ninguna persona que no fuera un pasajero legítimo podía abordar la unidad. Los conductores también fueron capacitados en temas de género y transporte para que supieran cómo reaccionar ante casos de violencia o acoso a bordo de las unidades.
+En el tema de <b>seguridad,</b> Jetty aportaba con un control sobre quién abordaba el bus, ya que, ninguna persona que no fuera un pasajero legítimo podía abordar la unidad. Los conductores también fueron capacitados en temas de género y transporte para que supieran cómo reaccionar ante casos de violencia o acoso a bordo de las unidades.
 
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-santafe-4.png)
 
 Para finalizar, una de las principales aportaciones de Jetty fue la implementación en Acoxpa del <b>soporte al pasajero</b> en tiempo real. Ante cualquier eventualidad el equipo de soporte respondía al pasajero sobre temas como: lugar de abordaje, retrasos, devoluciones, objetos olvidados y un largo etc. Por primera vez el usuario no veía sus quejas y sugerencias diluidas sin atención, con Jetty eran atendidas y solucionadas las peticiones del pasajero lo que eventualmente elevó la calidad del servicio.
 
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-santafe-5.png)
-
-Recuperación de objetos olvidados
+<small><i>Recuperación de objetos olvidados</i></small>
+<br>
+<br>
 Estas son algunas de las aportaciones con las que Jetty ha contribuido en una de las principales rutas de la CDMX. Deseamos que se resuelvan lo más pronto posible los temas administrativos de la empresa SVBUS para continuar con los logros que hasta el momento se habían alcanzado en esta ruta y que beneficiaron a miles de usuarios que habitan en el sur de la ciudad y que trabajan en Santa Fe.
 
