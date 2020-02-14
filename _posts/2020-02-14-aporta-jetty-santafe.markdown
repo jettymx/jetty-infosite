@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿Qué aportas Jetty para mejorar el acceso a Santa Fe?"
+title:  "¿Qué aporta Jetty para mejorar el acceso a Santa Fe?"
 date:   2020-02-14 12:00:00
 post_author: Baruch G Sanginés
 image: https://www.jetty.mx/imgs-blog/jetty-santafe.png
