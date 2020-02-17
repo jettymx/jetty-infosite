@@ -36,4 +36,8 @@ La experiencia de Jetty en el transporte público en la Ciudad de México al men
 
 Nos encantaría replicar esta experiencia en todo el país. En Jetty, queremos trabajar de la mano con todos transportistas y autoridades locales que quieran mejorar la calidad de vida de sus usuarios. ¿Eres un transportista o funcionario público y en tu visión está el  ofrecer un servicio eficiente y moderno en tu ciudad? Escríbenos a <a href="mailto:santiago@jetty.mx">santiago@jetty.mx</a>  y trabajemos juntos para que las y los mexicanos tengan un #TransporteDigno #TransporteEficiente
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZzvORpO_MQM"></iframe>
+</div>
+
 [antes]:https://www.jetty.mx/update/2020/02/06/acoxpa-antes-y-despues.html
