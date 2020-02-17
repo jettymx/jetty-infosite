@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hablando de anomalías en el transporte colectivo"
+title:  "Buen servicio: una anomalía en el transporte público"
 date:   2020-02-17 11:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/anomalias-transporte.png
