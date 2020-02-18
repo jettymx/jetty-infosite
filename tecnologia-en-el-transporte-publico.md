@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jetty | Jetty en el transporte público concesionado.
+title: Jetty | Tecnología en el transporte público
 description: Lleva los beneficios de la tecnología Jetty al transporte público concesionado.
 id: tecnologia-en-el-transporte-publico
 ---
