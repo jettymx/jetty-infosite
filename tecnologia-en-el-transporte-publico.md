@@ -2,7 +2,7 @@
 layout: default
 title: Jetty | Jetty en el transporte público concesionado.
 description: Lleva los beneficios de la tecnología Jetty al transporte público concesionado.
-id: transporte-concesionado
+id: tecnologia-en-el-transporte-publico
 ---
 
 <div class="container-fluid gradient">
@@ -57,66 +57,46 @@ id: transporte-concesionado
     <hr style="margin-bottom: 60px; opacity: 0">
 
     <div class="row caracteristicas">
-      <div class="col-md-6">
-        <div class="col-md-3">
+      <div class="col-md-4">
+        <div class="col-md-5">
           <img src="img/icon-vehiculoV2.svg" width="100%">
         </div>
-        <div class="col-md-9"></div>
+        <div class="col-md-7"></div>
         <div class="col-md-12">
+          <h2>Transporte Privado</h2>
           <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
-          <!-- <p><b>*Beneficios de ser Socio Jetty.</b></p> -->
-          <!-- <ul>
-            <li><p>• Mayores ingresos.</p></li>
-            <li><p>• Rutas y horarios definidos.</p></li>
-            <li><p>• Oportunidad de crecimiento.</p></li>
-          </ul> -->
-
-          <a href="/trabajo-socio" class="btn btn-gray">Conoce más</a>
+          <br>
+          <a href="/transporte-privado" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
-      <div class="col-md-6">
-        <div class="col-md-3">
+      <div class="col-md-4">
+        <div class="col-md-5">
           <img src="img/icon-transporteV2.svg" width="100%">
         </div>
-        <div class="col-md-9"></div>
+        <div class="col-md-7"></div>
         <div class="col-md-12">
+          <h2>Transporte Público</h2>
           <h3>¿Tienes una concesión de transporte público?</h3>
           <br>
-          <!-- <p><b>*Beneficios para concesionarios.</b></p> -->
-          <!-- <ul>
-            <li><p>• Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</p></li>
-            <li><p>• Supervisión de conductores gracias a retroalimentación de los usuarios.</p></li>
-            <li><p>• Optimización de frecuencias y horarios.</p></li>
-            <li><p>• Mejora del servicio.</p></li>
-            <li><p>• Demostrar al usuario que el transporte concesionado también puede innovar.</p></li>
-            <li><p>• Capacitación a los conductores en servicio al cliente y perspectiva de género.</p></li>
-          </ul> -->
-
-          <a href="/transporte-concesionado" class="btn btn-gray">Conoce más</a>
+          <a href="/transporte-publico" class="btn btn-gray">Conoce más</a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="col-md-5">
+          <img src="img/icon-gobiernoV2.svg" width="100%">
+        </div>
+        <div class="col-md-7"></div>
+        <div class="col-md-12">
+          <h2>Gobierno</h2>
+          <h3>¿Quieres modernizar tu servicio?</h3>
+          <br>
+          <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
 
         </div>
       </div>
     </div>
 
-    <div class="row caracteristicas">
-      <div class="col-md-12 text-center">
-        <h3>Empresas con las que trabajamos:</h3>
-        <ul class="list-transportistas">
-          <li>
-            <img src="img/logo-svbus.png">
-          </li>
-          <li>
-            <img src="img/logo-spsc.png">
-          </li>
-          <li>
-            <img src="img/logo-transportesTangamanga.png">
-          </li>
-          <!-- <li>
-            <img src="img/">
-          </li> -->
-        </ul>
-      </div>
-    </div>
+    <hr style="margin-bottom: 60px; opacity: 0">
 
   </div>
 </div>

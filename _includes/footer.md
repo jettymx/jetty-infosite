@@ -13,10 +13,13 @@
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/trabajo-socio" target="_self">Socio transportista</a>
+            <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte privado</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-concesionado" target="_self">Transporte concesionado</a>
+            <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Transporte gobierno</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
@@ -24,15 +27,16 @@
           <li>
             <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
           </li>
-          <li>
-            <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
-          </li>
+
 
         </ul>
       </div>
 
       <div class="col-md-3">
         <ul class="submenu">
+          <li>
+            <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
+          </li>
           <li>
             <a href="http://ayuda.jetty.mx" target="_self">Ayuda y Soporte</a>
           </li>

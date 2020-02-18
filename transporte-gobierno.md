@@ -10,7 +10,7 @@ id: transporte-concesionado
 
     <div class="row trabajar">
       <div class="col-md-10">
-        <h1>¿Tienes una concesión de transporte público?</h1>
+        <h1>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora a la experiencia del usuario y contribuye a la modernización.</h1>
         <br>
       </div>
       <div class="col-md-12 text-right">
@@ -19,53 +19,102 @@ id: transporte-concesionado
 
     </div>
 
+    <!-- <div class="clearfix marginBottom"></div> -->
+
     <div class="row marginBottom">
-
       <div class="col-md-12">
-        <h2>Beneficios para concesionarios.</h2>
+        <h2>Beneficios para el usuario</h2>
       </div>
 
-      <div class="col-md-4">
-        <img src="img/icon-Mediopago.svg">
-        <h3>Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</h3>
+      <div class="col-md-6">
+        <img src="img/icon-rutasFrecuencia.svg">
+        <p class="lead"><b>Acceder a información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</b></p>
       </div>
-      <div class="col-md-4">
-        <img src="img/icon-conductorV2.svg">
-        <h3>Supervisión de conductores gracias a retroalimentación de los usuarios.</h3>
+      <div class="col-md-6">
+        <img src="img/icon-calificarV2.svg">
+        <p class="lead"><b>Calificar el servicio y dar retroalimentación sobre el conductor y experiencia de viaje.</b></p>
       </div>
-      <div class="col-md-4">
-        <img src="img/icon-rutasV2.svg">
-        <h3>Optimización de frecuencias y horarios.</h3>
+      <div class="col-md-6">
+        <img src="img//icon-conductorV2.svg">
+        <p class="lead"><b>Conocer quién es su conductor, vehículo y punto de ascenso.</b></p>
+      </div>
+      <div class="col-md-6">
+        <img src="img/icon-soporteV2.svg">
+        <p class="lead"><b>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje. Los usuarios tienen posibilidad de recuperar los objetos olvidados en las unidades.</b></p>
+      </div>
+    </div>
+
+
+    <div class="row marginBottom">
+      <div class="col-md-12">
+        <h2>Beneficios para el Gobierno</h2>
       </div>
 
-      <div class="clearfix marginBottom"></div>
-
-      <div class="col-md-4">
-        <img src="img/icon-servicioV2.svg">
-        <h3>Mejora del servicio.</h3>
-      </div>
-      <div class="col-md-4">
-        <img src="img/icon-inovacionV2.svg">
-        <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
-      </div>
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
+        <h3>Supervisión de conductores.</h3>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-optimizacionV2.svg">
+        <h3>Optimización de frecuencias, rutas y horarios.</h3>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-mejoraV2.svg">
+        <h3>Mejora del servicio.</h3>
       </div>
 
-      <div class="col-md-12 text-center marginBottom">
-        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
+      <div class="col-md-4 col-md-offset-2">
+        <img src="img/icon-encuestaV2.svg">
+        <h3>Poder hacer encuestas a usuarios sobre necesidades del servicio.</h3>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-inovaciónV2.svg">
+        <h3>Demostrar al usuario que el gobierno también puede innovar.</h3>
+      </div>
+    </div>
+
+    <div class="row marginBottom">
+      <div class="col-md-12">
+        <h2>Herramientas para el manejo de la flota</h2>
+      </div>
+
+      <div class="col-md-4">
+        <img src="img/icon-operacionV2.svg">
+        <p class="lead"><b>Visualizar información sobre la operación.</b></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-administrarV2.svg">
+        <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/icon-retroV2.svg">
+        <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
+      </div>
+    </div>
+
+    <div class="row marginBottom">
+      <div class="col-md-12">
+        <h2>Herramientas para planificación</h2>
+      </div>
+
+      <div class="col-md-12">
+        <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
+      </div>
+
+      <div class="col-md-12 text-center">
+        <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalGobierno">
           Solicita tu registro
         </button>
       </div>
-
     </div>
+
+    <div class="clearfix"></div>
 
   </div>
 </div>
 
-<!-- Modal Concesionado -->
-<div class="modal fade" id="ModalConcesionado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- Modal Gobierno -->
+<div class="modal fade" id="ModalGobierno" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -73,93 +122,78 @@ id: transporte-concesionado
         <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
       </div>
 
-      <form id="form-concesionado">
+      <form id="form-gobierno">
         <div class="modal-body">
 
             <div class="col-md-6 form-group">
-              <label  for="from-concesionado--name">Nombre</label>
+              <label  for="from-gobierno--name">Nombre</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Nombre"
                       maxlength="30"
                       name="name"
-                      id="form-concesionado--name"
+                      id="form-gobierno--name"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="form-concesionado--lastname">Apellidos</label>
+              <label  for="form-gobierno--lastname">Apellidos</label>
               <input  type="text"
                       class="form-control"
                       placeholder="Apellidos"
                       maxlength="60"
                       name="lastname"
-                      id="form-concesionado--lastname"
+                      id="form-gobierno--lastname"
                       required />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="form-concesionado--mail">Correo electrónico</label>
+              <label  for="form-gobierno--mail">Correo electrónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="60"
                       placeholder="Correo electrónico"
                       name="email"
-                      id="form-concesionado--email"
+                      id="form-gobierno--email"
                       />
             </div>
 
             <div class="col-md-6 form-group">
-              <label  for="form-concesionado--phone">Número telefónico</label>
+              <label  for="form-gobierno--phone">Número telefónico</label>
               <input  type="text"
                       class="form-control"
                       maxlength="20"
                       placeholder="Número telefonico"
                       name="phone"
-                      id="form-concesionado--phone"
+                      id="form-gobierno--phone"
                       required>
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="form-concesionado--city">¿En qué ciudad estás?</label>
+              <label for="form-gobierno--city">¿En qué ciudad estás?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
                       name="city"
-                      id="form-concesionado--city"
+                      id="form-gobierno--city"
                       required />
             </div>
 
             <div class="col-md-12 form-group">
-              <label for="form-concesionado--route">¿Qué ruta operas?</label>
+              <label for="form-gobierno--route">¿Representas a alguna agencia de gobierno?</label>
               <input  type="text"
                       class="form-control"
                       maxlength="120"
                       name="route"
-                      id="form-concesionado--route"
+                      id="form-gobierno--agency"
                       required />
             </div>
 
 
             <div class="col-md-12 form-group">
-              <p style="color: #333"><b>Cuéntanos tu experiencia como operador de transporte:</b></p>
-              <label for="form-concesionado--years">Años de experiencia</label>
-              <textarea class="form-control" rows="3" name="years" id="form-concesionado--years"></textarea>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="form-concesionado--vehiculos">¿Cuántos Vehículos tienes?</label>
-              <textarea class="form-control" rows="3" name="vehiculos" id="form-concesionado--vehiculos"></textarea>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="form-concesionado--tipo">¿Qué tipos de vehículos tienes?</label>
-              <textarea class="form-control" rows="3" name="tipo" id="form-concesionado--tipo"></textarea>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="form-concesionado--why">Porqué quieres trabajar con Jetty</label>
-              <textarea class="form-control" rows="3" name="why" id="form-concesionado--why"></textarea>
+              <p style="color: #333"><b>Cuéntanos más</b></p>
+              <label for="form-gobierno--reason">Porqué quieres trabajar con Jetty</label>
+              <textarea class="form-control" rows="3" name="years" id="form-gobierno--years"></textarea>
             </div>
 
             <div class="col-md-12 form-group">
