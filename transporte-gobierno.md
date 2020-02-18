@@ -8,18 +8,17 @@ id: transporte-concesionado
 <div class="container-fluid gradient">
   <div class="container transportista">
 
-    <div class="row trabajar">
-      <div class="col-md-10">
-        <h1>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora a la experiencia del usuario y contribuye a la modernización.</h1>
-        <br>
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Gobierno</h1>
+        <h2>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora la experiencia del usuario y contribuye a la modernización.</h2>
+        <div class="text-center">
+          <img src="img/jetty-gobierno.png" width="90%">
+        </div>
       </div>
-      <div class="col-md-12 text-right">
-        <img src="img/camioneta-blanca.png" width="90%">
-      </div>
-
     </div>
 
-    <!-- <div class="clearfix marginBottom"></div> -->
+    <div class="clearfix marginBottom"></div>
 
     <div class="row marginBottom">
       <div class="col-md-12">

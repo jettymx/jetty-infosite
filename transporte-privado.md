@@ -8,15 +8,14 @@ id: socio-transportista
 <div class="container-fluid gradient">
   <div class="container transportista">
 
-    <div class="row trabajar">
-      <div class="col-md-10">
-        <h1>¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?</h1>
-        <br>
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Transporte Privado</h1>
+        <h2>¿Tienes vehículos que te gustaría poner a trabajar con Jetty?</h2>
+        <div class="text-center">
+          <img src="img/jetty-privado.png" width="90%">
+        </div>
       </div>
-      <div class="col-md-12 text-right">
-        <img src="img/camioneta-blanca.png" width="90%">
-      </div>
-
     </div>
 
     <div class="row">

@@ -8,21 +8,22 @@ id: transporte-concesionado
 <div class="container-fluid gradient">
   <div class="container transportista">
 
-    <div class="row trabajar">
-      <div class="col-md-10">
-        <h1>¿Tienes una concesión de transporte público?</h1>
-        <br>
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Transporte Público</h1>
+        <h2>¿Tienes una concesión de transporte público?</h2>
+        <div class="text-center">
+          <img src="img/jetty-publico.png" width="90%">
+        </div>
       </div>
-      <div class="col-md-12 text-right">
-        <img src="img/camioneta-blanca.png" width="90%">
-      </div>
-
     </div>
+
+    <div class="clearfix marginBottom"></div>
 
     <div class="row marginBottom">
 
       <div class="col-md-12">
-        <h2>Beneficios para concesionarios.</h2>
+        <h2>Beneficios para concesionarios o permisionarios.</h2>
       </div>
 
       <div class="col-md-4">
@@ -55,7 +56,7 @@ id: transporte-concesionado
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
-          Solicita tu registro
+         Conoce más
         </button>
       </div>
 

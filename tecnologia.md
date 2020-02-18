@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Jetty | Tecnología en el transporte público
-description: Lleva los beneficios de la tecnología Jetty al transporte público.
-id: tecnologia-en-el-transporte-publico
+title: Jetty | Tecnología en el transporte colectivo
+description: Lleva los beneficios de la tecnología Jetty al transporte colectivo.
+id: tecnologia-en-el-transporte-colectivo
 ---
 
 <div class="container-fluid gradient">
@@ -57,6 +57,13 @@ id: tecnologia-en-el-transporte-publico
     <hr style="margin-bottom: 60px; opacity: 0">
 
     <div class="row caracteristicas">
+
+      <div class="col-md-12 text-center" style="margin-bottom: 40px;">
+        <h1>Tenemos 3 modalidades de servicio:</h1>
+      </div>
+
+      <div class="clearfix"></div>
+
       <div class="col-md-4">
         <div class="col-md-5">
           <img src="img/icon-vehiculoV2.svg" width="100%">
