@@ -64,7 +64,7 @@ id: tecnologia-en-el-transporte-colectivo
 
       <div class="clearfix"></div>
 
-      <div class="col-md-4">
+      <div class="col-md-4" style="margin-bottom: 60px;">
         <div class="col-md-5">
           <img src="img/icon-vehiculoV2.svg" width="100%">
         </div>
@@ -76,7 +76,7 @@ id: tecnologia-en-el-transporte-colectivo
           <a href="/transporte-privado" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4" style="margin-bottom: 60px;">
         <div class="col-md-5">
           <img src="img/icon-transporteV2.svg" width="100%">
         </div>
@@ -88,7 +88,7 @@ id: tecnologia-en-el-transporte-colectivo
           <a href="/transporte-publico" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4" style="margin-bottom: 60px;">
         <div class="col-md-5">
           <img src="img/icon-gobiernoV2.svg" width="100%">
         </div>
@@ -98,7 +98,6 @@ id: tecnologia-en-el-transporte-colectivo
           <h3>¿Quieres modernizar tu servicio?</h3>
           <br>
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
-
         </div>
       </div>
     </div>
