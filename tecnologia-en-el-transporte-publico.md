@@ -10,7 +10,7 @@ id: tecnologia-en-el-transporte-publico
 
     <div class="row trabajar">
       <div class="col-md-10 col-md-offset-1">
-        <h1>Lleva los beneficios de la tecnología Jetty al transporte público, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
+        <h1>Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
         <br>
       </div>
     </div>
