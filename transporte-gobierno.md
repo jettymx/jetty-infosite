@@ -12,15 +12,15 @@ id: transporte-concesionado
       <div class="col-md-12">
         <h1>Gobierno</h1>
         <h2>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora la experiencia del usuario y contribuye a la modernización.</h2>
-        <div class="text-center">
+        <!-- <div class="text-center">
           <img src="img/jetty-gobierno.png" width="90%">
-        </div>
+        </div> -->
       </div>
     </div>
 
     <div class="clearfix marginBottom"></div>
 
-    <div class="row marginBottom">
+    <!-- <div class="row marginBottom">
       <div class="col-md-12">
         <h2>Beneficios para el usuario</h2>
       </div>
@@ -41,7 +41,7 @@ id: transporte-concesionado
         <img src="img/icon-soporteV2.svg">
         <p class="lead"><b>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje. Los usuarios tienen posibilidad de recuperar los objetos olvidados en las unidades.</b></p>
       </div>
-    </div>
+    </div> -->
 
 
     <div class="row marginBottom">
@@ -78,15 +78,15 @@ id: transporte-concesionado
       </div>
 
       <div class="col-md-4">
-        <img src="img/icon-operacionV2.svg">
+        <!-- <img src="img/icon-operacionV2.svg"> -->
         <p class="lead"><b>Visualizar información sobre la operación.</b></p>
       </div>
       <div class="col-md-4">
-        <img src="img/icon-administrarV2.svg">
+        <!-- <img src="img/icon-administrarV2.svg"> -->
         <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
       </div>
       <div class="col-md-4">
-        <img src="img/icon-retroV2.svg">
+        <!-- <img src="img/icon-retroV2.svg"> -->
         <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
       </div>
     </div>
