@@ -100,9 +100,9 @@ id: transporte-concesionado
         <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
       </div>
 
-      <div class="col-md-8 col-md-offset-2 text-center">
+      <!-- <div class="col-md-8 col-md-offset-2 text-center">
         <img src="img/jetty-mapa-atse.png" alt="Jetty, Atse" width="100%">
-      </div>
+      </div> -->
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalGobierno">
