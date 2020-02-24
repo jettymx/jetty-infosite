@@ -58,7 +58,120 @@ priority: 1.0
         <h1>Cómo funciona</h1>
       </div>
 
-      <div class="col-md-12">
+      <!-- RESERVA / QR -->
+      <div class="col-md-12 como-funciona-tabs">
+
+        <!-- Tabs -->
+        <ul class="nav nav-tabs como-funciona-tabs-list" role="tablist">
+          <li role="presentation" class="active">
+            <a href="#home" aria-controls="home" role="tab" data-toggle="tab">
+              <!-- <img src="img/iconReserva.png" width="30px"> -->
+              Mediante Reserva
+            </a>
+          </li>
+          <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Pago con QR</a></li>
+        </ul>
+
+        <!-- Tab panels -->
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="home">
+
+            <div class="row">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Dinos de dónde sales y a dónde viajas.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-1.png" alt="Jetty, De dónde sales">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Revisa el día, horario y elige el que más te convenga.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario">
+                </div>
+              </div>
+            </div>
+
+            <div class="row clear app-vistas-dos">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-3.png" alt="Jetty, Reserva tu asiento">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-4.png" alt="Jetty, Muestra tu pase">
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div role="tabpanel" class="tab-pane" id="profile">
+
+             <div class="row">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Busca el código QR al abordar las unidades.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-QR-1.png" alt="Jetty, Re QR">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Escanea y selecciona el número de pases.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-QR-2.png" alt="Jetty, Elige una ruta y horario">
+                </div>
+              </div>
+            </div>
+
+            <div class="row clear app-vistas-dos">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Paga con tu tarjeta desde la app de Jetty.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-QR-3.png" alt="Jetty, Reserva tu asiento">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Muéstrale tu pase al conductor.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-QR-4.png" alt="Jetty, Muestra tu pase">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- <div class="col-md-12">
 
         <div class="row">
 
@@ -108,7 +221,9 @@ priority: 1.0
 
         </div>
 
-      </div>
+      </div> -->
+
+      <div class="clearfix"></div>
 
       <div class="col-md-12 text-center descarga marginBottom">
         <p class="text-downapp-index">Descarga la app.</p>

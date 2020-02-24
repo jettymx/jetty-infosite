@@ -526,6 +526,51 @@ margin-bottom: 50px;
   margin-top: 80px;
 }
 
+/*/// Tabs Index ///*/
+ul.como-funciona-tabs-list{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: none;
+}
+
+.como-funciona-tabs-list > li {
+  float: none;
+  display: inline-block;
+  zoom: 1;
+  padding: 0 10px;
+  border: none;
+}
+
+.como-funciona-tabs-list >li.active>a {
+  border: none;
+  background: no-repeat;
+  color: #2D414D;
+}
+.como-funciona-tabs-list >li.active>a:hover {
+  color: #2D414D;
+  background: none;
+  border: none;
+}
+
+.como-funciona-tabs-list {
+  text-align: center;
+  border: none;
+}
+
+.como-funciona-tabs-list > li > a {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+  font-size: 20pt;
+  border: none;
+}
+
+.como-funciona-tabs-list > li > a:hover {
+  color: rgba(255, 255, 255, 1);
+  background: none;
+  border: none;
+}
+
+/*/// Textos Index Como Funciona ///*/
 .txt-left{
   position: absolute;
   top: 220px;
