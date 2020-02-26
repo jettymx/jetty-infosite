@@ -38,7 +38,7 @@ priority: 1.0
       <div class="col-md-4 amenidad">
         <img src="img/icon-seguridadV2.svg" alt="Jetty, Seguridad">
         <h3 style="font-weight: 800">Seguridad</h3>
-        <p>Todos nuestros viajes son monitoreados por nuestro equipo.</p>
+        <p>Todos nuestros viajes son monitoreados por nuestro equipo de soporte.</p>
       </div>
       <div class="col-md-4 amenidad" >
         <img src="img/icon-tranqulidadV2.svg" alt="Jetty, Tranquilidad">
@@ -48,14 +48,14 @@ priority: 1.0
       <div class="col-md-4 amenidad">
         <img src="img/icon-eficienciaV2.svg" alt="Jetty, Eficiencia">
         <h3 style="font-weight: 800">Eficiencia</h3>
-        <p>Nuestro viajes están pensados para que puedas llegar a tu destino de la manera más directa.</p>
+        <p>Nuestros viajes están pensados para que puedas llegar a tu destino de la manera más directa.</p>
       </div>
     </div>
 
     <!-- COMO FUNCIONA -->
     <div class="row como">
       <div class="col-md-12 text-center">
-        <h1>Cómo funciona</h1>
+        <h1>¿Cómo funciona?</h1>
       </div>
 
       <!-- RESERVA / QR -->
@@ -171,62 +171,10 @@ priority: 1.0
 
       </div>
 
-      <!-- <div class="col-md-12">
-
-        <div class="row">
-
-          <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-            <div class="txt-left">
-              <img src="img/arrow-left.svg" class="arrow-hidden">
-              <p>Dinos de dónde sales y a dónde viajas.</p>
-            </div>
-            <div class="app-jetty text-left">
-              <img src="img/app-jetty-1.png" alt="Jetty, De dónde sales">
-            </div>
-          </div>
-
-          <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-            <div class="txt-right">
-              <img src="img/arrow-right.svg" class="arrow-hidden">
-              <p>Revisa el día, horario y elige el que más te convenga.</p>
-            </div>
-            <div class="app-jetty app-right">
-              <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario">
-            </div>
-          </div>
-
-        </div>
-
-        <div class="row clear app-vistas-dos">
-
-          <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-            <div class="txt-left">
-              <img src="img/arrow-left.svg" class="arrow-hidden">
-              <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
-            </div>
-            <div class="app-jetty text-left">
-              <img src="img/app-jetty-3.png" alt="Jetty, Reserva tu asiento">
-            </div>
-          </div>
-
-          <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-            <div class="txt-right">
-              <img src="img/arrow-right.svg" class="arrow-hidden">
-              <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
-            </div>
-            <div class="app-jetty app-right">
-              <img src="img/app-jetty-4.png" alt="Jetty, Muestra tu pase">
-            </div>
-          </div>
-
-        </div>
-
-      </div> -->
-
       <div class="clearfix"></div>
 
       <div class="col-md-12 text-center descarga marginBottom">
-        <p class="text-downapp-index">Descarga la app.</p>
+        <p class="text-downapp-index">¡Descarga la app!</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
@@ -242,37 +190,37 @@ priority: 1.0
     <!-- BENEFICIOS USUARIOS -->
     <div class="row marginBottom">
       <div class="col-md-12 text-center">
-        <h1>Beneficios para los usuarios</h1>
+        <h1>¿Por qué nos prefieren nuestros usuarios?</h1>
       </div>
     </div>
 
     <div class="row marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
       <div class="col-md-4">
         <img src="img/icon-pinesV2.svg" alt="Jetty, Traslado directo">
-        <p class="lead"><strong>Acceder a información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</strong></p>
+        <p class="lead"><strong>Información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</strong></p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-PagoQR.svg" alt="Jetty, Pago QR">
-        <p class="lead"><strong>Evitar uso de efectivo y evitar tener cambio.</strong></p>
+        <p class="lead"><strong>Pagar desde la app, no hay necesidad de llevar efectivo.</strong></p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-saldoV2.svg" alt="Jetty, Recargar saldo">
-        <p class="lead"><strong>Recargar saldos desde cualquier lugar.</strong></p>
+        <p class="lead"><strong>Recarga saldo desde casi cualquier lugar.</strong></p>
       </div>
     </div>
 
     <div class="row marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
       <div class="col-md-4">
         <img src="img/icon-calificarV2.svg" alt="Jetty, Calificar servicio">
-        <p class="lead"><strong>Calificar el servicio y dar retroalimentación sobre el conductor y experiencia de viaje.</strong></p>
+        <p class="lead"><strong>Calificar el servicio y  dar retroalimentación sobre el conductor y la experiencia de viaje.</strong></p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-condutor-vehiculo.svg" alt="Jetty, Conductores profesionales">
-        <p class="lead"><strong>Conocer quién es su conductor, vehículo y punto de ascenso.</strong></p>
+        <p class="lead"><strong>Conoce a tu conductor, vehículo y punto de ascenso.</strong></p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-soporteV2.svg" alt="Jetty, Soporte en tiempo real">
-        <p class="lead"><strong>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje.</strong></p>
+        <p class="lead"><strong>Tienes servicio de soporte, antes, durante y después del viaje.</strong></p>
       </div>
     </div>
 
