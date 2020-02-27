@@ -20,7 +20,7 @@ id: socio-transportista
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Beneficios de ser Socio Jetty.</h2>
+        <h2>Beneficios de ser Socio Jetty</h2>
       </div>
       <div class="col-md-4">
         <img src="img/icon-ingresosV2.svg">
@@ -63,7 +63,7 @@ id: socio-transportista
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
-                Si tu vas a manejar la unidad o vas a contratar a un conductor se necesita la Licencia tipo C
+                Si tu vas a manejar la unidad o vas a contratar a un conductor se necesita la Licencia tipo C.
               </div>
             </div>
           </div>
@@ -77,7 +77,7 @@ id: socio-transportista
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Póliza de seguro de transporte público con cobertura amplia, nosotros te podemos aconsejar que con quien contratar.
+                Póliza de seguro de transporte público con cobertura amplia, nosotros te podemos aconsejar con quien contratar.
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@ id: socio-transportista
             </div>
             <div id="collapseUno" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingUno">
               <div class="panel-body">
-                Contáctanos para hacerte una propuesta de acuerdo con tus expectativas.
+                Contáctanos para hacerte una propuesta de acuerdo a tus expectativas.
               </div>
             </div>
           </div>

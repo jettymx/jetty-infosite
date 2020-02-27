@@ -24,7 +24,7 @@ id: transporte-eventos
 
     <div class="row tipo-eventos">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Ya sea que organices o vayas a un evento masivo, tenemos la solución para ti.</h2>
+        <h2>¿Cuál es tu necesidad? </h2>
       </div>
 
       <div class="col-md-12 eventos">
@@ -81,7 +81,7 @@ id: transporte-eventos
       <div class="col-md-4 text-center">
         <img src="img/chofer.png" class="img-servicios">
         <h3>Conductores profesionales</h3>
-        <p>El conductor pasó un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas, entre otras.</p>
+        <p>Nuestros conductores pasan por un proceso estricto de selección, que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/interiores.png" class="img-servicios">
