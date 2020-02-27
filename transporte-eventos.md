@@ -15,7 +15,7 @@ id: transporte-eventos
       </div>
 
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3>NNos adaptamos a tus necesidades, con el mejor precio para transportarte.</h3>
+        <h3>Nos adaptamos a tus necesidades, con el mejor precio para transportarte.</h3>
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
           Cotiza
         </button>
