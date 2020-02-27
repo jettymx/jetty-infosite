@@ -551,6 +551,11 @@ ul.como-funciona-tabs-list{
   background: none;
   border: none;
 }
+.como-funciona-tabs-list >li.active>a:focus {
+  color: #2D414D;
+  background: none;
+  border: none;
+}
 
 .como-funciona-tabs-list {
   text-align: center;
@@ -565,6 +570,12 @@ ul.como-funciona-tabs-list{
 }
 
 .como-funciona-tabs-list > li > a:hover {
+  color: rgba(255, 255, 255, 1);
+  background: none;
+  border: none;
+}
+
+.como-funciona-tabs-list > li > a:focus {
   color: rgba(255, 255, 255, 1);
   background: none;
   border: none;

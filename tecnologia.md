@@ -9,29 +9,31 @@ id: tecnologia-en-el-transporte-colectivo
   <div class="container concesionado">
 
     <div class="row trabajar">
-      <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-12 text-center">
         <h1>Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
         <br>
       </div>
     </div>
 
+    <div class="clearfix marginBottom"></div>
+
     <div class="row">
 
       <div class="col-md-3 text-center">
         <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
-        <h3 class="titleConcesionado">Medio de pago.</h3>
+        <h3 class="titleConcesionado">Medio de pago</h3>
       </div>
       <div class="col-md-3 text-center">
         <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Canal de atención al usuario.</h3>
+        <h3 class="titleConcesionado">Canal de atención al usuario</h3>
       </div>
       <div class="col-md-3 text-center">
         <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación.</h3>
+        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
       </div>
       <div class="col-md-3 text-center">
         <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
-        <h3 class="titleConcesionado">Sistema de planificación.</h3>
+        <h3 class="titleConcesionado">Sistema de planificación</h3>
       </div>
 
     </div>
@@ -44,23 +46,23 @@ id: tecnologia-en-el-transporte-colectivo
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Sistema de reserva de asiento.</h3>
+        <h3>Sistema de reserva de asiento</h3>
         <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Pago con QR.</h3>
+        <h3>Pago con QR</h3>
         <br>
         <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Sistema de evaluación de conductores.</h3>
+        <h3>Sistema de evaluación de conductores</h3>
         <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Canal de atención inmediata a usuarios.</h3>
+        <h3>Canal de atención inmediata a usuarios</h3>
         <img src="img/app-jetty-atencionUsuarios.png" alt="Jetty, Atencion a usuarios" width="100%">
       </div>
 

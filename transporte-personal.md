@@ -12,7 +12,7 @@ id: transporte-personal
       <div class="row">
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
           <h1>¡Llevamos a tu personal seguro y a tiempo!</h1>
-          <p class="lead">Jetty se adapta a las necesidades de tu organización bajo diferentes esquemas para alcanzar los mejores resultados.</p>
+          <p class="lead">En Jetty nos adaptamos a las necesidades de tu organización bajo diferentes esquemas, para alcanzar los mejore resultados.</p>
           <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
             Solicita información
           </button>
@@ -80,23 +80,23 @@ id: transporte-personal
     <div class="row cuatro-puntos">
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="200">
         <img src="img/icon-productividadV2.svg" alt="Jetty, Productividad">
-        <p><strong>Aumenta la productividad</strong></p>
-        <p>Viajando en Jetty puedes descansar durante el viaje o ponerte al corriente de tus correos.</p>
+        <p><strong>Más productividad</strong></p>
+        <p>Al viajar en Jetty puedes trabajar o descansar durante el trayecto.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="300">
         <img src="img/icon-worldV2.svg" alt="Jetty, Responsabilidad social">
         <p><strong>Responsabilidad social</strong></p>
-        <p>Impulsa el uso de un transporte más amigable con el medio ambiente.</p>
+        <p> Impulsar el uso de transporte colectivo en beneficio del medio ambiente.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="400">
         <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorros">
-        <p><strong>Grandes ahorros</strong></p>
-        <p>Con Jetty, puedes ahorrar en el costo de los traslados y estacionamientos.</p>
+        <p><strong>Ahorro</strong></p>
+        <p>Con Jetty ahorras en el costo de traslados y estacionamiento.</p>
       </div>
       <div class="col-md-3 porque text-center" data-aos="fade-up" data-aos-duration="500">
         <img src="img/icon-empleoV2.svg" alt="Jetty, Transporte personal">
-        <p><strong>Usa a Jetty como un arma de reclutamiento</strong></p>
-        <p>El transporte es uno de los factores más importante para aceptar un trabajo.</p>
+        <p><strong>Un plus de reclutamiento</strong></p>
+        <p>Tener transporte es un factor importante a la hora de elegir trabajo</p>
       </div>
 
       <div class="col-md-12 text-center">
@@ -138,7 +138,7 @@ id: transporte-personal
 
             <p class="lead">Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</p>
 
-            <p>• Promueve los servicios de Jetty. Podemos crearte un código de descuento</p>
+            <p>• Promueve los servicios de Jetty. Podemos crearte un código de descuento.</p>
             <p>• Cotiza servicios exclusivos para la gente de tu organización.</p>
             <p>• Subsidia parte o el 100% de viajes de tus colaboradores.</p>
 

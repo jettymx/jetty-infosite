@@ -11,11 +11,11 @@ id: transporte-eventos
     <div class="row">
       <div class="col-md-12 text-center">
         <h1>¿Estás buscando transporte para un evento?</h1>
-        <h1>¿Consideras rentar una camioneta con chofer?</h1>
+        <h1>¿Consideras rentar una camioneta con conductor?</h1>
       </div>
 
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3>Nos adaptamos a tu necesidad al mejor precio para resolver tu transporte.</h3>
+        <h3>NNos adaptamos a tus necesidades, con el mejor precio para transportarte.</h3>
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
           Cotiza
         </button>
@@ -120,7 +120,6 @@ id: transporte-eventos
     </div>
   </div>
 </div>
-
 
 <!-- Modal Tropico -->
 <div class="modal fade" id="ModalTropico" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

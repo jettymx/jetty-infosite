@@ -228,7 +228,7 @@ priority: 1.0
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <a href="servicios-ejecutivos" class="btn btn-gray">Beneficios de servicios ejecutivos</a>
+        <a href="servicios-ejecutivos" class="btn btn-gray">Beneficio de servicios ejecutivos</a>
       </div>
     </div>
 
