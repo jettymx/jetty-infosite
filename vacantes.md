@@ -402,7 +402,7 @@ id: vacantes
       </div>
 
       <!-- VACANTE 2 -->
-      <!-- <div class="panel panel-default vacante">
+      <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -412,8 +412,8 @@ id: vacantes
           <div class="col-md-11">
             <div class="row">
               <div class="col-md-8">
-                <p>PUESTO<br>
-                 <b>Gerente de ventas corporativas y viajes especiales.</b>
+                <p>Puesto<br>
+                 <b>Director de Marketing</b>
                  <br>Ciudad de México</p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
@@ -425,187 +425,142 @@ id: vacantes
 
             <div class="collapse" id="collapse_a">
               <div class="descripcion">
-                <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
+                <!-- <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
                 <br>
                 Contribuir a la fuerza de ventas del servicio de transporte de personal a corporativos y a eventos puntuales.</p>
 
-                <br>
+                <br> -->
 
-                <p><b>PRINCIPALES FUNCIONES</b></p>
+                <p><b>RESPONSABILIDADES</b></p>
                 <ul>
                   <li>
-                    <p>Dar seguimiento a los usuarios sobre el servicio de Jetty por medio de diversos canales de comunicación (ej. Sistema de mensajería, redes sociales, correo electrónico, chat y teléfono). </p>
+                    <p>Trabajar directamente con el equipo de liderazgo para definir objetivos clave y estrategias de crecimiento.</p>
                   </li>
                   <li>
-                    <p>Revisar, clasificar, asignar y/o solucionar cada solicitud en coordinación con el área indicada (operaciones, tecnología, marketing, socio-operador, cliente institucional, etc.). </p>
+                    <p>Informe periódico de rendimiento y métricas de crecimiento al equipo de liderazgo.</p>
                   </li>
                   <li>
-                    <p>Dar seguimiento a las unidades y conductores poder informar a los usuarios del estatus de su viaje. </p>
+                    <p>Crear estrategias de desarrollo de la marca a largo plazo.</p>
                   </li>
                   <li>
-                    <p>Documentar las preguntas y crear respuestas predefinidas para los usuarios. </p>
+                    <p>Realizar análisis de mercado periódicos con los datos recolectados de los usuarios.</p>
                   </li>
                   <li>
-                    <p>Colaborar con equipos multidisciplinarios (marketing, operaciones, tecnología) para definir, diseñar e implementar nuevas funciones para mejorar la experiencia de usuario. </p>
+                    <p>Desarrollar un plan de marketing detallado basado en los objetivos estratégicos de marketing, incluyendo la mejor combinación de medios online y offline.</p>
                   </li>
                   <li>
-                    <p>Mantenerse al tanto de los procesos y herramientas de nuestras plataformas (apps de usuario y conductores). </p>
+                    <p>Definir la asignación de presupuesto de marketing y supervisar muy de cerca nuestro rendimiento de marketing para garantizar la relevancia y la rentabilidad.</p>
                   </li>
                   <li>
-                    <p>Trabajar en colaboración con colegas y otros departamentos para agilizar procesos.</p>
+                    <p>Análisis periódico y optimización de campañas de marketing online.</p>
                   </li>
                   <li>
-                    <p>Fomentar la lealtad entre nuevos usuarios.</p>
+                    <p>Investigar nuevas oportunidades de marketing y participar en las decisiones sobre los nuevos proyectos de marketing que se lanzarán</p>
                   </li>
                   <li>
-                    <p>Ayudar en la publicación de recorridos, y modificación de horarios y trayectos de viaje cuando sea necesario. </p>
+                    <p>Supervisar el trabajo del área de soporte para mejorar la calidad de la respuesta</p>
                   </li>
                   <li>
-                    <p>Dar de alta vehículos o modificar la información dentro de la plataforma de administración.</p>
+                    <p>Supervisar el uso de la marca y branding en toda la empresa (marketing, cromática, etc.).</p>
                   </li>
                   <li>
-                    <p>Mantener actualizada la información de los conductores vigentes.</p>
+                    <p>Analizar oportunidades de posicionamiento SEO y programar la generación de contenidos.</p>
                   </li>
                   <li>
-                    <p>Apoyar en las capacitaciones a conductores.</p>
+                    <p>Crear estrategias de relaciones públicas y comunicación corporativa.</p>
                   </li>
                   <li>
-                    <p>El porcentaje de incidentes resueltos al primer contacto como indicador de desempeño a medir.</p>
+                    <p>Participar en la creación de contenidos para comunicación y marketing a usuarios con el apoyo del equipo de comunicación.</p>
+                  </li>
+                  <li>
+                    <p>Cerrar alianzas estratégicas con empresas para posicionar a la marca. </p>
                   </li>
                 </ul>
 
                 <br>
 
-                <p><b>REQUISITOS</b></p>
+                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
                 <ul>
                   <li>
-                    <p>Puntualidad.</p>
+                    <p>Experiencia mínima de 3 años en marketing online y offline y especialmente en planificación y ejecución de campañas de marketing.</p>
                   </li>
                   <li>
-                    <p>Escolaridad: Licenciatura concluida.</p>
+                    <p>Entendimiento de los KPIs (CPM, CPC, CPI, CAC, LTV…)</p>
                   </li>
                   <li>
-                    <p>Experiencia mínima de un año en servicio al cliente, telemarketing o ventas.</p>
+                    <p>Dominio de Plan de Seguimiento del usuario</p>
                   </li>
                   <li>
-                    <p>Conocimiento en paquetería de Microsoft Office básica.</p>
+                    <p>Dominio de cuentas de Google, Facebook y Twitter Ads.</p>
                   </li>
                   <li>
-                    <p>Inglés intermedio (escrito, comprensión, lectura).</p>
+                    <p>Dominio de herramienta de Analytics de Apps (Adjust, Appsflyer, Kochava…)</p>
                   </li>
                   <li>
-                    <p>Disponibilidad de horarios.</p>
+                    <p>Dominio de herramientas de Mailings (Autopilot, Hubspot, Intercom, Moosend…)</p>
+                  </li>
+                  <li>
+                    <p>Dominio de Office / Google Suite</p>
+                  </li>
+                  <li>
+                    <p>Dominio avanzado del idioma inglés</p>
                   </li>
                 </ul>
 
                 <br>
 
-                <p><b>HABILIDADES</b></p>
+                <p><b>HABILIDADES REQUERIDAS</b></p>
                 <ul>
                   <li>
-                    <p>Excepcionales habilidades de comunicación. Es muy importante que esté en constante comunicación con el equipo de negocio para poder entender las necesidades del cliente y proponer soluciones innovadoras a los problemas.</p>
+                    <p>Experiencia en el manejo de proyectos.</p>
                   </li>
                   <li>
-                    <p>Pensamiento estructurado, organizado, motivado por la innovación y proactivo. Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
+                    <p>Excepcionales habilidades de comunicación, presentación y negociación. Es muy importante que esté en constante comunicación con los diferentes equipos (tecnología, comunicación, operaciones) para entender entender sus necesidades.</p>
                   </li>
                   <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
+                    <p>Ser una persona humilde, autodidacta, estructurada, organizada, enfocada a resultados motivada por la innovación y proactiva.</p>
                   </li>
                   <li>
-                    <p>Una mente aguda y un espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación y de impulsar soluciones a problemas.</p>
+                    <p>Demostrar un gran interés en el marketing online basado en el rendimiento y explorar nuevas oportunidades de marketing.</p>
+                  </li>
+                  <li>
+                    <p>Disfruta creando mensajes atractivos y haciendo iteraciones para mejorar el rendimiento.</p>
+                  </li>
+                  <li>
+                    <p>Fuerte capacidad de análisis para establecer procesos comerciales eficientes.</p>
+                  </li>
+                  <li>
+                    <p>Curiosidad intelectual y deseo de aprender cosas, técnicas y tecnologías nuevas.</p>
+                  </li>
+                  <li>
+                    <p>Comodidad trabajando en una cultura de nueva creación con un entorno de alto crecimiento / ágil</p>
                   </li>
                   <li>
                     <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
                   </li>
                   <li>
-                    <p>Enfoque orientado al cliente y a la resolución de problemas.</p>
+                    <p>Espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
                   </li>
                   <li>
-                    <p>Habilidad de administración de sus tiempos y objetivos.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>PRINCIPALES RELACIONES INTERNAS Y EXTERNAS</b></p>
-
-                <p><b>Relaciones internas:</b></p>
-                <ul>
-                  <li>
-                    <p>Comunicación y colaboración con las áreas de tecnología, operaciones y marketing.</p>
-                  </li>
-                </ul>
-
-                <p><b>Relaciones externas:</b></p>
-                <ul>
-                  <li>
-                    <p>Interacción con usuarios y conductores. </p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>INDICADORES CRÍTICOS DEL PUESTO.</b></p>
-
-                <ul>
-                  <li>
-                    <p>Tiempo de respuesta a usuarios.</p>
+                    <p>Investigación y autoaprendizaje de nuevas herramientas.</p>
                   </li>
                   <li>
-                    <p>Porcentaje de respuesta a la primera  interacción de los usuarios (comentarios y/o dudas).</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>DATOS GENERALES DEL PUESTO:</b></p>
-
-                <ul>
-                  <p><b>1. Jornada Laboral</b></p>
-                  <li>
-                    <p>Lunes a Viernes.</p>
-                  </li>
-                  <li>
-                    <p>Horario: 1pm-10pm. </p>
-                  </li>
-                  <li>
-                    <p>40 horas a la semana.</p>
-                  </li>
-                  <li>
-                    <p>Horario definido por la Operación</p>
-                  </li>
-                  <li>
-                    <p>6 días de vacaciones al cumplir el primer año de trabajo, incrementos según la ley correspondiente.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <ul>
-                  <p><b>2. Remuneración económica y Prestaciones</b></p>
-                  <li>
-                    <p>Pago por medio de tarjeta de nómina en cada quincena.</p>
-                  </li>
-                  <li>
-                    <p>Prestaciones de ley: Cotización en IMSS e INFONAVIT, prima vacacional de 1 mes y aguinaldo.</p>
+                    <p>Disfruta trabajando en equipo y aprendiendo de los demás.</p>
                   </li>
                 </ul>
 
                 <br>
 
                 <p><b>¿TE INTERESA?</b></p>
-                <ul>
-                  <li>
-                    <p>Escríbenos a <a href="mailto:hola@jetty.mx?subject=Atención a usuarios turno vespertino">hola@jetty.mx</a> utilizando <b>“Atención a usuarios turno vespertino”</b> como asunto del correo. Adjunta tu CV y un párrafo de por qué te interesa la vacante.</p>
-                  </li>
-                </ul>
+
+                <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=Director de Marketing">liliana@jetty.mx</a> utilizando <b>“Director de Marketing”</b> como asunto del correo.</p>
 
               </div>
             </div>
           </div>
 
         </div>
-      </div> -->
+      </div>
 
       <!-- VACANTE 7 -->
       <div class="panel panel-default vacante">
