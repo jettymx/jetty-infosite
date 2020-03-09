@@ -25,8 +25,7 @@ Por ejemplo, nuestros conductores tienen conocimiento sobre 4 puntos clave que d
 
 <div class="clearfix"></div>
 
-El tipo de servicio que ofrece Jetty provoca que las mujeres sean usuarias frecuentes. El 57% de nuestros usuarios frecuentes son mujeres al analizar el 10% de usuarios que ha comprado más pases, el % de mujeres sube a 57%.
-
+El transporte colectivo es un espacio donde priva el acoso sexual y la discriminación. Por ello nos enorgullece poder decir que Jetty ofrece una alternativa más cómoda y segura. El 57% de nuestros usuarios más frecuentes son mujeres.
 
 En los últimos 6 meses, ½ de los usuarios que han comprado por lo menos un pase son mujeres.
 
