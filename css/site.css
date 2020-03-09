@@ -492,6 +492,7 @@ img.img-como-funciona{
 
 /*////// INDEX V2 //////*/
 .gradient{
+  /* Color post aqua claro #37BDAA */
   background: rgb(75,191,167);
   background: linear-gradient(90deg, rgba(75,191,167,1) 0%, rgba(51,183,207,1) 100%);
   clear: both;

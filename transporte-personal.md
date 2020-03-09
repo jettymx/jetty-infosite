@@ -18,7 +18,7 @@ id: transporte-personal
           </button>
         </div>
         <div class="col-md-6 text-right">
-          <img src="img/choferes.png" alt="Jetty, Nuestros vehículos">
+          <img src="img/choferes.png" alt="Jetty, Nuestros vehículos" data-aos="fade" data-aos-easing="ease-out-sine">
         </div>
       </div>
     </div>
