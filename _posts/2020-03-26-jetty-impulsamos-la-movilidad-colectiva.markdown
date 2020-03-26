@@ -8,9 +8,6 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-hagamos-equipo.png)
 
-
-Jetty impulsa la movilidad colectiva responsable en tiempos de COVID-19
-
 En días recientes en todas las ciudades de México hemos observado que mientras algunos podemos ELEGIR quedarnos en casa, muchos TIENEN que salir a las calles para enfrentar esta epidemia. Las doctoras y doctores, enfermeras, enfermeros, transportistas, personas que distribuyen alimentos o medicinas, deben llegar a sus puestos de trabajo para asegurar que nosotros tengamos los bienes y servicios necesarios para resguardarnos en casa. Además hay muchos trabajadores que viven al día, que requieren salir para poder cubrir las necesidades de sus familias.
 
 Sabemos que la movilidad de nuestras ciudades no puede detenerse por completo y en medio de la incertidumbre, quienes siguen trabajando necesitan opciones seguras para transportarse.
@@ -28,3 +25,12 @@ Con la nueva versión de Jetty cada transportista puede ofrecer a sus pasajeros 
   <li><p><b>Certidumbre en la espera (próximamente).</b> Los usuarios sabrán dónde y cuándo pasará la próxima unidad, minimizando el tiempo que tienen que esperar en la calle con el objetivo de evitar aglomeraciones.</p></li>
 </ol>
 
+En solidaridad con los transportistas que han visto afectados sus ingresos, <b>Jetty está preparado para ofrecer de forma gratuita el uso de nuestra plataforma a los transportistas de ruta que quieran adoptarla mientras duren las fases 2 y 3 de la epidemia por COVID-19.</b>
+
+Lanzamos una invitación a todas las organizaciones de transporte concesionado de este país, y a todas las autoridades del ramo para sumarse a esta causa. La viabilidad de este servicio esencial depende de nuestra capacidad de ofrecer viajes más seguros, confiables y eficientes a nuestros pasajeros y conductores. En ese esfuerzo nuestra aplicación está a su servicio, escríbanos a [plancovid@jetty.mx.][mail]
+
+Pongamos la seguridad de los usuarios y conductores en el centro y trabajemos juntos para vencer este reto.
+
+<b>Hagamos equipo para mantener la viabilidad del transporte colectivo.</b>
+
+[mail]: mailto:plancovid@jetty.mx
