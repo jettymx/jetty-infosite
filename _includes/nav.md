@@ -17,7 +17,7 @@
           <li><a href="{{site.baseurl}}/">Inicio</a></li>
           <li><a href="{{site.baseurl}}/tecnologia">Tecnología</a></li>
           <li><a href="{{site.baseurl}}/servicios-ejecutivos">Servicios Ejecutivos</a></li>
-          <li><a href="{{site.baseurl}}/transporte-personal">Organizaciones</a></li>
+          <li><a href="{{site.baseurl}}/transporte-personal">Transporte de personal</a></li>
           <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
           <li><a href="{{site.baseurl}}/transporte-eventos">Eventos</a></li>
           <!-- <li><a href="{{site.baseurl}}/tours">Tours</a></li> -->
