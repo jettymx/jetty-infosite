@@ -9,7 +9,7 @@ categories: update
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-conductor-heroe.png)
 
 
-Queremos presentarte a <b>Óscar Luis Zárate,</b> él forma parte del equipo de conductores desde agosto del 2019, y hoy en día es uno de los conductores héroes, le llamamos así porque junto con un equipo capacitado y comprometido mantienen activas las calles de la ciudad por una razón muy importante, trasladar material médico, alimentos e insumos, al personal médico y de limpieza de algunos hospitales en la CDMX.
+Queremos presentarte a <b>Óscar Luis Zárate,</b> él forma parte del equipo de conductores desde agosto del 2019, y hoy en día es uno de los conductores héroes, le llamamos así porque junto con un equipo capacitado y comprometido mantienen activas las calles de la ciudad por una razón muy importante: trasladar material médico, alimentos e insumos al personal médico y de limpieza de algunos hospitales en la CDMX.
 
 Para Óscar el día comienza muy temprano, hace ejercicio, desayuna y sale para la [Fundación Ya Respondiste][fundacion], con ellos traslada en su mayoría alimentos empacados; por la tarde colabora con [#ApoyemosANuestrosHéroes][heroes] en donde se entregan box lunches.
 

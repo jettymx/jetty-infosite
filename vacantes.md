@@ -144,7 +144,7 @@ id: vacantes
       </div>
 
       <!-- VACANTE 4 Android -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -269,10 +269,10 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 5 iOS -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -399,7 +399,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 2 -->
       <div class="panel panel-default vacante">
@@ -699,7 +699,7 @@ id: vacantes
       </div>
 
       <!-- VACANTE 3  -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -844,7 +844,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 6 -->
       <div class="panel panel-default vacante">
