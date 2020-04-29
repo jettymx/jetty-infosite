@@ -17,7 +17,7 @@ Para Óscar el día comienza muy temprano, hace ejercicio, desayuna y sale para 
 
 ![Jetty]({{site.baseurl}}/imgs-blog/condutores-covid19.png)
 
-Óscar nos cuenta que estás últimas semanas le han dado experiencias únicas y muy diferentes. Trabajar con gente tan comprometida lo inspira día con día y ser parte de una cadena de ayuda lo ha hecho llegar a casa todos lo días con un aire de satisfacción y una felicidad que no puede describir, llega realmente contento de haber hecho una labor con propósito, ayudar a quienes están ayudando.
+Óscar nos cuenta que estas últimas semanas le han dado experiencias únicas y muy diferentes. Trabajar con gente tan comprometida lo inspira día con día y ser parte de una cadena de ayuda lo ha hecho llegar a casa todos lo días con un aire de satisfacción y una felicidad que no puede describir, llega realmente contento de haber hecho una labor con propósito, ayudar a quienes están ayudando.
 
 [fundacion]: https://yarespondiste2020.wixsite.com/misitio
 [heroes]: https://www.apoyemosanuestrosheroes.com
