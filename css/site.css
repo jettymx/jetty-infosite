@@ -2294,6 +2294,26 @@ select.form-control {
   visibility: hidden;
 }
 
+/*/// COVID ///*/
+ul.covidInline{
+  list-style: none;
+  padding: 0;
+}
+
+ul.covidInline li{
+  list-style: inline;
+  float: left;
+  padding: 0 16px;
+  width: 33%;
+}
+
+ul.covidInline li img{
+  width: 80%;
+}
+
+img.imgCovidMedidas{
+  width: 60%;
+}
 
 
 /*/// 404 ////*/
@@ -2862,6 +2882,10 @@ select.form-control {
   .caracteristicas h2{
     color: #ffffff;
     font-size: 30px;
+  }
+
+  ul.covidInline li{
+    width: 100%;
   }
 
 }
