@@ -28,7 +28,7 @@
             <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/covid-19" target="_self">Centro de información Covid-19</a>
+            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
           </li>
         </ul>
       </div>
