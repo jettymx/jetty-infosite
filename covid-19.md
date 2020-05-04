@@ -15,7 +15,7 @@ description: Centro de información sobre el COVID-19
         <p>Obtén más información sobre el coronavirus (COVID-19) en: <a href="https://coronavirus.gob.mx" target="blank">coronavirus.gob.mx.</a></p>
       </div>
 
-      <div class="col-md-12 marginBottom">
+      <div class="col-md-12 marginBottom" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h2>Sugerencias de prevención</h2>
         <p>Ayuda a detener la propagación del COVID-19.</p>
 
@@ -50,7 +50,7 @@ description: Centro de información sobre el COVID-19
         <p><small>Fuente: Organización Mundial de la Salud</small></p>
       </div>
 
-      <div class="col-md-12 marginBottom">
+      <div class="col-md-12 marginBottom" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h2>Nuestras medidas de prevención</h2>
 
         <div class="row">
@@ -74,17 +74,17 @@ description: Centro de información sobre el COVID-19
           <div class="clearfix"></div>
 
           <div class=" col-md-12 text-center">
-            <a href="transporte-personal" class="btn btn-green">Contrata transporte de personal</a>
+            <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
           </div>
 
           <div class="clearfix marginBottom"></div>
 
-          <div class="col-md-12 marginBottom">
+          <div class="col-md-12 marginBottom" data-aos="fade-up" data-aos-easing="ease-in-sine">
             <h2>Medidas de higiene y seguridad en unidades</h2>
             <p>El proceso en todas nuestras unidades incluye desinfección general, le damos prioridad a los puntos de contacto, como manijas, pasamanos, vidrios, etc. El procedimiento se realiza antes y después de cada viaje.</p>
           </div>
 
-          <div class="col-md-12">
+          <div class="col-md-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
             <h2>¿Cómo pueden ayudar nuestros usuarios?</h2>
 
             <div class="row">
@@ -106,32 +106,32 @@ description: Centro de información sobre el COVID-19
         </div>
       </div>
 
-      <div class="col-md-12 marginBottom">
+      <div class="col-md-12 marginBottom" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h2>Viajes donación</h2>
         <p>Gracias a nuestras alianzas y a la compra de viajes donación de nuestros usuarios llevamos comida al personal médico, a familiares de pacientes y  a personal de limpieza de varios hospitales en la Ciudad de México. También trasladamos cubrebocas, caretas, mascarillas, cajas aerosol y bicicletas.</p>
 
-        <img src="img/covid/jetty-donacion.png" width="100%">
+        <img src="img/covid/jetty-donacion.png" width="100%" data-aos="fade-up" data-aos-easing="ease-in-sine">
 
-        <img src="img/covid/jetty-donacion-logos.png" width="100%">
+        <img src="img/covid/jetty-donacion-logos.png" width="100%" data-aos="fade-up" data-aos-easing="ease-in-sine">
       </div>
 
       <div class="col-md-4">
-        <img src="img/covid/Lavar-manos.png" width="100%">
+        <img src="img/covid/Lavar-manos.png" style="margin-bottom: 20px" width="100%" data-aos="fade" data-aos-easing="ease-in-sine">
       </div>
       <div class="col-md-4">
-        <img src="img/covid/Cubrebocas.png" width="100%">
+        <img src="img/covid/Cubrebocas.png" style="margin-bottom: 20px" width="100%" data-aos="fade" data-aos-easing="ease-in-sine">
       </div>
       <div class="col-md-4">
-        <img src="img/covid/recomendaciones.png" width="100%">
+        <img src="img/covid/recomendaciones.png" style="margin-bottom: 20px" width="100%" data-aos="fade" data-aos-easing="ease-in-sine">
       </div>
 
       <div class="clearfix marginBottom"></div>
 
-      <div class="col-md-8 col-md-offset-2 text-center">
+      <div class="col-md-8 col-md-offset-2 text-center" data-aos="fade" data-aos-easing="ease-in-sine">
         <p>En Jetty estamos comprometidos con que tengas un buen viaje, SIEMPRE.
         <br>
-        Monitoreando muy de cerca los avances de la epidemia del nuevo coronavirus (COVID-19). ¡Gracias por seguir confiando en nosotros!</p>
-        <a href="transporte-personal" class="btn btn-green">Contrata transporte de personal</a>
+         Es por eso que monitoreamos muy de cerca los avances de la epidemia de COVID-19. ¡Gracias por seguir confiando en nosotros!</p>
+        <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
       </div>
 
     </div>
