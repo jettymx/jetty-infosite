@@ -20,12 +20,12 @@ Estas rutas tendrán servicio por la mañana y por la tarde y serán exclusivas 
 
 Dentro de los objetivos principales del servicio están:
 
-Los desplazamientos de forma segura y saludable, con sanitización diaria de unidades y límite de colaboradores por vehículo.
-
 <ol>
+  <li><p>Los desplazamientos de forma segura y saludable, con sanitización diaria de unidades y límite de colaboradores por vehículo.</p></li>
   <li><p>El beneficio económico, ya que al usar este transporte no tendrá costo para los colaboradores.</p></li>
   <li><p>Adaptar la ciudad un nuevo normal, con mejores hábitos ciudadanos y una ciudad más justa y sostenible.</p></li>
-  <li><p>Abre tu app y reserva tu próximo viaje.</p></li>
 </ol>
+
+Abre tu app y reserva tu próximo viaje.
 
 ¡Nos vemos a bordo!
