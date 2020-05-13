@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-monterrey-spgg.png)
 
-En la actualidad es necesario tener una mejor movilidad en las calles, y en el gobierno del municipio de San Pedro Garza García lo tienen muy claro, es por eso que decidieron poner el ejemplo haciendo uso de transporte colectivo, evitando contaminar y saturar las calles con el automóvil, teniendo la certeza de poder garantizar a sus trabajadores llegar a tiempo y seguros a sus trabajos, sean tiempos de pandemia o no.
+En la actualidad es necesario tener una mejor movilidad en las calles, y en el gobierno del municipio de San Pedro Garza García lo tienen muy claro, es por eso que decidieron poner el ejemplo haciendo uso de <b>transporte colectivo privado,</b> evitando contaminar y saturar las calles con el automóvil, teniendo la certeza de poder garantizar a sus trabajadores llegar a tiempo y seguros a sus trabajos, sean tiempos de pandemia o no.
 
 Un servicio de calidad para los colaboradores del municipio, es un ejemplo para tener calles mejor aprovechadas y un ambiente más justo y sostenible.
 
