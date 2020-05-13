@@ -25,6 +25,9 @@ id: cobertura
           <li role="presentation">
             <a href="#saltillo" aria-controls="saltillo" role="tab" data-toggle="tab"><b>SALTILLO</b></a>
           </li>
+          <li role="presentation">
+            <a href="#monterrey" aria-controls="monterrey" role="tab" data-toggle="tab"><b>MONTERREY</b></a>
+          </li>
         </ul>
 
         <div class="tab-content">
@@ -36,6 +39,11 @@ id: cobertura
           <div role="tabpanel" class="tab-pane" id="saltillo">
             <div>
               <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Saltillo.jpg" alt="Cobertura Jetty Saltillo" style="width: 100%">
+            </div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="monterrey">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-MTY.png" alt="Cobertura Jetty Saltillo" style="width: 100%">
             </div>
           </div>
         </div>
