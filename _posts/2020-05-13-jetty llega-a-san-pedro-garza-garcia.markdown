@@ -8,24 +8,32 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-monterrey-spgg.png)
 
-En la actualidad es necesario tener una mejor movilidad en las calles, y en el gobierno del municipio de San Pedro Garza García lo tienen muy claro, es por eso que decidieron poner el ejemplo haciendo uso de <b>transporte colectivo privado,</b> evitando contaminar y saturar las calles con el automóvil, teniendo la certeza de poder garantizar a sus trabajadores llegar a tiempo y seguros a sus trabajos, sean tiempos de pandemia o no.
+Ante la llegada de la pandemia del coronavirus, en Jetty nos comprometimos a seguir trabajando para seguir haciendo más eficiente y más seguro el transporte colectivo. En muy poco tiempo nuestra realidad cambió. Entendimos que nosotros teníamos que cambiar también.
 
-Un servicio de calidad para los colaboradores del municipio, es un ejemplo para tener calles mejor aprovechadas y un ambiente más justo y sostenible.
+Aunque la mayoría de las personas está en casa, existen miles de trabajadores esenciales que siguen dependiendo del transporte colectivo para cumplir sus funciones. ¡Los enfermeros, las doctoras, los policías, las funcionarias públicas tienen que llegar a trabajar! Por ello, en Jetty decidimos adaptarnos y ofrecer nuestra experiencia mejorando la calidad del transporte colectivo a gobiernos y transportistas.  Fue así como lanzamos una convocatoria para quienes estuvieran interesados en utilizar nuestra tecnología durante la pandemia.
 
-Jetty en colaboración con Grupo Senda, una de las empresas de transporte más importantes de México, estarán brindando servicio con 6 unidades para 4 rutas:
+Hoy les anunciamos que <b>Jetty llegó a San Pedro Garza García, Nuevo León.</b> En colaboración con el gobierno municipal <b>hemos puesto en marcha un proyecto piloto para trasladar a personal esencial durante la pandemia.</b> Este proyecto tiene dos objetivos principales:
+
+<ul>
+  <li><p><b>Cuidar a quienes nos cuidan.</b> Se trata de un servicio gratuito para servidores públicos del municipio al frente de la batalla contra COVID-19. Usando Jetty </p></li>
+  <li><p><b>Preparar el transporte colectivo para el día después.</b> Lamentablemente, derivado de la pandemia, a nivel global ha crecido la tendencia de comprar automóviles. Ante ello, el transporte colectivo debe cambiar, y la tecnología de Jetty es muestra de que es posible.</p></li>
+</ul>
+
+Jetty en San Pedro ofrece un transporte colectivo seguro al garantizar, a través de nuestra tecnología, lo siguiente:
+
+<ul>
+  <li><p><b>Sana Distancia: Apartado de lugares</b> para evitar conglomeraciones en la espera del transporte. <b>Limitar el número de personas</b> en la unidad para que mantengan una sana distancia. <b>Pago sin contacto</b> a través de la app.</p></li>
+  <li><p><b>Optimizar las rutas conforme a la demanda o por día a día. </b></p></li>
+  <li><p><b>Atención personalizada:</b> Informar y atender a usuarios de manera personalizada.</p></li>
+</ul>
+
+Estaremos brindando servicio con 6 unidades para 4 rutas:
+
+<ul>
+  <li><p>San Pedro Poniente -> Casco San Pedro</p></li>
+  <li><p>Santa Catarina -> Casco San Pedro</p></li>
+  <li><p>Cumbres -> Casco San Pedro</p></li>
+  <li><p>Lincoln -> Casco San Pedro</p></li>
+</ul>
 
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-Rutas-MTY.png)
-
-Estas rutas tendrán servicio por la mañana y por la tarde y serán exclusivas para los colaboradores del municipio.
-
-Dentro de los objetivos principales del servicio están:
-
-<ol>
-  <li><p>Los desplazamientos de forma segura y saludable, con sanitización diaria de unidades y límite de colaboradores por vehículo.</p></li>
-  <li><p>El beneficio económico, ya que al usar este transporte no tendrá costo para los colaboradores.</p></li>
-  <li><p>Adaptar la ciudad a un nuevo normal, con mejores hábitos ciudadanos y una ciudad más justa y sostenible.</p></li>
-</ol>
-
-Abre tu app y reserva tu próximo viaje.
-
-¡Nos vemos a bordo!
