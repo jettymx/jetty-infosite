@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¡Llegamos a Toluca!"
+title:  "Jetty apoya al transporte del personal de Hospitales en Toluca"
 date:   2020-05-25 10:20:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/jetty-toluca.png
