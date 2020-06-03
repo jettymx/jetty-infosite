@@ -133,6 +133,17 @@ id: prensa
           <img src="imgs-prensa/reforma.png">
         </div>
         <div class="col-md-9">
+          <h3>Ofrencen en Edomex transporte para personal médico</h3>
+          <p><small><i>27 mayo 2020</i></small></p>
+          <p>Ante las agresiones contra personal médico y la dificultad para llegar a los hospitales Jetty ofrece transporte.</p>
+          <a href="docs/reforma-covid.pdf" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+        </div>
+        <div class="col-md-9">
           <h3>Cumple Jetty primer año de traslados</h3>
           <p><small><i>12 septiembre 2018</i></small></p>
           <p>La mujer tiene 89 años y desde los 45 había dejado de usar el transporte público por precaución.</p>
