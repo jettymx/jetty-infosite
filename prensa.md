@@ -51,12 +51,22 @@ id: prensa
           <img src="imgs-prensa/milenio.png">
         </div>
         <div class="col-md-9">
+          <h3>Jetty transportará a personal de salud en el Edomex</h3>
+          <p><small><i>25 Mayo 2020</i></small></p>
+          <p>La app de transporte ofrecerá un descuento y un viaje seguro al personal de salud de tres hospitales desde este 25 de mayo. </p>
+          <a href="https://www.milenio.com/negocios/coronavirus-jetty-transportara-personal-salud-edomex" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+        </div>
+        <div class="col-md-9">
           <h3>Jetty deja fuera de circulación a 24 mil 500 autos en un año</h3>
           <p><small><i>14 septiembre 2018</i></small></p>
           <p>La plataforma contribuye a bajar emisión de contaminantes y evita congestionamientos.</p>
           <a href="http://www.milenio.com/politica/comunidad/jetty-deja-circulacion-24-mil-500-autos-ano" target="_blank">Ver artículo</a>
         </div>
-
       </div>
 
       <div class="row nota">
@@ -222,6 +232,18 @@ id: prensa
           <p><small><i>28 Noviembre 2019</i></small></p>
           <p>La app ofrece servicio de transporte colectivo de pasajeros en la Ciudad de México, Estado de México y Puebla. Comenzó sus operaciones en 2017 y hoy tiene más de 10,000 usuarios en promedio al mes.</p>
           <a href="https://www.entrepreneur.com/article/343165" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/la-jornada.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Inicia en Toluca el programa Sendero Seguro de la Salud</h3>
+          <p><small><i>27 Mayo 2020</i></small></p>
+          <p>El gobierno del Estado de México puso en operación el programa Sendero Seguro de la Salud para brindar el servicio de transporte exclusivo a personal que labora en hospitales sin poner en riesgo su integridad física.</p>
+          <a href="https://www.jornada.com.mx/ultimas/estados/2020/05/27/inicia-en-toluca-el-programa-sendero-seguro-de-la-salud-8192.html" target="_blank">Ver artículo</a>
         </div>
       </div>
 
