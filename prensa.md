@@ -85,6 +85,17 @@ id: prensa
           <img src="imgs-prensa/forbes.png">
         </div>
         <div class="col-md-9">
+          <h3>Recicletas: alternativa de transporte para ayudar a salvar vidas</h3>
+          <p><small><i>12 mayo 2020</i></small></p>
+          <p>La asociación Bicitekas recibe bicis y partes para reciclarlas y donarlas a quienes lo necesiten, sobre todo miembros de la comunidad sanitaria y médica.</p>
+          <a href="https://www.forbes.com.mx/negocios-recicletas-alternativa-de-transporte-para-ayudar-a-salvar-vidas/" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+        </div>
+        <div class="col-md-9">
           <h3>Una app para cambiar el rumbo del transporte público</h3>
           <p><small><i>12 febrero 2018</i></small></p>
           <p>Jetty no cuenta con ningún vehículo propio, pero esta app de transporte quiere cambiar la calidad de los viajes de las personas que todos los días se trasladan del Estado de México a la Ciudad para trabajar.</p>
@@ -255,6 +266,30 @@ id: prensa
           <p><small><i>27 Mayo 2020</i></small></p>
           <p>El gobierno del Estado de México puso en operación el programa Sendero Seguro de la Salud para brindar el servicio de transporte exclusivo a personal que labora en hospitales sin poner en riesgo su integridad física.</p>
           <a href="https://www.jornada.com.mx/ultimas/estados/2020/05/27/inicia-en-toluca-el-programa-sendero-seguro-de-la-salud-8192.html" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/chilango.png">
+        </div>
+        <div class="col-md-9">
+          <h3>Tú también puedes ayudar a llevar comida a hospitales (desde casa)</h3>
+          <p><small><i>11 Mayo 2020</i></small></p>
+          <p>Tú también puedes ayudar para llevar comida a hospitales que atienen la emergencia por la pandemia de COVID-19. Puedes hacerlo sin salir de casa.</p>
+          <a href="https://www.chilango.com/comida/restaurantes/comida-a-hospitales/" target="_blank">Ver artículo</a>
+        </div>
+      </div>
+
+      <div class="row nota">
+        <div class="col-md-3 logo-medios">
+          <img src="imgs-prensa/sopitas.png">
+        </div>
+        <div class="col-md-9">
+          <h3>‘COMIDAS SOLIDARIAS’: La cadena de ayuda para alimentar a doctores, enfermeras y familiares de pacientes</h3>
+          <p><small><i>21 Abril 2020</i></small></p>
+          <p>La llegada del Covid-19 nos ha llenado de retos, pero también de acciones positivas que nos unen e inspiran como sociedad.</p>
+          <a href="https://www.sopitas.com/noticias/comidas-solidarias-la-cadena-de-ayuda-para-alimentar-a-doctores-enfermeras-y-familiares-de-pacientes/" target="_blank">Ver artículo</a>
         </div>
       </div>
 
