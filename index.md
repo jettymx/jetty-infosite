@@ -18,7 +18,7 @@ priority: 1.0
         </lottie-player>
       </div>
       <div class="col-md-5 text-left header-text">
-        <h1>Te llevamos cómodo y seguro a tu destino.</h1>
+        <h1>Te llevamos cómodo y seguro a tu origen.</h1>
         <br>
         <p class="lead">Contamos con una gran cobertura hacia los principales puntos de la ciudad para llevarte a tu casa u oficina.</p>
         <p class="text-downapp-index">Descarga la app.</p>
