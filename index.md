@@ -18,23 +18,43 @@ priority: 1.0
         </lottie-player>
       </div>
       <div class="col-md-5 text-left header-text">
-        <h1>Te llevamos cómodo y seguro a tu origen.</h1>
+        <h1>Tecnología para el transporte colectivo.</h1>
         <br>
-        <p class="lead">Contamos con una gran cobertura hacia los principales puntos de la ciudad para llevarte a tu casa u oficina.</p>
-        <p class="text-downapp-index">Descarga la app.</p>
+        <p class="lead">Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</p>
+        <!--<p class="text-downapp-index">Descarga la app.</p>
 
-        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
+         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
         </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">
-        </a>
+        </a> -->
       </div>
     </div>
 
     <!-- AMENIDADES -->
     <div class="row">
+
+      <div class="col-md-3 text-center">
+        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
+        <h3 class="titleConcesionado">Medio de pago</h3>
+      </div>
+      <div class="col-md-3 text-center">
+        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
+        <h3 class="titleConcesionado">Canal de atención al usuario</h3>
+      </div>
+      <div class="col-md-3 text-center">
+        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
+        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
+      </div>
+      <div class="col-md-3 text-center">
+        <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
+        <h3 class="titleConcesionado">Sistema de planificación</h3>
+      </div>
+
+    </div>
+    <!-- <div class="row">
       <div class="col-md-4 amenidad">
         <img src="img/icon-seguridadV2.svg" alt="Jetty, Seguridad">
         <h3 style="font-weight: 800">Seguridad</h3>
@@ -50,29 +70,73 @@ priority: 1.0
         <h3 style="font-weight: 800">Eficiencia</h3>
         <p>Nuestros viajes están pensados para que puedas llegar a tu destino de la manera más directa.</p>
       </div>
+    </div> -->
+
+    <hr style="margin-bottom: 60px; opacity: 0">
+
+    <!-- CLIENTES -->
+    <div class="row caracteristicas">
+
+      <div class="col-md-12 text-center" style="margin-bottom: 40px;">
+        <h1>Clientes:</h1>
+      </div>
+
+      <div class="clearfix"></div>
+
+      <div class="col-md-4" style="margin-bottom: 60px;">
+        <div class="col-md-5">
+          <img src="img/icon-vehiculoV2.svg" width="100%">
+        </div>
+        <div class="col-md-7"></div>
+        <div class="col-md-12">
+          <h2>Transporte Privado</h2>
+          <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
+          <br>
+          <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+        </div>
+      </div>
+      <div class="col-md-4" style="margin-bottom: 60px;">
+        <div class="col-md-5">
+          <img src="img/icon-transporteV2.svg" width="100%">
+        </div>
+        <div class="col-md-7"></div>
+        <div class="col-md-12">
+          <h2>Transporte Público</h2>
+          <h3>¿Tienes una concesión de transporte público?</h3>
+          <br>
+          <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+        </div>
+      </div>
+      <div class="col-md-4" style="margin-bottom: 60px;">
+        <div class="col-md-5">
+          <img src="img/icon-gobiernoV2.svg" width="100%">
+        </div>
+        <div class="col-md-7"></div>
+        <div class="col-md-12">
+          <h2>Gobierno</h2>
+          <h3>¿Quieres mejorar el sistema de transporte público de tu ciudad?</h3>
+          <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
+        </div>
+      </div>
     </div>
 
     <!-- COMO FUNCIONA -->
-    <div class="row como">
+    <!-- <div class="row como">
       <div class="col-md-12 text-center">
         <h1>¿Cómo funciona?</h1>
       </div>
 
-      <!-- RESERVA / QR -->
       <div class="col-md-12 como-funciona-tabs">
 
-        <!-- Tabs -->
         <ul class="nav nav-tabs como-funciona-tabs-list" role="tablist">
           <li role="presentation" class="active">
             <a href="#home" aria-controls="home" role="tab" data-toggle="tab">
-              <!-- <img src="img/iconReserva.png" width="30px"> -->
               Mediante Reserva
             </a>
           </li>
           <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Pago con QR</a></li>
         </ul>
 
-        <!-- Tab panels -->
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="home">
 
@@ -185,10 +249,10 @@ priority: 1.0
         </a>
       </div>
 
-    </div>
+    </div> -->
 
     <!-- BENEFICIOS USUARIOS -->
-    <div class="row marginBottom">
+    <!-- <div class="row marginBottom">
       <div class="col-md-12 text-center">
         <h1>¿Por qué nos prefieren nuestros usuarios?</h1>
       </div>
@@ -230,16 +294,16 @@ priority: 1.0
       <div class="col-md-12 text-center">
         <a href="servicios-ejecutivos" class="btn btn-gray">Beneficio de servicios ejecutivos</a>
       </div>
-    </div>
+    </div>-->
 
     <!-- TESTIMONIOS -->
-    <div class="row testimonios" id="loquedicennuestrosusuarios">
+    <!-- <div class="row testimonios" id="loquedicennuestrosusuarios">
       <div class="col-md-12 text-center ">
         <h1>Lo que dicen nuestros usuarios</h1>
       </div>
       <div class="col-md-12">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-          <!-- Indicators -->
+
           <ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
@@ -249,7 +313,7 @@ priority: 1.0
             <li data-target="#carousel-example-generic" data-slide-to="5"></li>
           </ol>
 
-          <!-- Wrapper for slides -->
+
           <div class="carousel-inner" role="listbox">
             <div class="item active">
               <div class="row">
@@ -315,7 +379,7 @@ priority: 1.0
             </div>
           </div>
 
-          <!-- Controls -->
+
           <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
@@ -326,7 +390,7 @@ priority: 1.0
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>
