@@ -12,7 +12,7 @@
           <li>
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
-          <li>
+          <!-- <li>
             <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte privado</a>
           </li>
           <li>
@@ -20,7 +20,7 @@
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Transporte gobierno</a>
-          </li>
+          </li> -->
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>

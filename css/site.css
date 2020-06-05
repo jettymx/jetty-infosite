@@ -1270,7 +1270,7 @@ img.logos{
   margin-bottom: 50px;
 }
 
-.reconocimientos h1{
+.reconocimientos h1{§
   color: #7e8080;
 }
 
@@ -1307,6 +1307,30 @@ img.logos{
 
 .beneficio p{
   color: #ffffff;
+}
+
+ul.beneficiosList{
+  list-style: none;
+  padding: 0;
+}
+
+ul.beneficiosList li{
+  margin-bottom: 30px;
+  float: left;
+  padding: 10px;
+  width: 33.3%;
+}
+
+ul.beneficiosList li h3{
+  font-weight: 700;
+}
+
+ul.beneficiosList li div{
+  width: 100%;
+}
+
+ul.beneficiosList li img{
+  width: 100px;
 }
 
 /*////// TOURS //////*/
@@ -2890,6 +2914,14 @@ img.imgCovidMedidas{
 
 }
 
+@media screen and (max-width: 600px){
+
+  ul.beneficiosList li{
+    width: 100%;
+  }
+
+}
+
 @media screen and (max-width: 375px){
 
   .header p{
@@ -2906,6 +2938,10 @@ img.imgCovidMedidas{
 
   .beneficio{
     min-height: 300px;
+  }
+
+  ul.beneficiosList li{
+    width: 100%;
   }
 
 }

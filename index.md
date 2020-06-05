@@ -89,7 +89,7 @@ priority: 1.0
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-12">
-          <h2>Transporte Privado</h2>
+          <h2>Transporte Escolar/Personal</h2>
           <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
           <br>
           <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
