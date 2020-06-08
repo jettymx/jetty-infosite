@@ -19,7 +19,7 @@
           <li><a href="{{site.baseurl}}/transporte-publico">Producto</a></li>
           <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
           <!-- <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li> -->
-          <li><a href="{{site.baseurl}}/servicios-transporte">Servicios de transporte</a></li>
+          <li><a href="{{site.baseurl}}/servicios-de-transporte">Servicios de transporte</a></li>
           <!-- <li><a href="{{site.baseurl}}/tours">Tours</a></li> -->
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a href="{{site.baseurl}}/en/"><img src="{{site.baseurl}}/img/flagEN.png" class="translate"></a></li>

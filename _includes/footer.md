@@ -12,7 +12,7 @@
           <li>
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
-          <!-- <li>
+          <li>
             <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte privado</a>
           </li>
           <li>
@@ -20,15 +20,15 @@
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Transporte gobierno</a>
-          </li> -->
+          </li>
           <li>
             <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
+            <a href="{{site.baseurl}}/cobertura" target="_self">Cobertura</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
+            <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
           </li>
         </ul>
       </div>
@@ -37,6 +37,9 @@
         <ul class="submenu">
           <li>
             <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
           </li>
           <li>
             <a href="http://ayuda.jetty.mx" target="_self">Ayuda y Soporte</a>

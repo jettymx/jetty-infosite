@@ -15,11 +15,11 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{site.baseurl}}/">Inicio</a></li>
-          <li><a href="{{site.baseurl}}/tecnologia">Tecnología</a></li>
-          <li><a href="{{site.baseurl}}/servicios-ejecutivos">Servicios Ejecutivos</a></li>
-          <li><a href="{{site.baseurl}}/transporte-personal">Transporte de personal</a></li>
-          <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li>
-          <li><a href="{{site.baseurl}}/transporte-eventos">Eventos</a></li>
+          <!-- <li><a href="{{site.baseurl}}/tecnologia">Tecnología</a></li> -->
+          <li><a href="{{site.baseurl}}/transporte-publico">Producto</a></li>
+          <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
+          <!-- <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li> -->
+          <li><a href="{{site.baseurl}}/servicios-de-transporte">Servicios de transporte</a></li>
           <!-- <li><a href="{{site.baseurl}}/tours">Tours</a></li> -->
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a href="{{site.baseurl}}/en/"><img src="{{site.baseurl}}/img/flagEN.png" class="translate"></a></li>
