@@ -39,9 +39,6 @@
             <a href="{{site.baseurl}}/prensa" target="_self">Prensa</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
-          </li>
-          <li>
             <a href="http://ayuda.jetty.mx" target="_self">Ayuda y Soporte</a>
           </li>
           <li>
@@ -55,6 +52,9 @@
           </li>
           <li>
             <a href="{{site.baseurl}}/bolsa-trabajo-conductor" target="_self">Bolsa de trabajo conductores</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
           </li>
         </ul>
       </div>

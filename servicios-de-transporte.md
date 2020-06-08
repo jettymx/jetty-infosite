@@ -11,8 +11,166 @@ id: servicios de transporte
     <div class="row">
       <div class="col-md-12">
         <h1>Servicios de transporte</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-asientoV2.svg" alt="Jetty, Asiento reservado">
+        <h3><strong>Siempre tienes un lugar</strong></h3>
+        <p>Puedes reservar tu asiento desde la app, siempre llegarás cómodo y seguro.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-pinesV2.svg" alt="Jetty, Traslado directo">
+        <h3><strong>Rutas directas</strong></h3>
+        <p>No hay vueltas innecesarias, el conductor conoce su ruta, y sabe los puntos de ascenso y descenso.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-suenoV2.svg" alt="Jetty, Recupera horas de sueño">
+        <h3><strong>Tranquilidad</strong></h3>
+        <p>En Jetty puedes ir relajado sabiendo que el conductor sabe lo que hace.</p>
+      </div>
+    </div>
+
+    <div class="row marginBottom">
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorra en traslados">
+        <h3><strong>Costos</strong></h3>
+        <p>Jetty te cuesta 30% menos que llevar tu auto y 60% menos que otros servicios.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-mailV2.svg" alt="Jetty, Envía el último mail">
+        <h3><strong>Seguridad</strong></h3>
+        <p>En Jetty puedes sacar tranquilamente tu laptop, celular o videojuego.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-conductorV2.svg" alt="Jetty, Conductores profesionales">
+        <h3><strong>Conductor profesional</strong></h3>
+        <p>Todos nuestros conductores están altamente certificados para ofrecerte el mejor servicio.</p>
+      </div>
+    </div>
+
+    <div class="row como">
+      <div class="col-md-12 text-center">
+        <h1>¿Cómo funciona?</h1>
+      </div>
+
+      <div class="col-md-12 como-funciona-tabs">
+
+        <ul class="nav nav-tabs como-funciona-tabs-list" role="tablist">
+          <li role="presentation" class="active">
+            <a href="#home" aria-controls="home" role="tab" data-toggle="tab">
+              Mediante Reserva
+            </a>
+          </li>
+          <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Pago con QR</a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="home">
+
+            <div class="row">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Dinos de dónde sales y a dónde viajas.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-1.png" alt="Jetty, De dónde sales">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Revisa el día, horario y elige el que más te convenga.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario">
+                </div>
+              </div>
+            </div>
+
+            <div class="row clear app-vistas-dos">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-3.png" alt="Jetty, Reserva tu asiento">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-4.png" alt="Jetty, Muestra tu pase">
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div role="tabpanel" class="tab-pane" id="profile">
+
+             <div class="row">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Busca el código QR al abordar las unidades.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-QR-1.png" alt="Jetty, Re QR">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Escanea y selecciona el número de pases.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-QR-2.png" alt="Jetty, Elige una ruta y horario">
+                </div>
+              </div>
+            </div>
+
+            <div class="row clear app-vistas-dos">
+              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
+                <div class="txt-left">
+                  <img src="img/arrow-left.svg" class="arrow-hidden">
+                  <p>Paga con tu tarjeta desde la app de Jetty.</p>
+                </div>
+                <div class="app-jetty text-left">
+                  <img src="img/app-jetty-QR-3.png" alt="Jetty, Reserva tu asiento">
+                </div>
+              </div>
+
+              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                <div class="txt-right">
+                  <img src="img/arrow-right.svg" class="arrow-hidden">
+                  <p>Muéstrale tu pase al conductor.</p>
+                </div>
+                <div class="app-jetty app-right">
+                  <img src="img/app-jetty-QR-4.png" alt="Jetty, Muestra tu pase">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div>
+
+      <div class="clearfix marginBottom"></div>
+
+      <div class="col-md-12 text-center descarga marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+        <h3>¿Tienes un servicio que te gustaría trabajar con Jetty?</h3>
+        <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+      </div>
+
     </div>
 
   </div>
