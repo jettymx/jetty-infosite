@@ -117,11 +117,58 @@ id: beneficios
     <div class="clearfix marginBottom"></div>
 
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-10 col-md-offset-1">
         <h1>Servicios adicionales</h1>
       </div>
 
-      <div class="col-md-12"></div>
+      <div class="col-md-10 col-md-offset-1 marginBottom">
+        <ul class="listAdicionales">
+          <li><p><b>Capacitación:</b> Podemos capacitar a todos nuestros conductores , tanto de manera presencial como remota, en los siguientes temas:</p>
+            <ul class="listSubAdicionales">
+              <li><p>Servicio al cliente.</p></li>
+              <li><p>Perspectiva de género.</p></li>
+              <li><p>Manejo defensivo.</p></li>
+              <li><p>Seguridad.</p></li>
+              <li><p>Uso de la aplicación.</p></li>
+              <li><p>Higiene (siguiendo los lineamientos más estrictos para reducir riesgo de propagación de Covid-19).</p></li>
+            </ul>
+          </li>
+          <li><p><b>Revisión de antecedentes a conductores:</b> Tenemos la capacidad de revisar los antecedentes criminales, legales, sociales y residenciales de los conductores.</p></li>
+          <li><p><b>Soporte a los usuarios:</b> Podemos ofrecer soporte en tiempo real desde nuestro Centro de Control, atendido por agentes capacitados antes, durante y después del viaje sin importar la modalidad de servicio que se esté usando.</p></li>
+          <li><p><b>Análisis de datos:</b> La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo. Tenemos equipo de datos, dedicado a poder identificar tendencias, oportunidades y necesidades de transporte. </p></li>
+        </ul>
+      </div>
+
+
+      <div class="row marginBottom">
+        <div class="col-md-12">
+          <h2>Herramientas para el manejo de la flota</h2>
+        </div>
+
+        <div class="col-md-4">
+          <!-- <img src="img/icon-operacionV2.svg"> -->
+          <p class="lead"><b>Visualizar información sobre la operación.</b></p>
+        </div>
+        <div class="col-md-4">
+          <!-- <img src="img/icon-administrarV2.svg"> -->
+          <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
+        </div>
+        <div class="col-md-4">
+          <!-- <img src="img/icon-retroV2.svg"> -->
+          <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
+        </div>
+      </div>
+
+      <div class="row marginBottom">
+        <div class="col-md-12">
+          <h2>Herramientas para planificación</h2>
+        </div>
+
+        <div class="col-md-12">
+          <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
+        </div>
+      </div>
+
     </div>
 
     <div class="clearfix marginBottom"></div>
