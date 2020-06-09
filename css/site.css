@@ -6,6 +6,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+img.imgResponsive{
+  width: 100%;
+}
+
 .img-display{
   display: none;
 }
@@ -516,11 +520,36 @@ img.img-como-funciona{
 }
 
 .header-index{
-margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .header-text{
   margin-top: 180px;
+}
+
+.headerIndexTop{
+  margin-top: 120px;
+  margin-bottom: 60px;
+}
+
+.textIndexTop{
+  margin-top: 40px;
+}
+
+a.indexClientes{
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a.indexClientes:hover{
+  color: #2D414D;
+}
+
+a.indexClientes img{
+  color: #ffffff;
+  width: 40%;
 }
 
 .como{

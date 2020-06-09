@@ -13,22 +13,22 @@
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte privado</a>
+            <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte Escolar / Personal</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Transporte gobierno</a>
-          </li>
-          <li>
-            <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
+            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Agencia de Gobierno</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/cobertura" target="_self">Cobertura</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>
         </ul>
       </div>

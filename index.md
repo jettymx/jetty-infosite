@@ -11,8 +11,8 @@ priority: 1.0
   <div class="container">
 
     <!-- HEADER -->
-    <div class="row header-index">
-      <div class="col-md-7" >
+    <!-- <div class="row header-index">
+      <div class="col-md-6" >
         <lottie-player
             src="lottie/transporte.json" background="transparent" speed="0.5" loop autoplay class="lottie-trasnporte">
         </lottie-player>
@@ -21,7 +21,7 @@ priority: 1.0
         <h1>Tecnología para el transporte colectivo.</h1>
         <br>
         <p class="lead">Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</p>
-        <!--<p class="text-downapp-index">Descarga la app.</p>
+        <p class="text-downapp-index">Descarga la app.</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
@@ -29,26 +29,46 @@ priority: 1.0
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-android.png" alt="Jetty Descargar Android">
-        </a> -->
+        </a>
+      </div>
+    </div> -->
+
+    <div class="row headerIndexTop">
+      <div class="col-md-6">
+        <img src="img/jetty-app.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+      </div>
+      <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
+        <h1>Tecnología para el transporte colectivo.</h1>
+        <br>
+        <p class="lead">Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</p>
+        <p class="text-downapp-index">Descarga la app.</p>
+
+         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
       </div>
     </div>
 
     <!-- AMENIDADES -->
     <div class="row">
 
-      <div class="col-md-3 text-center">
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="200">
         <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
         <h3 class="titleConcesionado">Medio de pago</h3>
       </div>
-      <div class="col-md-3 text-center">
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="400">
         <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
         <h3 class="titleConcesionado">Canal de atención al usuario</h3>
       </div>
-      <div class="col-md-3 text-center">
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
         <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
       </div>
-      <div class="col-md-3 text-center">
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
         <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
         <h3 class="titleConcesionado">Sistema de planificación</h3>
       </div>
@@ -75,7 +95,7 @@ priority: 1.0
     <hr style="margin-bottom: 60px; opacity: 0">
 
     <!-- CLIENTES -->
-    <div class="row caracteristicas">
+    <div class="row caracteristicas" data-aos="fades" data-aos-easing="ease-in-sine">
 
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
         <h1>Clientes:</h1>
@@ -84,41 +104,25 @@ priority: 1.0
       <div class="clearfix"></div>
 
       <div class="col-md-4" style="margin-bottom: 60px;">
-        <div class="col-md-5">
-          <img src="img/icon-vehiculoV2.svg" width="100%">
-        </div>
-        <div class="col-md-7"></div>
-        <div class="col-md-12">
-          <h2>Transporte Escolar/Personal</h2>
-          <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
+        <a href="/transporte-privado" class="indexClientes">
+          <img src="img/icon-vehiculoV2.svg" >
           <br>
-          <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
-        </div>
+          Transporte Escolar / Personal
+        </a>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
-        <div class="col-md-5">
-          <img src="img/icon-transporteV2.svg" width="100%">
-        </div>
-        <div class="col-md-7"></div>
-        <div class="col-md-12">
-          <h2>Transporte Público</h2>
+        <a href="/transporte-publico" class="indexClientes">
+          <img src="img/icon-transporteV2.svg">
           <br>
-          <h3>¿Tienes una concesión de transporte público?</h3>
-          <br>
-          <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
-        </div>
+          Transporte Público
+        </a>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
-        <div class="col-md-5">
-          <img src="img/icon-gobiernoV2.svg" width="100%">
-        </div>
-        <div class="col-md-7"></div>
-        <div class="col-md-12">
-          <h2>Gobierno</h2>
+        <a href="/transporte-gobierno" class="indexClientes">
+          <img src="img/icon-gobiernoV2.svg" >
           <br>
-          <h3>¿Quieres mejorar el sistema de transporte público de tu ciudad?</h3>
-          <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
-        </div>
+          Agencia de Gobierno
+        </a>
       </div>
     </div>
 

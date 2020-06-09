@@ -10,7 +10,7 @@ id: socio-transportista
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Transporte Privado</h1>
+        <h1>Transporte Escolar / Personal</h1>
         <h2>¿Tienes vehículos que te gustaría poner a trabajar con Jetty?</h2>
         <div class="text-center">
           <img src="img/jetty-privado.png" width="90%">

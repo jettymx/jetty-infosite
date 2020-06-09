@@ -78,8 +78,9 @@ id: beneficios
               <img src="img/icono-equipos.png">
             </div>
             <h3>Equipos</h3>
-            <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular Android con acceso a internet (2GB mensuales), con una versión  Android 8 (Oreo) o superior que permita la instalación de la aplicación de conductor. La aplicación está diseñada para requerir la menor intervención del conductor. Los servicios de pago con QR, no necesitan celular para operar, a menos de que quieran compartir la ubicación de la unidad.</p>
+            <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular. </p>
           </li>
+          <div class="clearfix"></div>
           <li>
             <div class="text-center">
               <img src="img/icono-seguridad.png">
@@ -94,6 +95,7 @@ id: beneficios
             <h3>Enfoque en cuentas y no en pases</h3>
             <p>Con nuestra tecnología, logras estar de un modelo basado en pases a un modelo basado en usuarios. Lo que permite tener mucha más información sobre sus tendencias de uso y necesidades.</p>
           </li>
+
           <li>
             <div class="text-center">
               <img src="img/icono-proceso.png">
@@ -117,7 +119,7 @@ id: beneficios
     <div class="clearfix marginBottom"></div>
 
     <div class="row">
-      <div class="col-md-10 col-md-offset-1">
+      <!-- <div class="col-md-10 col-md-offset-1">
         <h1>Servicios adicionales</h1>
       </div>
 
@@ -137,37 +139,7 @@ id: beneficios
           <li><p><b>Soporte a los usuarios:</b> Podemos ofrecer soporte en tiempo real desde nuestro Centro de Control, atendido por agentes capacitados antes, durante y después del viaje sin importar la modalidad de servicio que se esté usando.</p></li>
           <li><p><b>Análisis de datos:</b> La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo. Tenemos equipo de datos, dedicado a poder identificar tendencias, oportunidades y necesidades de transporte. </p></li>
         </ul>
-      </div>
-
-
-      <div class="row marginBottom">
-        <div class="col-md-12">
-          <h2>Herramientas para el manejo de la flota</h2>
-        </div>
-
-        <div class="col-md-4">
-          <!-- <img src="img/icon-operacionV2.svg"> -->
-          <p class="lead"><b>Visualizar información sobre la operación.</b></p>
-        </div>
-        <div class="col-md-4">
-          <!-- <img src="img/icon-administrarV2.svg"> -->
-          <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
-        </div>
-        <div class="col-md-4">
-          <!-- <img src="img/icon-retroV2.svg"> -->
-          <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
-        </div>
-      </div>
-
-      <div class="row marginBottom">
-        <div class="col-md-12">
-          <h2>Herramientas para planificación</h2>
-        </div>
-
-        <div class="col-md-12">
-          <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
-        </div>
-      </div>
+      </div> -->
 
     </div>
 

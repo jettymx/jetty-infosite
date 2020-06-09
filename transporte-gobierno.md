@@ -10,7 +10,7 @@ id: transporte-concesionado
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Gobierno</h1>
+        <h1>Agencia de Gobierno</h1>
         <h2>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora la experiencia del usuario y contribuye a la modernización.</h2>
         <!-- <div class="text-center">
           <img src="img/jetty-gobierno.png" width="90%">
