@@ -171,6 +171,20 @@ id: servicios de transporte
         <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
       </div>
 
+      <div class="clearfix marginBottom"></div>
+
+      <div class="col-md-4 text-center">
+        <a href="cobertura" class="btn btn-gray" target="_self">Cobertura</a>
+      </div>
+      <div class="col-md-4 text-center">
+        <a href="transporte-eventos" class="btn btn-gray" target="_self">Eventos</a>
+      </div>
+      <div class="col-md-4 text-center">
+        <a href="transporte-personal" class="btn btn-gray" target="_self">Transporte de personal</a>
+      </div>
+
+      <div class="clearfix marginBottom"></div>
+
     </div>
 
   </div>

@@ -16,7 +16,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{site.baseurl}}/">Inicio</a></li>
           <!-- <li><a href="{{site.baseurl}}/tecnologia">Tecnología</a></li> -->
-          <li><a href="{{site.baseurl}}/transporte-publico">Producto</a></li>
+          <li><a href="{{site.baseurl}}/producto">Producto</a></li>
           <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li>
           <!-- <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li> -->
           <li><a href="{{site.baseurl}}/servicios-de-transporte">Servicios de transporte</a></li>
