@@ -648,6 +648,15 @@ ul.como-funciona-tabs-list{
   margin-bottom: 40px;
 }
 
+.appsScreens{
+  float: left;
+  width: 20%;
+}
+
+.appsScreens p{
+  color: #2D414D;
+}
+
 
 /*////// DESCARGA LA APP //////*/
 p.text-downapp{
@@ -1347,7 +1356,7 @@ ul.beneficiosList li{
   margin-bottom: 30px;
   float: left;
   padding: 10px;
-  width: 33.3%;
+  width: 33%;
 }
 
 ul.beneficiosList li h3{
@@ -2969,6 +2978,12 @@ img.imgCovidMedidas{
 @media screen and (max-width: 600px){
 
   ul.beneficiosList li{
+    width: 100%;
+  }
+
+  .appsScreens{
+    float: left;
+    margin-bottom: 40px;
     width: 100%;
   }
 

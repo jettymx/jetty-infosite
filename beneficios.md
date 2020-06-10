@@ -116,10 +116,10 @@ id: beneficios
       </div>
     </div>
 
-    <div class="clearfix marginBottom"></div>
+    <!-- <div class="clearfix marginBottom"></div> -->
 
-    <div class="row">
-      <!-- <div class="col-md-10 col-md-offset-1">
+    <!--<div class="row">
+       <div class="col-md-10 col-md-offset-1">
         <h1>Servicios adicionales</h1>
       </div>
 
@@ -139,9 +139,9 @@ id: beneficios
           <li><p><b>Soporte a los usuarios:</b> Podemos ofrecer soporte en tiempo real desde nuestro Centro de Control, atendido por agentes capacitados antes, durante y después del viaje sin importar la modalidad de servicio que se esté usando.</p></li>
           <li><p><b>Análisis de datos:</b> La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo. Tenemos equipo de datos, dedicado a poder identificar tendencias, oportunidades y necesidades de transporte. </p></li>
         </ul>
-      </div> -->
+      </div>
 
-    </div>
+    </div>-->
 
     <div class="clearfix marginBottom"></div>
 

@@ -95,7 +95,6 @@ id: tecnologia-en-el-transporte-colectivo
         <img src="img/app-jetty-atencionUsuarios.png" alt="Jetty, Atencion a usuarios" width="100%">
       </div>
 
-
     </div>
 
     <hr style="margin-bottom: 60px; opacity: 0">

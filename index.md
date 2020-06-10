@@ -95,7 +95,7 @@ priority: 1.0
     <hr style="margin-bottom: 60px; opacity: 0">
 
     <!-- CLIENTES -->
-    <div class="row caracteristicas" data-aos="fades" data-aos-easing="ease-in-sine">
+    <!-- <div class="row caracteristicas" data-aos="fades" data-aos-easing="ease-in-sine">
 
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
         <h1>Clientes:</h1>
@@ -123,6 +123,44 @@ priority: 1.0
           <br>
           Agencia de Gobierno
         </a>
+      </div>
+    </div> -->
+
+    <div class="row marginBottom">
+
+      <div class="col-md-12">
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/app-jetty-pase.png" alt="Jetty, Elige una ruta y horario" width="100%">
+          <p>Pase de abordar</p>
+        </div>
+
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/app-jetty-saldo.png" alt="Jetty, Pago código QR" width="100%">
+          <p>Métodos de pago</p>
+        </div>
+
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
+          <p>Retroalimentación</p>
+        </div>
+
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/app-jetty-2.png" alt="Jetty, Atencion a usuarios" width="100%">
+          <p>Reserva origen/destino</p>
+        </div>
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/app-jetty-asistencia.png" alt="Jetty, Atencion a usuarios" width="100%">
+          <p>Solicitud de asistencia</p>
+        </div>
+      </div>
+
+
+
+    </div>
+
+    <div class="row marginBottom">
+      <div class="col-md-12 text-center">
+        <a href="producto" class="btn btn-gray">Conoce nuestra tecnología</a>
       </div>
     </div>
 

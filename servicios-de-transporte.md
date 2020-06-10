@@ -174,13 +174,22 @@ id: servicios de transporte
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4 text-center">
-        <a href="cobertura" class="btn btn-gray" target="_self">Cobertura</a>
+        <img src="img/icon-rutas.svg">
+        <br>
+        <p class="lead">Conoce nuestra cobertura</p>
+        <a href="cobertura" class="btn btn-gray-small" target="_self">Ver cobertura</a>
       </div>
       <div class="col-md-4 text-center">
-        <a href="transporte-eventos" class="btn btn-gray" target="_self">Eventos</a>
+        <img src="img/icon-transporte-evento.svg">
+        <br>
+        <p class="lead">Contrata un vehículo para un evento</p>
+        <a href="transporte-eventos" class="btn btn-gray-small" target="_self">Contratar tranporte</a>
       </div>
       <div class="col-md-4 text-center">
-        <a href="transporte-personal" class="btn btn-gray" target="_self">Transporte de personal</a>
+        <img src="img/icon-vehiculoV2.svg">
+        <br>
+        <p class="lead">Opciones para transporte de personal</p>
+        <a href="transporte-personal" class="btn btn-gray-small" target="_self">Transporte de personal</a>
       </div>
 
       <div class="clearfix marginBottom"></div>
