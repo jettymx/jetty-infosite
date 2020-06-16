@@ -17,9 +17,9 @@ id: tecnologia en el transporte colectivo
 
     <div class="clearfix marginBottom"></div>
 
-    <div class="row marginBottom">
+    <!--<div class="row marginBottom">
 
-      <div class="col-md-3 text-center">
+       <div class="col-md-3 text-center">
         <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
         <h3 class="titleConcesionado">Medio de pago</h3>
       </div>
@@ -36,7 +36,7 @@ id: tecnologia en el transporte colectivo
         <h3 class="titleConcesionado">Sistema de planificación</h3>
       </div>
 
-    </div>
+    </div>-->
 
     <div class="row marginBottom">
         <div class="col-md-12">

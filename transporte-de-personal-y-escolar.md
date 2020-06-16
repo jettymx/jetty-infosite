@@ -7,27 +7,16 @@ id: transporte de personal y escolar
 <div class="container-fluid gradient">
   <div class="container transportista">
 
-    <div class="row">
-      <div class="col-md-12">
-        <h1>Transporte de personal y escolar</h1>
-        <h2>¿Tienes una concesión de transporte público?</h2>
-        <div class="text-center">
-          <img src="img/jetty-publico.png" width="90%">
-        </div>
-      </div>
-    </div>
-
-    <div class="clearfix marginBottom"></div>
-
     <div class="row marginBottom">
 
       <div class="col-md-12">
-        <h2>Beneficios para concesionarios o permisionarios.</h2>
+        <h1>Transporte de personal y escolar</h1>
+        <h2>Beneficios</h2>
       </div>
 
       <div class="col-md-4">
         <img src="img/icon-valorAgregado.svg">
-        <h3>Mayor valor agregado para tus clientes</h3>
+        <h3>Mayor valor agregado para tus clientes al ofrecer tecnología para monitorear ubicación del vehículo, horarios y puntos de ascenso/descenso.</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
@@ -44,10 +33,10 @@ id: transporte de personal y escolar
         <img src="img/icon-servicioV2.svg">
         <h3>Mejora del servicio.</h3>
       </div>
-      <div class="col-md-4">
+      <!-- <div class="col-md-4">
         <img src="img/icon-inovacionV2.svg">
         <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
-      </div>
+      </div> -->
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
         <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
@@ -63,7 +52,7 @@ id: transporte de personal y escolar
 
     <div class="clearfix"></div>
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-md-12 text-center">
         <h3>Empresas con las que trabajamos:</h3>
         <ul class="list-transportistas">
@@ -78,7 +67,7 @@ id: transporte de personal y escolar
           </li>
         </ul>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>
