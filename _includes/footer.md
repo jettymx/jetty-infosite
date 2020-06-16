@@ -13,7 +13,7 @@
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte Escolar / Personal</a>
+            <a href="{{site.baseurl}}/transporte-de-personal-y-escolar" target="_self">Transporte de personal y escolar</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>

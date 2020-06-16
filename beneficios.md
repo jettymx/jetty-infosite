@@ -19,10 +19,17 @@ id: beneficios
         <ul class="beneficiosList">
           <li>
             <div class="text-center">
+              <img src="img/icono-plataforma.png">
+            </div>
+            <h3>Plataforma como servicio</h3>
+            <p>Todas las empresas usan la misma plataforma configurada de diferentes maneras. Esto hace que sea mucho más eficiente en costos y que sea más rápida para implementar. También significa que tendrás acceso a mejoras y nuevas características en cuanto estén disponibles.</p>
+          </li>
+          <li>
+            <div class="text-center">
               <img src="img/icono-solucion.png">
             </div>
-            <h3>Solución lista para implementar</h3>
-            <p>Nuestra tecnología está lista para que puedas implementarla y en menos de una semana tenerla funcionando.</p>
+            <h3>Solución de bajo riesgo</h3>
+            <p>Nuestra tecnología está lista para que puedas implementarla y en menos de 2 semanas tenerla funcionando. Está validada por usuarios reales por lo que disminuye significativamente el riesgo de implementar tecnología.</p>
           </li>
           <li>
             <div class="text-center">
@@ -31,6 +38,7 @@ id: beneficios
             <h3>Actualizaciones constantes</h3>
             <p>Nuestra especialidad es la tecnología y por lo mismo sabemos que evoluciona constantemente. Es por eso que nuestro equipo trabaja diariamente en implementar mejoras a la plataforma. </p>
           </li>
+          <div class="clearfix"></div>
           <li>
             <div class="text-center">
               <img src="img/icono-escalable.png">
@@ -52,20 +60,13 @@ id: beneficios
             <h3>Reportes en tiempo real</h3>
             <p>Puedes acceder a la plataforma de administrador y ver en tiempo real toda la información de la plataforma (ventas, usuarios, calificaciones, etc.). A través de la información, podrás planificar mejor y tomar decisiones basadas en datos reales.</p>
           </li>
-          <li>
-            <div class="text-center">
-              <img src="img/icono-plataforma.png">
-            </div>
-            <h3>Plataforma como servicio</h3>
-            <p>Todas las empresas usan la misma plataforma configurada de diferentes maneras. Esto hace que sea mucho más eficiente en costos y que sea más rápida para implementar. También significa que tendrás acceso a mejoras y nuevas características en cuanto estén disponibles.</p>
-          </li>
-          <li>
+          <!-- <li>
             <div class="text-center">
               <img src="img/icono-bajo-riesgo.png">
             </div>
             <h3>Bajo riesgo y costo</h3>
             <p>Nuestra plataforma funciona y está validada por usuarios reales por lo que disminuye significativamente el riesgo de implementar tecnología. Adicionalmente, nuestro costo está basado en un % de las ventas de pases.</p>
-          </li>
+          </li> -->
           <li>
             <div class="text-center">
               <img src="img/icono-asistencia.png">
@@ -80,14 +81,14 @@ id: beneficios
             <h3>Equipos</h3>
             <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular. </p>
           </li>
-          <div class="clearfix"></div>
-          <li>
+          <!-- <div class="clearfix"></div> -->
+          <!-- <li>
             <div class="text-center">
               <img src="img/icono-seguridad.png">
             </div>
             <h3>Seguridad</h3>
             <p>Contamos con los más altos estándares de seguridad. El intercambio de información se transporta sobre SSL/TLS con un cifrado de 2048 bits. Este es el mismo tipo de cifrado utilizado por sitios seguros como los bancos. Nuestro proveedor de cómputo en la nube cumple con los estándares de seguridad más comunes como ISO 27001, PCI Level 1, Sarbanes-Oxley (SOX), entre otros.</p>
-          </li>
+          </li> -->
           <li>
             <div class="text-center">
               <img src="img/icono-enfoque.png">
@@ -101,16 +102,16 @@ id: beneficios
               <img src="img/icono-proceso.png">
             </div>
             <h3>Acompañamiento durante el proceso</h3>
-            <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a -conductores, supervisores, administradores-, seguimiento y soporte. </p>
+            <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a conductores, supervisores, administradores-, seguimiento y soporte. </p>
           </li>
-          <div class="clearfix"></div>
-          <li>
+         <!--  <div class="clearfix"></div> -->
+          <!-- <li>
             <div class="text-center">
               <img src="img/icono-almacenamiento.png">
             </div>
             <h3>Almacenamiento seguro de datos de usuarios</h3>
             <p>Permite al usuario dejar la ubicación tanto de su domicilio como de su lugar de trabajo, con el objetivo de poder utilizar la información para la planificación de nuevas rutas.</p>
-          </li>
+          </li> -->
         </ul>
 
       </div>

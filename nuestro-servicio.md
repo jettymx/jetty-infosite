@@ -2,7 +2,7 @@
 layout: default
 title: Jetty | Soluciona El Transporte de Personal de tu Empresa
 description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu transporte empresarial. Sin plazo forzoso ni presupuesto mínimo.
-id: transporte-personal
+id: nuestro-servicio
 ---
 
 <div class="container-fluid gradient">
@@ -109,7 +109,7 @@ id: transporte-personal
 
   <div class="container valor">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div>
           <img src="img/icon-tecnologiaV2.svg" alt="Jetty, Tecnología">
           <h2>Tecnología</h2>
@@ -117,18 +117,32 @@ id: transporte-personal
         <p>Con la <b>app de Jetty,</b> es más fácil revisar y reservar tus trayectos. Además puedes <b>monitorear la ubicación</b> de tu Jetty.</p>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div>
           <img src="img/icon-conductoresV2.svg">
           <h2>Conductores expertos</h2>
         </div>
         <p>Todos pasan por un <b>estricto proceso de selección</b> que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
       </div>
+
+      <div class="col-md-4">
+        <div>
+          <img src="img/icon-Flexible.svg">
+          <h2>Flexibilidad</h2>
+        </div>
+        <p>Jetty no es un servicio de transporte tradicional. Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización</p>
+      </div>
+    </div>
+
+    <div class="col-md-12 text-center" style="margin-bottom: 40px;">
+      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+        Solicita información
+      </button>
     </div>
 
   </div>
 
-  <div class="container">
+  <!-- <div class="container">
     <div class="row tres-puntos" data-aos="fade" data-aos-duration="1000">
       <div class="col-md-7 col-md-push-3">
 
@@ -143,16 +157,13 @@ id: transporte-personal
             <p>• Subsidia parte o el 100% de viajes de tus colaboradores.</p>
 
             <br><br>
-            <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-              Solicita información
-            </button>
-
           </div>
+
         </div>
 
       </div>
     </div>
-  </div>
+  </div> -->
 
 </div>
 

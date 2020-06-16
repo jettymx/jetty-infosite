@@ -2,7 +2,7 @@
 layout: default
 title: Jetty | Tecnología en el transporte colectivo
 description: Lleva los beneficios de la tecnología Jetty al transporte colectivo.
-id: tecnologia-en-el-transporte-colectivo
+id: tecnologia en el transporte colectivo
 ---
 
 <div class="container-fluid gradient">
@@ -113,10 +113,10 @@ id: tecnologia-en-el-transporte-colectivo
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-12">
-          <h2>Transporte Privado</h2>
+          <h2>Transporte de personal y escolar</h2>
           <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
           <br>
-          <a href="/transporte-privado" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+          <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
         </div>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
@@ -126,6 +126,7 @@ id: tecnologia-en-el-transporte-colectivo
         <div class="col-md-7"></div>
         <div class="col-md-12">
           <h2>Transporte Público</h2>
+          <br>
           <h3>¿Tienes una concesión de transporte público?</h3>
           <br>
           <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
@@ -137,7 +138,8 @@ id: tecnologia-en-el-transporte-colectivo
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-12">
-          <h2>Gobierno</h2>
+          <h2>Agencia de Gobierno</h2>
+          <br>
           <h3>¿Quieres mejorar el sistema de transporte público de tu ciudad?</h3>
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
         </div>

@@ -73,20 +73,20 @@ id: transporte-concesionado
     </div>
 
     <div class="row marginBottom">
-      <div class="col-md-12">
+      <!-- <div class="col-md-12">
         <h2>Herramientas para el manejo de la flota</h2>
       </div>
 
       <div class="col-md-4">
-        <!-- <img src="img/icon-operacionV2.svg"> -->
+        <img src="img/icon-operacionV2.svg">
         <p class="lead"><b>Visualizar información sobre la operación.</b></p>
       </div>
       <div class="col-md-4">
-        <!-- <img src="img/icon-administrarV2.svg"> -->
+        <img src="img/icon-administrarV2.svg">
         <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
       </div>
       <div class="col-md-4">
-        <!-- <img src="img/icon-retroV2.svg"> -->
+        <img src="img/icon-retroV2.svg">
         <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
       </div>
     </div>
@@ -98,7 +98,7 @@ id: transporte-concesionado
 
       <div class="col-md-12">
         <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
-      </div>
+      </div> -->
 
       <!-- <div class="col-md-8 col-md-offset-2 text-center">
         <img src="img/jetty-mapa-atse.png" alt="Jetty, Atse" width="100%">
