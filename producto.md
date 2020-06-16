@@ -8,14 +8,48 @@ id: tecnologia en el transporte colectivo
 <div class="container-fluid gradient">
   <div class="container concesionado">
 
-    <div class="row trabajar">
+    <!-- <div class="row trabajar">
       <div class="col-md-12 text-center">
         <h1>Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
         <br>
       </div>
+    </div> -->
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
+      </div>
+
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Sistema de reserva de asiento</h3>
+        <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
+      </div>
+
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Pago con QR</h3>
+        <br>
+        <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
+      </div>
+
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Sistema de evaluación de conductores</h3>
+        <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
+      </div>
+
+      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+        <h3>Canal de atención inmediata a usuarios</h3>
+        <img src="img/app-jetty-atencionUsuarios.png" alt="Jetty, Atencion a usuarios" width="100%">
+      </div>
+
     </div>
 
     <div class="clearfix marginBottom"></div>
+
+    <div class="col-md-12 text-center marginBottom">
+      <a href="beneficios" class="btn btn-gray">Conoce los beneficios</a>
+    </div>
+
+    <!-- <div class="clearfix marginBottom"></div> -->
 
     <!--<div class="row marginBottom">
 
@@ -67,39 +101,7 @@ id: tecnologia en el transporte colectivo
         </div>
       </div>
 
-    <div class="clearfix marginBottom"></div>
-
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
-      </div>
-
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Sistema de reserva de asiento</h3>
-        <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
-      </div>
-
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Pago con QR</h3>
-        <br>
-        <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
-      </div>
-
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Sistema de evaluación de conductores</h3>
-        <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
-      </div>
-
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Canal de atención inmediata a usuarios</h3>
-        <img src="img/app-jetty-atencionUsuarios.png" alt="Jetty, Atencion a usuarios" width="100%">
-      </div>
-
-    </div>
-
-    <hr style="margin-bottom: 60px; opacity: 0">
-
-    <div class="row caracteristicas">
+      <div class="row caracteristicas">
 
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
         <h1>Tenemos 3 modalidades de servicio:</h1>

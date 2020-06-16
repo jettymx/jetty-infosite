@@ -78,7 +78,7 @@ id: beneficios
             <div class="text-center">
               <img src="img/icono-equipos.png">
             </div>
-            <h3>Equipos</h3>
+            <h3>Sin necesidad de equipos caros</h3>
             <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular. </p>
           </li>
           <!-- <div class="clearfix"></div> -->
