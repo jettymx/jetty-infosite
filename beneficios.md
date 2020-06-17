@@ -102,7 +102,7 @@ id: beneficios
               <img src="img/icono-proceso.png">
             </div>
             <h3>Acompañamiento durante el proceso</h3>
-            <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a conductores, supervisores, administradores-, seguimiento y soporte. </p>
+            <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a conductores, supervisores, administradores, seguimiento y soporte. </p>
           </li>
          <!--  <div class="clearfix"></div> -->
           <!-- <li>

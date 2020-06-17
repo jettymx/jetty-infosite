@@ -131,26 +131,26 @@ priority: 1.0
       <div class="col-md-12">
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-pase.png" alt="Jetty, Elige una ruta y horario" width="100%">
-          <p>Pase de abordar</p>
+          <p><b>Pase de abordar</b></p>
         </div>
 
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-saldo.png" alt="Jetty, Pago código QR" width="100%">
-          <p>Métodos de pago</p>
+          <p><b>Métodos de pago</b></p>
         </div>
 
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
-          <p>Retroalimentación</p>
+          <p><b>Retroalimentación</b></p>
         </div>
 
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-2.png" alt="Jetty, Atencion a usuarios" width="100%">
-          <p>Reserva origen/destino</p>
+          <p><b>Reserva origen/destino</b></p>
         </div>
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-asistencia.png" alt="Jetty, Atencion a usuarios" width="100%">
-          <p>Solicitud de asistencia</p>
+          <p>S<b>olicitud de asistencia</b></p>
         </div>
       </div>
 

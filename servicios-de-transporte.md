@@ -167,7 +167,7 @@ id: servicios de transporte
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-12 text-center descarga marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
-        <h3>¿Tienes un servicio que te gustaría trabajar con Jetty?</h3>
+        <h3>¿Tienes un vehículo que te gustaría trabajar con Jetty?</h3>
         <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
       </div>
 

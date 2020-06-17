@@ -42,7 +42,10 @@ id: transporte de personal y escolar
         <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
       </div>
 
+      <div class="clearfix marginBottom"></div>
+
       <div class="col-md-12 text-center">
+        <p>Déjanos tus datos y nos ponemos en contacto</p>
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
          Conoce más
         </button>
@@ -170,7 +173,7 @@ id: transporte de personal y escolar
               <textarea class="form-control" rows="3" name="why" id="form-concesionado--why"></textarea>
             </div>
 
-            <div class="col-md-12 form-group">
+            <div class="col-md-6 form-group">
               <label for="">¿Cómo te enteraste de Jetty?</label>
               <div class="radio">
                 <label>
@@ -202,6 +205,25 @@ id: transporte de personal y escolar
                           name="how"
                           value="otro" />
                   Otro
+                </label>
+              </div>
+            </div>
+            <div class="col-md-6 form-group">
+              <label for="">Tipo de operador</label>
+              <div class="radio">
+                <label>
+                  <input  type="radio"
+                          name="type"
+                          value="privado" />
+                  Privado
+                </label>
+              </div>
+              <div class="radio ">
+                <label>
+                  <input  type="radio"
+                          name="type"
+                          value="gobierno" />
+                  Gobierno
                 </label>
               </div>
             </div>

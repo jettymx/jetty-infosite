@@ -79,15 +79,15 @@ id: tecnologia en el transporte colectivo
 
         <div class="col-md-4">
           <img src="img/icon-operacionV2.svg">
-          <p class="lead"><b>Visualizar información sobre la operación.</b></p>
+          <p class="lead">Visualizar información sobre la operación.</p>
         </div>
         <div class="col-md-4">
           <img src="img/icon-administrarV2.svg">
-          <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
+          <p class="lead">Administrar información de unidades, choferes, rutas, corridas.</p>
         </div>
         <div class="col-md-4">
           <img src="img/icon-retroV2.svg">
-          <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
+          <p class="lead">Tener un canal de retroalimentación.</p>
         </div>
       </div>
 
@@ -97,7 +97,7 @@ id: tecnologia en el transporte colectivo
         </div>
 
         <div class="col-md-12">
-          <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
+          <p class="lead">La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</p>
         </div>
       </div>
 
@@ -116,8 +116,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-7"></div>
         <div class="col-md-12">
           <h2>Transporte de personal y escolar</h2>
-          <h3>¿Tienes vehículos que te gustaría trabajar con Jetty?</h3>
-          <br>
+          <p>¿Quieres ofrecer a tus clientes un mayor valor agregado?</p>
           <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
         </div>
       </div>
@@ -129,8 +128,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-12">
           <h2>Transporte Público</h2>
           <br>
-          <h3>¿Tienes una concesión de transporte público?</h3>
-          <br>
+          <p>¿Tienes una concesión de transporte público?</p>
           <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
         </div>
       </div>
@@ -142,7 +140,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-12">
           <h2>Agencia de Gobierno</h2>
           <br>
-          <h3>¿Quieres mejorar el sistema de transporte público de tu ciudad?</h3>
+          <p>¿Quieres mejorar el sistema de transporte público de tu ciudad?</p>
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
