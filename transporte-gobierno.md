@@ -64,11 +64,11 @@ id: transporte-concesionado
 
       <div class="col-md-4 col-md-offset-2">
         <img src="img/icon-encuestaV2.svg">
-        <h3>Poder hacer encuestas a usuarios sobre necesidades del servicio.</h3>
+        <h3>Mayor cercanía al ciudadanía vía encuestas y retroalimentación inmediata de la política pública.</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-inovaciónV2.svg">
-        <h3>Demostrar al usuario que el gobierno también puede innovar.</h3>
+        <h3>Diseño e implementacion de política pública innovadora.</h3>
       </div>
     </div>
 

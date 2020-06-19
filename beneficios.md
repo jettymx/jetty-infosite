@@ -105,13 +105,13 @@ id: beneficios
             <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a conductores, supervisores, administradores, seguimiento y soporte. </p>
           </li>
          <!--  <div class="clearfix"></div> -->
-          <!-- <li>
+          <li>
             <div class="text-center">
-              <img src="img/icono-almacenamiento.png">
+              <img src="img/icono-marca.png">
             </div>
-            <h3>Almacenamiento seguro de datos de usuarios</h3>
-            <p>Permite al usuario dejar la ubicación tanto de su domicilio como de su lugar de trabajo, con el objetivo de poder utilizar la información para la planificación de nuevas rutas.</p>
-          </li> -->
+            <h3>Conserva tu marca</h3>
+            <p>Las aplicaciones podrán traer la marca, logo e identidad gráfica de tu  empresa.</p>
+          </li>
         </ul>
 
       </div>
