@@ -15,12 +15,21 @@
   font-weight: 700;
 }
 
+.navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  /*color: #4fbca7;*/
+  color: #2D414D;
+}
+
 .navbar-brand{
   padding: 0;
 }
 
 .navbar-brand img{
   width: 100px;
+}
+
+.brand-tours img{
+  width: 240px !important;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
@@ -51,6 +60,7 @@
 }
 .nav-outback{
   background-color: rgba(79, 188, 167, 1);
+  /*background-color: #2D414D;*/
   transition: all 0.5s;
 }
 

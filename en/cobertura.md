@@ -1,6 +1,6 @@
 ---
-layout: default-cobertura-en
-title: Jetty | ¿Cuándo y dónde funciona Jetty?
+layout: default-cobertura
+title: Jetty Cobertura | Explora Nuestras Rutas
 description: Consulta nuestra cobertura y nuestros horarios de operaciones en la Zona Metropolitana del Valle de México.
 id: cobertura
 ---
@@ -10,236 +10,66 @@ id: cobertura
 
     <div class="clearfix"></div>
 
-    <div class="col-md-12 text-center">
-      <h2>Service Areas</h2>
-    </div>
-
     <div class="col-md-12">
+      <div class=" text-center">
+        <h2>Nuestra Cobertura</h2>
+      </div>
+
+      <div class="col-md-12">
 
         <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a></li>
-          <li role="presentation"><a href="#puebla" aria-controls="puebla" role="tab" data-toggle="tab"><b>PUEBLA</b></a></li>
+          <li role="presentation" class="active">
+            <a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a>
+          </li>
+
+          <li role="presentation">
+            <a href="#saltillo" aria-controls="saltillo" role="tab" data-toggle="tab"><b>SALTILLO</b></a>
+          </li>
+          <li role="presentation">
+            <a href="#monterrey" aria-controls="monterrey" role="tab" data-toggle="tab"><b>MONTERREY</b></a>
+          </li>
         </ul>
 
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="cdmx">
             <div>
-              <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.svg" alt="Cobertura Jetty CDMX" style="width: 100%">
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.png" alt="Cobertura Jetty CDMX" style="width: 100%">
             </div>
           </div>
-          <div role="tabpanel" class="tab-pane" id="puebla">
+          <div role="tabpanel" class="tab-pane" id="saltillo">
             <div>
-              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-Puebla.jpg" alt="Cobertura Jetty Puebla" style="width: 100%">
+              <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Saltillo.jpg" alt="Cobertura Jetty Saltillo" style="width: 100%">
+            </div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="monterrey">
+            <div>
+              <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-MTY.png" alt="Cobertura Jetty Saltillo" style="width: 100%">
             </div>
           </div>
         </div>
 
       </div>
 
-    <div class="col-md-8 col-md-offset-2 text-center dondevas">
-      <h2>Our routes</h2>
-    </div>
-
-    <div class="rutas">
-
-      <ul class="nuevas-rutas">
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta6" class="btn-ruta">
-              <h4 class="panel-title">Aragón <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus1" class="btn-ruta">
-              <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus2" class="btn-ruta">
-              <h4 class="panel-title">Acoxpa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta11" class="btn-ruta">
-              <h4 class="panel-title">Azcapotzalco/Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta12" class="btn-ruta">
-              <h4 class="panel-title">Coacalco/Satélite <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco/Reforma</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta1" class="btn-ruta">
-              <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta2" class="btn-ruta">
-              <h4 class="panel-title">Cuautitlán/Perinorte <img src="img/arrow-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#taxis1" class="btn-ruta">
-              <h4 class="panel-title">Cibeles/Sevilla <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus4" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <!-- <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus5" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe</h4>
-            </button>
-          </div>
-        </li> -->
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus6" class="btn-ruta">
-              <h4 class="panel-title">Costco Coapa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Auditorio</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus10" class="btn-ruta">
-              <h4 class="panel-title">Huipulco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta16" class="btn-ruta">
-              <h4 class="panel-title">Juanacatlán <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus8" class="btn-ruta">
-              <h4 class="panel-title">La Joya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta15" class="btn-ruta">
-              <h4 class="panel-title">Mixcoac <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta9" class="btn-ruta">
-              <h4 class="panel-title">M. Chabacano/Condesa <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta7" class="btn-ruta">
-              <h4 class="panel-title">Parque de los venados/Del Valle <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta8" class="btn-ruta">
-              <h4 class="panel-title">Polanco <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus9" class="btn-ruta">
-              <h4 class="panel-title">Pedregal <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-express.svg" width="60" ></h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta4" class="btn-ruta">
-              <h4 class="panel-title">Reforma <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta14" class="btn-ruta">
-              <h4 class="panel-title">Tacubaya <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaSVBus3" class="btn-ruta">
-              <h4 class="panel-title">Toreo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#rutaUnidas1" class="btn-ruta">
-              <h4 class="panel-title">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta3" class="btn-ruta">
-              <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Polanco</h4>
-            </button>
-          </div>
-        </li>
-        <li>
-          <div class="col-md-4">
-            <button type="button" data-toggle="modal" data-target="#ruta5" class="btn-ruta">
-              <h4 class="panel-title">Zona Norte <img src="img/arrow-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
-            </button>
-          </div>
-        </li>
-
-      </ul>
-
     </div>
 
     <div class="clearfix"></div>
 
     <div class="col-md-12 text-center dondevas">
-      <h3>Are you interested in having a Jetty near you?</h3>
-      <p>Enter here your origin and desired destination and we will take into account:</p>
-      <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header"> Where do we take you?</a>
+      <h3>¿Te interesa tener un Jetty cerca de ti?</h3>
+      <p>Ingresa aquí el origen y destino que deseas, lo tomaremos en cuenta:</p>
+      <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
     </div>
 
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
-      <h2>Download the app:</h2>
-      <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-iOS-en.png" alt="Jetty Descargar iOS">
-      </a>
 
-      <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-android-en.png" alt="Jetty Descargar Android">
-      </a>
+      <h2>Para reservar tu viaje, descarga la app:</h2>
+        <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
+          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+        </a>
     </div>
 
   </div>
@@ -251,7 +81,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura-2.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-expressGreen.svg" width="60"> <span style="margin-left: 30px;">$79 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Polanco/Reforma <img src="img/icon-expressGreen.svg" width="60"> <!-- <span style="margin-left: 30px;">$79 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_2" class="map_canvas"></div>
@@ -297,7 +127,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura-2.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" > <span style="margin-left: 30px;">$69 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Cuautitlán/Perinorte <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" > <!-- <span style="margin-left: 30px;">$69 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_7" class="map_canvas"></div>
@@ -336,7 +166,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Zona Norte <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Polanco <span style="margin-left: 30px;">$69 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Zona Norte <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Polanco <!-- <span style="margin-left: 30px;">$69 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas" class="map_canvas"></div>
@@ -391,7 +221,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Reforma <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$59 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Reforma <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$59 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_3" class="map_canvas"></div>
@@ -442,7 +272,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Zona Norte <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$79 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Zona Norte <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$79 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_4" class="map_canvas"></div>
@@ -513,7 +343,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Aragón <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$79 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Aragón <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$79 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_5" class="map_canvas"></div>
@@ -535,6 +365,10 @@ id: cobertura
           <li>
             <img src="img/icon-ascenso.png" width="10">
             <b>Metro Deportivo Oceanía (AM)</b> - <i>Metro Deportivo Oceanía, bajo el Puente de la Estación</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>F. C. de Cuernavaca</b> - <i>Av. F. C. de Cuernavaca 2337, Lomas - Virreyes, Lomas de Chapultepec III Secc, 11000 Ciudad de México, CDMX</i>
           </li>
           <li>
             <img src="img/icon-descenso.png" width="10">
@@ -576,7 +410,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Parque de los venados/Del Valle <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$69 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Parque de los venados/Del Valle <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$69 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_6" class="map_canvas"></div>
@@ -631,7 +465,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Polanco <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$59 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Polanco <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$59 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_8" class="map_canvas"></div>
@@ -694,7 +528,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">M. Chabacano/Condesa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$69 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">M. Chabacano/Condesa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$69 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_9" class="map_canvas"></div>
@@ -757,7 +591,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Las Alamedas/Atizapán <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Las Alamedas/Atizapán <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_10" class="map_canvas"></div>
@@ -775,7 +609,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Azcapotzalco/Polanco <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$69 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Azcapotzalco/Polanco <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$69 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_11" class="map_canvas"></div>
@@ -846,7 +680,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Coacalco/Satélite <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Polanco/Reforma <span style="margin-left: 30px;">$79 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Coacalco/Satélite <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Polanco/Reforma <!-- <span style="margin-left: 30px;">$79 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_12" class="map_canvas"></div>
@@ -893,7 +727,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Tacubaya <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$30 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Tacubaya <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$30 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_14" class="map_canvas"></div>
@@ -932,7 +766,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Mixcoac <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$59 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Mixcoac <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$59 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_15" class="map_canvas"></div>
@@ -979,7 +813,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Juanacatlán <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$30 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Juanacatlán <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$30 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_16" class="map_canvas"></div>
@@ -1018,7 +852,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Acoxpa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$79 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Acoxpa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$79 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus1" class="map_canvas"></div>
@@ -1061,7 +895,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Acoxpa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Auditorio <span style="margin-left: 30px;">$30 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Acoxpa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Auditorio <!-- <span style="margin-left: 30px;">$30 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus2" class="map_canvas"></div>
@@ -1092,7 +926,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Toreo <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$25 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Toreo <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$25 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus3" class="map_canvas"></div>
@@ -1131,7 +965,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$40 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus4" class="map_canvas"></div>
@@ -1170,7 +1004,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Centro Comercial Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Centro Comercial Santa Fe <!-- <span style="margin-left: 30px;">$40 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus5" class="map_canvas"></div>
@@ -1209,7 +1043,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Auditorio <span style="margin-left: 30px;">$30 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Costco Coapa <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Auditorio <!-- <span style="margin-left: 30px;">$30 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus6" class="map_canvas"></div>
@@ -1240,7 +1074,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Auditorio <img src="img/arrowPurple-cobertura-1.png" class="arrow-cobertura"> Santa Fe</h4>
+        <h4 class="modal-title" id="myModalLabel">Auditorio <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe</h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus7" class="map_canvas"></div>
@@ -1258,7 +1092,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">La Joya <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" > <span style="margin-left: 30px;">$55 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">La Joya <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" > <!-- <span style="margin-left: 30px;">$55 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus8" class="map_canvas"></div>
@@ -1293,7 +1127,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Pedregal <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" ></h4>
+        <h4 class="modal-title" id="myModalLabel">Pedregal <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <img src="img/icon-expressGreen.svg" width="60" ></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus9" class="map_canvas"></div>
@@ -1332,7 +1166,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Huipulco <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$40 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Huipulco <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$40 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_SVBus10" class="map_canvas"></div>
@@ -1375,7 +1209,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Cibeles/Sevilla <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$55 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Cibeles/Sevilla <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$55 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_TaxiElectrico1" class="map_canvas"></div>
@@ -1438,7 +1272,7 @@ id: cobertura
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrowGreen-cobertura-1.png" class="arrow-cobertura"> Santa Fe <span style="margin-left: 30px;">$54 pesos</span></h4>
+        <h4 class="modal-title" id="myModalLabel">Viveros/Miguel Ángel de Quevedo/San Jerónimo <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> Santa Fe <!-- <span style="margin-left: 30px;">$54 pesos</span> --></h4>
       </div>
       <div class="modal-body">
         <div id="map_canvas_Rutas1" class="map_canvas"></div>
@@ -1476,6 +1310,223 @@ id: cobertura
           <li>
             <img src="img/icon-descenso.png" width="10">
             <b>Glorieta Juan Salvador Agraz</b> - <i>Debajo del puente, Prol. Paseo de la Reforma esq. Juan Salvador Agraz</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- /// MODAL 1 Puebla /// -->
+<div class="modal fade" id="puebla1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Angelópolis <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla1" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Parque Mariposas Zona Azul</b> - <i>Lomas de Angelópolis, Tlaxcalancingo.d</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Glorieta Dominó</b> - <i>Gran Boulevard, Lomas de Angelópolis, Tlaxcalancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Oxxo Angelopolis</b> - <i>Boulevard de los Reyes, Av del Castillo 1, Lomas de Angelópolis</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 2 Puebla /// -->
+<div class="modal fade" id="puebla2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Cholula <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla2" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Plaza Sur</b> - <i>Carr Izucar de Matamoros 5003, Jardines de San Carlos, Emiliano Zapata.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Puente UDLAP</b> - <i>Esq. Periferico con Calz. del Ciprés s/n, Residencial Real de Cholula. </i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Puente Carcaña, Oxxo Periferico Oriente</b> - <i>Anillo Perif. Ecológico 3220, Santiago Momoxpan, 72775 San Andrés Cholula.</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
+          </li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <p><b>Ascenso <img src="img/icon-ascenso.png" width="22" style="margin-right: 40px;"> Descenso <img src="img/icon-descenso.png" width="22"></b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /// MODAL 3 Puebla /// -->
+<div class="modal fade" id="puebla3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Cuautlancingo <img src="img/arrowGreen-cobertura.png" class="arrow-cobertura"> FINSA</h4>
+      </div>
+      <div class="modal-body">
+        <div id="map_canvas_Puebla3" class="map_canvas"></div>
+
+        <ul class="paradas">
+          <p><b>Paradas de esta ruta</b></p>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Deportivo San Jose, Cuautlancingo</b> - <i>Barrio del Perdón, San Juan Cuautlancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Mercado Municipal, Cuautlancingo</b> - <i>Av México - Puebla, Barrio del Calvario, San Juan Cuautlancingo.</i>
+          </li>
+          <li>
+            <img src="img/icon-ascenso.png" width="10">
+            <b>Bodega Aurrera, Cuautlancingo</b> - <i>Av México - Puebla, Barrio del Calvario,San Juan Cuautlancingo.</i>
+          </li>
+
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Tule esquina con San Lorenzo</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, CP 72730.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 2</b> - <i>Tule, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: CEDIS Oxxo</b> - <i>Ebano 11, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Bodega Coppel</b> - <i>Tule, Zona VW, 72730 Sanctorum</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: SA Automotive</b> - <i>Ebano, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: INTEVA</b> - <i>Acaicas, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Faurecia 1</b> - <i>Acacias, Zona VW, Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 7 de VW</b> - <i>Av. San Lorenzo Almecatla, Sanctorum, 72730 Sanctorum.</i>
+          </li>
+          <li>
+            <img src="img/icon-descenso.png" width="10">
+            <b>FINSA: Puerta 3 de VW</b> - <i>Av 28 de noviembre, Sanctorum, 72730.</i>
           </li>
         </ul>
 
