@@ -8,44 +8,59 @@
     </div>
 
     <div class="col-md-3">
-      <ul class="submenu">
-        <li>
-          <a href="{{site.baseurl}}/en/quienes">About us</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/trabajo-transportista" target="_self">Your van with Jetty</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/vacantes" target="_self">Work with us</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/transporte-eventos" target="_self">Events</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/prensa" target="_self">Press</a>
-        </li>
-      </ul>
-    </div>
+        <ul class="submenu">
+          <li>
+            <a href="{{site.baseurl}}/quienes">About us</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/transporte-de-personal-y-escolar" target="_self">Transporte de personal y escolar</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Agencia de Gobierno</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/cobertura" target="_self">Service Areas</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/en/transporte-eventos" target="_self">Events</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/vacantes" target="_self">Work with us</a>
+          </li>
+        </ul>
+      </div>
 
-    <div class="col-md-3">
-      <ul class="submenu">
-        <li>
-          <a href="http://ayuda.jetty.mx" target="_self">FAQs</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/aviso-de-privacidad" target="_self">Privacy</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/terminos" target="_self">Terms & conditions</a>
-        </li>
-        <li>
-          <a href="{{site.baseurl}}/en/prestacion" target="_self">Service</a>
-        </li>
-      </ul>
-    </div>
+      <div class="col-md-3">
+        <ul class="submenu">
+          <li>
+            <a href="{{site.baseurl}}/en/prensa" target="_self">Press</a>
+          </li>
+          <li>
+            <a href="http://ayuda.jetty.mx" target="_self">FAQs</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/aviso-de-privacidad" target="_self">Privacy</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/terminos" target="_self">Terms & conditions</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/prestacion" target="_self">Service</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/bolsa-trabajo-conductor" target="_self">Bolsa de trabajo conductores</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
+          </li>
+        </ul>
+      </div>
 
     <div class="col-md-4 footer-downapp">
-      <p class="text-downapp">Download the app.</p>
+      <p class="text-downapp">Download the app</p>
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="{{ site.baseurl }}/img/jetty-iOS-en.png" alt="Jetty Descargar iOS">
         </a>

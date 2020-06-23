@@ -60,7 +60,7 @@
       </div>
 
       <div class="col-md-4 footer-downapp">
-        <p class="text-downapp">Descarga la app.</p>
+        <p class="text-downapp">Descarga la app</p>
 
           <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
             <img src="{{ site.baseurl }}/img/jetty-iOS.png" alt="Jetty Descargar iOS">

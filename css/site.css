@@ -556,6 +556,14 @@ a.indexClientes img{
   margin-top: 80px;
 }
 
+.indexSubseccion{
+  margin-bottom: 60px;
+}
+
+.indexSubseccion h2{
+  color: white
+}
+
 /*/// Tabs Index ///*/
 ul.como-funciona-tabs-list{
   margin-top: 20px;
