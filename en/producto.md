@@ -10,11 +10,11 @@ id: tecnologia en el transporte colectivo
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h1 class="titleConcesionado">We got products you can implement </h1>
+        <h1 class="titleConcesionado">We got products that you can implement in your own transit system</h1>
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Seat booking systemo</h3>
+        <h3>Seat booking system</h3>
         <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
       </div>
 
