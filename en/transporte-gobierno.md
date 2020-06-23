@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-en
 title: Jetty | Los beneficios de trabajar como Jetty en transporte público
 description: ¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?
 id: transporte-concesionado
@@ -10,103 +10,46 @@ id: transporte-concesionado
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Agencia de Gobierno</h1>
-        <h2>Lleva los beneficios de la tecnología Jetty al sistema de transporte público de tu ciudad, mejora la experiencia del usuario y contribuye a la modernización.</h2>
-        <!-- <div class="text-center">
-          <img src="img/jetty-gobierno.png" width="90%">
-        </div> -->
+        <h1>Government agency</h1>
+        <h2>Bring the benefits of Jetty technology to your city's public transit system, improve the user experience, and contribute to modernization.</h2>
       </div>
     </div>
 
     <div class="clearfix marginBottom"></div>
 
-    <!-- <div class="row marginBottom">
-      <div class="col-md-12">
-        <h2>Beneficios para el usuario</h2>
-      </div>
-
-      <div class="col-md-6">
-        <img src="img/icon-rutasFrecuencia.svg">
-        <p class="lead"><b>Acceder a información sobre rutas, paradas, tiempos de viaje y frecuencias de los servicios.</b></p>
-      </div>
-      <div class="col-md-6">
-        <img src="img/icon-calificarV2.svg">
-        <p class="lead"><b>Calificar el servicio y dar retroalimentación sobre el conductor y experiencia de viaje.</b></p>
-      </div>
-      <div class="col-md-6">
-        <img src="img//icon-conductorV2.svg">
-        <p class="lead"><b>Conocer quién es su conductor, vehículo y punto de ascenso.</b></p>
-      </div>
-      <div class="col-md-6">
-        <img src="img/icon-soporteV2.svg">
-        <p class="lead"><b>Tener soporte en tiempo real atendido por agentes capacitados antes, durante y después del viaje. Los usuarios tienen posibilidad de recuperar los objetos olvidados en las unidades.</b></p>
-      </div>
-    </div> -->
-
-
     <div class="row marginBottom">
       <div class="col-md-12">
-        <h2>Beneficios para el Gobierno</h2>
+        <h2>Government benefits</h2>
       </div>
 
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Supervisión de conductores.</h3>
+        <h3>Supervise your own drivers thanks to user feedback</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-optimizacionV2.svg">
-        <h3>Optimización de frecuencias, rutas y horarios.</h3>
+        <h3>Improve frequencies and schedules.</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-mejoraV2.svg">
-        <h3>Mejora del servicio.</h3>
+        <h3>Improve the service</h3>
       </div>
 
       <div class="col-md-4 col-md-offset-2">
         <img src="img/icon-encuestaV2.svg">
-        <h3>Mayor cercanía al ciudadanía vía encuestas y retroalimentación inmediata de la política pública.</h3>
+        <h3>Greater closeness with citizens through surveys and immediate feedback on public policy.</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-inovaciónV2.svg">
-        <h3>Diseño e implementacion de política pública innovadora.</h3>
+        <h3>Design and implementation of innovative public policy</h3>
       </div>
     </div>
 
     <div class="row marginBottom">
-      <!-- <div class="col-md-12">
-        <h2>Herramientas para el manejo de la flota</h2>
-      </div>
-
-      <div class="col-md-4">
-        <img src="img/icon-operacionV2.svg">
-        <p class="lead"><b>Visualizar información sobre la operación.</b></p>
-      </div>
-      <div class="col-md-4">
-        <img src="img/icon-administrarV2.svg">
-        <p class="lead"><b>Administrar información de unidades, choferes, rutas, corridas.</b></p>
-      </div>
-      <div class="col-md-4">
-        <img src="img/icon-retroV2.svg">
-        <p class="lead"><b>Tener un canal de retroalimentación.</b></p>
-      </div>
-    </div>
-
-    <div class="row marginBottom">
-      <div class="col-md-12">
-        <h2>Herramientas para planificación</h2>
-      </div>
-
-      <div class="col-md-12">
-        <p class="lead"><b>La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo, esto mediante la información proporcionada por los usuarios que nos usan y nos solicitan viajes.</b></p>
-      </div> -->
-
-      <!-- <div class="col-md-8 col-md-offset-2 text-center">
-        <img src="img/jetty-mapa-atse.png" alt="Jetty, Atse" width="100%">
-      </div> -->
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalGobierno">
-          Solicita tu registro
+          Book a demo
         </button>
       </div>
     </div>
@@ -115,7 +58,7 @@ id: transporte-concesionado
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <h3>Clientes:</h3>
+        <h3>Goverments we work with:</h3>
         <ul class="list-transportistas">
           <li>
             <img src="img/logo-municipio-san-pedro.png" style="width: 200px !important;">

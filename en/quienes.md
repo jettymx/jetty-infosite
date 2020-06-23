@@ -9,9 +9,9 @@ id: quienes
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1>La plataforma que mejora el transporte colectivo. </h1>
-        <h2>Conectamos empresarios transportistas que cumplen altos estándares de confiabilidad, comodidad y seguridad con miles de usuarios que demandan una mejor experiencia de viaje. </h2>
-        <h3>Queremos que tengas un <br> <strong>Buen Viaje. Siempre.</strong></h3>
+        <h1>The platform that improves public transport.</h1>
+        <h2>We connect transport entrepreneurs with high standards of reliability, comfort and safety with thousands of users who demand a better trip experience.</h2>
+        <h3>We want you to have a <br> <strong>Good trip. Always.</strong></h3>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@ id: quienes
   <div class="row">
 
     <div class="col-md-12">
-      <h1>Reconocimientos</h1>
+      <h1>Awards</h1>
       <ul class="alianzas">
         <li>
           <a href="https://www.raeng.org.uk/grants-and-prizes/grants/international-research-and-collaborations/newton-fund-programmes/leaders-innovation-fellowships" target="_blank">
@@ -78,7 +78,7 @@ id: quienes
     </div>
 
     <div class="col-md-12" style="margin-top: 50px">
-      <h1>Jetty en la prensa</h1>
+      <h1>Jetty on the news</h1>
       <ul class="alianzas">
         <li>
           <img src="imgs-prensa/reforma.png">
@@ -96,11 +96,11 @@ id: quienes
           <img src="imgs-prensa/forbes.png">
         </li>
       </ul>
-      <a href="/prensa" class="btn btn-green">Prensa</a>
+      <a href="/en/prensa" class="btn btn-green">Press</a>
     </div>
 
     <div class="col-md-12"  style="margin-top: 80px">
-      <h1>Alianzas</h1>
+      <h1>Alliances</h1>
       <ul class="alianzas">
         <!-- <li>
           <a href="https://www.maaslatam.org" target="_blank">
@@ -148,14 +148,14 @@ id: quienes
 <div class="container mobility">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
-      <h2>Somos miembros de:</h2>
+      <h2>We are members of:</h2>
       <div class="row" style="margin-bottom: 50px;">
         <div class="col-md-3">
           <img src="img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES">
         </div>
         <div class="col-md-9">
-          <p class="lead">Es una coalición de empresas que promueve los <b>Principios de Movilidad Compartida para Ciudades Vivibles.</b></p>
-          <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">Conoce cuáles son</a>
+          <p class="lead">It is a coalition of companies that promotes the Principles of Shared Mobility for Livable Cities.</p>
+          <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">Know what they are</a>
         </div>
       </div>
       <div class="row">
@@ -163,8 +163,8 @@ id: quienes
           <img src="img/Logo-MaaS.png" alt="Maas Latam">
         </div>
         <div class="col-md-9">
-          <p class="lead">Es una Asociación Civil que representa a las startups y empresas más innovadoras que están transformando la experiencia de movilidad en América Latina, basadas en la tecnología y con una una visión de sustentabilidad.</p>
-          <a href="http://maaslatam.org" target="_blank">Conoce más</a>
+          <p class="lead">It is a Civil Association that represents the most innovative startups and companies that are transforming the mobility experience in Latin America, based on technology and with a vision of sustainability.</p>
+          <a href="http://maaslatam.org" target="_blank">Learn more</a>
         </div>
       </div>
     </div>

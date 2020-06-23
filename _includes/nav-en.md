@@ -17,7 +17,7 @@
           <li><a href="{{site.baseurl}}/en/">Home</a></li>
           <li><a href="{{site.baseurl}}/en/producto">Product</a></li>
           <li><a href="{{site.baseurl}}/en/beneficios">Benefits</a></li>
-          <li><a href="{{site.baseurl}}/en/servicios-de-transporte">Transport services</a></li>
+          <li><a href="{{site.baseurl}}/en/servicios-de-transporte">Transit Services</a></li>
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/flagMX.png" class="translate"></a></li>
         </ul>

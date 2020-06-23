@@ -10,19 +10,19 @@
     <div class="col-md-3">
         <ul class="submenu">
           <li>
-            <a href="{{site.baseurl}}/quienes">About us</a>
+            <a href="{{site.baseurl}}/en/quienes">About us</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-de-personal-y-escolar" target="_self">Transporte de personal y escolar</a>
+            <a href="{{site.baseurl}}/en/transporte-de-personal-y-escolar" target="_self">Staff and school transportation</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>
+            <a href="{{site.baseurl}}/en/transporte-publico" target="_self">Public transit</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Agencia de Gobierno</a>
+            <a href="{{site.baseurl}}/en/transporte-gobierno" target="_self">Government agency</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/cobertura" target="_self">Service Areas</a>
+            <a href="{{site.baseurl}}/en/cobertura" target="_self">Service Areas</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/en/transporte-eventos" target="_self">Events</a>

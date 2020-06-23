@@ -54,6 +54,8 @@ id: transporte-concesionado
         <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
       </div>
 
+       <div class="clearfix marginBottom"></div>
+
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
          Conoce más

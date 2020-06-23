@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-en
 title: Jetty | Los beneficios de trabajar como Jetty en transporte público
 description: ¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?
 id: transporte-concesionado
@@ -10,8 +10,8 @@ id: transporte-concesionado
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Transporte Público</h1>
-        <h2>¿Tienes una concesión de transporte público?</h2>
+        <h1>Public transit</h1>
+        <h2>Do you have a public transit concession?</h2>
         <div class="text-center">
           <img src="img/jetty-publico.png" width="90%">
         </div>
@@ -23,40 +23,42 @@ id: transporte-concesionado
     <div class="row marginBottom">
 
       <div class="col-md-12">
-        <h2>Beneficios para concesionarios o permisionarios.</h2>
+        <h2>Benefits for licensees and concessionaires</h2>
       </div>
 
       <div class="col-md-4">
         <img src="img/icon-Mediopago.svg">
-        <h3>Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</h3>
+        <h3>Greater control over operation and income by reducing cash handling</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
-        <h3>Supervisión de conductores gracias a retroalimentación de los usuarios.</h3>
+        <h3>Supervise your own drivers thanks to user feedback</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
-        <h3>Optimización de frecuencias y horarios.</h3>
+        <h3>Improve frequencies and schedules.</h3>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <h3>Mejora del servicio.</h3>
+        <h3>Improve the service</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-inovacionV2.svg">
-        <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
+        <h3>Our technology shows the user that concessional transport can also innovate.</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
+        <h3>Training for drivers in customer service and gender perspective.</h3>
       </div>
+
+      <div class="clearfix marginBottom"></div>
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
-         Conoce más
+         Book a demo
         </button>
       </div>
 
@@ -66,7 +68,7 @@ id: transporte-concesionado
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <h3>Empresas con las que trabajamos:</h3>
+        <h3>Companies we work with:</h3>
         <ul class="list-transportistas">
           <li>
             <img src="img/logo-svbus.png">

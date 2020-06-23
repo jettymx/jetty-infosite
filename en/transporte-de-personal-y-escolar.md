@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-en
 title: Jetty | Transporte de personal y escolar
 description: ¿Tienes vehículos que te gustaría trabajar con Jetty o una concesión de transporte público?
 id: transporte de personal y escolar
@@ -10,44 +10,40 @@ id: transporte de personal y escolar
     <div class="row marginBottom">
 
       <div class="col-md-12">
-        <h1>Transporte de personal y escolar</h1>
-        <h2>Beneficios</h2>
+        <h1>Staff and school transportation</h1>
+        <h2>Benefits</h2>
       </div>
 
       <div class="col-md-4">
         <img src="img/icon-valorAgregado.svg">
-        <h3>Mayor valor agregado para tus clientes al ofrecer tecnología para monitorear ubicación del vehículo, horarios y puntos de ascenso/descenso.</h3>
+        <h3>Add value for your customers by offering technology to monitor vehicle location, hours and pickup/dropoff points</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
-        <h3>Supervisión de conductores gracias a retroalimentación de los usuarios.</h3>
+        <h3>Supervise your own drivers thanks to user feedback</h3>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
-        <h3>Optimización de frecuencias y horarios.</h3>
+        <h3>Improve frequencies and schedules.</h3>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <h3>Mejora del servicio.</h3>
+        <h3>Improve the service</h3>
       </div>
-      <!-- <div class="col-md-4">
-        <img src="img/icon-inovacionV2.svg">
-        <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
-      </div> -->
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
+        <h3>Training for drivers in customer service and gender perspective.</h3>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-12 text-center">
-        <p>Déjanos tus datos y nos ponemos en contacto</p>
+        <!-- <p>Book a demo</p> -->
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
-         Conoce más
+         Book a demo
         </button>
       </div>
 

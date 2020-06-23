@@ -1,5 +1,5 @@
 ---
-layout: default-cobertura
+layout: default-cobertura-en
 title: Jetty Cobertura | Explora Nuestras Rutas
 description: Consulta nuestra cobertura y nuestros horarios de operaciones en la Zona Metropolitana del Valle de México.
 id: cobertura
@@ -12,7 +12,7 @@ id: cobertura
 
     <div class="col-md-12">
       <div class=" text-center">
-        <h2>Nuestra Cobertura</h2>
+        <h2>Service Areas</h2>
       </div>
 
       <div class="col-md-12">
@@ -55,14 +55,14 @@ id: cobertura
     <div class="clearfix"></div>
 
     <div class="col-md-12 text-center dondevas">
-      <h3>¿Te interesa tener un Jetty cerca de ti?</h3>
-      <p>Ingresa aquí el origen y destino que deseas, lo tomaremos en cuenta:</p>
-      <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">¿A dónde te llevamos?</a>
+      <h3>Are you interested in having a Jetty near you?</h3>
+      <p>Enter here your origin and desired destination and we will take into account:</p>
+      <a href="solicitud" class="btn btn-default btn-lg btn-green btn-header">Where do we take you?</a>
     </div>
 
     <div class="col-md-8 col-md-offset-2 text-center dondevas">
 
-      <h2>Para reservar tu viaje, descarga la app:</h2>
+      <h2>Download the app:</h2>
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
         </a>

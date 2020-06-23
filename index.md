@@ -83,7 +83,7 @@ priority: 1.0
         </div>
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/trayecto.png" alt="Jetty, trayecto" width="100%">
-          <p><b>Trayecto</b></p>
+          <p><b>Seguimiento de la unidad</b></p>
         </div>
       </div>
 
