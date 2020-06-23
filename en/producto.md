@@ -20,7 +20,6 @@ id: tecnologia en el transporte colectivo
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h3>Payment with QR</h3>
-        <br>
         <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
       </div>
 
@@ -87,7 +86,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-12">
           <h2>Transporte de personal y escolar</h2>
           <p>¿Quieres ofrecer a tus clientes un mayor valor agregado?</p>
-          <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+          <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
         </div>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
@@ -99,7 +98,7 @@ id: tecnologia en el transporte colectivo
           <h2>Transporte Público</h2>
           <br>
           <p>¿Tienes una concesión de transporte público?</p>
-          <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
+          <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
         </div>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
@@ -111,7 +110,7 @@ id: tecnologia en el transporte colectivo
           <h2>Agencia de Gobierno</h2>
           <br>
           <p>¿Quieres mejorar el sistema de transporte público de tu ciudad?</p>
-          <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
+          <a href="/transporte-gobierno" class="btn btn-gray">Read more</a>
         </div>
       </div>
     </div>

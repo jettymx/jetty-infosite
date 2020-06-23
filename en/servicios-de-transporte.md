@@ -52,7 +52,7 @@ id: servicios de transporte
 
     <div class="row como">
       <div class="col-md-12 text-center">
-        <h1>¿Cómo funciona?</h1>
+        <h1>How it works</h1>
       </div>
 
       <div class="col-md-12 como-funciona-tabs">

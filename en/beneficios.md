@@ -10,7 +10,7 @@ id: beneficios
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Beneficios</h1>
+        <h1>Benefits</h1>
 
         <p class="lead">Sabemos que tu negocio es el transporte y queremos que lo siga siendo. Con Jetty tienes la posibilidad de agregar valor a tu negocio y a tus usuarios, sin dejar de hacer lo que haces mejor. Nos convertimos en tu brazo tecnológico. </p>
 
