@@ -18,7 +18,7 @@ priority: 1.0
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <h1>Tecnología para el transporte colectivo.</h1>
         <br>
-        <p class="lead">Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del sector.</p>
+        <p class="lead">"Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario, contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades</p>
         <p class="text-downapp-index">Descarga la app.</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
@@ -74,12 +74,16 @@ priority: 1.0
         </div>
 
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-2.png" alt="Jetty, Atencion a usuarios" width="100%">
+          <img src="img/app-jetty-2.png" alt="Jetty, reserva" width="100%">
           <p><b>Reserva origen/destino</b></p>
         </div>
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-asistencia.png" alt="Jetty, Atencion a usuarios" width="100%">
+          <img src="img/app-jetty-asistencia.png" alt="Jetty, Asistencia" width="100%">
           <p><b>Solicitud de asistencia</b></p>
+        </div>
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/trayecto.png" alt="Jetty, trayecto" width="100%">
+          <p><b>Trayecto</b></p>
         </div>
       </div>
 

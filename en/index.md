@@ -81,6 +81,10 @@ priority: 1.0
           <img src="img/app-jetty-asistencia.png" alt="Jetty, Atencion a usuarios" width="100%">
           <p><b>Assistance request</b></p>
         </div>
+        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
+          <img src="img/trayecto.png" alt="Jetty, trayecto" width="100%">
+          <p><b>Journey</b></p>
+        </div>
       </div>
     </div>
 

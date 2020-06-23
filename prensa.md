@@ -17,7 +17,7 @@ id: prensa
     </div>
 
     <div class="col-md-10 col-md-offset-1" style="margin-top: 20px; margin-bottom: 20px;">
-      <p>Jetty es una aplicación de transporte colectivo privado con rutas optimizadas para llevar las personas de su casa a su trabajo y de regreso. Ofrecemos un servicio de transporte seguro, cómodo y accesible a bordo de camionetas ejecutivas con conductores altamente calificados.</p>
+      <p>Jetty es la aplicación que acerca la tecnología al transporte colectivo, tanto privado como público, con el objetivo de dar la mejor experiencia posible al usuario, trabajando paralelamente con el transportista para optimizar los  servicios y dándole herramientas para mejorar su operación. En las diferentes modalidades de servicio, ofrecemos un transporte seguro, cómodo, accesible y confiable con conductores capacitados para ofrecer el mejor viaje.</p>
     </div>
 
     <div class="col-md-10 col-md-offset-1">
