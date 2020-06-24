@@ -83,7 +83,7 @@ id: tecnologia en el transporte colectivo
         </div>
         <div class="col-md-4">
           <img src="img/icon-administrarV2.svg">
-          <p class="lead">Administrar información de unidades, choferes, rutas, corridas.</p>
+          <p class="lead">Administrar información de unidades, conductores, rutas, corridas.</p>
         </div>
         <div class="col-md-4">
           <img src="img/icon-retroV2.svg">

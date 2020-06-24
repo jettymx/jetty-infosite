@@ -86,7 +86,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-12">
           <h2>Staff and school transportation</h2>
           <p>Do you want to offer your customers greater added value?</p>
-          <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
+          <a href="/en/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
         </div>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
@@ -100,7 +100,7 @@ id: tecnologia en el transporte colectivo
           <p>Do you have a public transit concession?</p>
           <br>
           <br>
-          <a href="/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
+          <a href="/en/transporte-publico" class="btn btn-gray" style="margin-top: 5px;">Read more</a>
         </div>
       </div>
       <div class="col-md-4" style="margin-bottom: 60px;">
@@ -113,7 +113,7 @@ id: tecnologia en el transporte colectivo
           <br>
           <p>Do you want to improve the transit system in your city?</p>
           <br>
-          <a href="/transporte-gobierno" class="btn btn-gray">Read more</a>
+          <a href="/en/transporte-gobierno" class="btn btn-gray">Read more</a>
         </div>
       </div>
     </div>
