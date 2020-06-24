@@ -18,7 +18,7 @@ priority: 1.0
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <h1>Collective Transit Technology</h1>
         <br>
-        <p class="lead">Bring the benefits of our technology to public transit, improving the user experience and contributing to the modernization of the sector</p>
+        <p class="lead">Bring the benefits of our technology to collective transit, improving the user experience and contributing to the modernization of the sector</p>
         <p class="text-downapp-index">Download the app</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
