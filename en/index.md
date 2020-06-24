@@ -75,7 +75,7 @@ priority: 1.0
 
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-2.png" alt="Jetty, Atencion a usuarios" width="100%">
-          <p><b>Pick up / Drop off reservation</b></p>
+          <p><b>Pick up / Drop off booking</b></p>
         </div>
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/app-jetty-asistencia.png" alt="Jetty, Atencion a usuarios" width="100%">
@@ -83,7 +83,7 @@ priority: 1.0
         </div>
         <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
           <img src="img/trayecto.png" alt="Jetty, trayecto" width="100%">
-          <p><b>Tracking</b></p>
+          <p><b>Track your vehicle</b></p>
         </div>
       </div>
     </div>
