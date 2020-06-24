@@ -46,7 +46,7 @@ id: servicios de transporte
       <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
         <img src="img/icon-conductorV2.svg" alt="Jetty, Conductores profesionales">
         <h3><strong>Conductor profesional</strong></h3>
-        <p>Todos nuestros conductores están capacitados para ofrecerte el mejor servicio.</p>
+        <p>Todos nuestros conductores están altamente calificados para ofrecerte el mejor servicio.</p>
       </div>
     </div>
 

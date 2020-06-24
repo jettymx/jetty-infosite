@@ -7,14 +7,6 @@ id: tecnologia en el transporte colectivo
 
 <div class="container-fluid gradient">
   <div class="container concesionado">
-
-    <!-- <div class="row trabajar">
-      <div class="col-md-12 text-center">
-        <h1>Lleva los beneficios de la tecnología Jetty al transporte colectivo, mejorando la experiencia del usuario y contribuyendo a la modernización del gremio transportista.</h1>
-        <br>
-      </div>
-    </div> -->
-
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
@@ -48,29 +40,6 @@ id: tecnologia en el transporte colectivo
     <div class="col-md-12 text-center marginBottom">
       <a href="beneficios" class="btn btn-gray">Conoce los beneficios</a>
     </div>
-
-    <!-- <div class="clearfix marginBottom"></div> -->
-
-    <!--<div class="row marginBottom">
-
-       <div class="col-md-3 text-center">
-        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
-        <h3 class="titleConcesionado">Medio de pago</h3>
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Canal de atención al usuario</h3>
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
-      </div>
-      <div class="col-md-3 text-center">
-        <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
-        <h3 class="titleConcesionado">Sistema de planificación</h3>
-      </div>
-
-    </div>-->
 
     <div class="row marginBottom">
         <div class="col-md-12">
@@ -138,7 +107,7 @@ id: tecnologia en el transporte colectivo
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-12">
-          <h2>Agencia de Gobierno</h2>
+          <h2>Gobiernos</h2>
           <br>
           <p>¿Quieres mejorar el sistema de transporte público de tu ciudad?</p>
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>

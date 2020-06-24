@@ -22,26 +22,28 @@ id: transporte-concesionado
         <h2>Government benefits</h2>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-4 marginBottom">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Supervise your own drivers thanks to user feedback</h3>
+        <p class="lead">Supervise your own drivers thanks to user feedback</p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 marginBottom">
         <img src="img/icon-optimizacionV2.svg">
-        <h3>Improve frequencies and schedules.</h3>
+        <p class="lead">Improve frequencies and schedules.</p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 marginBottom">
         <img src="img/icon-mejoraV2.svg">
-        <h3>Improve the service</h3>
+        <p class="lead">Improve the service</p>
       </div>
 
-      <div class="col-md-4 col-md-offset-2">
+      <div class="clearfix"></div>
+
+      <div class="col-md-4 col-md-offset-2 marginBottom">
         <img src="img/icon-encuestaV2.svg">
-        <h3>Greater closeness with citizens through surveys and immediate feedback on public policy.</h3>
+        <p class="lead">Greater closeness with citizens through surveys and immediate feedback on public policy.</p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 marginBottom">
         <img src="img/icon-inovaciónV2.svg">
-        <h3>Design and implementation of innovative public policy</h3>
+        <p class="lead">Design and implementation of innovative public policy</p>
       </div>
     </div>
 
@@ -49,7 +51,7 @@ id: transporte-concesionado
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalGobierno">
-          Book a demo
+          More info
         </button>
       </div>
     </div>
@@ -61,7 +63,10 @@ id: transporte-concesionado
         <h3>Goverments we work with:</h3>
         <ul class="list-transportistas">
           <li>
-            <img src="img/logo-municipio-san-pedro.png" style="width: 200px !important;">
+            <a href="https://www.jetty.mx/update/2020/05/13/jetty-llega-a-san-pedro-garza-garcia.html"><img src="img/logo-municipio-san-pedro.png" style="width: 200px !important;"></a>
+          </li>
+          <li>
+            <a href="https://www.jetty.mx/update/2020/05/25/jetty-apoyo-personal-medico-toluca.html"><img src="img/edomex.png" style="width: 200px !important;"></a>
           </li>
         </ul>
       </div>

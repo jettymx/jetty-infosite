@@ -1667,6 +1667,10 @@ ul.list-transportistas li img{
   width: 100px;
 }
 
+ul.list-transportistas li img.big{
+  width: 260px !important;
+}
+
 /*///// TRANSPORTE CONCESIONAD /////*/
 .concesionado{
   margin-top: 100px;

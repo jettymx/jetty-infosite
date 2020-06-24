@@ -16,26 +16,26 @@ id: transporte de personal y escolar
 
       <div class="col-md-4">
         <img src="img/icon-valorAgregado.svg">
-        <h3>Add value for your customers by offering technology to monitor vehicle location, hours and pickup/dropoff points</h3>
+        <p class="lead">Add value for your customers by offering technology to monitor vehicle location, hours and pickup/dropoff points</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
-        <h3>Supervise your own drivers thanks to user feedback</h3>
+        <p class="lead">Supervise your own drivers thanks to user feedback</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
-        <h3>Improve frequencies and schedules.</h3>
+        <p class="lead">Improve frequencies and schedules.</p>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <h3>Improve the service</h3>
+        <p class="lead">Improve the service</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Training for drivers in customer service and gender perspective.</h3>
+        <p class="lead">Training for drivers in customer service and gender perspective.</p>
       </div>
 
       <div class="clearfix marginBottom"></div>

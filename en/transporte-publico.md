@@ -28,30 +28,30 @@ id: transporte-concesionado
 
       <div class="col-md-4">
         <img src="img/icon-Mediopago.svg">
-        <h3>Greater control over operation and income by reducing cash handling</h3>
+        <p class="lead">Greater control over operation and income by reducing cash handling</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
-        <h3>Supervise your own drivers thanks to user feedback</h3>
+        <p class="lead">Supervise your own drivers thanks to user feedback</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
-        <h3>Improve frequencies and schedules.</h3>
+        <p class="lead">Improve frequencies and schedules.</p>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <h3>Improve the service</h3>
+        <p class="lead">Improve the service</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-inovacionV2.svg">
-        <h3>Our technology shows the user that concessional transport can also innovate.</h3>
+        <p class="lead">Our technology shows the user that concessional transport can also innovate.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Training for drivers in customer service and gender perspective.</h3>
+        <p class="lead">Training for drivers in customer service and gender perspective.</p>
       </div>
 
       <div class="clearfix marginBottom"></div>
@@ -78,6 +78,12 @@ id: transporte-concesionado
           </li>
           <li>
             <img src="img/logo-transportesTangamanga.png">
+          </li>
+          <li>
+            <img src="img/Estrella-noreste.png" class="big">
+          </li>
+          <li>
+            <img src="img/Transportes-valle-de-toluca.png">
           </li>
         </ul>
       </div>
