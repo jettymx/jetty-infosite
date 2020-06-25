@@ -13,22 +13,22 @@
             <a href="{{site.baseurl}}/quienes">Quiénes somos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-privado" target="_self">Transporte privado</a>
+            <a href="{{site.baseurl}}/transporte-de-personal-y-escolar" target="_self">Transporte de personal y escolar</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-publico" target="_self">Transporte público</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Transporte gobierno</a>
+            <a href="{{site.baseurl}}/transporte-gobierno" target="_self">Agencia de Gobierno</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
+            <a href="{{site.baseurl}}/cobertura" target="_self">Cobertura</a>
           </li>
           <li>
             <a href="{{site.baseurl}}/transporte-eventos" target="_self">Eventos</a>
           </li>
           <li>
-            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
+            <a href="{{site.baseurl}}/vacantes" target="_self">Trabaja con nosotros</a>
           </li>
         </ul>
       </div>
@@ -53,11 +53,14 @@
           <li>
             <a href="{{site.baseurl}}/bolsa-trabajo-conductor" target="_self">Bolsa de trabajo conductores</a>
           </li>
+          <li>
+            <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
+          </li>
         </ul>
       </div>
 
       <div class="col-md-4 footer-downapp">
-        <p class="text-downapp">Descarga la app.</p>
+        <p class="text-downapp">Descarga la app</p>
 
           <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
             <img src="{{ site.baseurl }}/img/jetty-iOS.png" alt="Jetty Descargar iOS">

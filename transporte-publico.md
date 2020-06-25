@@ -28,31 +28,33 @@ id: transporte-concesionado
 
       <div class="col-md-4">
         <img src="img/icon-Mediopago.svg">
-        <h3>Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</h3>
+        <p class="lead">Mayor control sobre la operación y la caja al reducir el manejo de efectivo.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-conductorV2.svg">
-        <h3>Supervisión de conductores gracias a retroalimentación de los usuarios.</h3>
+        <p class="lead">Supervisión de conductores gracias a retroalimentación de los usuarios.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-rutasV2.svg">
-        <h3>Optimización de frecuencias y horarios.</h3>
+        <p class="lead">Optimización de frecuencias y horarios.</p>
       </div>
 
       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <h3>Mejora del servicio.</h3>
+        <p class="lead">Mejora del servicio.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-inovacionV2.svg">
-        <h3>Demostrar al usuario que el transporte concesionado también puede innovar.</h3>
+        <p class="lead">Demostrar al usuario que el transporte concesionado también puede innovar.</p>
       </div>
       <div class="col-md-4">
         <img src="img/icon-capacitacionV2.svg">
-        <h3>Capacitación a los conductores en servicio al cliente y perspectiva de género.</h3>
+        <p class="lead">Capacitación a los conductores en servicio al cliente y perspectiva de género.</p>
       </div>
+
+       <div class="clearfix marginBottom"></div>
 
       <div class="col-md-12 text-center">
         <button type="button" class="btn btn-gray" data-toggle="modal" data-target="#ModalConcesionado">
@@ -76,6 +78,12 @@ id: transporte-concesionado
           </li>
           <li>
             <img src="img/logo-transportesTangamanga.png">
+          </li>
+          <li>
+            <img src="img/Estrella-noreste.png" class="big">
+          </li>
+          <li>
+            <img src="img/Transportes-valle-de-toluca.png">
           </li>
         </ul>
       </div>

@@ -1,7 +1,7 @@
 ---
-layout: default-en
-title: Jetty | The Best Transportation Solution for your Event
-description: Organize or go to an event and look for transportation. Do you consider renting a van with driver? We adapt to your needs at the best price.
+layout: default
+title: Jetty | La Mejor Solución de Transporte para tu Evento
+description: Organizas o vas a un evento y estás buscando transporte. ¿Consideras rentar una camioneta con chofer? Nos adaptamos a tu necesidad al mejor precio.
 id: transporte-eventos
 ---
 
@@ -10,20 +10,21 @@ id: transporte-eventos
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1>Are you looking for a charter?</h1>
+        <h1>¿Estás buscando transporte para un evento?</h1>
+        <h1>¿Consideras rentar una camioneta con conductor?</h1>
       </div>
 
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3>We can adapt to your needs at the best price to solve your transportation needs.</h3>
+        <h3>Nos adaptamos a tus necesidades, con el mejor precio para transportarte.</h3>
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
-          Quote
+          Cotiza
         </button>
       </div>
     </div>
 
     <div class="row tipo-eventos">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Whether you organize or attend a massive event, we have the solution for you.</h2>
+        <h2>¿Cuál es tu necesidad? </h2>
       </div>
 
       <div class="col-md-12 eventos">
@@ -32,7 +33,7 @@ id: transporte-eventos
             <figure>
               <img src="img/evento-deportivo.jpg" alt="Jetty, Evento deportivo">
               <figcaption>
-                <h3>Sport Events</h3>
+                <h3>Evento Deportivo</h3>
               </figcaption>
             </figure>
           </li>
@@ -40,7 +41,7 @@ id: transporte-eventos
             <figure>
               <img src="img/evento-boda.jpg" alt="jetty, Evento boda">
               <figcaption>
-                <h3>Wedding</h3>
+                <h3>Boda</h3>
               </figcaption>
             </figure>
           </li>
@@ -48,7 +49,7 @@ id: transporte-eventos
             <figure>
               <img src="img/evento-concierto.jpg" alt="jetty, Evento Concierto">
               <figcaption>
-                <h3>Concert</h3>
+                <h3>Concierto</h3>
               </figcaption>
             </figure>
           </li>
@@ -56,15 +57,15 @@ id: transporte-eventos
             <figure>
               <img src="img/evento-empresarial.jpg" alt="jetty, Evento Empresarial">
               <figcaption>
-                <h3>Business Event</h3>
+                <h3>Evento Empresarial</h3>
               </figcaption>
             </figure>
           </li>
-          <li>
+          <li >
             <figure>
               <img src="img/evento-ecoturismo.jpg" alt="jetty, Evento ecoturismo">
               <figcaption>
-                <h3>Tourism</h3>
+                <h3>Turismo</h3>
               </figcaption>
             </figure>
           </li>
@@ -72,84 +73,32 @@ id: transporte-eventos
       </div>
     </div>
 
-    <div class="row tour">
-      <div class="col-md-12 text-center" data-aos="fade">
-        <h2>Our Tours</h2>
-      </div>
-    </div>
-
-    <div class="row tour" data-aos="fade">
-
-      <div class="col-md-4">
-        <img src="{{site.baseurl}}/img/muralismo-tour.jpg" alt="Tours Time Out Jetty">
-        <h3>Nuevo Muralismo Mexicano</h3>
-        <p>We take you to get to know the work of urban artists like Smithe, Curiot, Jesús Benítez “Dhear” and Collective Germen.</p>
-        <p><b>Price:</b><br> $980 MXN</p>
-        <p><b>Duration: 5hrs</b></p>
-        <p><b>It includes:</b> Guía, lunch y transporte</p>
-        <p><b>Next date:</b> 11 de mayo</p>
-        <br>
-        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourMuralismo">
-          Schedule
-        </button>
-        <a href="tours/nuevo-muralismo-mexicano" class="btn btn-dark-gray-small">More information</a>
-      </div>
-
-      <div class="col-md-4">
-        <img src="{{site.baseurl}}/img/mercado-san-juan-tour.jpg" alt="Tours Time Out Jetty">
-        <h3>Mercado de San Juan</h3>
-        <p>In addition to eating in places like Triana Café Gourmet and Las Tapas de San Juan, you will have a cooking class with chef Bernardo Bukantz.</p>
-        <p><b>Price:</b><br> $2,890 MXN</p>
-        <p><b>Duration: 6hrs</b></p>
-        <p><b>It includes:</b> Guía, comida y transporte</p>
-        <p><b>Next date:</b> 18 de mayo</p>
-        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourMercado">
-          Schedule
-        </button>
-        <a href="tours/mercado-san-juan" class="btn btn-dark-gray-small">More information</a>
-      </div>
-
-      <div class="col-md-4">
-        <img src="{{site.baseurl}}/img/santa-maria-la-ribera-tour.jpg" alt="Tours Time Out Jetty">
-        <h3>Santa María la Ribera</h3>
-        <p>You will visit places like the Morisco Kiosk, the Geology Museum, Casa Equis, María Ciento 38 and Casa Nool.</p>
-        <p><b>Price:</b><br> $990 MXN</p>
-        <p><b>Duration: 6hrs</b></p>
-        <p><b>It includes:</b> Guía, desayuno, comida y transporte</p>
-        <p><b>Next date:</b> 25 de mayo</p>
-        <button type="button" class="btn btn-gray-small" data-toggle="modal" data-target="#ModalTourSantamaria">
-          Schedule
-        </button>
-        <a href="tours/santa-maria" class="btn btn-dark-gray-small">Más información</a>
-      </div>
-
-    </div>
-
-
     <div class="row incluye-eventos">
       <div class="col-md-8 col-md-offset-2">
-        <h2 class="text-center">Our service includes:</h2>
+        <h2 class="text-center">Nuestro servicio incluye:</h2>
       </div>
 
       <div class="col-md-4 text-center">
         <img src="img/chofer.png" class="img-servicios">
-        <h3>OProfessional Drivers</h3>
-        <p>The driver underwent a strict selection process that included interviews, toxicological tests and psychometric evaluations, among others.</p>
+        <h3>Conductores profesionales</h3>
+        <p>Nuestros conductores pasan por un proceso estricto de selección, que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/interiores.png" class="img-servicios">
-        <h3>Equipment</h3>
-        <p>Air conditioning in cabin and for passengers, 4 USB chargers per row, GPS, Security cameras indoors and outdoors.</p>
+        <h3>Equipamiento</h3>
+        <p>Todos nuestros viajes son monitoreados por nuestro equipo de soporte.</p>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/camionetas.png" class="img-servicios">
-        <h3>New Vehicles</h3>
-        <p>Crafter VW - 19pax <br> Transit Ford - 14 y 17pax</p>
+        <h3>Vehículos nuevos</h3>
+        <p>
+          Caddy - 6 pax <br> Urvan - 13 pax <br> Transit - 14 y 17 pax <br> Crafter - 19 pax <br> Linner G - 41-45 <br> Hiace - 14 pax <br> Sprinter - 20 pax
+        </p>
       </div>
 
       <div class="col-md-8 col-md-offset-2 text-center">
         <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
-          Quote
+          Cotiza
         </button>
       </div>
     </div>
@@ -158,250 +107,29 @@ id: transporte-eventos
   </div>
 </div>
 
-
 <!-- Modal Eventos -->
 <div class="modal fade" id="ModalEventos" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y nos pondremos en contacto</h4>
       </div>
 
-      <form class="js--form-events">
-        <div class="modal-body">
+      <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
 
-            <div class="col-md-6 form-group">
-              <label  for="name">Nombre</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="30"
-                      name="name"
-                      placeholder="Nombre" />
-            </div>
+    </div>
+  </div>
+</div>
 
-            <div class="col-md-6 form-group">
-              <label  for="lastname">Apellido</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="60"
-                      name="lastname"
-                      placeholder="Apellido" />
-            </div>
+<!-- Modal Tropico -->
+<div class="modal fade" id="ModalTropico" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
 
-            <div class="col-md-6 form-group">
-              <label for="mail">Correo electrónico</label>
-              <input  type="email"
-                      class="form-control"
-                      required
-                      maxlength="60"
-                      name="email"
-                      placeholder="Correo electrónico" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="cellphone">Número telefónico</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="20"
-                      name="phone"
-                      placeholder="Número telefónico">
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="eventname">¿Cómo se llama el evento?</label>
-              <input  type="text"
-                      class="form-control"
-                      required
-                      maxlength="150"
-                      name="eventname"
-                      placeholder="">
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="company">¿Eres uno de los organizadores?</label>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="organizer"
-                          value="true"
-                          checked>
-                  Sí
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="organizer"
-                          value="false">
-                  No
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="company">¿Cuál es tu necesidad?</label>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Viaje sencillo" checked>
-                  Viaje sencillo
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Viaje redondo">
-                  Viaje redondo
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="trip"
-                          value="Vueltas constantes">
-                  Vueltas constantes
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="company">¿Número de asistentes?</label>
-            </div>
-            <div class="col-md-6 form-group">
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="1-14" checked>
-                  1 a 14
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="15-19">
-                  15 a 19
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="20-28">
-                  20 a 28
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="29-38">
-                  29 a 38
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="39-58">
-                  39 a 58
-                </label>
-              </div>
-              <div class="radio">
-                <label>
-                  <input  type="radio"
-                          name="people"
-                          value="+59">
-                  Más de 59
-                </label>
-              </div>
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="adress">Dirección de salida</label>
-              <input  type="text"
-                      class="form-control"
-                      name="origin_address"
-                      maxlength="200"
-                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="datetimepicker-event-1">Fecha de salida</label>
-              <div class='input-group date'>
-                <input  type='text'
-                        class="form-control event-date-picker"
-                        id='datetimepicker-event-1'
-                        maxlength="20"
-                        name="origin_date"
-                        placeholder="Día / Mes / Año"/>
-                <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                </span>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="timepicker-event-1">Hora de salida</label>
-              <input  type="text"
-                      id="timepicker-event-1"
-                      maxlength="20"
-                      class="form-control event-time-picker"
-                      name="origin_time"
-                      placeholder="AM / PM" />
-            </div>
-
-            <div class="col-md-12 form-group">
-              <label for="adress">Dirección de Llegada</label>
-              <input  type="text"
-                      class="form-control"
-                      maxlength="200"
-                      name="destination_address"
-                      placeholder="Calle, Nº, Colonia, Delegación, Ciudad, Estado" />
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="datetimepicker-event-2">Fecha de regreso  </label>
-              <div class='input-group' data-date-format="dd/mm/yyyy">
-                <input  type='text'
-                        class="form-control event-date-picker"
-                        id='datetimepicker-event-2'
-                        maxlength="20"
-                        name="destination_date"
-                        placeholder="Día / Mes / Año" />
-                <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
-                </span>
-              </div>
-            </div>
-
-            <div class="col-md-6 form-group">
-              <label for="timepicker-event-2">Hora de regreso </label>
-              <input  type="text"
-                      class="form-control event-time-picker"
-                      id="timepicker-event-2"
-                      maxlength="20"
-                      name="destination_time"
-                      placeholder="AM / PM">
-            </div>
-
-        </div>
-        <div class="clearfix"></div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
-        </div>
-      </form>
+      <div class="_form_7"></div><script src="https://jetty.activehosted.com/f/embed.php?id=7" type="text/javascript" charset="utf-8"></script>
 
     </div>
   </div>
@@ -427,6 +155,7 @@ id: transporte-eventos
     </div>
   </div>
 </div>
+
 
 <!-- MODAL TOURS MURALISMO-->
 <div class="modal fade" id="ModalTourMuralismo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -598,3 +327,4 @@ id: transporte-eventos
     </div>
   </div>
 </div>
+

@@ -6,6 +6,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+img.imgResponsive{
+  width: 100%;
+}
+
 .img-display{
   display: none;
 }
@@ -516,15 +520,48 @@ img.img-como-funciona{
 }
 
 .header-index{
-margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .header-text{
   margin-top: 180px;
 }
 
+.headerIndexTop{
+  margin-top: 120px;
+  margin-bottom: 60px;
+}
+
+.textIndexTop{
+  margin-top: 40px;
+}
+
+a.indexClientes{
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a.indexClientes:hover{
+  color: #2D414D;
+}
+
+a.indexClientes img{
+  color: #ffffff;
+  width: 40%;
+}
+
 .como{
   margin-top: 80px;
+}
+
+.indexSubseccion{
+  margin-bottom: 60px;
+}
+
+.indexSubseccion h2{
+  color: white
 }
 
 /*/// Tabs Index ///*/
@@ -617,6 +654,15 @@ ul.como-funciona-tabs-list{
 }
 .testimonios h1{
   margin-bottom: 40px;
+}
+
+.appsScreens{
+  float: left;
+  width: 16%;
+}
+
+.appsScreens p{
+  color: #2D414D;
 }
 
 
@@ -1270,7 +1316,7 @@ img.logos{
   margin-bottom: 50px;
 }
 
-.reconocimientos h1{
+.reconocimientos h1{§
   color: #7e8080;
 }
 
@@ -1307,6 +1353,53 @@ img.logos{
 
 .beneficio p{
   color: #ffffff;
+}
+
+ul.beneficiosList{
+  list-style: none;
+  padding: 0;
+}
+
+ul.beneficiosList li{
+  margin-bottom: 30px;
+  float: left;
+  padding: 10px;
+  width: 33%;
+}
+
+ul.beneficiosList li h3{
+  font-weight: 700;
+}
+
+ul.beneficiosList li div{
+  width: 100%;
+}
+
+ul.beneficiosList li img{
+  width: 100px;
+}
+
+ul.listAdicionales{
+  /*list-style: none;*/
+  padding: 0;
+  padding-left: 20px;
+}
+
+ul.listAdicionales li{
+  margin-bottom: 30px;
+}
+
+/*ul.listAdicionales li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  width: 0;
+  margin-left: -1em;
+}*/
+
+ul.listSubAdicionales li{
+  margin-bottom: 0px !important;
 }
 
 /*////// TOURS //////*/
@@ -1442,9 +1535,9 @@ figure.header-tours img.back {
   font-weight: 800
 }
 
-.transportista button{
+/*.transportista button{
   margin-top: 40px;
-}
+}*/
 
 .trabajar h2{
   margin-bottom: 40px
@@ -1574,6 +1667,10 @@ ul.list-transportistas li img{
   width: 100px;
 }
 
+ul.list-transportistas li img.big{
+  width: 260px !important;
+}
+
 /*///// TRANSPORTE CONCESIONAD /////*/
 .concesionado{
   margin-top: 100px;
@@ -1584,7 +1681,7 @@ ul.list-transportistas li img{
 }
 
 .concesionado h3{
-  color: #596972;
+  color: #2D414D;
   font-weight: 700;
 }
 
@@ -2890,6 +2987,20 @@ img.imgCovidMedidas{
 
 }
 
+@media screen and (max-width: 600px){
+
+  ul.beneficiosList li{
+    width: 100%;
+  }
+
+  .appsScreens{
+    float: left;
+    margin-bottom: 40px;
+    width: 100%;
+  }
+
+}
+
 @media screen and (max-width: 375px){
 
   .header p{
@@ -2906,6 +3017,10 @@ img.imgCovidMedidas{
 
   .beneficio{
     min-height: 300px;
+  }
+
+  ul.beneficiosList li{
+    width: 100%;
   }
 
 }
