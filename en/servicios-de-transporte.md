@@ -1,7 +1,7 @@
 ---
 layout: default-en
-title: Jetty | Jetty en el transporte público concesionado.
-description: Lleva los beneficios de la tecnología Jetty al transporte público concesionado.
+title: Jetty | Transit Services
+description: You can reserve your seat with the app, you will always arrive comfortable and safe.
 id: servicios de transporte
 ---
 

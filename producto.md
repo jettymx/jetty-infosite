@@ -113,6 +113,22 @@ id: tecnologia en el transporte colectivo
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
+
+      <div class="col-md-12 text-center">
+        <h2>Quienes nos respaldan</h2>
+        <ul class="clientes">
+          <li>
+            <a href="https://www.jetty.mx/update/2019/05/06/finalista-del-keeling-curve-prize.html"><img src="imgs-prensa/MIT-IIC.png" style="width: 100px;"></a>
+          </li>
+          <li>
+            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="imgs-prensa/keeling-curve.png"></a>
+          </li>
+          <li>
+            <a href="https://www.jetty.mx/update/2020/05/25/jetty-apoyo-personal-medico-toluca.html"><img src="imgs-prensa/bid.png"></a>
+          </li>
+        </ul>
+      </div>
+
     </div>
 
     <hr style="margin-bottom: 60px; opacity: 0">
