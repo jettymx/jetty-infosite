@@ -64,6 +64,21 @@ id: nuestro-servicio
               <img src="imgs-prensa/verifone.png">
             </a>
           </li>
+          <li>
+            <a href="https://hutchisonportstng.com" target="_blank">
+              <img src="imgs-prensa/TNG-logotipo.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img src="imgs-prensa/inlod.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img src="imgs-prensa/sms.png">
+            </a>
+          </li>
         </ul>
       </div>
 

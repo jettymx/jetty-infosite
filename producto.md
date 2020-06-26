@@ -109,7 +109,7 @@ id: tecnologia en el transporte colectivo
         <div class="col-md-12">
           <h2>Gobiernos</h2>
           <br>
-          <p>¿Quieres mejorar el sistema de transporte público de tu ciudad?</p>
+          <p>¿Quieres desarrollar una política pública innovadora para mejorar el sistema de transporte público de tu ciudad?</p>
           <a href="/transporte-gobierno" class="btn btn-gray">Conoce más</a>
         </div>
       </div>
