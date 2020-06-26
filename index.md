@@ -18,7 +18,7 @@ priority: 1.0
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <h1>Tecnología para el transporte colectivo.</h1>
         <br>
-        <p class="lead">Lleva lleva los beneficios de la tecnología Jetty a tu empresa de transporte público, de personal, turístico o escolar, mejorando la experiencia del usuario; contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades</p>
+        <p class="lead">Lleva lleva los beneficios de la tecnología Jetty a tu empresa de transporte público, de personal, turístico o escolar, mejorando la experiencia del usuario; contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades.</p>
         <p class="text-downapp-index">Descarga la app.</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">

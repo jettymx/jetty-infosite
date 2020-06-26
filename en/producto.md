@@ -1,7 +1,7 @@
 ---
 layout: default-en
-title: Jetty | Tecnología en el transporte colectivo
-description: Lleva los beneficios de la tecnología Jetty al transporte colectivo.
+title: Jetty | Our product
+description: We got products that you can implement in your own transit system
 id: tecnologia en el transporte colectivo
 ---
 
@@ -10,21 +10,21 @@ id: tecnologia en el transporte colectivo
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h1 class="titleConcesionado">We got products that you can implement in your own transit system</h1>
+        <h1 class="titleConcesionado">We have different products ready to implement:</h1>
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Seat booking system</h3>
+        <h3>In advance seat-booking system</h3>
         <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>Payment with QR</h3>
+        <h3>Payment through QR code</h3>
         <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-        <h3>System to rate drivers</h3>
+        <h3>Driver and ride rating system</h3>
         <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
       </div>
 
@@ -52,11 +52,11 @@ id: tecnologia en el transporte colectivo
         </div>
         <div class="col-md-4">
           <img src="img/icon-administrarV2.svg">
-          <p class="lead">Manage information of units, drivers, routes and frecuency</p>
+          <p class="lead">Managing information of vehicles, drivers, routes and frequencies</p>
         </div>
         <div class="col-md-4">
           <img src="img/icon-retroV2.svg">
-          <p class="lead">Have a feedback channel</p>
+          <p class="lead">Having a feedback channel</p>
         </div>
       </div>
 
@@ -66,14 +66,14 @@ id: tecnologia en el transporte colectivo
         </div>
 
         <div class="col-md-12">
-          <p class="lead">Jetty technology allows to identify and locate demand for collective transit services with the data provided by users when they have requested or booked a seat through the app</p>
+          <p class="lead">The technology developed by Jetty allows identifying and locating demand for collective transportation services based on the data automatically provided by the users once they sign up, request a service, book a seat in advance or pay with QR code through the app.</p>
         </div>
       </div>
 
       <div class="row caracteristicas">
 
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
-        <h1>We got three products:</h1>
+        <h1>We have 3 types  of service</h1>
       </div>
 
       <div class="clearfix"></div>
@@ -109,13 +109,29 @@ id: tecnologia en el transporte colectivo
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-12">
-          <h2>Government agency</h2>
+          <h2>Government</h2>
           <br>
           <p>Do you want to improve the transit system in your city?</p>
           <br>
           <a href="/en/transporte-gobierno" class="btn btn-gray">Read more</a>
         </div>
       </div>
+
+      <div class="col-md-12 text-center">
+        <h2>Who support us</h2>
+        <ul class="clientes">
+          <li>
+            <a href="https://www.jetty.mx/update/2019/05/06/finalista-del-keeling-curve-prize.html"><img src="imgs-prensa/MIT-IIC.png" style="width: 100px;"></a>
+          </li>
+          <li>
+            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="imgs-prensa/keeling-curve.png"></a>
+          </li>
+          <li>
+            <a href="https://www.jetty.mx/update/2020/05/25/jetty-apoyo-personal-medico-toluca.html"><img src="imgs-prensa/bid.png"></a>
+          </li>
+        </ul>
+      </div>
+
     </div>
 
     <hr style="margin-bottom: 60px; opacity: 0">

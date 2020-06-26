@@ -1,7 +1,7 @@
 ---
 layout: default-en
 title: Jetty | Solve your commute in Mexico.
-description: Transportation App, Enjoy a Comfortable, Fast and Safe Daily Transportation on Board Executive Trucks with Verified Drivers.
+description: Bring the benefits of Jetty’s technology to collective transportation, improving the user experience, contributing to the modernization of  the  industry and  improving the mobility in the cities
 image: https://www.jetty.mx/img/Jetty_MX.png
 id: Home
 priority: 1.0
@@ -18,8 +18,8 @@ priority: 1.0
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <h1>Collective Transportation Technology</h1>
         <br>
-        <p class="lead">Bring the benefits of Jetty’s technology to collective transportation, improving the user experience, contributing to the modernization of  the  industry and  improving the mobility in the cities</p>
-        <p class="text-downapp-index">Download the app</p>
+        <p class="lead">Bring the benefits of Jetty’s technology to collective transportation, improving the user experience, contributing to the modernization of  the  industry and  improving the mobility in the cities.</p>
+        <p class="text-downapp-index">Download the app.</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
           <img src="img/jetty-iOS-en.png" alt="Jetty Descargar iOS">
