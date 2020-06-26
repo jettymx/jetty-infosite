@@ -16,17 +16,17 @@ priority: 1.0
         <img src="img/jetty-app.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
       </div>
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <h1>Collective Transit Technology</h1>
+        <h1>Collective Transportation Technology</h1>
         <br>
-        <p class="lead">Bring the benefits of our technology to collective transit, improving the user experience and contributing to the modernization of the sector</p>
+        <p class="lead">Bring the benefits of Jetty’s technology to collective transportation, improving the user experience, contributing to the modernization of  the  industry and  improving the mobility in the cities</p>
         <p class="text-downapp-index">Download the app</p>
 
          <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
+          <img src="img/jetty-iOS-en.png" alt="Jetty Descargar iOS">
         </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
+          <img src="img/jetty-android-en.png" alt="Jetty Descargar Android">
         </a>
       </div>
     </div>
@@ -40,11 +40,11 @@ priority: 1.0
       </div>
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="400">
         <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Customer support</h3>
+        <h3 class="titleConcesionado">Customer support channel</h3>
       </div>
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Tools to monitor operation</h3>
+        <h3 class="titleConcesionado">Monitoring and supervising tools for the operation</h3>
       </div>
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
         <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
