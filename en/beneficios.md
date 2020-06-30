@@ -22,21 +22,21 @@ id: beneficios
               <img src="img/icono-plataforma.png">
             </div>
             <h3>Platform as a service</h3>
-            <p>All companies use the same platform configured in different ways. This makes it much more cost efficient and faster to implement. It also means that you will have access to improvements and new features as they become available.</p>
+            <p>Our clients use the same platform, but with a  different configuration, this makes it highly efficient in terms of costs and time.  Additionally, you will have access to updates and new features as soon as they are available.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-solucion.png">
             </div>
             <h3>Low risk solution</h3>
-            <p>Our technology is ready to be implemented. In less than 2 weeks it will be working. It is validated by real users so it significantly reduces the risk of implementation</p>
+            <p>Our technology is ready to be implemented, and within 2 weeks it can be running at full capacity. It is validated by our users, which reduces the risk of implementation.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-actualizacion.png">
             </div>
             <h3>Continuous updates</h3>
-            <p>Our deal is the developing of technology and therefore we know that it is constantly evolving. That is why our team works daily to implement improvements to the platform.</p>
+            <p>Our specialty is technology and as  you know it evolves constantly. Our team works everyday on improving and updating our platform.</p>
           </li>
           <div class="clearfix"></div>
           <li>
@@ -44,35 +44,35 @@ id: beneficios
               <img src="img/icono-escalable.png">
             </div>
             <h3>Scalable Model</h3>
-            <p>All our technology works in the cloud, so in addition to having access to world-class infrastructure, we can increase capacity while we grow with you.</p>
+            <p>All our technology works in the cloud, so in addition to having access to world-class infrastructure, we can increase capacity as we grow together.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-configurable.png">
             </div>
             <h3>Adaptability</h3>
-            <p>We have the ability to work with different types of services and all can be configured by the client: registration and modification of routes, price changes, etc.</p>
+            <p>We have the ability to work with different types of services: flexible routes, fixed routes.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-reporte.png">
             </div>
             <h3>Real-time reporting</h3>
-            <p>You got access to the administration platform to monitor in real time all the data (sales, users, ratings, etc.). With these data you will have better planning and make better decisions</p>
+            <p>You will have access to the administration platform, which gives you access to real-time data or KPIs (sales, users, ratings, etc.). These inputs will lead to data-driven decision making.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-asistencia.png">
             </div>
             <h3>Additional assistance</h3>
-            <p>Our platform allows drivers to know if users have special needs, with the intention of always being able to give them the best care.</p>
+            <p>Our platform allows drivers to be aware in case a user has special needs with the intention of always providing the best experience to the users.</p>
           </li>
           <li>
             <div class="text-center">
               <img src="img/icono-equipos.png">
             </div>
             <h3>No need for expensive equipment</h3>
-            <p>There is no need to make heavy investments in hardware. The only investment in equipment that you will have to make is in a cell phone.</p>
+            <p>Heavy investments in hardware is not necessary, since we only require a smartphone to offer the service.</p>
           </li>
           <li>
             <div class="text-center">
@@ -86,7 +86,7 @@ id: beneficios
               <img src="img/icono-proceso.png">
             </div>
             <h3>Support during the process</h3>
-            <p>All our clients have access to a group of experts to ensure the best implementation of the technology. Induction and training on the use of the application for drivers, supervisors, administrators, monitoring and support.</p>
+            <p>All of our clients have access to a group of experts to ensure the best implementation of our technology. Onboarding and training will be available for drivers, supervisors, administrators, and the customer support team.</p>
           </li>
           <li>
             <div class="text-center">
