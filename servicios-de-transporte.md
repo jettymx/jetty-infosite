@@ -50,6 +50,30 @@ id: servicios de transporte
       </div>
     </div>
 
+    <hr class="marginBottom" style="opacity: 0">
+
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Transporte público</h1>
+      </div>
+
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-PagoQR.svg" alt="Jetty, Pago código QR">
+        <h3><strong>Prescindir de efectivo</strong></h3>
+        <p>Olvídate de tener que llevar cambio exacto.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-ubicacion.svg" alt="Jetty, Ubicción de unidades">
+        <h3><strong>Ubicación de unidades</strong></h3>
+        <p>Sigue en tiempo real las unidades cerca de ti.</p>
+      </div>
+      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/icon-rutasFrecuencia.svg" alt="Jetty, Frecuencia rutas">
+        <h3><strong>Visibilidad de frecuencias por ruta</strong></h3>
+        <p>Conoce el periodo de espera entre una unidad de otra y planifica tus viajes.</p>
+      </div>
+    </div>
+
     <div class="row como">
       <div class="col-md-12 text-center">
         <h1>¿Cómo funciona?</h1>
