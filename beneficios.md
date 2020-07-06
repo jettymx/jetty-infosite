@@ -60,13 +60,6 @@ id: beneficios
             <h3>Reportes en tiempo real</h3>
             <p>Puedes acceder a la plataforma de administrador y ver en tiempo real toda la información de la plataforma (ventas, usuarios, calificaciones, etc.). A través de la información, podrás planificar mejor y tomar decisiones basadas en datos reales.</p>
           </li>
-          <!-- <li>
-            <div class="text-center">
-              <img src="img/icono-bajo-riesgo.png">
-            </div>
-            <h3>Bajo riesgo y costo</h3>
-            <p>Nuestra plataforma funciona y está validada por usuarios reales por lo que disminuye significativamente el riesgo de implementar tecnología. Adicionalmente, nuestro costo está basado en un % de las ventas de pases.</p>
-          </li> -->
           <li>
             <div class="text-center">
               <img src="img/icono-asistencia.png">
@@ -81,14 +74,6 @@ id: beneficios
             <h3>Sin necesidad de equipos caros</h3>
             <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular. </p>
           </li>
-          <!-- <div class="clearfix"></div> -->
-          <!-- <li>
-            <div class="text-center">
-              <img src="img/icono-seguridad.png">
-            </div>
-            <h3>Seguridad</h3>
-            <p>Contamos con los más altos estándares de seguridad. El intercambio de información se transporta sobre SSL/TLS con un cifrado de 2048 bits. Este es el mismo tipo de cifrado utilizado por sitios seguros como los bancos. Nuestro proveedor de cómputo en la nube cumple con los estándares de seguridad más comunes como ISO 27001, PCI Level 1, Sarbanes-Oxley (SOX), entre otros.</p>
-          </li> -->
           <li>
             <div class="text-center">
               <img src="img/icono-enfoque.png">
@@ -96,7 +81,6 @@ id: beneficios
             <h3>Enfoque en cuentas y no en pases</h3>
             <p>Con nuestra tecnología, logras estar de un modelo basado en pases a un modelo basado en usuarios. Lo que permite tener mucha más información sobre sus tendencias de uso y necesidades.</p>
           </li>
-
           <li>
             <div class="text-center">
               <img src="img/icono-proceso.png">
@@ -104,7 +88,6 @@ id: beneficios
             <h3>Acompañamiento durante el proceso</h3>
             <p>Todos nuestros clientes tienen acceso a expertos para asegurar la mejor implementación de la tecnología: inducción, capacitación sobre el uso de la aplicación a conductores, supervisores, administradores, seguimiento y soporte. </p>
           </li>
-         <!--  <div class="clearfix"></div> -->
           <li>
             <div class="text-center">
               <img src="img/icono-marca.png">
@@ -116,33 +99,6 @@ id: beneficios
 
       </div>
     </div>
-
-    <!-- <div class="clearfix marginBottom"></div> -->
-
-    <!--<div class="row">
-       <div class="col-md-10 col-md-offset-1">
-        <h1>Servicios adicionales</h1>
-      </div>
-
-      <div class="col-md-10 col-md-offset-1 marginBottom">
-        <ul class="listAdicionales">
-          <li><p><b>Capacitación:</b> Podemos capacitar a todos nuestros conductores , tanto de manera presencial como remota, en los siguientes temas:</p>
-            <ul class="listSubAdicionales">
-              <li><p>Servicio al cliente.</p></li>
-              <li><p>Perspectiva de género.</p></li>
-              <li><p>Manejo defensivo.</p></li>
-              <li><p>Seguridad.</p></li>
-              <li><p>Uso de la aplicación.</p></li>
-              <li><p>Higiene (siguiendo los lineamientos más estrictos para reducir riesgo de propagación de Covid-19).</p></li>
-            </ul>
-          </li>
-          <li><p><b>Revisión de antecedentes a conductores:</b> Tenemos la capacidad de revisar los antecedentes criminales, legales, sociales y residenciales de los conductores.</p></li>
-          <li><p><b>Soporte a los usuarios:</b> Podemos ofrecer soporte en tiempo real desde nuestro Centro de Control, atendido por agentes capacitados antes, durante y después del viaje sin importar la modalidad de servicio que se esté usando.</p></li>
-          <li><p><b>Análisis de datos:</b> La tecnología de Jetty permite identificar y ubicar demanda de servicios de transporte colectivo. Tenemos equipo de datos, dedicado a poder identificar tendencias, oportunidades y necesidades de transporte. </p></li>
-        </ul>
-      </div>
-
-    </div>-->
 
     <div class="clearfix marginBottom"></div>
 
