@@ -157,29 +157,6 @@ id: nuestro-servicio
 
   </div>
 
-  <!-- <div class="container">
-    <div class="row tres-puntos" data-aos="fade" data-aos-duration="1000">
-      <div class="col-md-7 col-md-push-3">
-
-        <div class="row">
-          <div class="col-md-12">
-            <h2>Jetty no es un servicio de transporte tradicional</h2>
-
-            <p class="lead">Te ofrecemos diferentes esquemas para adaptarnos a las necesidades de tu organización:</p>
-
-            <p>• Promueve los servicios de Jetty. Podemos crearte un código de descuento.</p>
-            <p>• Cotiza servicios exclusivos para la gente de tu organización.</p>
-            <p>• Subsidia parte o el 100% de viajes de tus colaboradores.</p>
-
-            <br><br>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-  </div> -->
-
 </div>
 
 
@@ -200,26 +177,3 @@ id: nuestro-servicio
     </div>
   </div>
 </div>
-
-<!-- Modal Conductor -->
-<!-- <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
-      </div>
-
-      <div class="modal-body text-center">
-        <div class="row">
-          <div class="col-md-12 center">
-              <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</div> -->
