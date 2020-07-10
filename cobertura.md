@@ -21,10 +21,9 @@ id: cobertura
           <li role="presentation" class="active">
             <a href="#cdmx" aria-controls="cdmx" role="tab" data-toggle="tab"><b>CDMX</b></a>
           </li>
-
-          <li role="presentation">
+          <!-- <li role="presentation">
             <a href="#saltillo" aria-controls="saltillo" role="tab" data-toggle="tab"><b>SALTILLO</b></a>
-          </li>
+          </li> -->
           <li role="presentation">
             <a href="#monterrey" aria-controls="monterrey" role="tab" data-toggle="tab"><b>MONTERREY</b></a>
           </li>
