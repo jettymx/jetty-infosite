@@ -7,6 +7,18 @@ id: tecnologia en el transporte colectivo
 
 <div class="container-fluid gradient">
   <div class="container concesionado">
+
+    <div class="row">
+      <div class="col-md-6">
+        <img src="img/WhiteLabel.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+      </div>
+      <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
+        <h1>Texto del white label</h1>
+        <br>
+        <p class="lead">Lleva lleva los beneficios de la tecnología Jetty a tu empresa de transporte público, de personal, turístico o escolar, mejorando la experiencia del usuario; contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades.</p>
+      </div>
+    </div>
+
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h1 class="titleConcesionado">Tenemos diversos productos que puedes implementar: </h1>
@@ -14,23 +26,23 @@ id: tecnologia en el transporte colectivo
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h3>Sistema de reserva de asiento</h3>
-        <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario" width="100%">
+        <img src="img/1-whitelabel.png" alt="Jetty, Elige una ruta y horario" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h3>Pago con QR</h3>
         <br>
-        <img src="img/app-jetty-pagoQR.png" alt="Jetty, Pago código QR" width="100%">
+        <img src="img/2-qr.png" alt="Jetty, Pago código QR" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h3>Sistema de evaluación de conductores</h3>
-        <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
+        <img src="img/3-rating.png" alt="Jetty, Evaluar conductor" width="100%">
       </div>
 
       <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
         <h3>Canal de atención inmediata a usuarios</h3>
-        <img src="img/app-jetty-atencionUsuarios.png" alt="Jetty, Atencion a usuarios" width="100%">
+        <img src="img/4-soporte.png" alt="Jetty, Atencion a usuarios" width="100%">
       </div>
 
     </div>
