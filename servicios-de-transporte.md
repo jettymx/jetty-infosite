@@ -11,6 +11,7 @@ id: servicios de transporte
     <div class="row">
       <div class="col-md-12">
         <h1>Servicios de transporte</h1>
+        <p class="lead">Traslada la operación de tus rutas y horarios a nuestra plataforma para llegar a miles de usuarios que ya se benefician de la app de transporte de Jetty.</p>
       </div>
     </div>
 

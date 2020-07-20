@@ -13,9 +13,9 @@ id: tecnologia en el transporte colectivo
         <img src="img/WhiteLabel.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
       </div>
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <h1>Texto del white label</h1>
+        <!-- <h1>Texto del white label</h1> -->
         <br>
-        <p class="lead">Lleva lleva los beneficios de la tecnología Jetty a tu empresa de transporte público, de personal, turístico o escolar, mejorando la experiencia del usuario; contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades.</p>
+        <p class="lead">Adquiere la tecnología de Jetty como una marca en blanco para ofrecer a tus usuarios un producto personalizado. No inviertas tiempo valioso en desarrollar una app de transporte cuando ya existe una plataforma lista para utilizar. </p>
       </div>
     </div>
 
