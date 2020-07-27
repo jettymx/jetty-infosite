@@ -109,7 +109,7 @@ id: transporte-eventos
           -Toma de temperatura y gel antibacterial antes de ingresar.<br>
           -Maximización de espacios dentro de la unidad.<br>
           <br>
-          Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores
+          Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores.
         </p>
       </div>
 
