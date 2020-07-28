@@ -64,7 +64,21 @@ id: transporte-eventos
       </div>
     </div>
 
-    <div class="row">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <p style="color: #2D414D">
+        <b>*Medidas de prevención COVID-19</b><br>
+        -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
+        -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
+        -Toma de temperatura y gel antibacterial antes de ingresar.<br>
+        -Maximización de espacios dentro de la unidad.<br>
+        <br>
+        <b>Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores.</b>
+      </p>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="row" style="margin-top: 40px;">
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
         <h2>Al viajar con nosotros, tu experiencia incluye:</h2>
       </div>
@@ -101,17 +115,7 @@ id: transporte-eventos
         <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a>
       </div>
 
-      <div class="col-md-8 col-md-offset-2 text-center" style="margin-top: 40px;">
-        <p style="color: #2D414D">
-          <b>*Medidas de prevención COVID-19</b><br>
-          -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
-          -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
-          -Toma de temperatura y gel antibacterial antes de ingresar.<br>
-          -Maximización de espacios dentro de la unidad.<br>
-          <br>
-          Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores.
-        </p>
-      </div>
+
 
     </div>
 
