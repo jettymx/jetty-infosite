@@ -91,7 +91,7 @@ priority: 1.0
 
     <div class="row marginBottom">
       <div class="col-md-12 text-center">
-        <a href="producto" class="btn btn-gray">Conoce nuestra tecnología</a>
+        <a href="soluciones-tecnologicas" class="btn btn-gray">Conoce nuestra tecnología</a>
       </div>
     </div>
 
