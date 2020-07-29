@@ -8,9 +8,14 @@ id: servicios de transporte
 <div class="container-fluid gradient">
   <div class="container transportista">
 
-    <div class="row">
-      <div class="col-md-12">
+    <div class="row ">
+      <div class="col-md-6">
+        <img src="img/servicios.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+      </div>
+      <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
         <h1>Servicios de transporte</h1>
+        <br>
+        <p class="lead">Traslada la operación de tus rutas y horarios a nuestra plataforma para llegar a miles de usuarios que ya se benefician de la app de transporte de Jetty.</p>
       </div>
     </div>
 

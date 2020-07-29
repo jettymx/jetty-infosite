@@ -40,6 +40,10 @@ a:hover{
   color: #7e8080;
 }
 
+.textGray{
+  color: #2D414D;
+}
+
 .camioneta{
   background: url('/img/underline.png') 10px 34px;
   background-repeat: no-repeat;
@@ -1192,35 +1196,6 @@ ul.clientes li img{
 }
 
 /*////// QUIENES //////*/
-/*figure.header-quienes {
-  position: relative;
-  overflow: hidden;
-}
-
-figure.header-quienes img.back {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.header-quienes figcaption{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 70px;
-}
-
-.header-content-quienes h1{
-  color: white;
-}
-.header-content-quienes h2{
-  color: white;
-}
-.header-content-quienes h3{
-  color: white;
-}*/
-
 .quienes{
   padding-top: 140px;
   padding-bottom: 80px;
@@ -1864,10 +1839,9 @@ ul.indice li{
   margin-bottom: 20px;
 }
 
-.eventos img{
-  /*box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;*/
+/*.eventos img{
   box-shadow: 0 13px 12px -10px rgba(0, 0, 0, 0.5);
-}
+}*/
 
 /*.eventos a{
   margin-top: 50px;
@@ -1950,6 +1924,10 @@ ul.indice li{
   /*box-shadow: 0 13px 12px -10px rgba(0, 0, 0, 0.5);*/
   margin-bottom: 10px;
   width: 300px;
+}
+
+.leftRight{
+  text-align: right;
 }
 
 /*////// COBERTURA //////*/
@@ -2897,21 +2875,9 @@ img.imgCovidMedidas{
   }
 
   /*///// INDEX V2 /////*/
-  /* .lottie-trasnporte{
-    margin: 20px auto 0 auto;
-  }*/
-
-  /* .header-index{
-  margin-bottom: 50px;
-  }*/
-
   .header-text{
     margin-top: 0px;
   }
-
-  /*.como{
-    margin-top: 80px;
-  }*/
 
   .txt-left{
     position: relative;
@@ -2940,15 +2906,6 @@ img.imgCovidMedidas{
   .arrow-hidden{
     display: none;
   }
-
-  /*.descarga{
-    margin-top: 100px;
-  }
-
-  .testimonios{
-    margin-top: 100px;
-    margin-bottom: 100px;
-  }*/
 
   .lottie-notFound{
     margin: 80px auto 0 auto;
@@ -2997,6 +2954,11 @@ img.imgCovidMedidas{
     float: left;
     margin-bottom: 40px;
     width: 100%;
+  }
+
+  .leftRight{
+    text-align: left;
+    margin-bottom: 20px;
   }
 
 }

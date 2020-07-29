@@ -31,7 +31,7 @@ id: transporte de personal y escolar
 
       <div class="col-md-4">
         <img src="img/icon-servicioV2.svg">
-        <p> class="lead"Mejora del servicio.</p>
+        <p class="lead">Mejora del servicio.</p>
       </div>
 
       <div class="col-md-4">

@@ -21,6 +21,13 @@ id: beneficios
             <div class="text-center">
               <img src="img/icono-plataforma.png">
             </div>
+            <h3>White label</h3>
+            <p>Adquiere la tecnología de Jetty como una marca en blanco para ofrecer a tus usuarios un producto personalizado. No inviertas tiempo valioso en desarrollar una app de transporte cuando ya existe una plataforma lista para utilizar.</p>
+          </li>
+          <li>
+            <div class="text-center">
+              <img src="img/icono-plataforma.png">
+            </div>
             <h3>Plataforma como servicio</h3>
             <p>Todas las empresas usan la misma plataforma configurada de diferentes maneras. Esto hace que sea mucho más eficiente en costos y que sea más rápida para implementar. También significa que tendrás acceso a mejoras y nuevas características en cuanto estén disponibles.</p>
           </li>
@@ -31,6 +38,7 @@ id: beneficios
             <h3>Solución de bajo riesgo</h3>
             <p>Nuestra tecnología está lista para que puedas implementarla y en menos de 2 semanas tenerla funcionando. Está validada por usuarios reales por lo que disminuye significativamente el riesgo de implementar tecnología.</p>
           </li>
+          <div class="clearfix"></div>
           <li>
             <div class="text-center">
               <img src="img/icono-actualizacion.png">
@@ -38,7 +46,7 @@ id: beneficios
             <h3>Actualizaciones constantes</h3>
             <p>Nuestra especialidad es la tecnología y por lo mismo sabemos que evoluciona constantemente. Es por eso que nuestro equipo trabaja diariamente en implementar mejoras a la plataforma. </p>
           </li>
-          <div class="clearfix"></div>
+
           <li>
             <div class="text-center">
               <img src="img/icono-escalable.png">
@@ -74,6 +82,7 @@ id: beneficios
             <h3>Sin necesidad de equipos caros</h3>
             <p>No hay necesidad de hacer inversiones fuertes en hardware. La única inversión en equipo que tendrás que hacer es en un celular. </p>
           </li>
+          <div class="clearfix"></div>
           <li>
             <div class="text-center">
               <img src="img/icono-enfoque.png">
