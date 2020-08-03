@@ -16,7 +16,7 @@ id: vacantes
     <div class="col-md-10 col-md-offset-1 content-vacantes">
 
       <!-- VACANTE 1 -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -141,7 +141,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 4 Android -->
       <!-- <div class="panel panel-default vacante">
@@ -402,7 +402,7 @@ id: vacantes
       </div> -->
 
       <!-- VACANTE 2 -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -425,11 +425,6 @@ id: vacantes
 
             <div class="collapse" id="collapse_a">
               <div class="descripcion">
-                <!-- <p><b>PROPÓSITO GENERAL DEL PUESTO</b>
-                <br>
-                Contribuir a la fuerza de ventas del servicio de transporte de personal a corporativos y a eventos puntuales.</p>
-
-                <br> -->
 
                 <p><b>RESPONSABILIDADES</b></p>
                 <ul>
@@ -560,10 +555,10 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 7 -->
-      <div class="panel panel-default vacante">
+      <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
           <div class="col-md-1">
@@ -696,7 +691,7 @@ id: vacantes
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <!-- VACANTE 3  -->
       <!-- <div class="panel panel-default vacante">
