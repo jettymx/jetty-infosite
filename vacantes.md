@@ -143,7 +143,7 @@ id: vacantes
         </div>
       </div> -->
 
-      <!-- VACANTE 4 Android -->
+      <!-- VACANTE Android -->
       <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -271,7 +271,7 @@ id: vacantes
         </div>
       </div> -->
 
-      <!-- VACANTE 5 iOS -->
+      <!-- VACANTE iOS -->
       <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -401,7 +401,7 @@ id: vacantes
         </div>
       </div> -->
 
-      <!-- VACANTE 2 -->
+      <!-- VACANTE Marketing -->
       <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -557,291 +557,7 @@ id: vacantes
         </div>
       </div> -->
 
-      <!-- VACANTE 7 -->
-      <!-- <div class="panel panel-default vacante">
-        <div class="panel-body">
-
-          <div class="col-md-1">
-            <img src="img/vacante-operaciones.png" width="60">
-          </div>
-
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-8">
-                <p>Puesto<br>
-                <b>Gerente de Comunicación y Alianzas Estratégicas</b></p>
-              </div>
-              <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
-                Ver descripción
-              </a>
-              </div>
-            </div>
-
-            <div class="collapse" id="collapse_4">
-              <div class="descripcion">
-
-                <p><b>Localidad:</b> Ciudad de México</p>
-
-                <p><b>RESPONSABILIDADES</b></p>
-                <ul>
-                  <li>
-                    <p>Generar de contenido para la comunidad de Jetty (redes sociales, mailings, blog, etc.)</p>
-                  </li>
-                  <li>
-                    <p>Crear estrategias de relaciones públicas y comunicación corporativa.</p>
-                  </li>
-                  <li>
-                    <p>Redactar comunicados de prensa y artículos de opinión.</p>
-                  </li>
-                  <li>
-                    <p>Manejo de bases de datos de medios de comunicación.</p>
-                  </li>
-                  <li>
-                    <p>Organización de eventos con la comunidad y medios de comunicación.</p>
-                  </li>
-                  <li>
-                    <p>Informe periódico de rendimiento y métricas de crecimiento al equipo de liderazgo.</p>
-                  </li>
-                  <li>
-                    <p>Crear estrategias de desarrollo de la marca a largo plazo.</p>
-                  </li>
-                  <li>
-                    <p>Participar en la creación de contenidos y escribir copies para comunicación y marketing a usuarios.</p>
-                  </li>
-                  <li>
-                    <p>Cerrar alianzas estratégicas con empresas para posicionar a la marca.</p>
-                  </li>
-                  <li>
-                    <p>Investigar nuevas oportunidades de difusión.</p>
-                  </li>
-                  <li>
-                    <p>Participar en eventos relacionados a la MaaS (asociación de empresas de movilidad).</p>
-                  </li>
-                  <li>
-                    <p>Supervisar el trabajo del área de soporte para mejorar la calidad de la respuesta.</p>
-                  </li>
-                  <li>
-                    <p>Supervisar el uso de la marca y branding en toda la empresa (marketing, cromática, etc.).</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
-                <ul>
-                  <li>
-                    <p>2 años de experiencia en relación con medios, coordinación de equipos de trabajo, experiencia en Relaciones Públicas</p>
-                  </li>
-                  <li>
-                    <p>Dominio de base Office / Google Suite</p>
-                  </li>
-                  <li>
-                    <p>Dominio de herramienta de Mailings</p>
-                  </li>
-                  <li>
-                    <p>Dominio avanzado del idioma inglés</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>HABILIDADES REQUERIDAS</b></p>
-                <ul>
-                  <li>
-                    <p>Habilidades de comunicación escrita para generación de contenido de negocios.</p>
-                  </li>
-                  <li>
-                    <p>Experiencia en el manejo de proyectos.</p>
-                  </li>
-                  <li>
-                    <p>Excepcionales habilidades de comunicación. Es muy importante que esté en constante comunicación con los diferentes equipos (marketing, operaciones) para entender entender sus necesidades de comunicación.</p>
-                  </li>
-                  <li>
-                    <p>Ser humilde, autodidacta, estructurado(a), organizado(a), motivado(a) por la innovación y proactivo(a).</p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación.</p>
-                  </li>
-                  <li>
-                    <p>Investigación y autoaprendizaje de nuevas herramientas.</p>
-                  </li>
-                  <li>
-                    <p>Extremadamente organizado y motivado.</p>
-                  </li>
-                  <li>
-                    <p>Enfocado a resultados.</p>
-                  </li>
-                  <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=Communication and Business Development Manager">liliana@jetty.mx</a> utilizando <b>“Communication and Business Development Manager”</b> como asunto del correo.</p>
-
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </div> -->
-
-      <!-- VACANTE 3  -->
-      <!-- <div class="panel panel-default vacante">
-        <div class="panel-body">
-
-          <div class="col-md-1">
-            <img src="img/vacante-operaciones.png" width="60">
-          </div>
-
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-8">
-                <p>Puesto<br>
-                <b>Community Manager Jr.</b></p>
-              </div>
-              <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
-                Ver descripción
-              </a>
-              </div>
-            </div>
-
-            <div class="collapse" id="collapse_1">
-              <div class="descripcion">
-
-                <p><b>Localidad:</b> Ciudad de México</p>
-                <p><b>Esquema de contratación:</b> Outsourcing de Nómina</p>
-
-                <br>
-
-                <p><b>RESPONSABILIDADES</b></p>
-                <ul>
-                  <li>
-                    <p>Comunicación con la comunidad.</p>
-                  </li>
-                  <li>
-                    <p>Administración de redes sociales.</p>
-                  </li>
-                  <li>
-                    <p>Creación y gestión de contenidos para la comunidad en (FB, IG, TW y LinkedIn); Artículos, Imágenes y videos.</p>
-                  </li>
-                  <li>
-                    <p>Establecer diálogos bidireccionales.</p>
-                  </li>
-                  <li>
-                    <p>Monitoreo de todos los parámetros: engagement, crecimiento comunidad.</p>
-                  </li>
-                  <li>
-                    <p>Humanizar la marca y generar valor.</p>
-                  </li>
-                  <li>
-                    <p>Planificar y ejecutar las campañas comunicacionales dirigidas a las distintas plataformas.</p>
-                  </li>
-                  <li>
-                    <p>Investigación de temas relacionados con nuestros usuarios.</p>
-                  </li>
-                  <li>
-                    <p>Informe periódico de rendimiento y métricas de crecimiento al equipo de liderazgo.</p>
-                  </li>
-                  <li>
-                    <p>Crear estrategias de desarrollo de la marca a largo plazo.</p>
-                  </li>
-                  <li>
-                    <p>Participar en la creación de contenidos y escribir copies para marketing a usuarios.</p>
-                  </li>
-                  <li>
-                    <p>Participar en eventos donde participe Jetty. </p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>EXPERIENCIA Y CONOCIMIENTOS NECESARIOS</b></p>
-                <ul>
-                  <li>
-                    <p>Licenciatura en Periodismo, Publicidad y Relaciones Públicas, Marketing y/o Comunicación.</p>
-                  </li>
-                  <li>
-                    <p>2 años de experiencia en gestión de redes sociales.</p>
-                  </li>
-                  <li>
-                    <p>Conocimientos de diseño para generación de imágenes y material para redes sociales.</p>
-                  </li>
-                  <li>
-                    <p>Conocimiento de Analytics e interpretación y reportabilidad de las mismas.</p>
-                  </li>
-                  <li>
-                    <p>Estar al corriente de las tendencias en herramientas y buenas prácticas para las redes sociales.</p>
-                  </li>
-                  <li>
-                    <p>Dominio de Office / Google Suite.</p>
-                  </li>
-                  <li>
-                    <p>Dominio de herramienta de Mailings.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-                <p><b>HABILIDADES REQUERIDAS</b></p>
-                <ul>
-                  <li>
-                    <p>Habilidades de comunicación escrita para generación de contenido de negocios.</p>
-                  </li>
-                  <li>
-                    <p>Excelente actitud, extroversión, creativo, propositivo, proactivo.</p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Espíritu emprendedor, capaz de trabajar de forma autónoma con un mínimo de orientación</p>
-                  </li>
-                  <li>
-                    <p>Excepcionales habilidades de comunicación. Es muy importante que esté en constante comunicación con los diferentes equipos (marketing, operaciones) para entender entender sus necesidades de comunicación.</p>
-                  </li>
-                  <li>
-                    <p>Ser humilde, autodidacta, estructurado(a), organizado(a), motivado(a) por la innovación y proactivo(a).</p>
-                  </li>
-                  <li>
-                    <p>Ánimo constante por aprender y desarrollar nuevas habilidades junto con el resto del equipo.</p>
-                  </li>
-                  <li>
-                    <p>Investigación y autoaprendizaje de nuevas herramientas.</p>
-                  </li>
-                  <li>
-                    <p>Extremadamente organizado y motivado.</p>
-                  </li>
-                  <li>
-                    <p>Enfocado a resultados.</p>
-                  </li>
-                  <li>
-                    <p>Comodidad trabajando en una cultura de inicio con un entorno de alto crecimiento / ágil.</p>
-                  </li>
-                </ul>
-
-                <br>
-
-
-                <p><b>¿TE INTERESA?</b></p>
-                <p>Escríbenos a <a href="mailto:liliana@jetty.mx?subject=>Community Manager Jr.">liliana@jetty.mx</a> utilizando <b>“Community Manager Jr.”</b> como asunto del correo.</p>
-
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
-      <!-- VACANTE 6 -->
+      <!-- VACANTE Conductor -->
       <div class="panel panel-default vacante">
         <div class="panel-body">
 
@@ -1043,7 +759,6 @@ id: vacantes
 
         </div>
       </div>
-
 
     </div>
 
