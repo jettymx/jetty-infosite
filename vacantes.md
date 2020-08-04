@@ -15,7 +15,7 @@ id: vacantes
 
     <div class="col-md-10 col-md-offset-1 content-vacantes">
 
-      <!-- VACANTE 1 -->
+      <!-- VACANTE Full Stack Developer -->
       <!-- <div class="panel panel-default vacante">
         <div class="panel-body">
 
