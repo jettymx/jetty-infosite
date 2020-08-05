@@ -115,7 +115,11 @@ id: transporte-eventos
         <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a>
       </div>
 
-
+      <div class="col-md-12 text-center" style="margin-top: 40px;">
+        <p>
+          <a href="http://ayuda.jetty.mx/es/articles/4320027-politica-de-cambios-y-cancelacion" class="linkPoliticas">Revisa nuestras políticas de cambios y cancelación.</a>
+        </p>
+      </div>
 
     </div>
 
