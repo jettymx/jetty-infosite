@@ -1930,6 +1930,15 @@ ul.indice li{
   text-align: right;
 }
 
+a.linkPoliticas{
+  color: #2D414D;
+  text-decoration: none;
+}
+
+a.linkPoliticas:hover{
+  color: white;
+}
+
 /*////// COBERTURA //////*/
 .cobertura{
   margin-bottom: 50px;
