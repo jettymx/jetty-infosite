@@ -156,7 +156,6 @@ id: nuestro-servicio
 
 </div>
 
-
 <!-- Modal Organizaciones -->
 <!-- <div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
