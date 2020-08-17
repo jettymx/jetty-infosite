@@ -13,9 +13,10 @@ id: nuestro-servicio
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
           <h1>¡Llevamos a tu personal seguro y a tiempo!</h1>
           <p class="lead">En Jetty nos adaptamos a las necesidades de tu organización bajo diferentes esquemas, para alcanzar los mejore resultados.</p>
-          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+          <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
+          <!-- <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
             Solicita información
-          </button>
+          </button> -->
         </div>
         <div class="col-md-6 text-right">
           <img src="img/choferes.png" alt="Jetty, Nuestros vehículos" data-aos="fade" data-aos-easing="ease-out-sine">
@@ -115,9 +116,7 @@ id: nuestro-servicio
       </div>
 
       <div class="col-md-12 text-center">
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-          Solicita información
-        </button>
+        <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
       </div>
     </div>
   </div>
@@ -150,9 +149,7 @@ id: nuestro-servicio
     </div>
 
     <div class="col-md-12 text-center" style="margin-bottom: 40px;">
-      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
-        Solicita información
-      </button>
+      <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
     </div>
 
   </div>
@@ -161,7 +158,7 @@ id: nuestro-servicio
 
 
 <!-- Modal Organizaciones -->
-<div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- <div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -176,4 +173,4 @@ id: nuestro-servicio
 
     </div>
   </div>
-</div>
+</div> -->

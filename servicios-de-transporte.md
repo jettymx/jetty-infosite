@@ -218,7 +218,7 @@ id: servicios de transporte
         <img src="img/icon-vehiculoV2.svg">
         <br>
         <p class="lead">Opciones para transporte de personal</p>
-        <a href="nuestro-servicio" class="btn btn-gray-small" target="_self">Transporte de personal</a>
+        <a href="servicio-corporativo" class="btn btn-gray-small" target="_self">Transporte de personal</a>
       </div>
 
       <div class="clearfix marginBottom"></div>
