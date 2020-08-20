@@ -1124,7 +1124,8 @@ ul.nuevas-rutas li .btn-ruta:focus{
 }
 
 .porque-content{
-  padding: 0px 0 100px 0;\overflow: hidden;
+  padding: 0px 0 100px 0;
+  overflow: hidden;
 }
 
 .porque-title h3{
@@ -1137,18 +1138,14 @@ ul.nuevas-rutas li .btn-ruta:focus{
 }
 
 .porque-title p{
-  font-weight: 700;
   margin-bottom: 40px;
 }
 
-.cuatro-puntos{
+/*.cuatro-puntos{
   margin-bottom: 100px;
 }
 
 .cuatro-puntos > .porque{
-  /*background: #4abea7;*/
-  /*border: 4px solid #ffffff;*/
-  /*padding: 10px;*/
   min-height: 330px;
 }
 
@@ -1179,7 +1176,7 @@ ul.nuevas-rutas li .btn-ruta:focus{
 
 .tres-puntos-title{
   margin-bottom: 30px;
-}
+}*/
 
 ul.clientes{
   padding: 0;
@@ -1193,6 +1190,26 @@ ul.clientes li{
 
 ul.clientes li img{
   width: 140px;
+}
+
+.iconoSeguridad{
+  margin-top: 24px;
+  margin-bottom: 14px;
+  width: 150px;
+}
+
+.iconoSeguridad-100{
+  margin-top: 24px;
+  margin-bottom: 14px;
+  width: 100px;
+}
+
+.textGray{
+  color: #2D414D !important;
+}
+
+.textWhite{
+  color: white !important;
 }
 
 /*////// QUIENES //////*/
