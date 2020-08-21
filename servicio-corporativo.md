@@ -85,17 +85,17 @@ id: servicio-corporativo
       <div class="col-md-4">
         <img src="img/soporte.png" class="iconoSeguridad-100">
         <p><b>Equipo de soporte</b></p>
-        <p>Recibe atención de nuestro equipo de atención,  antes durante y después de cada viaje</p>
+        <p>Recibe atención de nuestro equipo de atención,  antes durante y después de cada viaje.</p>
       </div>
       <div class="col-md-4">
         <img src="img/trabajar.png" class="iconoSeguridad-100">
         <p><b>Más productividad</b></p>
-        <p>Al viajar en Jetty puedes trabajar o descansar durante el trayecto. Los viajes  felices aumenta la motivación. </p>
+        <p>Al viajar en Jetty puedes trabajar o descansar durante el trayecto. Los viajes  felices aumentan la motivación. </p>
       </div>
       <div class="col-md-4">
         <img src="img/responsabilidad.png" class="iconoSeguridad-100">
         <p><b>Responsabilidad social</b></p>
-        <p>Al moverte en Jetty ayudas a impulsar una ciudad más sostenible en beneficio del medio ambiente, con el uso de transporte colectivo.</p>
+        <p>Al moverte en Jetty ayudas a impulsar una ciudad más sostenible en beneficio del medio ambiente.</p>
       </div>
       <div class="col-md-4">
         <img src="img/money.png" class="iconoSeguridad-100">
@@ -138,14 +138,14 @@ id: servicio-corporativo
       <div class="col-md-6">
         <img src="img/compartido.png" class="iconoSeguridad" alt="Jetty, Tecnología">
         <h2 class="textWhite">Compartido:</h2>
-        <p><b>Pases:</b>  En esta opción sólo se generan los pases del mes, con ruta y horarios definidos. El personal no reserva sus viajes, nosotros nos encargamos. </p>
-        <p><b>Recarga de saldo:</b> Agrega determinada cantidad al mes para usar Jetty en las rutas y horarios establecidos que más te convengan. </p>
+        <p><b>Pases:</b>  Nosotros reservamos tus viajes, sólo nos indicas que rutas y horarios de los que tenemos vigentes te interesan.</p>
+        <p><b>Recarga de saldo:</b> Eliges la cantidad a abonar de saldo para los trayectos de tus colaboradores. Estos también corresponden a nuestras rutas actuales. Es decir comparten la ruta con nuestros usuarios.</p>
       </div>
 
       <div class="col-md-6">
         <img src="img/exclusivo.png" class="iconoSeguridad">
         <h2 class="textWhite">Exclusivo:</h2>
-        <p>Personaliza rutas y horarios para tu personal. En esta opción nos encargamos de todo.</p>
+        <p>Es sólo para el personal de tu empresa, nosotros nos encargamos de la logística de las rutas. Este servicio es completamente personalizado.</p>
       </div>
 
     </div>
