@@ -17,7 +17,13 @@ id: transporte-eventos
         <p class="lead">¿Estás buscando transporte para viajar el fin de semana?</p>
         <p class="lead">¿Quieres moverte con comodidad y sin estrés?</p>
         <p class="lead">En Jetty nos adaptamos a tus necesidades para brindarte la mejor experiencia de viaje.</p>
-        <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a>
+        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
+        </button>
+
       </div>
 
     </div>
@@ -60,7 +66,10 @@ id: transporte-eventos
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
-        <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a>
+        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
+        </button>
       </div>
     </div>
 
@@ -112,7 +121,10 @@ id: transporte-eventos
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
-        <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a>
+        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
+        </button>
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 40px;">
@@ -123,5 +135,25 @@ id: transporte-eventos
 
     </div>
 
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y te mandaremos la cotización.</h4>
+      </div>
+      <div class="modal-body">
+        <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
+      </div>
+      <!-- <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div> -->
+    </div>
   </div>
 </div>
