@@ -13,10 +13,11 @@ id: servicio-corporativo
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
           <h1>¡Llevamos a tu personal seguro y a tiempo!</h1>
           <p class="lead">En Jetty nos adaptamos a las necesidades de tu empresa bajo diferentes esquemas, para alcanzar los mejores resultados.</p>
-          <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
-          <!-- <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalOrganizaciones">
+          <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
+
+          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
             Solicita información
-          </button> -->
+          </button>
         </div>
         <div class="col-md-6 text-right">
           <img src="img/choferes.png" alt="Jetty, Nuestros vehículos" data-aos="fade" data-aos-easing="ease-out-sine">
@@ -65,7 +66,10 @@ id: servicio-corporativo
         </div>
 
         <div class="col-md-12 text-center" style="margin-top: 30px; margin-bottom: 30px;">
-          <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
+          <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
+          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+            Solicita información
+          </button>
         </div>
       </div>
     </div>
@@ -124,7 +128,10 @@ id: servicio-corporativo
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 30px;">
-        <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
+        <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
+        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+            Solicita información
+          </button>
       </div>
     </div>
   </div>
@@ -151,7 +158,10 @@ id: servicio-corporativo
     </div>
 
     <div class="col-md-12 text-center" style="margin-bottom: 60px; margin-top: 30px;">
-      <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a>
+      <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
+      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+            Solicita información
+          </button>
     </div>
 
   </div>
@@ -230,20 +240,23 @@ id: servicio-corporativo
 </div>
 
 
-<!-- Modal Organizaciones -->
-<!-- <div class="modal fade" id="ModalOrganizaciones" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <!-- <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y te mandaremos la cotización.</h4> -->
       </div>
-
-    <div class="_form_5"></div>
-
-    <script src="https://jetty.activehosted.com/f/embed.php?id=5" type="text/javascript" charset="utf-8"></script>
-
+      <div class="modal-body">
+        <div class="_form_5"></div><script src="https://jetty.activehosted.com/f/embed.php?id=5" type="text/javascript" charset="utf-8"></script>
+      </div>
+      <!-- <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div> -->
     </div>
   </div>
-</div> -->
+</div>
+
+
