@@ -216,7 +216,7 @@ id: servicio-corporativo
               <img src="imgs-prensa/inlod.png">
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="#" target="_blank">
               <img src="imgs-prensa/sms.png">
             </a>
@@ -230,7 +230,7 @@ id: servicio-corporativo
             <a href="#" target="_blank">
               <img src="imgs-prensa/ibero.png">
             </a>
-          </li>
+          </li> -->
         </ul>
       </div>
 
