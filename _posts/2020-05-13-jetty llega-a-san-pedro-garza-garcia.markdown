@@ -27,13 +27,23 @@ Jetty en San Pedro ofrece un transporte colectivo seguro al garantizar, a travé
   <li><p><b>Atención personalizada:</b> Informar y atender a usuarios de manera personalizada.</p></li>
 </ul>
 
-Estaremos brindando servicio con 6 unidades para 4 rutas:
+Estaremos brindando servicio con 6 unidades para 7 rutas:
 
-<ul>
-  <li><p>San Pedro Poniente -> Casco San Pedro</p></li>
-  <li><p>Santa Catarina -> Casco San Pedro</p></li>
-  <li><p>Cumbres -> Casco San Pedro</p></li>
-  <li><p>Lincoln -> Casco San Pedro</p></li>
-</ul>
+<div class="row">
+  <ul>
+    <div class="col-md-6">
+      <li><p>Cumbres -> Casco San Pedro</p></li>
+      <li><p>Lincoln -> Casco San Pedro</p></li>
+      <li><p>Santa Catarina Sur -> Casco San Pedro</p></li>
+      <li><p>Santa Catarina Nte. -> Casco San Pedro</p></li>
+    </div>
+    <div class="col-md-6">
+      <li><p>García -> Casco San Pedro</p></li>
+      <li><p>Escobedo -> Casco San Pedro</p></li>
+      <li><p>La Fe -> Casco San Pedro</p></li>
+    </div>
+  </ul>
+</div>
+
 
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-Rutas-MTY.png)
