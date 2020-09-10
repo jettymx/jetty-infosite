@@ -160,8 +160,8 @@ id: servicio-corporativo
     <div class="col-md-12 text-center" style="margin-bottom: 60px; margin-top: 30px;">
       <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
       <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
-            Solicita información
-          </button>
+        Solicita información
+      </button>
     </div>
 
   </div>
