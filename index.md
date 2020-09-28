@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jetty | Plataforma de Tecnología que Mejora el Transporte Cen las ciudades
+title: Jetty | Plataforma de Tecnología que Mejora el Transporte en las ciudades
 description: Somos la Plataforma de Tecnología que Mejora el Transporte Colectivo, Nos Adaptamos a Instituciones Educativas, Corporativos, Gobierno, Comienza a Disfrutar de las Calles con una Mejor Movilidad
 image: https://www.jetty.mx/img/Jetty_MX.png
 id: Home

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jetty, Plataforma de Tecnología que Mejora el Transporte Cen las ciudades.
+title: Jetty, Plataforma de Tecnología que Mejora el Transporte en las ciudades.
 email: soporte@jetty.mx
 description: Somos la Plataforma de Tecnología que Mejora el Transporte Colectivo, Nos Adaptamos a Escuelas, Corporativos, Gobierno, Comienza a Disfrutar de las Calles con una Mejor Movilidad. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
