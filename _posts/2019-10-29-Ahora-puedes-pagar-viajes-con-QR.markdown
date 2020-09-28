@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/paga-QR.png)
 
-<h1>Ya puedes pagar viajes con QR.</h1>
+<h3>Ya puedes pagar viajes con QR.</h3>
 
 <i>A partir de hoy ya puedes pagar algunos de nuestros viajes con código QR. ¡Es muy sencillo! Busca el código QR en tu Jetty y escanealo, tu viaje se descontará de tu saldo directamente.</i>
 

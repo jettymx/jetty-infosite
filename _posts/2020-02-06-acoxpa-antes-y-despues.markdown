@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/acoxpa.png)
 
-<h2>Del sur a Santa Fe, una mañana cualquiera, hace dos años: </h2>
+<h3>Del sur a Santa Fe, una mañana cualquiera, hace dos años: </h3>
 <b>Hacinamiento, inseguridad e incertidumbre.</b>
 
 Hace dos años los usuarios de transporte público que se trasladaban de Acoxpa a Santa Fe sufrían, algo que resulta familiar en el transporte público en México, hacinamiento, inseguridad e incertidumbre en sus viajes.  La situación era la siguiente había:

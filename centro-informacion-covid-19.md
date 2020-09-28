@@ -1,7 +1,7 @@
 ---
 layout: default-cobertura
 title: Jetty | Centro de información sobre el COVID-19
-description: Centro de información sobre el COVID-19
+description: Sugerencias de prevención. Ayuda a detener la propagación del COVID-19. Respeta las indicaciones de las autoridades locales sobre quedarse en casa.
 ---
 
 <div class="container cobertura">

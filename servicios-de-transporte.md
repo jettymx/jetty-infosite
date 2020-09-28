@@ -1,229 +1,202 @@
 ---
 layout: default
-title: Jetty | Jetty en el transporte público concesionado.
-description: Lleva los beneficios de la tecnología Jetty al transporte público concesionado.
-id: servicios de transporte
+title: Jetty | Servicios de transporte
+description: Usamos los beneficios de la tecnología para mejorar y eficientar tu movilidad en la ciudad, Nosotros nos encargamos de ofrecerte el mejor servicio,    Soluciones Tecnológicas.
 ---
 
-<div class="container-fluid gradient">
-  <div class="container transportista">
+<div class="container-fluid">
+  <div class="container marginBottom">
 
-    <div class="row ">
+    <div class="row headerIndexTop">
       <div class="col-md-6">
-        <img src="img/servicios.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+        <img src="img/Jetty-servicios-de-transporte-2.png" class="imgResponsive" alt="Jetty MX, Servicios de transporte" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
       </div>
-      <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <h1>Servicios de transporte</h1>
-        <br>
-        <p class="lead">Traslada la operación de tus rutas y horarios a nuestra plataforma para llegar a miles de usuarios que ya se benefician de la app de transporte de Jetty.</p>
+      <div class="col-md-6 textWLTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
+        <h1>Servicios de <br><span class="titleBold">transporte</span></h1>
+        <p>Contar con un servicio de transporte con tecnología de punta te brinda diversos beneficios, el más importante está enfocado en que disfrutes al máximo la experiencia de tus viajes.</p>
+        <p><span class="textBold">Nos dedicamos a cambiar el concepto de transporte para ofrecerte una experiencia donde resalte la tecnología para tu beneficio,</span> te proporcionamos todas las herramientas para eficientar tus traslados, hacerlos más cómodos y seguros.</p>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-asientoV2.svg" alt="Jetty, Asiento reservado">
-        <h3><strong>Siempre tienes un lugar</strong></h3>
-        <p>Puedes reservar tu asiento desde la app, siempre llegarás cómodo y seguro.</p>
+      <div class="col-md-12 text-center">
+        <h1>Nuestros beneficios para ti</h1>
       </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-pinesV2.svg" alt="Jetty, Traslado directo">
-        <h3><strong>Rutas directas</strong></h3>
-        <p>No hay vueltas innecesarias, el conductor conoce su ruta, y sabe los puntos de ascenso y descenso.</p>
-      </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-suenoV2.svg" alt="Jetty, Recupera horas de sueño">
-        <h3><strong>Tranquilidad</strong></h3>
-        <p>En Jetty puedes ir relajado sabiendo que el conductor sabe lo que hace.</p>
+    </div>
+
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="col-md-8 ">
+        <h2>Dentro de la app</h2>
       </div>
     </div>
 
     <div class="row marginBottom">
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-ahorroV2.svg" alt="Jetty, Ahorra en traslados">
-        <h3><strong>Costos</strong></h3>
-        <p>Jetty te cuesta 30% menos que llevar tu auto y 60% menos que otros servicios.</p>
+      <div class="col-md-5 col-md-offset-1">
+        <div class="row">
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-tecnologia-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Tecnología</span>
+              <br>
+              Todo en la palma de tu mano, podrás revisar el día y horario de la ruta de tu interés, pagar desde tu celular, tener seguimiento y control de tus viajes.</p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-reserva-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Reserva de asientos</span>
+              <br>
+              Tienes la posibilidad de reservar uno o más asientos, tanto para un mismo día como para toda la semana.</p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-soporte-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Equipo de soporte</span>
+              <br>
+              Nuestro equipo de soporte está para ayudarte en todo momento.</p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-retroalimentacion-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Retroalimentación constante</span>
+              <br>
+              Tu opinión es muy importante para nosotros, califica tus viajes y envíanos comentarios, felicitaciones, quejas o sugerencias para mejorar nuestro servicio. </p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-asistencia-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Solicitud de asistencia</span>
+              <br>
+              Con sólo un clic puedes anticipar al conductor de la ayuda que necesitas antes de subir a la unidad. <i>(Asiento prioritario, apoyo para subir a la unidad, guardar muletas o silla de ruedas, apoyo visual o auditivo).</i></p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-gps-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Ubicación por GPS</span>
+              <br>
+              Sigue en tiempo real la ubicación de tu servicio de transporte.</p>
+          </div>
+
+        </div>
       </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-mailV2.svg" alt="Jetty, Envía el último mail">
-        <h3><strong>Seguridad</strong></h3>
-        <p>En Jetty puedes sacar tranquilamente tu laptop, celular o videojuego.</p>
-      </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-conductorV2.svg" alt="Jetty, Conductores profesionales">
-        <h3><strong>Conductor profesional</strong></h3>
-        <p>Todos nuestros conductores están altamente calificados para ofrecerte el mejor servicio.</p>
+
+      <div class="col-md-6">
+        <img src="img/AppUsuarios.png" alt="Jetty Caracteristicas App" class="imgResponsive" data-aos="fade-left" data-aos-easing="ease-in-sine">
       </div>
     </div>
 
-    <hr class="marginBottom" style="opacity: 0">
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="col-md-8 ">
+        <h2>Experiencia de servicio </h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-5 col-md-offset-1">
+        <div class="row">
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-conductores-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Conductores profesionales y capacitados</span>
+              <br>
+              Todos nuestros conductores están altamente calificados para ofrecerte el mejor servicio. Constantemente los capacitamos en servicio al cliente y perspectiva de género.</p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-seguridad-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Seguridad y tranquilidad</span>
+              <br>
+              En Jetty puedes tener la confianza de sacar tranquilamente tu laptop, celular o videojuego. Incluso dormir con la tranquilidad de que llegarás con seguridad y comodidad a tu destino. </p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-lugar-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Siempre tienes un lugar</span>
+              <br>
+              Puedes reservar tu asiento desde la app, siempre llegarás cómodo y seguro.</p>
+          </div>
+
+          <div class="col-md-2 col-xs-2">
+            <img src="img/icon-rutas-ST.png" class="imgResponsive">
+          </div>
+          <div class="col-md-10 col-xs-10" style="padding: 0">
+            <p>
+             <span class="textBold">Rutas directas</span>
+              <br>
+              No hay vueltas innecesarias, el conductor conoce su ruta, y sabe los puntos de ascenso y descenso.</p>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <img src="img/AppPlataforma.png" alt="Jetty Plataforma App" class="imgResponsive" data-aos="fade-left" data-aos-easing="ease-in-sine">
+      </div>
+    </div>
 
     <div class="row">
       <div class="col-md-12">
-        <h1>Transporte público</h1>
+        <h2>Otros servicios</h2>
       </div>
 
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-PagoQR.svg" alt="Jetty, Pago código QR">
-        <h3><strong>Prescindir de efectivo</strong></h3>
-        <p>Olvídate de tener que llevar cambio exacto.</p>
-      </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-ubicacion.svg" alt="Jetty, Ubicción de unidades">
-        <h3><strong>Ubicación de unidades</strong></h3>
-        <p>Sigue en tiempo real las unidades cerca de ti.</p>
-      </div>
-      <div class="col-md-4 beneficio" data-aos="fade" data-aos-easing="ease-in-sine">
-        <img src="img/icon-rutasFrecuencia.svg" alt="Jetty, Frecuencia rutas">
-        <h3><strong>Visibilidad de frecuencias por ruta</strong></h3>
-        <p>Conoce el periodo de espera entre una unidad de otra y planifica tus viajes.</p>
-      </div>
-    </div>
-
-    <div class="row como">
-      <div class="col-md-12 text-center">
-        <h1>¿Cómo funciona?</h1>
-      </div>
-
-      <div class="col-md-12 como-funciona-tabs">
-
-        <ul class="nav nav-tabs como-funciona-tabs-list" role="tablist">
-          <li role="presentation" class="active">
-            <a href="#home" aria-controls="home" role="tab" data-toggle="tab">
-              Mediante Reserva
-            </a>
-          </li>
-          <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Pago con QR</a></li>
-        </ul>
-
-        <div class="tab-content">
-          <div role="tabpanel" class="tab-pane active" id="home">
-
-            <div class="row">
-              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-                <div class="txt-left">
-                  <img src="img/arrow-left.svg" class="arrow-hidden">
-                  <p>Dinos de dónde sales y a dónde viajas.</p>
-                </div>
-                <div class="app-jetty text-left">
-                  <img src="img/app-jetty-1.png" alt="Jetty, De dónde sales">
-                </div>
-              </div>
-
-              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-                <div class="txt-right">
-                  <img src="img/arrow-right.svg" class="arrow-hidden">
-                  <p>Revisa el día, horario y elige el que más te convenga.</p>
-                </div>
-                <div class="app-jetty app-right">
-                  <img src="img/app-jetty-2.png" alt="Jetty, Elige una ruta y horario">
-                </div>
-              </div>
-            </div>
-
-            <div class="row clear app-vistas-dos">
-              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-                <div class="txt-left">
-                  <img src="img/arrow-left.svg" class="arrow-hidden">
-                  <p>Reserva tu asiento pagando con tarjeta y monitorea tu Jetty.</p>
-                </div>
-                <div class="app-jetty text-left">
-                  <img src="img/app-jetty-3.png" alt="Jetty, Reserva tu asiento">
-                </div>
-              </div>
-
-              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-                <div class="txt-right">
-                  <img src="img/arrow-right.svg" class="arrow-hidden">
-                  <p>Camina al punto de abordaje y muéstrale tu pase al conductor.</p>
-                </div>
-                <div class="app-jetty app-right">
-                  <img src="img/app-jetty-4.png" alt="Jetty, Muestra tu pase">
-                </div>
-              </div>
-            </div>
-
-          </div>
-          <div role="tabpanel" class="tab-pane" id="profile">
-
-             <div class="row">
-              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-                <div class="txt-left">
-                  <img src="img/arrow-left.svg" class="arrow-hidden">
-                  <p>Busca el código QR al abordar las unidades.</p>
-                </div>
-                <div class="app-jetty text-left">
-                  <img src="img/app-jetty-QR-1.png" alt="Jetty, Re QR">
-                </div>
-              </div>
-
-              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-                <div class="txt-right">
-                  <img src="img/arrow-right.svg" class="arrow-hidden">
-                  <p>Escanea y selecciona el número de pases.</p>
-                </div>
-                <div class="app-jetty app-right">
-                  <img src="img/app-jetty-QR-2.png" alt="Jetty, Elige una ruta y horario">
-                </div>
-              </div>
-            </div>
-
-            <div class="row clear app-vistas-dos">
-              <div class="col-md-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="500">
-                <div class="txt-left">
-                  <img src="img/arrow-left.svg" class="arrow-hidden">
-                  <p>Paga con tu tarjeta desde la app de Jetty.</p>
-                </div>
-                <div class="app-jetty text-left">
-                  <img src="img/app-jetty-QR-3.png" alt="Jetty, Reserva tu asiento">
-                </div>
-              </div>
-
-              <div class="col-md-4 col-md-push-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-                <div class="txt-right">
-                  <img src="img/arrow-right.svg" class="arrow-hidden">
-                  <p>Muéstrale tu pase al conductor.</p>
-                </div>
-                <div class="app-jetty app-right">
-                  <img src="img/app-jetty-QR-4.png" alt="Jetty, Muestra tu pase">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="clearfix marginBottom"></div>
-
-      <div class="col-md-12 text-center descarga marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
-        <h3>¿Tienes un vehículo que te gustaría trabajar con Jetty?</h3>
-        <a href="/transporte-de-personal-y-escolar" class="btn btn-gray" style="margin-top: 5px;">Conoce más</a>
-      </div>
-
-      <div class="clearfix marginBottom"></div>
-
-      <div class="col-md-4 text-center">
-        <img src="img/icon-rutas.svg">
+      <div class="col-md-3 marginBottom">
+        <img src="img/mapa-cobertura.png" class="imgResponsive">
+        <p>Conoce nuestra cobertura</p>
         <br>
-        <p class="lead">Conoce nuestra cobertura</p>
-        <a href="cobertura" class="btn btn-gray-small" target="_self">Ver cobertura</a>
+        <a href="cobertura" class="btn-gray hvr-shadow">Ver cobertura</a>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-transporte-evento.svg">
+      <div class="col-md-3 col-md-offset-1 marginBottom">
+        <img src="img/contratar-transporte.png" class="imgResponsive">
+        <p>Contrata un vehículo para viajar en fin de semana</p>
+        <a href="transporte-eventos" class="btn-gray hvr-shadow">Contratar transporte</a>
+      </div>
+      <div class="col-md-3 col-md-offset-1 marginBottom">
+        <img src="img/transporte-personal.png" class="imgResponsive">
+        <p>Opciones para transporte corporativo</p>
         <br>
-        <p class="lead">Contrata un vehículo para un evento</p>
-        <a href="transporte-eventos" class="btn btn-gray-small" target="_self">Contratar tranporte</a>
+        <a href="servicio-corporativo" class="btn-gray hvr-shadow">Transporte de personal</a>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/icon-vehiculoV2.svg">
-        <br>
-        <p class="lead">Opciones para transporte de personal</p>
-        <a href="servicio-corporativo" class="btn btn-gray-small" target="_self">Transporte de personal</a>
-      </div>
-
-      <div class="clearfix marginBottom"></div>
-
     </div>
 
   </div>
 </div>
+
+<div class="container-fluid backWave">
+  <div class="container marginBottom">
+    <div class="col-md-5">
+      <img src="img/Jetty-Soluciones-tecnologicas.png" class="imgResponsive">
+    </div>
+    <div class="col-md-7 textInfoFooter">
+      <h3>Conoce más sobre nuestras soluciones tecnológicas</h3>
+      <p>Llevamos todos los beneficios de nuestra tecnología a empresas de <span class="textBold">transporte público, corporativos, servicios turísticos o escolares,</span> para mejorar la experiencia de sus usuarios, contribuyendo a la modernización del sector.</p>
+      <a href="soluciones-tecnologicas" class="btn-green hvr-shadow">Ver tecnología</a>
+    </div>
+  </div>
+</div>
+

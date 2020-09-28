@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/Jetty-Noticias.png)
 
-<h2>Querido usuario de Jetty:</h2>
+<h3>Querido usuario de Jetty:</h3>
 
 Hoy SVBUS, una <b>empresa que eligió a Jetty como la plataforma para mejorar su servicio en la Ciudad de México,</b> fue impedida por las autoridades para operar su ruta de Acoxpa a Santa Fe y a Auditorio. Ello nos orilló a suspender, de manera sorpresiva, nuestro servicio en esta ruta. Tal vez, si eres usuario en ese trayecto, a causa de ello hoy llegaste tarde al trabajo, faltaste a clase, gastaste más para llegar a tu destino o perdiste tu bono de puntualidad. Lamentablemente, así como tú, casi 6,000 personas fueron afectadas por esta decisión.
 

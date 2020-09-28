@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="284px" height="56px" viewBox="0 0 284 56" style="enable-background:new 0 0 284 56;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#008A44;}
-	.st2{fill:#3AF23A;}
-	.st3{fill:#006446;}
-	.st4{fill:#00C425;}
+	.st0{fill:#8DA8BA;}
+	.st1{fill:#6A7E8B;}
+	.st2{fill:#A4B9C8;}
+	.st3{fill:#47545D;}
 </style>
 <g>
 	<path class="st0" d="M270,22.5l-9.8,9l9.8,9v5.2h-0.3l-14.6-13.3V45h-4.2V6.8h4.2v23.9l14.6-13.2h0.4v5H270z M78.9,45h21.6v-4.3
@@ -24,6 +23,6 @@
 	<polygon class="st1" points="55.7,45.2 55.7,0.4 44.8,0.4 27.9,17.3 	"/>
 	<polygon class="st2" points="0,11.3 0,56.1 10.9,56.1 27.8,39.1 	"/>
 	<polygon class="st3" points="10.9,56.1 55.7,56.1 55.7,45.2 38.8,28.2 	"/>
-	<polygon class="st4" points="44.8,0.4 0,0.4 0,11.3 16.9,28.2 	"/>
+	<polygon class="st0" points="44.8,0.4 0,0.4 0,11.3 16.9,28.2 	"/>
 </g>
 </svg>

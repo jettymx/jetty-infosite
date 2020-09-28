@@ -1,12 +1,12 @@
 ---
 layout: default-cobertura
 title: Jetty | El transporte que mereces.
-description: Buscamos conductores confiables, profesionales y amables, para unirse a nuestro equipo y marcar la diferencia en la movilidad urbana.
+description: Siempre buscamos reclutar a conductores profesionales, responsables y con excelente trato. Aquí algunos de nuestros requisitos.
 id: conductor
 ---
 
 <div class="container eres-conductor marginTop">
-  <div class="row">
+  <div class="row marginBottom">
 
     <div class="col-md-12">
       <h1>Bolsa de trabajo conductores</h1>
@@ -48,7 +48,7 @@ id: conductor
     </div>
 
     <div class="col-md-12 ">
-      <button type="button" id="destino" class="btn btn-gray" data-toggle="modal" data-target="#ModalConductor">
+      <button type="button" id="destino" class="btn-gray hvr-shadow" data-toggle="modal" data-target="#ModalConductor">
         Formulario para conductores
       </button>
     </div>

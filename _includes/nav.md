@@ -9,18 +9,14 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/img/logo-jetty.svg">
+          <img src="{{ site.baseurl }}/img/logo-jetty-green.svg">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{site.baseurl}}/">Inicio</a></li>
-          <!-- <li><a href="{{site.baseurl}}/tecnologia">Tecnología</a></li> -->
           <li><a href="{{site.baseurl}}/soluciones-tecnologicas">Soluciones tecnológicas</a></li>
-          <!-- <li><a href="{{site.baseurl}}/beneficios">Beneficios</a></li> -->
-          <!-- <li><a href="{{site.baseurl}}/cobertura">Cobertura</a></li> -->
           <li><a href="{{site.baseurl}}/servicios-de-transporte">Servicios de transporte</a></li>
-          <!-- <li><a href="{{site.baseurl}}/tours">Tours</a></li> -->
           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a href="{{site.baseurl}}/en/"><img src="{{site.baseurl}}/img/flagEN.png" class="translate"></a></li>
         </ul>

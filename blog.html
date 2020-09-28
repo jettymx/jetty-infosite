@@ -1,5 +1,5 @@
 ---
-layout: noticias
+layout: default
 title: Jetty | El Blog. Nuestras Últimas Noticias
 description: Consulta el Blog oficial de Jetty para obtener las últimas noticias, anuncios y cosas que hacer en México.
 changefreq: weekly
@@ -32,7 +32,7 @@ changefreq: weekly
                     {% endif %}
                 {% endif %}
               {% endfor %}
-              <h2>{{ post.title }}</h2>
+              <h3>{{ post.title }}</h3>
               <span class="date_blog">{{ post.date | date: "%d %B %Y" }}</span><span class="post_author"> | Por: {{ post.post_author }}</span>
               <!-- <p>{{ post.excerpt }}</p> -->
             </a>
@@ -42,7 +42,7 @@ changefreq: weekly
       </ul>
     </div>
 
-    <div class="pagination" style="text-align: center;">
+    <!-- <div class="pagination" style="text-align: center;">
 
       {% if paginator.next_page %}
         <h2><a href="{{ paginator.next_page_path }}" class="next">- more posts -</a></h2>
@@ -52,7 +52,7 @@ changefreq: weekly
         <h2><a href="{{ paginator.previous_page_path }}" class="previous">- previous page -</a></h2>
       {% endif %}
 
-    </div>
+    </div> -->
 
   </div>
 

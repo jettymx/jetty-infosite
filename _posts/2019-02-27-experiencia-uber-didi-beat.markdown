@@ -8,7 +8,7 @@ categories: update
 ---
 ![uber didi beat, Jetty]({{site.baseurl}}/imgs-blog/taxis-app.png)
 
-<h2>Uber vs. Didi vs. Beat vs. Cabify</h2>
+<h3>Uber vs. Didi vs. Beat vs. Cabify</h3>
 
 El servicio de taxi por aplicación es parte de nuestra vida diaria, ya sea para ir a junta, al trabajo o a un evento social, todos hemos llegado a usar este servicio. Entre Uber, Didi, Taxify, Cabify, y ahora Beat, el mercado de los taxis por aplicaciones en la Ciudad de México está más competido que nunca. En Jetty creemos que para tener menos tráfico y reducir la contaminación ambiental los viajes deberían de ser compartidos, aunque sabemos que no contamos con toda la cobertura y los horarios para ofrecer el Jetty ideal para todos los que viven lejos de su trabajo. Por esta razón decidimos analizar la principal alternativa de transporte con la que cuentan nuestros (futuros) usuarios. Si quieres empezar por comparar los precios de las diferentes aplicaciones, puedes dar click en este artículo [https://viaja.jetty.mx/apps-taxi][apps-taxi]
 

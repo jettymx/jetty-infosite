@@ -8,7 +8,7 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-toluca.png)
 
-<h2>Jetty, el Gobierno del Estado de México y Transportistas Concesionados habilitamos rutas exclusivas para personal que labora en hospitales de Toluca.</h2>
+<h3>Jetty, el Gobierno del Estado de México y Transportistas Concesionados habilitamos rutas exclusivas para personal que labora en hospitales de Toluca.</h3>
 
 
 La pandemia nos duele a todos, pero a nadie impacta más que al personal médico. Las estadísticas son frías: [Uno de cada cuatro][uno] infectados por COVID en nuestro país son profesionales de la salud. Ya son casi 10,000 médicos, enfermeros, laboratoristas, camilleros y trabajadores de hospitales infectados por el virus. [Casi 200 han entregado su vida.][200] Ellos no hacen home office, ellas son nuestra última línea de batalla. Si caen caemos todos: Necesitamos que nuestros héroes y heroínas vayan a trabajar.
