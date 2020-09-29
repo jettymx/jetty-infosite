@@ -9,12 +9,12 @@ id: vacantes
   <div class="row marginBottom">
     <div class="col-md-12 marginBottom">
       <h1>SÚMATE AL <span class="titleBold">EQUIPO</span></h1>
-      <p class="lead">Nos mueve mejorar nuestras ciudades con soluciones tecnológicas. </p>
+      <p class="lead">NNos mueve mejorar nuestras ciudades con soluciones tecnológicas. Por eso para nuestro equipo buscamos gente extraordinaria y leal, que ejerza con pasión y felicidad su trabajo, para que la productividad y buen desempeño nos ayuden a crecer como empresa.</p>
     </div>
 
     <div class="col-md-12 marginBottom">
       <h2>NUESTROS COFUNDADORES</h2>
-      <ul class="socios text-center">
+      <ul class="socios text-center" style="margin-top: 30px;">
         <li>
           <img src="img/Cristina-Palacios.jpg">
           <p class="textBold" style="margin-bottom: 0px; margin-top: 10px;">Cristina Palacios</p>
@@ -620,7 +620,7 @@ id: vacantes
                 <b>Conductor ejecutivo</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
+                <a class="btn-green" role="button" data-toggle="collapse" href="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
                 Ver descripción
               </a>
               </div>
