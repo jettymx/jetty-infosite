@@ -9,7 +9,7 @@ id: quienes
   <div class="container headerIndexTop">
     <div class="row marginBottom">
       <div class="col-md-8">
-        <h1>Nuestro objetivo <br> <span class="titleBold">como empresa:</span></h1>
+        <h1>Quienes <br> <span class="titleBold">somos</span></h1>
         <h3>Somos la plataforma de tecnología que mejora el transporte colectivo y la movilidad en las ciudades.</h3>
       </div>
 
@@ -94,7 +94,7 @@ id: quienes
       </div>
     </div>
 
-    <div class="row">
+    <div class="row marginBottom">
 
       <div class="col-md-12" style="margin-top: 50px">
         <h2>Prensa</h2>
@@ -114,11 +114,47 @@ id: quienes
           <li>
             <img src="imgs-prensa/forbes.png">
           </li>
+          <li>
+            <img src="imgs-prensa/animal-politico.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/radiocentro.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/televisa-news.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/elfinanciero.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/informador.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/telediario.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/elheraldo.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/entrepreneur.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/la-jornada.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/chilango.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/sopitas.png">
+          </li>
+          <li>
+            <img src="imgs-prensa/vanguardia.png">
+          </li>
         </ul>
-        <a href="/prensa" class="btn btn-green">Prensa</a>
+        <a href="/prensa" class="btn-green hvr-shadow">Ir a prensa</a>
       </div>
 
-      <div class="col-md-12"  style="margin-top: 80px">
+      <!-- <div class="col-md-12"  style="margin-top: 80px">
         <h2>Nuestros aliados</h2>
         <ul class="alianzas">
           <li>
@@ -152,27 +188,27 @@ id: quienes
             </a>
           </li>
         </ul>
-      </div>
+      </div> -->
 
     </div>
 
     <div class="row">
-      <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-12">
         <h2>Somos miembros de:</h2>
         <div class="row" style="margin-bottom: 50px;">
-          <div class="col-md-3">
+          <div class="col-md-2">
             <img src="img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES" class="imgResponsive">
           </div>
-          <div class="col-md-9">
+          <div class="col-md-10">
             <p class="lead">Es una coalición de empresas que promueve los <b>Principios de Movilidad Compartida para Ciudades Vivibles.</b></p>
             <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">Conoce cuáles son</a>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-2">
             <img src="img/Logo-MaaS.png" alt="Maas Latam" class="imgResponsive">
           </div>
-          <div class="col-md-9">
+          <div class="col-md-10">
             <p class="lead">Es una Asociación Civil que representa a las startups y empresas más innovadoras que están transformando la experiencia de movilidad en América Latina, basadas en la tecnología y con una una visión de sustentabilidad.</p>
             <a href="http://maaslatam.org" target="_blank">Conoce más</a>
           </div>
