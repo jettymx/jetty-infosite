@@ -9,7 +9,7 @@ id: vacantes
   <div class="row marginBottom">
     <div class="col-md-12 marginBottom">
       <h1>SÚMATE AL <span class="titleBold">EQUIPO</span></h1>
-      <p class="lead">NNos mueve mejorar nuestras ciudades con soluciones tecnológicas. Por eso para nuestro equipo buscamos gente extraordinaria y leal, que ejerza con pasión y felicidad su trabajo, para que la productividad y buen desempeño nos ayuden a crecer como empresa.</p>
+      <p class="lead">Nos mueve mejorar nuestras ciudades con soluciones tecnológicas. Por eso para nuestro equipo buscamos gente extraordinaria y leal, que ejerza con pasión y felicidad su trabajo, para que la productividad y buen desempeño nos ayuden a crecer como empresa.</p>
     </div>
 
     <div class="col-md-12 marginBottom">
