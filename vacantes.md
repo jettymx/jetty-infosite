@@ -7,13 +7,14 @@ id: vacantes
 
 <div class="container marginTop">
   <div class="row marginBottom">
-    <div class="col-md-12">
-      <h1>SÚMATE AL EQUIPO</h1>
+    <div class="col-md-12 marginBottom">
+      <h1>SÚMATE AL <span class="titleBold">EQUIPO</span></h1>
       <p class="lead">Nos mueve mejorar nuestras ciudades con soluciones tecnológicas. </p>
     </div>
 
-    <div class="col-md-12 text-center marginBottom">
-      <ul class="socios">
+    <div class="col-md-12 marginBottom">
+      <h2>NUESTROS COFUNDADORES</h2>
+      <ul class="socios text-center">
         <li>
           <img src="img/Cristina-Palacios.jpg">
           <p class="textBold" style="margin-bottom: 0px; margin-top: 10px;">Cristina Palacios</p>
