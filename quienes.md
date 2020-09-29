@@ -9,7 +9,7 @@ id: quienes
   <div class="container headerIndexTop">
     <div class="row marginBottom">
       <div class="col-md-8">
-        <h1>Quienes <br> <span class="titleBold">somos</span></h1>
+        <h1>Quiénes <br> <span class="titleBold">somos</span></h1>
         <h3>Somos la plataforma de tecnología que mejora el transporte colectivo y la movilidad en las ciudades.</h3>
       </div>
 

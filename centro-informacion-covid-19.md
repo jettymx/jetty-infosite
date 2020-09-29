@@ -53,7 +53,7 @@ description: Sugerencias de prevención. Ayuda a detener la propagación del COV
       <div class="row" data-aos="fade-up" data-aos-easing="ease-in-sine">
 
         <div class=" col-md-12 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
+          <a href="servicio-corporativo" class="btn btn-green">Contrata transporte seguro</a>
         </div>
 
         <div class="clearfix marginBottom"></div>
@@ -114,7 +114,7 @@ description: Sugerencias de prevención. Ayuda a detener la propagación del COV
         <p>En Jetty estamos comprometidos con que tengas un buen viaje, SIEMPRE.
         <br>
          Es por eso que monitoreamos muy de cerca los avances de la epidemia de COVID-19. ¡Gracias por seguir confiando en nosotros!</p>
-        <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
+        <a href="servicio-corporativo" class="btn btn-green">Contrata transporte seguro</a>
       </div>
 
     </div>

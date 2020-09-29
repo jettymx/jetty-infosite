@@ -37,7 +37,7 @@ priority: 1.0
 
       <div class="col-md-6 textMarginHome">
         <h2>Soluciones <br><span class="titleBold">tecnológicas</span></h2>
-        <p>LLlevamos todos los <span class="textBold">beneficios de nuestra tecnología a empresas de transporte público, corporativos, servicios turísticos o instituciones educativas,</span> para mejorar la experiencia de sus usuarios en la movilidad. </p>
+        <p>Llevamos todos los <span class="textBold">beneficios de nuestra tecnología a empresas de transporte público, corporativos, servicios turísticos o instituciones educativas,</span> para mejorar la experiencia de sus usuarios en la movilidad. </p>
 
         <p>Elige nuestra tecnología; tenemos diversas modalidades que puedes implementar en tu servicio: <span class="textBold">Sistema de reserva de asientos, pago con QR, evaluación de conductores, canal de atención a usuarios, herramientas para el manejo y optimización de flotas y planificación de rutas.</span></p>
         <a href="soluciones-tecnologicas" class="btn-green hvr-shadow">Ver tecnología</a>

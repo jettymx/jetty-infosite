@@ -900,6 +900,7 @@ ul.alianzas{
 ul.alianzas li{
   display: inline;
   padding: 0 10px;
+  float: left;
 }
 
 ul.alianzas li img{
@@ -1647,9 +1648,9 @@ a.btn-back:hover{
 }
 
 
-/*/// Vacantes ///*/
+/*/// VACANTES ///*/
 .content-vacantes{
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .vacante{
@@ -1671,6 +1672,23 @@ a.btn-back:hover{
 
 .descripcion-btn-aling{
   text-align: right;
+}
+
+ul.socios{
+  padding: 0;
+  padding-bottom: 30px;
+}
+
+ul.socios li{
+  display: inline;
+  padding: 0 10px;
+  float: left;
+  margin-right: 30px;
+}
+
+ul.socios li img{
+  border-radius: 12px;
+  width: 150px;
 }
 
 /*////// DIFERENCIAS //////*/
