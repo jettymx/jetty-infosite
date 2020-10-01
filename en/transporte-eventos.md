@@ -1,330 +1,157 @@
 ---
-layout: default
+layout: default-en
 title: Jetty | La Mejor Solución de Transporte para tu Evento
-description: Organizas o vas a un evento y estás buscando transporte. ¿Consideras rentar una camioneta con chofer? Nos adaptamos a tu necesidad al mejor precio.
+description: ¿Quieres viajar el fin de semana con transporte seguro y eficiente? O estás organizando o vas a un evento y buscas transporte. ¿Quieres rentar una camioneta con conductor? Nos adaptamos a tu necesidad al mejor precio.
 id: transporte-eventos
 ---
 
 <div class="container-fluid beneficios gradient">
   <div class="container eventos">
 
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h1>¿Estás buscando transporte para un evento?</h1>
-        <h1>¿Consideras rentar una camioneta con conductor?</h1>
+    <div class="row marginBottom">
+      <div class="col-md-7">
+        <img src="{{site.baseurl}}/img/eventos.svg" width="100%">
+      </div>
+      <div class="col-md-5">
+        <h1>¡Vámonos de <br><span class="titleBold">fin de semana!</span></h1>
+        <p class="lead">¿Estás buscando transporte para viajar el fin de semana?</p>
+        <p class="lead">¿Quieres moverte con comodidad y sin estrés?</p>
+        <p class="lead">En Jetty nos adaptamos a tus necesidades para brindarte la mejor experiencia de viaje.</p>
+        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
+        </button>
+
+      </div>
+    </div>
+
+    <div class="row tipo-eventos marginBottom">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h2>Cuéntanos el tipo de servicio que deseas</h2>
       </div>
 
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/campo.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Fuera de la ciudad</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/ciudad.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Dentro de la ciudad</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/empresarial.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Transporte empresarial</h3>
+      </div>
+    </div>
+
+    <div class="row tipo-eventos" style="margin-bottom: 60px;">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3>Nos adaptamos a tus necesidades, con el mejor precio para transportarte.</h3>
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
-          Cotiza
+        <h2>Elige tu transporte ideal</h2>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/urvan-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Urvan</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/transit-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Transit</h3>
+      </div>
+      <div class="col-md-4 text-center">
+        <img src="{{site.baseurl}}/img/crafter-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
+        <h3>Crafter</h3>
+      </div>
+
+      <div class="col-md-12 text-center" style="margin-top: 20px;">
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
         </button>
       </div>
     </div>
 
-    <div class="row tipo-eventos">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>¿Cuál es tu necesidad? </h2>
-      </div>
-
-      <div class="col-md-12 eventos">
-        <ul>
-          <li>
-            <figure>
-              <img src="img/evento-deportivo.jpg" alt="Jetty, Evento deportivo">
-              <figcaption>
-                <h3>Evento Deportivo</h3>
-              </figcaption>
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="img/evento-boda.jpg" alt="jetty, Evento boda">
-              <figcaption>
-                <h3>Boda</h3>
-              </figcaption>
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="img/evento-concierto.jpg" alt="jetty, Evento Concierto">
-              <figcaption>
-                <h3>Concierto</h3>
-              </figcaption>
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="img/evento-empresarial.jpg" alt="jetty, Evento Empresarial">
-              <figcaption>
-                <h3>Evento Empresarial</h3>
-              </figcaption>
-            </figure>
-          </li>
-          <li >
-            <figure>
-              <img src="img/evento-ecoturismo.jpg" alt="jetty, Evento ecoturismo">
-              <figcaption>
-                <h3>Turismo</h3>
-              </figcaption>
-            </figure>
-          </li>
-        </ul>
-      </div>
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <p style="color: #2D414D">
+        <b>*Medidas de prevención COVID-19</b><br>
+        -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
+        -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
+        -Toma de temperatura y gel antibacterial antes de ingresar.<br>
+        -Maximización de espacios dentro de la unidad.<br>
+        <br>
+        <b>Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores.</b>
+      </p>
     </div>
 
-    <div class="row incluye-eventos">
-      <div class="col-md-8 col-md-offset-2">
-        <h2 class="text-center">Nuestro servicio incluye:</h2>
+    <div class="clearfix"></div>
+
+    <div class="row tipo-eventos" style="margin-top: 40px;">
+      <div class="col-md-12 text-center" style="margin-bottom: 40px;">
+        <h2>Al viajar con nosotros, tu experiencia incluye:</h2>
       </div>
 
-      <div class="col-md-4 text-center">
-        <img src="img/chofer.png" class="img-servicios">
-        <h3>Conductores profesionales</h3>
-        <p>Nuestros conductores pasan por un proceso estricto de selección, que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
+      <div class="col-md-4 leftRight">
+        <img src="{{site.baseurl}}/img/conductor-eventos.png" width="110px">
+        <p style="color: #2D414D"><b>Conductores profesionales</b></p>
+        <p>Nuestros conductores son amables y respetuosos. Todos pasan por un proceso estricto de selección.</p>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/interiores.png" class="img-servicios">
-        <h3>Equipamiento</h3>
-        <p>Todos nuestros viajes son monitoreados por nuestro equipo de soporte.</p>
+      <div class="col-md-4 col-md-offset-4">
+        <img src="{{site.baseurl}}/img/tecnologia-eventos.png" width="110px">
+        <p style="color: #2D414D"><b>Tecnología</b></p>
+        <p>Todas nuestras unidades son monitoreadas y cuentan con asistencia durante el viaje.</p>
       </div>
-      <div class="col-md-4 text-center">
-        <img src="img/camionetas.png" class="img-servicios">
-        <h3>Vehículos nuevos</h3>
+
+      <div class="clearfix"></div>
+      <div class="col-md-4 col-md-offset-4 text-center">
+        <img src="{{site.baseurl}}/img/van-eventos.png" class="imgResponsive">
+      </div>
+      <div class="clearfix"></div>
+
+      <div class="col-md-4 leftRight">
+        <img src="{{site.baseurl}}/img/Seguridad-eventos.png" width="110px">
+        <p style="color: #2D414D"><b>Seguro</b></p>
+        <p>Viaja con confianza y tranquilidad en unidades aseguradas.</p>
+      </div>
+      <div class="col-md-4 col-md-offset-4">
+        <img src="{{site.baseurl}}/img/equipamiento-eventos.png" width="110px">
+        <p style="color: #2D414D"><b>Equipamiento</b></p>
+        <p>Vehículos con aire acondicionado, botiquín de primeros auxilios, asientos cómodos, cámara de seguridad y gps.</p>
+      </div>
+
+      <div class="col-md-12 text-center" style="margin-top: 20px;">
+        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
+          Agendar viaje
+        </button>
+      </div>
+
+      <div class="col-md-12 text-center" style="margin-top: 40px;">
         <p>
-          Caddy - 6 pax <br> Urvan - 13 pax <br> Transit - 14 y 17 pax <br> Crafter - 19 pax <br> Linner G - 41-45 <br> Hiace - 14 pax <br> Sprinter - 20 pax
+          <a href="http://ayuda.jetty.mx/es/articles/4320027-politica-de-cambios-y-cancelacion" class="linkPoliticas">Revisa nuestras políticas de cambios y cancelación.</a>
         </p>
       </div>
 
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#ModalEventos">
-          Cotiza
-        </button>
-      </div>
     </div>
-
 
   </div>
 </div>
 
-<!-- Modal Eventos -->
-<div class="modal fade" id="ModalEventos" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <!-- <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y te mandaremos la cotización.</h4> -->
       </div>
-
-      <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
-
+      <div class="modal-body">
+        <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
+      </div>
+      <!-- <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div> -->
     </div>
   </div>
 </div>
-
-<!-- Modal Tropico -->
-<div class="modal fade" id="ModalTropico" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-      </div>
-
-      <div class="_form_7"></div><script src="https://jetty.activehosted.com/f/embed.php?id=7" type="text/javascript" charset="utf-8"></script>
-
-    </div>
-  </div>
-</div>
-
- <!-- Modal Conductor -->
- <div id="ModalSuccess" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Recibimos tu solicitud</h4>
-      </div>
-
-      <div class="modal-body text-center">
-        <div class="row">
-          <div class="col-md-12  .center">
-              <h5>Nos pondremos en contacto contigo dentro de poco.</h5>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-
-<!-- MODAL TOURS MURALISMO-->
-<div class="modal fade" id="ModalTourMuralismo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header header-modal-muralismo">
-        <h2 class="modal-title title-tours-modal" id="myModalLabel">Nuevo Muralismo Mexicano</h2>
-      </div>
-
-      <form class="js--form-events">
-        <div class="modal-body">
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-name">Nombre</label>
-                <input name="name" id="nuevo-muralismo-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
-                <input name="eventname" type="hidden" value="Nuevo Muralismo Mexicano">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-lastname">Apellido</label>
-                <input name="lastname" id="nuevo-muralismo-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-email">Correo electrónico</label>
-                <input name="email" id="nuevo-muralismo-email" type="email" class="form-control" placeholder="Correo electrónico">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-phone">Celular</label>
-                <input name="phone" id="nuevo-muralismo-phone" type="text" class="form-control" placeholder="Número telefónico">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-people">Número de personas</label>
-                <input name="people" id="nuevo-muralismo-people" type="text" class="form-control" placeholder="Número">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-muralismo-date">Fecha de salida</label>
-                <select class="form-control" id="nuevo-muralismo-date" name="origin_date">
-                  <option value="11/Mayo/2019">11 de Mayo del 2019</option>
-                </select>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modal-footer modal-footer-tours">
-          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
-        </div>
-      </form>
-
-    </div>
-  </div>
-</div>
-
-<!-- MODAL TOURS MERCADO-->
-<div class="modal fade" id="ModalTourMercado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header header-modal-mercado">
-        <h2 class="modal-title title-tours-modal" id="myModalLabel">Mercado de San Juan</h2>
-      </div>
-
-      <form class="js--form-events">
-        <div class="modal-body">
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-name">Nombre</label>
-                <input name="name" id="nuevo-mercado-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
-                <input name="eventname" type="hidden" value="Mercado de San Juan">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-lastname">Apellido</label>
-                <input name="lastname" id="nuevo-mercado-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-email">Correo electrónico</label>
-                <input name="email" id="nuevo-mercado-email" type="email" class="form-control" placeholder="Correo electrónico">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-phone">Celular</label>
-                <input name="phone" id="nuevo-mercado-phone" type="text" class="form-control" placeholder="Número telefónico">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-people">Número de personas</label>
-                <input name="people" id="nuevo-mercado-people" type="text" class="form-control" placeholder="Número">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-mercado-date">Fecha de salida</label>
-                <select class="form-control" id="nuevo-mercado-date" name="origin_date">
-                  <option value="18/Mayo/2019">18 de Mayo del 2019</option>
-                </select>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modal-footer modal-footer-tours">
-          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
-        </div>
-      </form>
-
-    </div>
-  </div>
-</div>
-
-<!-- MODAL TOURS SANTA MARIA-->
-<div class="modal fade" id="ModalTourSantamaria" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header header-modal-santamaria">
-        <h2 class="modal-title title-tours-modal" id="myModalLabel">Santa María la Ribera</h2>
-      </div>
-
-      <form class="js--form-events">
-        <div class="modal-body">
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-name">Nombre</label>
-                <input name="name" id="nuevo-santamaria-name" type="text" class="form-control" maxlength="30" placeholder="Nombre">
-                <input name="eventname" type="hidden" value="Santa María la Ribera">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-lastname">Apellido</label>
-                <input name="lastname" id="nuevo-santamaria-lastname" type="text" class="form-control" maxlength="60" placeholder="Apellido">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-email">Correo electrónico</label>
-                <input name="email" id="nuevo-santamaria-email" type="email" class="form-control" placeholder="Correo electrónico">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-phone">Celular</label>
-                <input name="phone" id="nuevo-santamaria-phone" type="text" class="form-control" placeholder="Número telefónico">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-people">Número de personas</label>
-                <input name="people" id="nuevo-santamaria-people" type="text" class="form-control" placeholder="Número">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="nuevo-santamaria-date">Fecha de salida</label>
-                <select class="form-control" id="nuevo-santamaria-date" name="origin_date">
-                  <option value="25/Mayo/2019">25 de Mayo del 2019</option>
-                </select>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modal-footer modal-footer-tours">
-          <button type="button" class="btn btn-gray-small" data-dismiss="modal">Cerrar</button>
-          <button type="submit" class="btn btn-green-small">Enviar</button>
-        </div>
-      </form>
-
-    </div>
-  </div>
-</div>
-
