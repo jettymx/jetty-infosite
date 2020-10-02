@@ -1,6 +1,6 @@
 ---
 layout: default-en
-title: Jetty | Soluciona El Transporte de Personal de tu Empresa
+title: Jetty | Corporate transport
 description: ¡Llevamos a tu personal seguro y a tiempo! En Jetty nos adaptamos a las necesidades de tu organización bajo diferentes esquemas, para alcanzar los mejores resultados.
 id: servicio-corporativo
 ---
@@ -11,10 +11,10 @@ id: servicio-corporativo
     <div class="container">
       <div class="row">
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
-          <h1>¡Llevamos a tu personal <br><span class="titleBold">seguro y a tiempo!</span></h1>
-          <p class="lead">En Jetty nos adaptamos a las necesidades de tu empresa bajo diferentes esquemas, para alcanzar los mejores resultados.</p>
+          <h1>We take your team <br><span class="titleBold">safe and on time!</span></h1>
+          <p class="lead">At Jetty we adapt to the needs of your company under different modalities, to achieve the best results.</p>
           <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-            Solicita información
+            More information
           </button>
         </div>
         <div class="col-md-6 text-right">
@@ -27,45 +27,45 @@ id: servicio-corporativo
   <div class="container porque-content" data-aos="fade-up">
     <div class="row" style="margin-bottom: 40px;">
       <div class="col-md-12 text-center porque-title">
-        <h2>Tu seguridad nuestra prioridad</h2>
-        <p class="lead textGray">Tenemos protocolos estrictos de higiene y seguridad en todas nuestras unidades:</p>
+        <h2>Your safety our priority</h2>
+        <p class="lead textGray">We have strict hygiene and safety protocols in all our vehicles:</p>
       </div>
 
       <div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/desinfeccion.png" class="iconoSeguridad">
-          <p><b>Desinfección general</b></p>
-          <p>Reforzamos limpieza y desinfección. Damos prioridad a puntos de contacto: manijas, pasamanos, vidrios, etc. Antes y después de cada viaje.</p>
+          <p><b>Disinfection</b></p>
+          <p>We reinforce cleaning and disinfection. We prioritize points of contact: handles, handrails, glasses, etc. Before and after each trip.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/capacitados.png" class="iconoSeguridad">
-          <p><b>Conductores capacitados</b></p>
-          <p>Todos nuestros conductores están preparados e informados con todas las medidas de prevención. </p>
+          <p><b>Trained drivers</b></p>
+          <p>All our drivers are prepared and informed with all preventions measures.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/temperatura.png" class="iconoSeguridad">
-          <p><b>Toma de temperatura y gel antibacterial </b></p>
-          <p>Antes de abordar la unidad, el conductor revisará la temperatura de todos los pasajeros (ésta no puede exceder los 36.9º). Además proporcionaremos gel antibacterial. </p>
+          <p><b>Temperature measurement and sanitizer dispenser</b></p>
+          <p>Before boarding the vehicle, the driver will check the temperature of all passengers (it cannot exceed 36.9º). We will also provide hand sanitizer.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/cubrebocas.png" class="iconoSeguridad">
-          <p><b>Cubrebocas obligatorio</b></p>
-          <p>Todos los pasajeros deben portar cubrebocas. Es necesario ajustarlo para que cubra nariz y boca en su totalidad.</p>
+          <p><b>Masks required</b></p>
+          <p>All passengers must wear face masks. It is necessary to adjust it so that it covers the nose and mouth.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/asientos.png" class="iconoSeguridad">
-          <p><b>Maximización de espacios</b></p>
-          <p>El espacio en cada unidad será maximizando el espacio entre colaboradores y colaboradoras para su seguridad y comodidad. </p>
+          <p><b>Distance between passengers</b></p>
+          <p>Safety and comfort between passengers.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/Monitoreo-gps.png" class="iconoSeguridad">
-          <p><b>Monitoreo GPS</b></p>
-          <p>Todas nuestras unidades se encuentran vigiladas en tiempo real.</p>
+          <p><b>Drive location</b></p>
+          <p>All our vehicles are monitored in real time.</p>
         </div>
 
         <div class="col-md-12 text-center" style="margin-top: 30px; margin-bottom: 30px;">
           <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-            Solicita información
+            More information
           </button>
         </div>
       </div>
@@ -73,61 +73,61 @@ id: servicio-corporativo
 
     <div class="row">
       <div class="col-md-12 text-center porque-title">
-        <h2>Beneficios</h2>
+        <h2>Benefits</h2>
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/rutas.png" class="iconoSeguridad-100">
-        <p><b>Diseño de recorridos</b></p>
-        <p>Optimizamos las rutas, para una mejor experiencia de trayecto.</p>
+        <p><b>Route desing</b></p>
+        <p>We optimize the routes for a better travel experience.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/soporte.png" class="iconoSeguridad-100">
-        <p><b>Equipo de soporte</b></p>
-        <p>Recibe atención de nuestro equipo de atención,  antes durante y después de cada viaje.</p>
+        <p><b>Customer service</b></p>
+        <p>Receive attention from our care team, before, during and after each trip.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/trabajar.png" class="iconoSeguridad-100">
-        <p><b>Más productividad</b></p>
-        <p>Al viajar en Jetty puedes trabajar o descansar durante el trayecto. Los viajes  felices aumentan la motivación. </p>
+        <p><b>More productivity</b></p>
+        <p>By using Jetty you can work or rest on the go. Happy travels motivates.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/responsabilidad.png" class="iconoSeguridad-100">
-        <p><b>Responsabilidad social</b></p>
-        <p>Al moverte en Jetty ayudas a impulsar una ciudad más sostenible en beneficio del medio ambiente.</p>
+        <p><b>Social responsability</b></p>
+        <p>By using Jetty you help to promote a more sustainable city for the benefit of the environment.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/money.png" class="iconoSeguridad-100">
-        <p><b>Económico</b></p>
-        <p>Con Jetty ahorras en el costo de traslados y estacionamiento.</p>
+        <p><b>Costs</b></p>
+        <p>With Jetty you save on the cost of transfers and parking.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/trabajo.png" class="iconoSeguridad-100">
-        <p><b>Un plus de reclutamiento</b></p>
-        <p>Tener transporte es un factor importante a la hora de elegir trabajo, ya que mejora la calidad de vida y el clima laboral.</p>
+        <p><b>A recruitment bonus</b></p>
+        <p>Having transportation is an important factor when choosing work, as it improves the quality of life and the work environment.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/app.png" class="iconoSeguridad-100">
-        <p><b>Tecnología</b></p>
-        <p>Con nuestra app, es más fácil revisar y reservar tus trayectos. Además puedes monitorear la ubicación de tu Jetty.</p>
+        <p><b>Technology</b></p>
+        <p>With our app,it's easy to review and book your routes. You can also monitor the location of your Jetty.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/conductor.png" class="iconoSeguridad-100">
-        <p><b>Conductores profesionales</b></p>
-        <p>Todos pasan por un estricto proceso de selección que incluye entrevistas, exámenes toxicológicos y evaluaciones psicométricas.</p>
+        <p><b>Professional drivers</b></p>
+        <p>Our drivers go through a strict screening process that includes interviews, drug tests, and psychometric evaluations.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/flexibilidad.png" class="iconoSeguridad-100">
-        <p><b>Flexibilidad</b></p>
-        <p>Te ofrecemos diferentes esquemas, tu eliges el que mejor se adapte a tus necesidades.</p>
+        <p><b>Flexibility</b></p>
+        <p>We offer you different options, you choose the one that best suits your needs.</p>
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 30px;">
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-            Solicita información
-          </button>
+          More information
+        </button>
       </div>
     </div>
   </div>
@@ -135,27 +135,27 @@ id: servicio-corporativo
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center" style="margin-bottom: 20px;">
-        <h2>Modalidades</h2>
+        <h2>Services</h2>
       </div>
 
       <div class="col-md-6">
         <img src="{{site.baseurl}}/img/compartido.png" class="iconoSeguridad" alt="Jetty, Tecnología">
-        <h3>Compartido:</h3>
-        <p><b>Pases:</b>  Nosotros reservamos tus viajes, sólo nos indicas que rutas y horarios de los que tenemos vigentes te interesan.</p>
-        <p><b>Recarga de saldo:</b> Eliges la cantidad a abonar de saldo para los trayectos de tus colaboradores. Estos también corresponden a nuestras rutas actuales. Es decir comparten la ruta con nuestros usuarios.</p>
+        <h3>Shared:</h3>
+        <p><b>Tickets:</b> We reserve your trips, you choose routes and schedules from our current offer.</p>
+        <p><b>Balance:</b> Choose the amount to pay for the balance of your team's trips. It applies for current routes and they share a route with our users.</p>
       </div>
 
       <div class="col-md-6">
         <img src="{{site.baseurl}}/img/exclusivo.png" class="iconoSeguridad">
-        <h3>Exclusivo:</h3>
-        <p>Es sólo para el personal de tu empresa, nosotros nos encargamos de la logística de las rutas. Este servicio es completamente personalizado.</p>
+        <h3>Exclusive:</h3>
+        <p>It is only for the staff of your company, we take care of the logistics of the routes. This service is completely personalized.</p>
       </div>
 
     </div>
 
     <div class="col-md-12 text-center" style="margin-bottom: 60px; margin-top: 30px;">
       <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-        Solicita información
+        More information
       </button>
     </div>
 
@@ -164,7 +164,7 @@ id: servicio-corporativo
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h2>Nuestros clientes:</h2>
+        <h2>Customers:</h2>
         <ul class="clientes">
           <li>
             <a href="http://www.alhel.com/" target="_blank">

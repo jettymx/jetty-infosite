@@ -12,21 +12,21 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
         <img src="{{site.baseurl}}/img/Jetty-servicios-de-transporte-2.png" class="imgResponsive" alt="Jetty MX, Servicios de transporte" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
       </div>
       <div class="col-md-6 textWLTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <h1>Servicios de <br><span class="titleBold">transporte</span></h1>
-        <p>Contar con un servicio de transporte con tecnología de punta te brinda diversos beneficios, el más importante está enfocado en que disfrutes al máximo la experiencia de tus viajes.</p>
-        <p><span class="textBold">Nos dedicamos a cambiar el concepto de transporte para ofrecerte una experiencia donde resalte la tecnología para tu beneficio,</span> te proporcionamos todas las herramientas para eficientar tus traslados, hacerlos más cómodos y seguros.</p>
+        <h1>Transit <br><span class="titleBold">Services</span></h1>
+        <p>Having a transportation service with state-of-the-art technology gives you many benefits, the most important of which is focused on making the most of your travel experience.</p>
+        <p><span class="textBold">We are dedicated to changing the concept of transport to offer an experience where technology stands out for your benefit,</span> we provide you with all the tools to make your transfers more efficient, more comfortable and safer.</p>
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1>Nuestros beneficios para ti</h1>
+        <h1>Benefits for you</h1>
       </div>
     </div>
 
     <div class="row" style="margin-bottom: 20px;">
       <div class="col-md-8 ">
-        <h2>Dentro de la app</h2>
+        <h2>App</h2>
       </div>
     </div>
 
@@ -39,9 +39,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Tecnología</span>
+             <span class="textBold">Technology</span>
               <br>
-              Todo en la palma de tu mano, podrás revisar el día y horario de la ruta de tu interés, pagar desde tu celular, tener seguimiento y control de tus viajes.</p>
+              It is very simple, you can check the day and time of the route of your interest, pay from your cell phone, have monitoring and control of your trips.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -49,9 +49,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Reserva de asientos</span>
+             <span class="textBold">In advance seat-booking system</span>
               <br>
-              Tienes la posibilidad de reservar uno o más asientos, tanto para un mismo día como para toda la semana.</p>
+              You have the possibility of reserving one or more seats, both for the same day and for the whole week.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -59,9 +59,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Equipo de soporte</span>
+             <span class="textBold">Support to users</span>
               <br>
-              Nuestro equipo de soporte está para ayudarte en todo momento.</p>
+              Our support team is always there to help you</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -69,9 +69,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Retroalimentación constante</span>
+             <span class="textBold">Feedback</span>
               <br>
-              Tu opinión es muy importante para nosotros, califica tus viajes y envíanos comentarios, felicitaciones, quejas o sugerencias para mejorar nuestro servicio. </p>
+              Your opinion is very important to us, rate your trips and send us comments, congratulations, complaints or suggestions to improve our service.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -79,9 +79,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Solicitud de asistencia</span>
+             <span class="textBold">Assistance</span>
               <br>
-              Con sólo un clic puedes anticipar al conductor de la ayuda que necesitas antes de subir a la unidad. <i>(Asiento prioritario, apoyo para subir a la unidad, guardar muletas o silla de ruedas, apoyo visual o auditivo).</i></p>
+              With just one click you can let the driver know in case you might need help before boarding the unit. <i>(Priority seat, support to enter the vehicle, stow crutches or wheelchair, visual or auditory support).</i></p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -89,9 +89,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Ubicación por GPS</span>
+             <span class="textBold">GPS location</span>
               <br>
-              Sigue en tiempo real la ubicación de tu servicio de transporte.</p>
+              Follow the location of your transport service in real time.</p>
           </div>
 
         </div>
@@ -104,7 +104,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
 
     <div class="row" style="margin-bottom: 20px;">
       <div class="col-md-8 ">
-        <h2>Experiencia de servicio </h2>
+        <h2>Customer experience</h2>
       </div>
     </div>
 
@@ -117,9 +117,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Conductores profesionales y capacitados</span>
+             <span class="textBold">Professional and trained drivers</span>
               <br>
-              Todos nuestros conductores están altamente calificados para ofrecerte el mejor servicio. Constantemente los capacitamos en servicio al cliente y perspectiva de género.</p>
+              All of our drivers are highly qualified to offer you the best service. We constantly train them in customer service and gender perspective.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -127,9 +127,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Seguridad y tranquilidad</span>
+             <span class="textBold">Security and comfort</span>
               <br>
-              En Jetty puedes tener la confianza de sacar tranquilamente tu laptop, celular o videojuego. Incluso dormir con la tranquilidad de que llegarás con seguridad y comodidad a tu destino. </p>
+              During your trip with Jetty, you have the confidence to calmly take out your laptop, cell phone or video game, or even sleep peacefully with the certainty that you will arrive safely and comfortably at your destination.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -137,9 +137,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Siempre tienes un lugar</span>
+             <span class="textBold">You always have a seat</span>
               <br>
-              Puedes reservar tu asiento desde la app, siempre llegarás cómodo y seguro.</p>
+              You can reserve your seat with the app, you will always arrive comfortable and safe.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -147,9 +147,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Rutas directas</span>
+             <span class="textBold">Direct routes</span>
               <br>
-              No hay vueltas innecesarias, el conductor conoce su ruta, y sabe los puntos de ascenso y descenso.</p>
+              There are no unnecessary turns, the driver knows his route and knows the pickup and dropoff points.</p>
           </div>
 
         </div>
@@ -162,25 +162,26 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Otros servicios</h2>
+        <h2>Other services</h2>
       </div>
 
       <div class="col-md-3 marginBottom">
         <img src="{{site.baseurl}}/img/mapa-cobertura.png" class="imgResponsive">
-        <p>Conoce nuestra cobertura</p>
+        <p>Know our service areas</p>
         <br>
-        <a href="cobertura" class="btn-gray hvr-shadow">Ver cobertura</a>
+        <a href="cobertura" class="btn-gray hvr-shadow">Service areas</a>
       </div>
       <div class="col-md-3 col-md-offset-1 marginBottom">
         <img src="{{site.baseurl}}/img/contratar-transporte.png" class="imgResponsive">
-        <p>Contrata un vehículo para viajar en fin de semana</p>
-        <a href="transporte-eventos" class="btn-gray hvr-shadow">Contratar transporte</a>
+        <p>Rent a vehicle for an event</p>
+        <br>
+        <a href="transporte-eventos" class="btn-gray hvr-shadow">Want transport</a>
       </div>
       <div class="col-md-3 col-md-offset-1 marginBottom">
         <img src="{{site.baseurl}}/img/transporte-personal.png" class="imgResponsive">
-        <p>Opciones para transporte corporativo</p>
+        <p>Corporate transportation</p>
         <br>
-        <a href="servicio-corporativo" class="btn-gray hvr-shadow">Transporte de personal</a>
+        <a href="servicio-corporativo" class="btn-gray hvr-shadow">Staff transportation options</a>
       </div>
     </div>
 
@@ -193,9 +194,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
       <img src="{{site.baseurl}}/img/Jetty-Soluciones-tecnologicas.png" class="imgResponsive">
     </div>
     <div class="col-md-7 textInfoFooter">
-      <h3>Conoce más sobre nuestras soluciones tecnológicas</h3>
-      <p>Llevamos todos los beneficios de nuestra tecnología a empresas de <span class="textBold">transporte público, corporativos, servicios turísticos o escolares,</span> para mejorar la experiencia de sus usuarios, contribuyendo a la modernización del sector.</p>
-      <a href="soluciones-tecnologicas" class="btn-green hvr-shadow">Ver tecnología</a>
+      <h3>Our Technological solutions</h3>
+      <p>We bring all <span class="textBold">the benefits of our technology to public transit companies, corporations, tourist services or educational institutions</span> to improve their users' experience for their commutes.</p>
+      <a href="soluciones-tecnologicas" class="btn-green hvr-shadow">Our tecnology</a>
     </div>
   </div>
 </div>
