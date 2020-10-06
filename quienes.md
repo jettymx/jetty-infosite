@@ -56,38 +56,38 @@ id: quienes
         <ul class="alianzas">
           <li>
             <a href="https://www.raeng.org.uk/grants-and-prizes/grants/international-research-and-collaborations/newton-fund-programmes/leaders-innovation-fellowships" target="_blank">
-              <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering" style="width: 180px;">
+              <img src="imgs-prensa/Royal-Academy-Of-Engineering.png" alt="Royal Academy Of Engineering">
             </a>
           </li>
           <li>
             <a href="https://www.mitinclusiveinnovation.com/regions/latin-america/" target="_blank">
-              <img src="imgs-prensa/MIT-Income.jpg" alt="MIT Inclusive Innovation Challenge" style="width: 100px;">
+              <img src="imgs-prensa/MIT-Income.jpg" alt="MIT Inclusive Innovation Challenge">
             </a>
           </li>
           <li>
             <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-              <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018" style="width: 80px;">
+              <img src="imgs-prensa/Startup-Spotlight.png" alt="Startup Spotlight 2018">
             </a>
           </li>
           <li>
             <a href="https://pitchawards.com" target="_blank">
-              <img src="imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018" style="width: 160px;">
+              <img src="imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018">
             </a>
           </li>
           <li>
-            <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" style="width: 140px">
+            <img src="imgs-prensa/30-promesas.png" alt="30 promesas de negocio" >
           </li>
           <li>
             <img src="imgs-prensa/NEGRO.png">
           </li>
           <li>
             <a href="http://sharedusemobilitycenter.org/2018-summit/" target="_blank">
-              <img src="imgs-prensa/shared.png" alt="Shared Use Mobility" style="width: 250px;">
+              <img src="imgs-prensa/shared.png" alt="Shared Use Mobility">
             </a>
           </li>
           <li>
             <a href="https://developers.google.com/community/launchpad" target="_blank">
-              <img src="imgs-prensa/Google-Launchpad.png" alt="Google Launchpad" style="width: 250px;">
+              <img src="imgs-prensa/Google-Launchpad.png" alt="Google Launchpad">
             </a>
           </li>
         </ul>
@@ -151,6 +151,7 @@ id: quienes
             <img src="imgs-prensa/vanguardia.png">
           </li>
         </ul>
+        <div class="clearfix"></div>
         <a href="/prensa" class="btn-green hvr-shadow">Ir a prensa</a>
       </div>
 
