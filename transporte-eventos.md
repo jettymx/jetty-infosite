@@ -17,9 +17,6 @@ id: transporte-eventos
         <p class="lead">¿Estás buscando transporte para viajar el fin de semana?</p>
         <p class="lead">¿Quieres moverte con comodidad y sin estrés?</p>
         <p class="lead">En Jetty nos adaptamos a tus necesidades para brindarte la mejor experiencia de viaje.</p>
-        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
-
-        <!-- Button trigger modal -->
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
           Agendar viaje
         </button>
@@ -75,7 +72,7 @@ id: transporte-eventos
     <div class="col-md-8 col-md-offset-2 text-center">
       <p style="color: #2D414D">
         <b>*Medidas de prevención COVID-19</b><br>
-        -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
+        -Unidades sanitizadas antes y después de cada trayecto.<br>
         -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
         -Toma de temperatura y gel antibacterial antes de ingresar.<br>
         -Maximización de espacios dentro de la unidad.<br>

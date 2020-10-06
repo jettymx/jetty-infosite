@@ -13,15 +13,12 @@ id: transporte-eventos
         <img src="{{site.baseurl}}/img/eventos.svg" width="100%">
       </div>
       <div class="col-md-5">
-        <h1>¡Vámonos de <br><span class="titleBold">fin de semana!</span></h1>
-        <p class="lead">¿Estás buscando transporte para viajar el fin de semana?</p>
-        <p class="lead">¿Quieres moverte con comodidad y sin estrés?</p>
-        <p class="lead">En Jetty nos adaptamos a tus necesidades para brindarte la mejor experiencia de viaje.</p>
-        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
-
-        <!-- Button trigger modal -->
+        <h1>Let's go out for <br><span class="titleBold">the weekend!</span></h1>
+        <p class="lead">Are you looking for transportation to travel on the weekend?</p>
+        <p class="lead">Do you want to move comfortably and without stress?</p>
+        <p class="lead">At Jetty we adapt to your needs to give you the best travel experience.</p>
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-          Agendar viaje
+          Schedule your trip
         </button>
 
       </div>
@@ -29,26 +26,26 @@ id: transporte-eventos
 
     <div class="row tipo-eventos marginBottom">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Cuéntanos el tipo de servicio que deseas</h2>
+        <h2>Tell us what type of service you are looking for</h2>
       </div>
 
       <div class="col-md-4 text-center">
         <img src="{{site.baseurl}}/img/campo.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3>Fuera de la ciudad</h3>
+        <h3>Out of town</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="{{site.baseurl}}/img/ciudad.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3>Dentro de la ciudad</h3>
+        <h3>Inside the city</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="{{site.baseurl}}/img/empresarial.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3>Transporte empresarial</h3>
+        <h3>Transportation for companies</h3>
       </div>
     </div>
 
     <div class="row tipo-eventos" style="margin-bottom: 60px;">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>Elige tu transporte ideal</h2>
+        <h2>Choose your vehicle</h2>
       </div>
 
       <div class="col-md-4 text-center">
@@ -66,20 +63,20 @@ id: transporte-eventos
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-          Agendar viaje
+          Schedule your trip
         </button>
       </div>
     </div>
 
     <div class="col-md-8 col-md-offset-2 text-center">
       <p style="color: #2D414D">
-        <b>*Medidas de prevención COVID-19</b><br>
-        -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
-        -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
-        -Toma de temperatura y gel antibacterial antes de ingresar.<br>
-        -Maximización de espacios dentro de la unidad.<br>
+        <b>*Prevention of Coronavirus</b><br>
+        -Sanitized vehicles before and after each trip.<br>
+        -We request the use of masks to all users.<br>
+        -We take the temperature and give antibacterial for hands before going up to the transport.<br>
+        -Space racionalización inside the vehicles for social distancing.<br>
         <br>
-        <b>Nuestro compromiso es ofrecerte viajes cómodos y seguros, cumpliendo con los protocolos necesarios para minimizar el riesgo de contagio, tanto de nuestros usuarios como colaboradores.</b>
+        <b>We are committed to offer you comfortable and safe trips, complying with the necessary protocols to minimize the risk of contagion, both from our users and collaborators.</b>
       </p>
     </div>
 
@@ -87,18 +84,18 @@ id: transporte-eventos
 
     <div class="row tipo-eventos" style="margin-top: 40px;">
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
-        <h2>Al viajar con nosotros, tu experiencia incluye:</h2>
+        <h2>Travelling with us, your experience includes:</h2>
       </div>
 
       <div class="col-md-4 leftRight">
         <img src="{{site.baseurl}}/img/conductor-eventos.png" width="110px">
-        <p style="color: #2D414D"><b>Conductores profesionales</b></p>
-        <p>Nuestros conductores son amables y respetuosos. Todos pasan por un proceso estricto de selección.</p>
+        <p style="color: #2D414D"><b>Professional drivers</b></p>
+        <p>Our drivers are friendly and respectful. They all go through a strict selection process.</p>
       </div>
       <div class="col-md-4 col-md-offset-4">
         <img src="{{site.baseurl}}/img/tecnologia-eventos.png" width="110px">
-        <p style="color: #2D414D"><b>Tecnología</b></p>
-        <p>Todas nuestras unidades son monitoreadas y cuentan con asistencia durante el viaje.</p>
+        <p style="color: #2D414D"><b>Technology</b></p>
+        <p>All our vehicles are monitored and have assistance during the trip.</p>
       </div>
 
       <div class="clearfix"></div>
@@ -109,25 +106,25 @@ id: transporte-eventos
 
       <div class="col-md-4 leftRight">
         <img src="{{site.baseurl}}/img/Seguridad-eventos.png" width="110px">
-        <p style="color: #2D414D"><b>Seguro</b></p>
-        <p>Viaja con confianza y tranquilidad en unidades aseguradas.</p>
+        <p style="color: #2D414D"><b>Safe</b></p>
+        <p>Travel with confidence and peace of mind in insured vehicles.</p>
       </div>
       <div class="col-md-4 col-md-offset-4">
         <img src="{{site.baseurl}}/img/equipamiento-eventos.png" width="110px">
-        <p style="color: #2D414D"><b>Equipamiento</b></p>
-        <p>Vehículos con aire acondicionado, botiquín de primeros auxilios, asientos cómodos, cámara de seguridad y gps.</p>
+        <p style="color: #2D414D"><b>Equipment</b></p>
+        <p>Vehicles with air conditioning, first aid kit, comfortable seats, security camera and GPS.</p>
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
         <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
-          Agendar viaje
+          I want to travel
         </button>
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 40px;">
         <p>
-          <a href="http://ayuda.jetty.mx/es/articles/4320027-politica-de-cambios-y-cancelacion" class="linkPoliticas">Revisa nuestras políticas de cambios y cancelación.</a>
+          <a href="http://ayuda.jetty.mx/es/articles/4320027-politica-de-cambios-y-cancelacion" class="linkPoliticas">Check the change and cancellation policies.</a>
         </p>
       </div>
 

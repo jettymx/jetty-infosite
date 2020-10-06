@@ -12,7 +12,7 @@ id: servicio-corporativo
       <div class="row">
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
           <h1>We take your team <br><span class="titleBold">safe and on time!</span></h1>
-          <p class="lead">At Jetty we adapt to the needs of your company under different modalities, to achieve the best results.</p>
+          <p class="lead">At Jetty we adapt to the needs of your company under different modalities to achieve the best results.</p>
           <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
             More information
           </button>
@@ -27,7 +27,7 @@ id: servicio-corporativo
   <div class="container porque-content" data-aos="fade-up">
     <div class="row" style="margin-bottom: 40px;">
       <div class="col-md-12 text-center porque-title">
-        <h2>Your safety our priority</h2>
+        <h2>Your safety, our priority</h2>
         <p class="lead textGray">We have strict hygiene and safety protocols in all our vehicles:</p>
       </div>
 
@@ -35,7 +35,7 @@ id: servicio-corporativo
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/desinfeccion.png" class="iconoSeguridad">
           <p><b>Disinfection</b></p>
-          <p>We reinforce cleaning and disinfection. We prioritize points of contact: handles, handrails, glasses, etc. Before and after each trip.</p>
+          <p>We reinforce cleaning and disinfection. We prioritize points of contact: handles, handrails, glasses, doors etc. before and after each trip.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/capacitados.png" class="iconoSeguridad">
@@ -45,7 +45,7 @@ id: servicio-corporativo
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/temperatura.png" class="iconoSeguridad">
           <p><b>Temperature measurement and sanitizer dispenser</b></p>
-          <p>Before boarding the vehicle, the driver will check the temperature of all passengers (it cannot exceed 36.9º). We will also provide hand sanitizer.</p>
+          <p>Before boarding the vehicle, the driver will check the temperature of all passengers (it cannot exceed 36.9ºC or 99 ºF). We will also provide hand sanitizer.</p>
         </div>
         <div class="col-md-4">
           <img src="{{site.baseurl}}/img/cubrebocas.png" class="iconoSeguridad">
@@ -86,12 +86,12 @@ id: servicio-corporativo
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/soporte.png" class="iconoSeguridad-100">
         <p><b>Customer service</b></p>
-        <p>Receive attention from our care team, before, during and after each trip.</p>
+        <p>Receive attention from our support team before, during and after each trip.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/trabajar.png" class="iconoSeguridad-100">
-        <p><b>More productivity</b></p>
-        <p>By using Jetty you can work or rest on the go. Happy travels motivates.</p>
+        <p><b>Be productive during your commutes</b></p>
+        <p>By using Jetty you can work or rest on the go. Happy commutes increase motivation!</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/responsabilidad.png" class="iconoSeguridad-100">
@@ -100,18 +100,18 @@ id: servicio-corporativo
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/money.png" class="iconoSeguridad-100">
-        <p><b>Costs</b></p>
-        <p>With Jetty you save on the cost of transfers and parking.</p>
+        <p><b>Low Costs</b></p>
+        <p>With Jetty, you save the costs of trips and parking.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/trabajo.png" class="iconoSeguridad-100">
         <p><b>A recruitment bonus</b></p>
-        <p>Having transportation is an important factor when choosing work, as it improves the quality of life and the work environment.</p>
+        <p>Having transportation is an important factor when choosing a job since it improves the quality of life and the work environment.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/app.png" class="iconoSeguridad-100">
         <p><b>Technology</b></p>
-        <p>With our app,it's easy to review and book your routes. You can also monitor the location of your Jetty.</p>
+        <p>With our app,it's easy to review and book your trips. You can also track the live location of your Jetty.</p>
       </div>
       <div class="col-md-4">
         <img src="{{site.baseurl}}/img/conductor.png" class="iconoSeguridad-100">
@@ -140,15 +140,15 @@ id: servicio-corporativo
 
       <div class="col-md-6">
         <img src="{{site.baseurl}}/img/compartido.png" class="iconoSeguridad" alt="Jetty, Tecnología">
-        <h3>Shared:</h3>
-        <p><b>Tickets:</b> We reserve your trips, you choose routes and schedules from our current offer.</p>
-        <p><b>Balance:</b> Choose the amount to pay for the balance of your team's trips. It applies for current routes and they share a route with our users.</p>
+        <h3>Shared services:</h3>
+        <p><b>Tickets:</b> We reserve your trips, you choose routes and day/time from our many options available.</p>
+        <p><b>Adding balance to your account:</b> Add the desired balance to your employees´accounts. This balance can be used in any trip available on the app.</p>
       </div>
 
       <div class="col-md-6">
         <img src="{{site.baseurl}}/img/exclusivo.png" class="iconoSeguridad">
         <h3>Exclusive:</h3>
-        <p>It is only for the staff of your company, we take care of the logistics of the routes. This service is completely personalized.</p>
+        <p>We allow you to create exclusive and private trips and routes, only available for those people you request. We take care of the trip logistics, this service is completely customizable.</p>
       </div>
 
     </div>
@@ -164,7 +164,7 @@ id: servicio-corporativo
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h2>Customers:</h2>
+        <h2>Our Clients:</h2>
         <ul class="clientes">
           <li>
             <a href="http://www.alhel.com/" target="_blank">

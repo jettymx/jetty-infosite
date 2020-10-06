@@ -142,13 +142,13 @@ id: servicio-corporativo
         <img src="img/compartido.png" class="iconoSeguridad" alt="Jetty, Tecnología">
         <h3>Compartido:</h3>
         <p><b>Pases:</b>  Nosotros reservamos tus viajes, sólo nos indicas que rutas y horarios de los que tenemos vigentes te interesan.</p>
-        <p><b>Recarga de saldo:</b> Eliges la cantidad a abonar de saldo para los trayectos de tus colaboradores. Estos también corresponden a nuestras rutas actuales. Es decir comparten la ruta con nuestros usuarios.</p>
+        <p><b>Recarga de saldo:</b> Eliges la cantidad de saldo a abonar a la cuenta de tus colaboradores, este saldo podrá ser usado en cualquier viaje disponible en la app.</p>
       </div>
 
       <div class="col-md-6">
         <img src="img/exclusivo.png" class="iconoSeguridad">
         <h3>Exclusivo:</h3>
-        <p>Es sólo para el personal de tu empresa, nosotros nos encargamos de la logística de las rutas. Este servicio es completamente personalizado.</p>
+        <p>Te damos la posibilidad de crear viajes privados y exclusivos para tus colaboradores, estos viajes sólo estarán visibles para las personas que elijas. Nosotros nos encargamos de la logística de las rutas y el servicio es completamente personalizado.</p>
       </div>
 
     </div>

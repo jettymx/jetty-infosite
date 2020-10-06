@@ -20,7 +20,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
 
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1>Benefits for you</h1>
+        <h1>Our Benefits for you</h1>
       </div>
     </div>
 
@@ -41,7 +41,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
             <p>
              <span class="textBold">Technology</span>
               <br>
-              It is very simple, you can check the day and time of the route of your interest, pay from your cell phone, have monitoring and control of your trips.</p>
+              It's very simple, you can check the day and time of the route or trip of your interest, you can  pay from your phone, monitor your vehicle having and control of your trips.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -59,9 +59,10 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Support to users</span>
+             <span class="textBold">Customer support</span>
               <br>
-              Our support team is always there to help you</p>
+              Our support team is always there to help you.</p>
+              <br>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -71,7 +72,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
             <p>
              <span class="textBold">Feedback</span>
               <br>
-              Your opinion is very important to us, rate your trips and send us comments, congratulations, complaints or suggestions to improve our service.</p>
+              Your opinion is very important to us: rate your trips and send us comments, congratulations, complaints or suggestions to improve our service.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -79,9 +80,9 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
           </div>
           <div class="col-md-10 col-xs-10" style="padding: 0">
             <p>
-             <span class="textBold">Assistance</span>
+             <span class="textBold">Special Assistance requests</span>
               <br>
-              With just one click you can let the driver know in case you might need help before boarding the unit. <i>(Priority seat, support to enter the vehicle, stow crutches or wheelchair, visual or auditory support).</i></p>
+              With just one click you can let the driver know in case you might need help before boarding the unit, such as priority seat, help to enter the vehicle, stow crutches or wheelchair, visual or auditory support.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">
@@ -91,7 +92,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
             <p>
              <span class="textBold">GPS location</span>
               <br>
-              Follow the location of your transport service in real time.</p>
+              Track the location of the vehicles in real time.</p>
           </div>
 
         </div>
@@ -129,7 +130,7 @@ description: Usamos los beneficios de la tecnología para mejorar y eficientar t
             <p>
              <span class="textBold">Security and comfort</span>
               <br>
-              During your trip with Jetty, you have the confidence to calmly take out your laptop, cell phone or video game, or even sleep peacefully with the certainty that you will arrive safely and comfortably at your destination.</p>
+              During your trip with Jetty, you have the confidence to calmly use your laptop, cell phone, a video game, or even sleep peacefully with the certainty that you will arrive safely and comfortably to your destination.</p>
           </div>
 
           <div class="col-md-2 col-xs-2">

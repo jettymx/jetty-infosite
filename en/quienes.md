@@ -9,17 +9,17 @@ id: quienes
   <div class="container headerIndexTop">
     <div class="row marginBottom">
       <div class="col-md-8">
-        <h1>Quiénes <br> <span class="titleBold">somos</span></h1>
-        <h3>Somos la plataforma de tecnología que mejora el transporte colectivo y la movilidad en las ciudades.</h3>
+        <h1>Who we <br> <span class="titleBold">are</span></h1>
+        <h3>We are the technology platform that improves collective transport and mobility in cities.</h3>
       </div>
 
       <div class="col-md-12">
-        <p>No inventamos el hilo negro. Todos los habitantes de las ciudades mexicanas sabemos que el sistema de transporte colectivo tradicional deja mucho que desear. Como muchos, observamos que el servicio disponible es poco digno, ya que es inseguro y eso mismo provoca desconfianza e insatisfacción. Observamos que las unidades eran viejas, que los usuarios carecían de información y que los conductores casi nunca recibían retroalimentación sobre su desempeño. Escuchamos a transportistas quejarse de la poca rentabilidad de su negocio, y a autoridades sufrir con la ausencia de herramientas para planificar y regular de mejor manera al sistema. Nos asombraba que en muchas otras industrias la tecnología ya había permitido cambios sustanciales. Por ello, en 2017 decidimos poner nuestro granito de arena creando Jetty. </p>
+        <p>We did not invent the black thread. All the inhabitants of Mexican cities know that the traditional collective transport system leaves much to be desired. Like many others, we are aware that the already existing service is insecure, causing distrust and dissatisfaction. We observed that the units were old, that users lacked information, and that drivers received no feedback on their performance. We hear transportation leaders complain about the low profitability of their business, and authorities suffer from the lack of tools to better plan and regulate the system. We were amazed that in many other industries, technology had already enabled substantial changes. Therefore, in 2017 we decided to do our bit by creating Jetty.</p>
       </div>
 
       <div class="col-md-4">
-        <p>En Jetty somos apasionados de la movilidad, amamos lo que hacemos porque sabemos que tiene un gran impacto en nuestros usuarios y en nuestras ciudades. Por eso trabajamos todos los días en evolucionar el transporte y contribuir  a la modernización del sector con ayuda de la tecnología; la cual podemos adaptar a cualquier tipo de necesidad.</p>
-        <p>Nuestra curiosidad, empatía y excelencia nos llevan a ser la opción número uno para todo aquel transportista o gobierno que quiera implementar la tecnología para mejorar y eficientar la movilidad de su ciudad. Gracias a nuestra transparencia nos ganamos la confianza de nuestros aliados, usuarios y clientes.</p>
+        <p>At Jetty we are passionate about mobility, we love what we do because we know that it has a great impact on our users and on our cities. That is why we work day by day to evolve transport and contribute to the modernization of the sector with the help of technology; we can adapt it to different needs.</p>
+        <p>Our curiosity, empathy and excellence make us the number one option for any transport group or government that wants to implement technology to improve their business and make more efficient the mobility of their city. Thanks to our transparency, we earn the trust of our allies, users and clients.</p>
       </div>
 
       <div class="col-md-8">
@@ -29,30 +29,30 @@ id: quienes
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Nuestros premios y reconocimientos:</h2>
+        <h2>Our awards:</h2>
       </div>
 
       <div class="col-md-4">
         <a href="https://www.mitinclusiveinnovation.com" target="_blank">
           <img src="{{site.baseurl}}/imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 180px; margin-bottom: 20px;">
         </a>
-        <p>En el 2019 fuimos reconocidos entre miles de startups por el Instituto Tecnológico de Massachussetts (MIT) por nuestra capacidad de <span class="textBold">incrementar el ingreso de los empresarios transportistas, mejorar las condiciones de empleo de los conductores</span> y sobre todo, <span class="textBold">por mejorar la experiencia de viajes al trabajo de miles de personas.</span></p>
+        <p>In 2019 we were recognized among thousands of startups by the Massachusetts Institute of Technology (MIT) for our <span class="textBold">ability to increase the income of transport entrepreneurs, improve the working conditions of drivers and above all, for improving the experience of commuting to work for thousands of people.</span></p>
       </div>
       <div class="col-md-4">
         <a href="https://www.kcurveprize.org" target="_blank">
           <img src="{{site.baseurl}}/imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px; margin-bottom: 20px;">
         </a>
-        <p>En junio del 2019 el Keeling Curve Prize anunció que ganamos la categoría de transporte, por ser <span class="textBold">una iniciativa con potencial de alterar y acelerar los esfuerzos actuales para reducir el calentamiento global.</span></p>
+        <p>In June 2019 the Keeling Curve Prize announced that we won the transportation category, as an <span class="textBold">initiative with the potential to alter and accelerate current efforts to reduce global warming.</span></p>
       </div>
       <div class="col-md-4">
         <a href="https://www.worldsummitawards.org" target="_blank">
           <img src="{{site.baseurl}}/imgs-prensa/wsa_logo_2018_winner.png" alt="wsa winner 2018" style="width: 180px; margin-bottom: 20px;">
         </a>
-        <p>En el 2018 ganamos la categoría de Urbanización y Asentamientos Inteligentes del Word Summit Awards. Siendo reconocidos como una de las <span class="textBold">40 innovaciones digitales que están revolucionando el estatus quo.</span></p>
+        <p>In 2018 we won the Smart Urbanization and Settlements category at the Word Summit Awards. We were recognized as one of the <span class="textBold">40 digital innovations that are revolutionizing the status quo.</span></p>
       </div>
 
       <div class="col-md-12">
-        <h3>Más premios</h3>
+        <h3>More awards</h3>
         <ul class="alianzas">
           <li>
             <a href="https://www.raeng.org.uk/grants-and-prizes/grants/international-research-and-collaborations/newton-fund-programmes/leaders-innovation-fellowships" target="_blank">
@@ -97,7 +97,7 @@ id: quienes
     <div class="row marginBottom">
 
       <div class="col-md-12" style="margin-top: 50px">
-        <h2>Prensa</h2>
+        <h2>Press</h2>
         <ul class="alianzas">
           <li>
             <img src="{{site.baseurl}}/imgs-prensa/reforma.png">
@@ -151,7 +151,7 @@ id: quienes
             <img src="{{site.baseurl}}/imgs-prensa/vanguardia.png">
           </li>
         </ul>
-        <a href="/prensa" class="btn-green hvr-shadow">Ir a prensa</a>
+        <a href="/prensa" class="btn-green hvr-shadow">Press</a>
       </div>
 
       <!-- <div class="col-md-12"  style="margin-top: 80px">
@@ -194,14 +194,14 @@ id: quienes
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Somos miembros de:</h2>
+        <h2>We are members of:</h2>
         <div class="row" style="margin-bottom: 50px;">
           <div class="col-md-2">
             <img src="{{site.baseurl}}/img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES" class="imgResponsive">
           </div>
           <div class="col-md-10">
-            <p class="lead">Es una coalición de empresas que promueve los <b>Principios de Movilidad Compartida para Ciudades Vivibles.</b></p>
-            <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">Conoce cuáles son</a>
+            <p class="lead">It is a coalition of companies that promotes the Principles of Shared Mobility for Livable Cities.</p>
+            <a href="https://static1.squarespace.com/static/59c2e59b4c326d11fcf1f516/t/5a677b38c83025d21f6c5bd5/1516731192772/10+Points+WRI+Spanish.pdf" target="_blank">More information</a>
           </div>
         </div>
         <div class="row">
@@ -209,8 +209,8 @@ id: quienes
             <img src="{{site.baseurl}}/img/Logo-MaaS.png" alt="Maas Latam" class="imgResponsive">
           </div>
           <div class="col-md-10">
-            <p class="lead">Es una Asociación Civil que representa a las startups y empresas más innovadoras que están transformando la experiencia de movilidad en América Latina, basadas en la tecnología y con una una visión de sustentabilidad.</p>
-            <a href="http://maaslatam.org" target="_blank">Conoce más</a>
+            <p class="lead">It is a Civil Association that represents the most innovative startups and companies that are transforming the mobility experience in Latin America, based on technology and with a vision of sustainability.</p>
+            <a href="http://maaslatam.org" target="_blank">More information</a>
           </div>
         </div>
       </div>
