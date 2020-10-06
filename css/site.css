@@ -2108,6 +2108,10 @@ img.imgCovidMedidas{
     padding-bottom: 50px;
   }
 
+  ul.clientes li img{
+    margin-bottom: 30px;
+  }
+
 }
 
 @media screen and (max-width: 480px){

@@ -264,7 +264,7 @@ description: Adaptamos nuestra tecnología a empresas de transporte público, co
         <h3>Quienes nos respaldan</h3>
         <ul class="clientes">
           <li>
-            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="imgs-prensa/MIT-IIC.png" style="width: 100px;"></a>
+            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="imgs-prensa/MIT-IIC.png" style="width: 140px;"></a>
           </li>
           <li>
             <a href="https://www.jetty.mx/update/2019/05/06/finalista-del-keeling-curve-prize.html"><img src="imgs-prensa/keeling-curve.png"></a>
