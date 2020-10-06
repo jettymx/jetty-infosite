@@ -264,10 +264,10 @@ description: Adaptamos nuestra tecnología a empresas de transporte público, co
         <h3>Who support us</h3>
         <ul class="clientes">
           <li>
-            <a href="https://www.jetty.mx/update/2019/05/06/finalista-del-keeling-curve-prize.html"><img src="{{site.baseurl}}/imgs-prensa/MIT-IIC.png" style="width: 100px;"></a>
+            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="{{site.baseurl}}/imgs-prensa/MIT-IIC.png" style="width: 100px;"></a>
           </li>
           <li>
-            <a href="https://www.jetty.mx/update/2019/07/23/Jetty-es-reconocido-por-el-MIT.html"><img src="{{site.baseurl}}/imgs-prensa/keeling-curve.png"></a>
+            <a href="https://www.jetty.mx/update/2019/05/06/finalista-del-keeling-curve-prize.html"><img src="{{site.baseurl}}/imgs-prensa/keeling-curve.png"></a>
           </li>
           <li>
             <a href="https://www.jetty.mx/update/2020/05/25/jetty-apoyo-personal-medico-toluca.html"><img src="{{site.baseurl}}/imgs-prensa/bid.png"></a>
