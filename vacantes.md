@@ -33,22 +33,22 @@ id: vacantes
     <div class="col-md-12 marginBottom">
       <h2>LO QUE VALORAMOS</h2>
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3 text-center">
           <img src="img/Icono-pasion.png" width="80">
           <h3>Pasión</h3>
           <p>Creemos en lo que hacemos.</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center">
           <img src="img/Icono-curiosidad.png" width="80">
           <h3>Curiosidad</h3>
           <p>No asumimos, cuestionamos todo.</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center">
           <img src="img/Icono-empatia.png" width="80">
           <h3>Empatía</h3>
           <p>Nos ponemos en el lugar de la gente.</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center">
           <img src="img/Icono-excelencia.png" width="80">
           <h3>Excelencia</h3>
           <p>Trabajamos por mantener la confianza todos los días.</p>

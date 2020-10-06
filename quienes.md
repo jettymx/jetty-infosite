@@ -198,7 +198,7 @@ id: quienes
         <h2>Somos miembros de:</h2>
         <div class="row" style="margin-bottom: 50px;">
           <div class="col-md-2">
-            <img src="img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES" class="imgResponsive">
+            <img src="img/logo-shared-mobility.jpg" alt="SHARED MOBILITY PRINCIPLES FOR LIVABLE CITIES" class="imgResponsive" style="margin-bottom: 20px;">
           </div>
           <div class="col-md-10">
             <p class="lead">Es una coalición de empresas que promueve los <b>Principios de Movilidad Compartida para Ciudades Vivibles.</b></p>
@@ -207,7 +207,7 @@ id: quienes
         </div>
         <div class="row">
           <div class="col-md-2">
-            <img src="img/Logo-MaaS.png" alt="Maas Latam" class="imgResponsive">
+            <img src="img/Logo-MaaS.png" alt="Maas Latam" class="imgResponsive" style="margin-bottom: 20px;">
           </div>
           <div class="col-md-10">
             <p class="lead">Es una Asociación Civil que representa a las startups y empresas más innovadoras que están transformando la experiencia de movilidad en América Latina, basadas en la tecnología y con una una visión de sustentabilidad.</p>
