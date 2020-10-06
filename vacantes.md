@@ -14,7 +14,7 @@ id: vacantes
 
     <div class="col-md-12 marginBottom">
       <h2>NUESTROS COFUNDADORES</h2>
-      <ul class="socios text-center" style="margin-top: 30px;">
+      <ul class="socios text-center">
         <li>
           <img src="img/Cristina-Palacios.jpg">
           <p class="textBold" style="margin-bottom: 0px; margin-top: 10px;">Cristina Palacios</p>

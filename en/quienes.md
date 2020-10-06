@@ -70,7 +70,7 @@ id: quienes
             </a>
           </li>
           <li>
-            <a href="https://pitchawards.com" target="_blank">
+            <a href="#" target="_blank">
               <img src="{{site.baseurl}}/imgs-prensa/logo-Pitch-Awards.png" alt="Pitch Awards 2018" style="width: 160px;">
             </a>
           </li>

@@ -1677,6 +1677,9 @@ a.btn-back:hover{
 ul.socios{
   padding: 0;
   padding-bottom: 30px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 ul.socios li{
