@@ -5,6 +5,7 @@ description: Somos la Plataforma de Tecnología que Mejora el Transporte Colecti
 image: https://www.jetty.mx/img/JettyMX.png
 id: Home
 priority: 1.0
+active: home
 ---
 
 <div class="container-fluid backWaveGray">

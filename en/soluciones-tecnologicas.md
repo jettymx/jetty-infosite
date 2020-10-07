@@ -2,6 +2,7 @@
 layout: default-en
 title: Jetty | Technological solutions
 description: Adaptamos nuestra tecnología a empresas de transporte público, corporativos, servicios turísticos, escolares o agencias de gobierno para modernizar la movilidad.
+active: technological solutions
 ---
 
 <div class="container-fluid ">

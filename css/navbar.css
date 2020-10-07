@@ -27,6 +27,16 @@
   color: #4BBFA7;
 }
 
+/*Class active*/
+.navbar-default .navbar-nav>.active>a{
+  color: #4BBFA7;
+  background: transparent;
+}
+.navbar-default .navbar-nav>.active>a:hover{
+  color: #4BBFA7;
+  background: transparent;
+}
+
 .navbar-brand{
   padding: 0;
 }

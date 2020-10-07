@@ -2,6 +2,7 @@
 layout: default
 title: Jetty | Tecnología para el transporte colectivo.
 description: Adaptamos nuestra tecnología a empresas de transporte público, corporativos, servicios turísticos, escolares o agencias de gobierno para modernizar la movilidad.
+active: soluciones tecnologicas
 ---
 
 <div class="container-fluid ">

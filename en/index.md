@@ -5,6 +5,7 @@ description: Bring the benefits of Jetty’s technology to collective transporta
 image: https://www.jetty.mx/img/JettyMX.png
 id: Home
 priority: 1.0
+active: home
 ---
 
 <div class="container-fluid backWaveGray">
