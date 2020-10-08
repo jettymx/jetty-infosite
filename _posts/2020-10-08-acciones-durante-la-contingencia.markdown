@@ -33,7 +33,10 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
     <img src="{{site.baseurl}}/imgs-blog/material-jetty.png">
   </li>
   <li>
-    <span class="textBold">Transportamos bicicletas y refacciones (46)</span>
+    <span class="textBold">Transportamos bicicletas y refacciones</span>
+    <ul style="margin-top20px">
+      <li>En colaboración con Recicletas, entregamos 52 bicicletas al personal médico para que tuvieran opciones seguras e individuales de transporte y también refacciones para reparar más bicicletas de donación. </li>
+    </ul>
     <img src="{{site.baseurl}}/imgs-blog/bicis-jetty.png">
   </li>
   <li><span class="textBold">Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca, con viajes directos y seguros, durante dos meses y medio con los siguientes resultados:</span>
