@@ -1686,7 +1686,8 @@ ul.socios li{
   display: inline;
   padding: 0 10px;
   float: left;
-  margin-right: 30px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 ul.socios li img{
