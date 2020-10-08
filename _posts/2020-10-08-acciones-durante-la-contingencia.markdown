@@ -17,7 +17,7 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
 
 <ol>
   <li>
-    <span class="textBold">Repartimos comidas al personal de salud y familiares de pacientes:</span>
+    Repartimos comidas al personal de salud y familiares de pacientes:
     <ul style="margin-top: 20px;">
       <li>En colaboración con: Ya respondiste, Comidas para héroes, Ayudamos a nuestros héroes y Comidas solidarias, repartimos más de 19,935 comidas. </li>
       <li>Creamos dos rutas (Ayudamos - Todos, Apoyo - Héroes) que con ayuda de nuestros usuarios, se juntaron  más de 1,300  pases para seguir trasladando ayuda. ¡Gracias a nuestros usuarios!</li>
@@ -25,7 +25,7 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
     <img src="{{site.baseurl}}/imgs-blog/comidas-jetty.png">
   </li>
   <li>
-    <span class="textBold">Transportamos cajas de aerosol, caretas, cubrebocas y desinfectantes:</span>
+    Transportamos cajas de aerosol, caretas, cubrebocas y desinfectantes:
     <ul style="margin-top: 20px;">
       <li>En colaboración con Red Solidaria transportamos más de 30 cajas de aerosol</li>
       <li>Más de 300 caretas, cubrebocas  y cajas desinfectantes</li>
@@ -33,25 +33,26 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
     <img src="{{site.baseurl}}/imgs-blog/material-jetty.png">
   </li>
   <li>
-    <span class="textBold">Transportamos bicicletas y refacciones</span>
-    <ul style="margin-top20px">
+    Transportamos bicicletas y refacciones
+    <ul style="margin-top: 20px;">
       <li>En colaboración con Recicletas, entregamos 52 bicicletas al personal médico para que tuvieran opciones seguras e individuales de transporte y también refacciones para reparar más bicicletas de donación. </li>
     </ul>
     <img src="{{site.baseurl}}/imgs-blog/bicis-jetty.png">
   </li>
-  <li><span class="textBold">Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca, con viajes directos y seguros, durante dos meses y medio con los siguientes resultados:</span>
-    <ul style=" margin-top: 20px;">
-      <li><span class="textBold">4 Hospitales beneficiados</span> a través del diseño de dos rutas</li>
-      <li><span class="textBold">Colaboración con transportistas</span> de transporte concesionado Estrella del Noreste y Autotransportes del Valle de Toluca</li>
-      <li>Casi <span class="textBold">1,500 pases vendidos</span></li>
-      <li><span class="textBold">47 usuarios únicos</span> - La mayoría compraba pases para más personas</li>
-      <li><span class="textBold">4.9 de 5 de calificación</span> promedio dejada por los usuarios</li>
-      <li><span class="textBold">82% de la ocupación</span> total fue por <span class="textBold">usuarias</span></li>
+  <li><
+    Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca, con viajes directos y seguros, durante dos meses y medio con los siguientes resultados:
+    <ul style="margin-top: 20px;">
+      <li>4 Hospitales beneficiados a través del diseño de dos rutas</li>
+      <li>Colaboración con transportistasde transporte concesionado Estrella del Noreste y Autotransportes del Valle de Toluca</li>
+      <li>Casi 1,500 pases vendidos</li>
+      <li>47 usuarios únicos - La mayoría compraba pases para más personas</li>
+      <li>4.9 de 5 de calificación promedio dejada por los usuarios</li>
+      <li>82% de la ocupación total fue por usuarias</li>
     </ul>
     <img src="{{site.baseurl}}/imgs-blog/personal-jetty.png">
   </li>
   <li>
-    <span class="textBold">Iniciamos el programa de Movilidad Sostenible para Colaboradores Esenciales en el municipio de San Pedro Garza Garza, Monterrey:</span>
+    Iniciamos el programa de Movilidad Sostenible para Colaboradores Esenciales en el municipio de San Pedro Garza Garza, Monterrey:
     <ul style=" margin-top: 20px;">
       <li>Se diseñaron 8 rutas</li>
       <li>6,000 pases</li>
