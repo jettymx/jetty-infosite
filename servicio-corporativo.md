@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jetty | Soluciona El Transporte de Personal de tu Empresa
-description: Rentar una camioneta con chofer puede salir caro. Resolvemos tu transporte empresarial. Sin plazo forzoso ni presupuesto mínimo.
+description: ¡Llevamos a tu personal seguro y a tiempo! En Jetty nos adaptamos a las necesidades de tu organización bajo diferentes esquemas, para alcanzar los mejores resultados.
 id: servicio-corporativo
 ---
 
@@ -11,11 +11,9 @@ id: servicio-corporativo
     <div class="container">
       <div class="row">
         <div class="col-md-6" data-aos="fade-left" data-aos-easing="ease-out-sine" data-aos-duration="500">
-          <h1>¡Llevamos a tu personal seguro y a tiempo!</h1>
+          <h1>¡Llevamos a tu personal <br><span class="titleBold">seguro y a tiempo!</span></h1>
           <p class="lead">En Jetty nos adaptamos a las necesidades de tu empresa bajo diferentes esquemas, para alcanzar los mejores resultados.</p>
-          <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
-
-          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+          <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
             Solicita información
           </button>
         </div>
@@ -29,7 +27,7 @@ id: servicio-corporativo
   <div class="container porque-content" data-aos="fade-up">
     <div class="row" style="margin-bottom: 40px;">
       <div class="col-md-12 text-center porque-title">
-        <h1 class="textGray">Tu seguridad nuestra prioridad</h1>
+        <h2>Tu seguridad nuestra prioridad</h2>
         <p class="lead textGray">Tenemos protocolos estrictos de higiene y seguridad en todas nuestras unidades:</p>
       </div>
 
@@ -66,8 +64,7 @@ id: servicio-corporativo
         </div>
 
         <div class="col-md-12 text-center" style="margin-top: 30px; margin-bottom: 30px;">
-          <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
-          <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+          <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
             Solicita información
           </button>
         </div>
@@ -76,7 +73,7 @@ id: servicio-corporativo
 
     <div class="row">
       <div class="col-md-12 text-center porque-title">
-        <h1 class="textGray">Beneficios</h1>
+        <h2>Beneficios</h2>
       </div>
     </div>
 
@@ -128,8 +125,7 @@ id: servicio-corporativo
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 30px;">
-        <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
             Solicita información
           </button>
       </div>
@@ -139,27 +135,26 @@ id: servicio-corporativo
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center" style="margin-bottom: 20px;">
-        <h1 class="textGray">Modalidades</h1>
+        <h2>Modalidades</h2>
       </div>
 
       <div class="col-md-6">
         <img src="img/compartido.png" class="iconoSeguridad" alt="Jetty, Tecnología">
-        <h2 class="textWhite">Compartido:</h2>
-        <p><b>Pases:</b>  Nosotros reservamos tus viajes, sólo nos indicas que rutas y horarios de los que tenemos vigentes te interesan.</p>
-        <p><b>Recarga de saldo:</b> Eliges la cantidad a abonar de saldo para los trayectos de tus colaboradores. Estos también corresponden a nuestras rutas actuales. Es decir comparten la ruta con nuestros usuarios.</p>
+        <h3>Compartido:</h3>
+        <p><b>Pases:</b> Nosotros reservamos tus viajes, sólo nos indicas qué rutas y horarios de los que tenemos vigentes te interesan.</p>
+        <p><b>Recarga de saldo:</b> Eliges la cantidad de saldo a abonar a la cuenta de tus colaboradores, este saldo podrá ser usado en cualquier viaje disponible en la app.</p>
       </div>
 
       <div class="col-md-6">
         <img src="img/exclusivo.png" class="iconoSeguridad">
-        <h2 class="textWhite">Exclusivo:</h2>
-        <p>Es sólo para el personal de tu empresa, nosotros nos encargamos de la logística de las rutas. Este servicio es completamente personalizado.</p>
+        <h3>Exclusivo:</h3>
+        <p>Te damos la posibilidad de crear viajes privados y exclusivos para tus colaboradores, estos viajes sólo estarán visibles para las personas que elijas. Nosotros nos encargamos de la logística de las rutas y el servicio es completamente personalizado.</p>
       </div>
 
     </div>
 
     <div class="col-md-12 text-center" style="margin-bottom: 60px; margin-top: 30px;">
-      <!-- <a href="https://form.jotform.com/202037881254857" class="btn btn-default btn-gray">Solicita información</a> -->
-      <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+      <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
         Solicita información
       </button>
     </div>
@@ -169,7 +164,7 @@ id: servicio-corporativo
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1 class="textGray">Nuestros clientes:</h1>
+        <h2>Nuestros clientes:</h2>
         <ul class="clientes">
           <li>
             <a href="http://www.alhel.com/" target="_blank">
@@ -216,12 +211,12 @@ id: servicio-corporativo
               <img src="imgs-prensa/inlod.png">
             </a>
           </li>
-          <!-- <li>
+          <li>
             <a href="#" target="_blank">
-              <img src="imgs-prensa/sms.png">
+              <img src="imgs-prensa/jobandtalent.png">
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="#" target="_blank">
               <img src="imgs-prensa/SPGG.png">
             </a>

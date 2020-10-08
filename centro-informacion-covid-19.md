@@ -1,7 +1,7 @@
 ---
 layout: default-cobertura
 title: Jetty | Centro de información sobre el COVID-19
-description: Centro de información sobre el COVID-19
+description: Sugerencias de prevención. Ayuda a detener la propagación del COVID-19. Respeta las indicaciones de las autoridades locales sobre quedarse en casa.
 ---
 
 <div class="container cobertura">
@@ -53,7 +53,7 @@ description: Centro de información sobre el COVID-19
       <div class="row" data-aos="fade-up" data-aos-easing="ease-in-sine">
 
         <div class=" col-md-12 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
+          <a href="servicio-corporativo" class="btn btn-green">Contrata transporte seguro</a>
         </div>
 
         <div class="clearfix marginBottom"></div>
@@ -114,7 +114,7 @@ description: Centro de información sobre el COVID-19
         <p>En Jetty estamos comprometidos con que tengas un buen viaje, SIEMPRE.
         <br>
          Es por eso que monitoreamos muy de cerca los avances de la epidemia de COVID-19. ¡Gracias por seguir confiando en nosotros!</p>
-        <a href="transporte-personal" class="btn btn-green">Contrata transporte seguro</a>
+        <a href="servicio-corporativo" class="btn btn-green">Contrata transporte seguro</a>
       </div>
 
     </div>

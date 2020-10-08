@@ -1,99 +1,89 @@
 ---
 layout: default
-title: Jetty | Soluciona tu Transporte Diario en México.
-description: Aplicación de Transporte, Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de  Camionetas Ejecutivas con Conductores Verificados.
-image: https://www.jetty.mx/img/Jetty_MX.png
+title: Jetty | Plataforma de Tecnología que Mejora el Transporte en las ciudades
+description: Somos la Plataforma de Tecnología que Mejora el Transporte Colectivo, Nos Adaptamos a Instituciones Educativas, Corporativos, Gobierno, Comienza a Disfrutar de las Calles con una Mejor Movilidad
+image: https://www.jetty.mx/img/JettyMX.png
 id: Home
 priority: 1.0
+active: home
 ---
 
-<div class="container-fluid gradient">
+<div class="container-fluid backWaveGray">
   <div class="container">
 
     <!-- HEADER -->
     <div class="row headerIndexTop">
-      <div class="col-md-6">
-        <img src="img/jetty-app.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
-      </div>
+
       <div class="col-md-6 textIndexTop" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <h1>Tecnología para el transporte colectivo.</h1>
-        <br>
-        <p class="lead">Lleva los beneficios de la tecnología Jetty a tu empresa de transporte público, de personal, turístico o escolar, mejorando la experiencia del usuario; contribuyendo a la modernización del sector y a la mejora de la movilidad en las ciudades.</p>
-        <p class="text-downapp-index">Descarga la app.</p>
-
-         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-iOS.png" alt="Jetty Descargar iOS">
-        </a>
-
-        <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-          <img src="img/jetty-android.png" alt="Jetty Descargar Android">
-        </a>
+        <h1>Tecnología para el <br>
+          <span class="titleBold">transporte colectivo</span>
+        </h1>
+        <p class="lead">Somos una empresa de tecnología que mejora la experiencia de los usuarios en el transporte colectivo, brindándoles el poder y todas las herramientas para una movilidad más eficiente y segura, con la finalidad de lograr la modernización del sector y de las ciudades.</p>
       </div>
+      <div class="col-md-6">
+        <img src="img/Jetty-app-tecnologia.png" class="imgResponsive" alt="Jetty MX, app" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+      </div>
+
     </div>
 
-    <!-- AMENIDADES -->
+    <div class="row marginBottom">
+
+      <div class="col-md-12 text-center">
+        <h1>Cómo lo hacemos</h1>
+      </div>
+
+      <div class="col-md-6">
+        <img src="img/Jetty-Soluciones-tecnologicas.png" class="imgResponsive" alt="Jetty MX, Soluciones tecnológicas" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
+      </div>
+
+      <div class="col-md-6 textMarginHome">
+        <h2>Soluciones <br><span class="titleBold">tecnológicas</span></h2>
+        <p>Llevamos todos los <span class="textBold">beneficios de nuestra tecnología a empresas de transporte público, corporativos, servicios turísticos o instituciones educativas,</span> para mejorar la experiencia de sus usuarios en la movilidad. </p>
+
+        <p>Elige nuestra tecnología; tenemos diversas modalidades que puedes implementar en tu servicio: <span class="textBold">Sistema de reserva de asientos, pago con QR, evaluación de conductores, canal de atención a usuarios, herramientas para el manejo y optimización de flotas y planificación de rutas.</span></p>
+        <a href="soluciones-tecnologicas" class="btn-green hvr-shadow">Ver tecnología</a>
+      </div>
+
+    </div>
+
+
     <div class="row">
 
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="200">
-        <img src="img/icon-Mediopago.svg" alt="Jetty, Medio de pago" style="width: 200px;">
-        <h3 class="titleConcesionado">Medio de pago</h3>
+      <div class="col-md-6 rightIndex">
+        <img src="img/Jetty-servicios-de-transporte.png" class="imgResponsive" alt="Jetty MX, Servicios de transporte" data-aos="fade" data-aos-easing="ease-in-sine" data-aos-duration="400">
       </div>
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="400">
-        <img src="img/icon-soporteV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Canal de atención al usuario</h3>
-      </div>
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="600">
-        <img src="img/icon-monitoreoV2.svg" alt="Jetty, monitoreo de unidades" style="width: 200px;">
-        <h3 class="titleConcesionado">Herramientas de supervisión y monitoreo de la operación</h3>
-      </div>
-      <div class="col-md-3 text-center" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
-        <img src="img/icon-planificacionV2.svg" alt="Jetty, Planificación de rutas" style="width: 200px;">
-        <h3 class="titleConcesionado">Sistema de planificación</h3>
+
+      <div class="col-md-6 textMarginHome leftIndex">
+        <h2>Servicios de <br><span class="titleBold">transporte</span></h2>
+        <p><span class="textBold">Cuando eliges Jetty comienzas a disfrutar la ciudad,</span> ya que nos encargamos de supervisar tus viajes en tiempo real  y de ofrecerte los más altos estándares de calidad.</p>
+
+        <p>Contamos con múltiples beneficios, que buscan darle el poder al usuario: <span class="textBold">Calificar viajes, seguridad en traslados, rutas optimizadas, horarios establecidos, diferentes modalidades de pago y mucho más.</span> ¡Comienza a moverte en Jetty y transforma tus traslados!</p>
+
+        <a href="servicios-de-transporte" class="btn-green hvr-shadow">Ver tecnología</a>
       </div>
 
     </div>
 
-    <hr style="margin-bottom: 60px; opacity: 0">
+    <div class="row">
+      <div class="col-md-12 text-center" style="margin-bottom: 20px;">
+        <h3>Conoce nuestra app</h3>
+      </div>
 
-    <div class="row marginBottom">
-
-      <div class="col-md-12">
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-pase.png" alt="Jetty, Elige una ruta y horario" width="100%">
-          <p><b>Pase de abordar</b></p>
-        </div>
-
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-saldo.png" alt="Jetty, Pago código QR" width="100%">
-          <p><b>Métodos de pago</b></p>
-        </div>
-
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-evaluarConductor.png" alt="Jetty, Evaluar conductor" width="100%">
-          <p><b>Retroalimentación</b></p>
-        </div>
-
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-2.png" alt="Jetty, reserva" width="100%">
-          <p><b>Reserva origen/destino</b></p>
-        </div>
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/app-jetty-asistencia.png" alt="Jetty, Asistencia" width="100%">
-          <p><b>Solicitud de asistencia</b></p>
-        </div>
-        <div class="appsScreens text-center" data-aos="fade-up" data-aos-easing="ease-in-sine">
-          <img src="img/trayecto.png" alt="Jetty, trayecto" width="100%">
-          <p><b>Seguimiento de la unidad</b></p>
-        </div>
+      <div class="col-md-4 text-center marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/Jetty-app-1.png" width="80%" alt="Jetty MX, Busca tu rura" >
+        <h3>Busca tu ruta</h3>
+      </div>
+      <div class="col-md-4 text-center marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/Jetty-app-2.png" width="80%" alt="Jetty MX, Reserva tu asiento" >
+        <h3>Reserva tu asiento</h3>
+      </div>
+      <div class="col-md-4 text-center marginBottom" data-aos="fade" data-aos-easing="ease-in-sine">
+        <img src="img/Jetty-app-3.png" width="80%" alt="Jetty MX, Disfrutade un buen viaje" >
+        <h3>Disfruta de un Buen Viaje</h3>
       </div>
 
     </div>
 
-    <div class="row marginBottom">
-      <div class="col-md-12 text-center">
-        <a href="soluciones-tecnologicas" class="btn btn-gray">Conoce nuestra tecnología</a>
-      </div>
-    </div>
 
   </div>
 </div>

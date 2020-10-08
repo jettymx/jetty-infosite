@@ -1,16 +1,70 @@
 ---
 layout: default-cobertura
 title: Jetty | El transporte que mereces
-description: Nuestra misión es ofrecer una alternativa de transporte privado seguro, confiable y accesible. Actualmente ofrecemos soluciones de traslado para personas en viajan entre las zonas de Aragón, Cuautitlán, Condesa, Narvarte, Santa Fe, Polanco.
+description: Nuestra misión es ofrecer tecnología para mejorar el transporte colectivo, hacerlo seguro, confiable y accesible. También ofrecemos soluciones de traslado para personas en viajan entre las zonas de Aragón, Cuautitlán, Condesa, Narvarte, Santa Fe, Polanco
 id: vacantes
 ---
 
 <div class="container marginTop">
-  <div class="row prensa">
+  <div class="row marginBottom">
+    <div class="col-md-12 marginBottom">
+      <h1>SÚMATE AL <span class="titleBold">EQUIPO</span></h1>
+      <p class="lead">Nos mueve mejorar nuestras ciudades con soluciones tecnológicas. Por eso para nuestro equipo buscamos gente extraordinaria y leal, que ejerza con pasión y felicidad su trabajo, para que la productividad y buen desempeño nos ayuden a crecer como empresa.</p>
+    </div>
+
+    <div class="col-md-12 marginBottom">
+      <h2>NUESTROS COFUNDADORES</h2>
+      <ul class="socios text-center">
+        <li>
+          <img src="img/Cristina-Palacios.jpg">
+          <p class="textBold" style="margin-bottom: 0px; margin-top: 10px;">Cristina Palacios</p>
+          <p>Co-Founder & Co-CEO Jetty</p>
+        </li>
+        <li>
+          <img src="img/Onesimo-Flores.jpg">
+          <p class="textBold" style="margin-bottom: 0px; margin-top: 10px;">Onésimo Flores</p>
+          <p>Co-Founder & Co-CEO Jetty</p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="col-md-12 marginBottom">
+      <h2>LO QUE VALORAMOS</h2>
+      <div class="row">
+        <div class="col-md-3 text-center">
+          <img src="img/Icono-pasion.png" width="80">
+          <h3>Pasión</h3>
+          <p>Creemos en lo que hacemos.</p>
+        </div>
+        <div class="col-md-3 text-center">
+          <img src="img/Icono-curiosidad.png" width="80">
+          <h3>Curiosidad</h3>
+          <p>No asumimos, cuestionamos todo.</p>
+        </div>
+        <div class="col-md-3 text-center">
+          <img src="img/Icono-empatia.png" width="80">
+          <h3>Empatía</h3>
+          <p>Nos ponemos en el lugar de la gente.</p>
+        </div>
+        <div class="col-md-3 text-center">
+          <img src="img/Icono-excelencia.png" width="80">
+          <h3>Excelencia</h3>
+          <p>Trabajamos por mantener la confianza todos los días.</p>
+        </div>
+      </div>
+    </div>
+
     <div class="col-md-12">
+<<<<<<< HEAD
       <h1>SÚMATE AL EQUIPO</h1>
       <br>
       <p>En Jetty buscamos transformar la movilidad de las personas en las ciudades. Ofrecemos un servicio de transporte cómodo y accesible con conductores altamente calificados, a través de una aplicación que permite a los usuarios monitorear su unidad, calificar su experiencia y asegurar un asiento. Somos una empresa innovadora y  humana, que con la ayuda de la tecnología mejoramos la vida de nuestros usuarios.</p>
+=======
+      <h2>VACANTES</h2>
+      <p>Siempre buscamos integrar a nuestro equipo gente dedicada y apasionada por la movilidad, con deseos de aplicar cambios verdaderos en nuestras ciudades.</p>
+>>>>>>> test
     </div>
 
     <div class="col-md-10 col-md-offset-1 content-vacantes">
@@ -572,7 +626,7 @@ id: vacantes
                 <b>Conductor ejecutivo</b></p>
               </div>
               <div class="col-md-4 descripcion-btn-aling">
-                <a class="btn btn-primary btn-green-small" role="button" data-toggle="collapse" href="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
+                <a class="btn-green" role="button" data-toggle="collapse" href="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
                 Ver descripción
               </a>
               </div>

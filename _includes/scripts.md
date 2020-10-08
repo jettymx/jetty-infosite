@@ -86,7 +86,7 @@
 </script>
 
 <!-- /// NAV SCROLL /// -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   $(function() {
     var header = $(".nav-background");
     $(window).scroll(function() {
@@ -99,7 +99,7 @@
         }
     });
   });
-</script>
+</script> -->
 
 <!-- /// SCROLLTO CONDUCTORES /// -->
 <script type="text/javascript">

@@ -1,0 +1,17 @@
+body{
+  font-family: 'TT Commons';
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+    font-family: 'TT Commons';
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2,h3,h4 {
+    font-family: 'TT Commons';
+    font-weight: 600;
+    font-style: normal;
+}

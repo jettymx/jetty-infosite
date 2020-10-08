@@ -1,49 +1,45 @@
 ---
 layout: default
 title: Jetty | La Mejor Solución de Transporte para tu Evento
-description: Organizas o vas a un evento y estás buscando transporte. ¿Consideras rentar una camioneta con chofer? Nos adaptamos a tu necesidad al mejor precio.
+description: ¿Quieres viajar el fin de semana con transporte seguro y eficiente? O estás organizando o vas a un evento y buscas transporte. ¿Quieres rentar una camioneta con conductor? Nos adaptamos a tu necesidad al mejor precio.
 id: transporte-eventos
 ---
 
 <div class="container-fluid beneficios gradient">
   <div class="container eventos">
 
-    <div class="row">
+    <div class="row marginBottom">
       <div class="col-md-7">
         <img src="img/eventos.svg" width="100%">
       </div>
       <div class="col-md-5">
-        <h1>¡Vámonos de fin de semana!</h1>
+        <h1>¡Vámonos de <br><span class="titleBold">fin de semana!</span></h1>
         <p class="lead">¿Estás buscando transporte para viajar el fin de semana?</p>
         <p class="lead">¿Quieres moverte con comodidad y sin estrés?</p>
         <p class="lead">En Jetty nos adaptamos a tus necesidades para brindarte la mejor experiencia de viaje.</p>
-        <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
-
-        <!-- Button trigger modal -->
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
           Agendar viaje
         </button>
 
       </div>
-
     </div>
 
-    <div class="row tipo-eventos">
+    <div class="row tipo-eventos marginBottom">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h2>Cuéntanos el tipo de servicio que deseas</h2>
       </div>
 
       <div class="col-md-4 text-center">
         <img src="img/campo.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Fuera de la ciudad</h3>
+        <h3>Fuera de la ciudad</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/ciudad.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Dentro de la ciudad</h3>
+        <h3>Dentro de la ciudad</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/empresarial.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Transporte empresarial</h3>
+        <h3>Transporte empresarial</h3>
       </div>
     </div>
 
@@ -54,20 +50,20 @@ id: transporte-eventos
 
       <div class="col-md-4 text-center">
         <img src="img/urvan-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Urvan</h3>
+        <h3>Urvan</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/transit-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Transit</h3>
+        <h3>Transit</h3>
       </div>
       <div class="col-md-4 text-center">
         <img src="img/crafter-jetty.png" alt="Transporte eventos, Jetty" class="imgResponsive">
-        <h3 class="textGray">Crafter</h3>
+        <h3>Crafter</h3>
       </div>
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
         <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
           Agendar viaje
         </button>
       </div>
@@ -76,7 +72,7 @@ id: transporte-eventos
     <div class="col-md-8 col-md-offset-2 text-center">
       <p style="color: #2D414D">
         <b>*Medidas de prevención COVID-19</b><br>
-        -Unidades  100% sanitizadas antes y después de cada trayecto.<br>
+        -Unidades sanitizadas antes y después de cada trayecto.<br>
         -Pedimos el uso de cubrebocas a todas y todos los pasajeros.<br>
         -Toma de temperatura y gel antibacterial antes de ingresar.<br>
         -Maximización de espacios dentro de la unidad.<br>
@@ -87,7 +83,7 @@ id: transporte-eventos
 
     <div class="clearfix"></div>
 
-    <div class="row" style="margin-top: 40px;">
+    <div class="row tipo-eventos" style="margin-top: 40px;">
       <div class="col-md-12 text-center" style="margin-bottom: 40px;">
         <h2>Al viajar con nosotros, tu experiencia incluye:</h2>
       </div>
@@ -122,7 +118,7 @@ id: transporte-eventos
 
       <div class="col-md-12 text-center" style="margin-top: 20px;">
         <!-- <a href="https://form.jotform.com/202037283972860" class="btn btn-default btn-gray">Agendar viaje</a> -->
-        <button type="button" class="btn btn-default btn-gray" data-toggle="modal" data-target="#myModal">
+        <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#myModal">
           Agendar viaje
         </button>
       </div>

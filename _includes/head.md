@@ -11,7 +11,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Soluciona tu Transporte Diario en México.{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}Jetty | Plataforma de Tecnología que Mejora el Transporte en las ciudades.{% endif %}</title>
   <meta name="author" content="Jetty">
   <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -34,6 +34,8 @@
   <link rel="stylesheet" type="text/css" href="/css/bootstrap-datetimepicker.min.css" />
   <link rel="stylesheet" type="text/css" href="/css/site.css">
   <link rel="stylesheet" type="text/css" href="/css/navbar.css">
+  <link rel="stylesheet" type="text/css" href="/css/font/TT-commons.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/TextStyles.css"> -->
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
@@ -49,12 +51,12 @@
       "logo": "https://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
       "image": "https://www.jetty.mx/img/Jetty-MX.jpg",
-      "description": "Aplicación de Transporte: Disfruta de un Traslado Cómodo, Rápido y Seguro de Manera Diaria a Bordo de Camionetas Ejecutivas con Conductores Verificados.",
+      "description": "Somos la Plataforma de Tecnología que Mejora el Transporte Colectivo, Nos Adaptamos a Instituciones Educativas, Corporativos, Gobierno, Comienza a Disfrutar de las Calles con una Mejor Movilidad",
       "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
       "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
       "SoftwareApplication": "Android, iOS",
       "publisher": "Jetty MX",
-      "publisher": "Innku",
+      "publisher": "Jetty MX",
       "applicationCategory": "Transport",
       "sameAs": [
         "https://www.facebook.com/JettyMX/",
