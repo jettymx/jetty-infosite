@@ -8,26 +8,35 @@ categories: update
 ---
 ![Jetty]({{site.baseurl}}/imgs-blog/acciones-jetty.png)
 
-Hace tres meses que estamos en contingencia por la pandemia de Covid19. Tanto en la CDMX como en el resto del país continuamos con nuestro trabajo de oficina desde nuestra casa, por lo que la movilidad disminuyó en todos los modos de transporte. En Jetty también optamos por el trabajo remoto y en el caso de nuestras rutas tuvimos que reducir la frecuencia de servicios de manera importante.
+Hace seis meses que estamos en contingencia por la pandemia de Covid19. Tanto en la CDMX como en el resto del país la gran mayoría continúa con trabajo de oficina desde casa, por lo que la movilidad disminuyó en todos los modos de transporte. En Jetty también optamos por el trabajo remoto y en el caso de nuestras rutas tuvimos que reducir la frecuencia de servicios de manera importante.
 
 Sin embargo, esta reducción en la movilidad no nos ha impedido seguir trabajando y hemos aportado desde nuestra trinchera para combatir al Covid-19.
 
 Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que no nos hemos visto.
 
+
 <ol>
   <li>
-    <span class="textBold">Repartimos comidas al personal de salud y familiares de pacientes (+19,935)</span>
+    <span class="textBold">Repartimos comidas al personal de salud y familiares de pacientes:</span>
+    <ul style="margin-top: 20px;">
+      <li>En colaboración con: Ya respondiste, Comidas para héroes, Ayudamos a nuestros héroes y Comidas solidarias, repartimos más de 19,935 comidas. </li>
+      <li>Creamos dos rutas (Ayudamos - Todos, Apoyo - Héroes) que con ayuda de nuestros usuarios, se juntaron  más de 1,300  pases para seguir trasladando ayuda. ¡Gracias a nuestros usuarios!</li>
+    </ul>
     <img src="{{site.baseurl}}/imgs-blog/comidas-jetty.png">
   </li>
   <li>
-    <span class="textBold">Transportamos cajas de aerosol, caretas, cubrebocas y desinfectantes (+400)</span>
+    <span class="textBold">Transportamos cajas de aerosol, caretas, cubrebocas y desinfectantes:</span>
+    <ul style="margin-top: 20px;">
+      <li>En colaboración con Red Solidaria transportamos más de 30 cajas de aerosol</li>
+      <li>Más de 300 caretas, cubrebocas  y cajas desinfectantes</li>
+    </ul>
     <img src="{{site.baseurl}}/imgs-blog/material-jetty.png">
   </li>
   <li>
     <span class="textBold">Transportamos bicicletas y refacciones (46)</span>
     <img src="{{site.baseurl}}/imgs-blog/bicis-jetty.png">
   </li>
-  <li><span class="textBold">Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca durante dos meses y medio con los siguientes resultados:</span>
+  <li><span class="textBold">Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca, con viajes directos y seguros, durante dos meses y medio con los siguientes resultados:</span>
     <ul style=" margin-top: 20px;">
       <li><span class="textBold">4 Hospitales beneficiados</span> a través del diseño de dos rutas</li>
       <li><span class="textBold">Colaboración con transportistas</span> de transporte concesionado Estrella del Noreste y Autotransportes del Valle de Toluca</li>
@@ -39,10 +48,10 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
     <img src="{{site.baseurl}}/imgs-blog/personal-jetty.png">
   </li>
   <li>
-    <span class="textBold">Movilizamos al personal de actividades esenciales en el municipio de San Pedro Garza Garza, Monterrey:</span>
+    <span class="textBold">Iniciamos el programa de Movilidad Sostenible para Colaboradores Esenciales en el municipio de San Pedro Garza Garza, Monterrey:</span>
     <ul style=" margin-top: 20px;">
       <li>Se diseñaron 8 rutas</li>
-      <li>6,000 pases vendidos</li>
+      <li>6,000 pases</li>
       <li>153 usuarios únicos</li>
       <li>4.9 de 5 de calificación promedio dejada por los usuarios</li>
     </ul>
