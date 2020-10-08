@@ -24,7 +24,7 @@
   {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
   {% else %}
-    <meta property="og:image" content="https://www.jetty.mx/img/Jetty_MX.png" />
+    <meta property="og:image" content="https://www.jetty.mx/img/JettyMX.png" />
   {% endif %}
 
   <link rel="shortcut icon" type="image/png" href="/favicon.png">
@@ -50,7 +50,7 @@
       "url": "https://www.jetty.mx",
       "logo": "https://www.jetty.mx/img/Jetty_Logo.jpg",
       "author": "Jetty",
-      "image": "https://www.jetty.mx/img/Jetty-MX.jpg",
+      "image": "https://www.jetty.mx/img/JettyMX.jpg",
       "description": "Somos la Plataforma de Tecnología que Mejora el Transporte Colectivo, Nos Adaptamos a Instituciones Educativas, Corporativos, Gobierno, Comienza a Disfrutar de las Calles con una Mejor Movilidad",
       "downloadUrl": "https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8",
       "downloadUrl": "https://play.google.com/store/apps/details?id=mx.jetty.jetty",
