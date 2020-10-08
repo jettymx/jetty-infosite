@@ -57,14 +57,8 @@ id: vacantes
     </div>
 
     <div class="col-md-12">
-<<<<<<< HEAD
-      <h1>SÚMATE AL EQUIPO</h1>
-      <br>
-      <p>En Jetty buscamos transformar la movilidad de las personas en las ciudades. Ofrecemos un servicio de transporte cómodo y accesible con conductores altamente calificados, a través de una aplicación que permite a los usuarios monitorear su unidad, calificar su experiencia y asegurar un asiento. Somos una empresa innovadora y  humana, que con la ayuda de la tecnología mejoramos la vida de nuestros usuarios.</p>
-=======
       <h2>VACANTES</h2>
       <p>Siempre buscamos integrar a nuestro equipo gente dedicada y apasionada por la movilidad, con deseos de aplicar cambios verdaderos en nuestras ciudades.</p>
->>>>>>> test
     </div>
 
     <div class="col-md-10 col-md-offset-1 content-vacantes">
