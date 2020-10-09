@@ -39,7 +39,7 @@ Hoy te queremos compartir 5 acciones que hemos realizado durante este tiempo que
     </ul>
     <img src="{{site.baseurl}}/imgs-blog/bicis-jetty.png">
   </li>
-  <li><
+  <li>
     Movilizamos a personal que trabaja en hospitales Covid en el área de Toluca, con viajes directos y seguros, durante dos meses y medio con los siguientes resultados:
     <ul style="margin-top: 20px;">
       <li>4 Hospitales beneficiados a través del diseño de dos rutas</li>
