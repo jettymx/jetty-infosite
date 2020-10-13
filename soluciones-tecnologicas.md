@@ -227,7 +227,7 @@ active: soluciones tecnologicas
       </div>
     </div>
 
-    <div class="row marginBottom">
+    <div class="row ">
       <div class="container">
         <div class="col-md-12 text-center">
           <h3>Conoce los tres tipos de modalidades</h3>
@@ -255,7 +255,7 @@ active: soluciones tecnologicas
     <div class="row ">
       <div class="col-md-6 col-md-push-3 text-center marginBottom">
         <h3>Solicita un demo para conocer más</h3>
-        <p>Si trabajas con: Transporte Escolar, Transporte Corporativo, Transporte Público o Agencia de Gobierno.</p>
+        <!-- <p>Si trabajas con: Transporte Escolar, Transporte Corporativo, Transporte Público o Agencia de Gobierno.</p> -->
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#ModalConcesionado">
           Solicitar demo
         </button>
