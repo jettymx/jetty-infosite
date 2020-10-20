@@ -145,8 +145,7 @@ id: transporte-eventos
         </button>
       </div>
       <div class="modal-body">
-        <div class="_form_3"></div>
-        <script src=“https://jetty.activehosted.com/f/embed.php?id=3” type=“text/javascript” charset=“utf-8"></script>
+        <div class="_form_3"></div><script src=“https://jetty.activehosted.com/f/embed.php?id=3” type=“text/javascript” charset=“utf-8"></script>
       </div>
     </div>
   </div>
