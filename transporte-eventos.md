@@ -140,16 +140,13 @@ id: transporte-eventos
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <!-- <h4 class="modal-title" id="myModalLabel">Déjanos tus datos y te mandaremos la cotización.</h4> -->
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
       <div class="modal-body">
         <div class="_form_3"></div><script src="https://jetty.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script>
       </div>
-      <!-- <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div> -->
     </div>
   </div>
 </div>
