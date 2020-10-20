@@ -140,11 +140,13 @@ id: transporte-eventos
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
       <div class="modal-body">
-        <!-- Nuevo script Active campaing -->
-        <div class=“_form_3”></div><script src=“https://jetty.activehosted.com/f/embed.php?id=3” type=“text/javascript” charset=“utf-8"></script>
+        <div class="_form_3"></div>
+        <script src=“https://jetty.activehosted.com/f/embed.php?id=3” type=“text/javascript” charset=“utf-8"></script>
       </div>
     </div>
   </div>

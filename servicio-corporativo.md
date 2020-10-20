@@ -243,8 +243,8 @@ id: servicio-corporativo
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       </div>
       <div class="modal-body">
-        <!-- Nuevo script Active campaing -->
-        <div class=“_form_5”></div><script src=“https://jetty.activehosted.com/f/embed.php?id=5” type=“text/javascript” charset=“utf-8"></script>
+        <div class="_form_5"></div>
+        <script src=“https://jetty.activehosted.com/f/embed.php?id=5” type=“text/javascript” charset=“utf-8"></script>
       </div>
     </div>
   </div>
