@@ -5,11 +5,13 @@
 
 .navbar-default{
   background: rgba(255, 255, 255, 1);
+  /*-webkit-backdrop-filter: blur(14px);*/
   border: none !important;
   border-radius: 0 !important;
 }
 
 .navbar-default .navbar-collapse{
+    /*background: #ffffff;*/
     background: transparent;
   }
 
