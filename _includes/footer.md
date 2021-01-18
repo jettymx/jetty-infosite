@@ -82,6 +82,10 @@
             <img src="{{ site.baseurl }}/img/jetty-android.png" alt="Jetty Descargar Android">
         </a>
 
+        <a href="https://appgallery.huawei.com/#/app/C100848855" target="_blank" class="download-app hvr-shadow">
+            <img src="{{ site.baseurl }}/img/jetty-Huawei.png" alt="Jetty Descargar Huawei">
+        </a>
+
         <div class="">
           <ul class="social">
             <li class="social-mobile">

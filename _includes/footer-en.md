@@ -75,11 +75,15 @@
         <p class="text-downapp">Download the app</p>
 
         <a href="https://itunes.apple.com/us/app/jetty-soluciona-tu-transporte/id1276413293?l=es&ls=1&mt=8" target="_blank" class="download-app hvr-shadow">
-            <img src="{{ site.baseurl }}/img/jetty-iOS-en.png" alt="Jetty Descargar iOS">
+            <img src="{{ site.baseurl }}/img/jetty-iOS-en.png" alt="Jetty Download iOS">
         </a>
 
         <a href="https://play.google.com/store/apps/details?id=mx.jetty.jetty" target="_blank" class="download-app hvr-shadow">
-            <img src="{{ site.baseurl }}/img/jetty-android-en.png" alt="Jetty Descargar Android">
+            <img src="{{ site.baseurl }}/img/jetty-android-en.png" alt="Jetty Download Android">
+        </a>
+
+        <a href="https://appgallery.huawei.com/#/app/C100848855" target="_blank" class="download-app hvr-shadow">
+            <img src="{{ site.baseurl }}/img/jetty-Huawei-en.png" alt="Jetty Download Huawei">
         </a>
 
         <div class="">
