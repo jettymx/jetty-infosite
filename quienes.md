@@ -32,23 +32,30 @@ id: quienes
         <h2>Nuestros premios y reconocimientos:</h2>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-6">
         <a href="https://www.mitinclusiveinnovation.com" target="_blank">
           <img src="imgs-prensa/MIT-IIC.png" alt="MIT Inclusive Innovation Challenge" style="width: 180px; margin-bottom: 20px;">
         </a>
         <p>En el 2019 fuimos reconocidos entre miles de startups por el Instituto Tecnológico de Massachussetts (MIT) por nuestra capacidad de <span class="textBold">incrementar el ingreso de los empresarios transportistas, mejorar las condiciones de empleo de los conductores</span> y sobre todo, <span class="textBold">por mejorar la experiencia de viajes al trabajo de miles de personas.</span></p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <a href="https://www.kcurveprize.org" target="_blank">
           <img src="imgs-prensa/keeling-curve.png" alt="Keeling Curve Prize" style="width: 180px; margin-bottom: 20px;">
         </a>
         <p>En junio del 2019 el Keeling Curve Prize anunció que ganamos la categoría de transporte, por ser <span class="textBold">una iniciativa con potencial de alterar y acelerar los esfuerzos actuales para reducir el calentamiento global.</span></p>
       </div>
-      <div class="col-md-4">
+      <div class="clearfix"></div>
+      <div class="col-md-6">
         <a href="https://www.worldsummitawards.org" target="_blank">
           <img src="imgs-prensa/wsa_logo_2018_winner.png" alt="wsa winner 2018" style="width: 180px; margin-bottom: 20px;">
         </a>
         <p>En el 2018 ganamos la categoría de Urbanización y Asentamientos Inteligentes del Word Summit Awards. Siendo reconocidos como una de las <span class="textBold">40 innovaciones digitales que están revolucionando el estatus quo.</span></p>
+      </div>
+      <div class="col-md-6">
+        <a href="https://ideamos.mx/portfolio/movilidad-con-salud-toluca/" target="_blank">
+          <img src="imgs-prensa/itdp.png" alt="wsa winner 2018" style="width: 280px; margin-bottom: 20px;">
+        </a>
+        <p>En el 2020 colaboramos con el Instituto de Políticas para el Transporte y el Desarrollo (ITDP) en el programa  Ideamos, el cual impulsa un ecosistema de movilidad sostenible e incluyente, enfocado en las personas y su derecho a moverse de manera segura. Para ello, generamos el piloto: <span class="textBold">Movilidad con Salud en Toluca, el cual brindó transporte seguro al personal de hospitales frente a la pandemia por COVID-19 en Toluca.</span></p>
       </div>
 
       <div class="col-md-12">
