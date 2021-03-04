@@ -255,7 +255,6 @@ active: soluciones tecnologicas
     <div class="row ">
       <div class="col-md-6 col-md-push-3 text-center marginBottom">
         <h3>Solicita un demo para conocer más</h3>
-        <!-- <p>Si trabajas con: Transporte Escolar, Transporte Corporativo, Transporte Público o Agencia de Gobierno.</p> -->
         <button type="button" class="btn-green hvr-shadow" data-toggle="modal" data-target="#ModalConcesionado">
           Solicitar demo
         </button>
@@ -301,7 +300,7 @@ active: soluciones tecnologicas
     <div class="modal-content">
       <div class="modal-header">
 
-        <div class="_form_10"></div>
+        <div class="_form_10">
 
     </div>
   </div>

@@ -90,23 +90,25 @@
 </script>
 
 <!-- inSight Linkedin -->
-<script type=“text/javascript”>
-  _linkedin_partner_id = “2641898";
+<script type="text/javascript">
+  _linkedin_partner_id = "2641898";
   window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
   window._linkedin_data_partner_ids.push(_linkedin_partner_id);
-  </script><script type=“text/javascript”>
+  </script><script type="text/javascript">
   (function(){var s = document.getElementsByTagName(“script”)[0];
   var b = document.createElement(“script”);
   b.type = “text/javascript”;b.async = true;
   b.src = “https://snap.licdn.com/li.lms-analytics/insight.min.js”;
   s.parentNode.insertBefore(b, s);})();
-  </script>
-  <noscript>
-  <img height=“1" width=“1” style=“display:none;” alt=“” src=“https://px.ads.linkedin.com/collect/?pid=2641898&fmt=gif” />
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2641898&fmt=gif" />
 </noscript>
 
 <!-- FORMULARIO MODAL SOLUCIONES TECNOLOGICAS -->
-<script src=“https://jetty.activehosted.com/f/embed.php?id=10” type=“text/javascript” charset=“utf-8"></script>
+<script src="https://jetty.activehosted.com/f/embed.php?id=10" type="text/javascript" charset="utf-8"></script>
 
 <!-- NEWSLETTER -->
-<script src=“https://jetty.activehosted.com/f/embed.php?id=14” type=“text/javascript” charset=“utf-8”></script>
+<script src="https://jetty.activehosted.com/f/embed.php?id=14" type="text/javascript" charset="utf-8"></script>
+
+
