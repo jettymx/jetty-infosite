@@ -678,5 +678,3 @@ active: soluciones tecnologicas
   </div>
 </div>
 
-<!-- NEWSLETTER -->
-<script src=“https://jetty.activehosted.com/f/embed.php?id=14” type=“text/javascript” charset=“utf-8”></script>
