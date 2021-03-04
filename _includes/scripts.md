@@ -4,17 +4,6 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
 
-<!-- Animación H2 index old -->
-<!-- <script type="text/javascript">
-  $(function(){
-    $('.text-fadein h2:gt(0)').hide();
-    setInterval(function(){$('.text-fadein :first-child').fadeOut(1500).next('h2').fadeIn(1500).end().appendTo('.text-fadein');}, 5000);
-  });
-</script> -->
-
-<!-- TypeForm Organizaciones -->
-<!-- <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm_share',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script> -->
-
 <!-- LOTTIE ANIMACIONES -->
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
@@ -85,23 +74,7 @@
   Intercom('update', {"name": "Usuario Web"});
 </script>
 
-<!-- /// NAV SCROLL /// -->
-<!-- <script type="text/javascript">
-  $(function() {
-    var header = $(".nav-background");
-    $(window).scroll(function() {
-        var scroll = $(window).scrollTop();
-
-        if (scroll >= 80) {
-            header.removeClass('nav-background').addClass("nav-outback");
-        } else {
-            header.removeClass("nav-outback").addClass('nav-background');
-        }
-    });
-  });
-</script> -->
-
-<!-- /// SCROLLTO CONDUCTORES /// -->
+<!-- SCROLLTO CONDUCTORES -->
 <script type="text/javascript">
   $("#button").click(function() {
     $([document.documentElement, document.body]).animate({
@@ -117,17 +90,17 @@
 </script>
 
 <!-- inSight Linkedin -->
-<script type=“text/javascript”>
-  _linkedin_partner_id = “2641898";
+<script type="text/javascript">
+  _linkedin_partner_id = "2641898";
   window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
   window._linkedin_data_partner_ids.push(_linkedin_partner_id);
-  </script><script type=“text/javascript”>
+  </script><script type="text/javascript">
   (function(){var s = document.getElementsByTagName(“script”)[0];
   var b = document.createElement(“script”);
   b.type = “text/javascript”;b.async = true;
   b.src = “https://snap.licdn.com/li.lms-analytics/insight.min.js”;
   s.parentNode.insertBefore(b, s);})();
-  </script>
-  <noscript>
-  <img height=“1" width=“1” style=“display:none;” alt=“” src=“https://px.ads.linkedin.com/collect/?pid=2641898&fmt=gif” />
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2641898&fmt=gif" />
 </noscript>
