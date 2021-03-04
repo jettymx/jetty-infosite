@@ -104,10 +104,3 @@
 <noscript>
   <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2641898&fmt=gif" />
 </noscript>
-
-<!-- FORMULARIO MODAL SOLUCIONES TECNOLOGICAS -->
-<!-- <script src="https://jetty.activehosted.com/f/embed.php?id=10" type="text/javascript" charset="utf-8"></script> -->
-
-<!-- NEWSLETTER -->
-<!-- <script src="https://jetty.activehosted.com/f/embed.php?id=14" type="text/javascript" charset="utf-8"></script>
- -->
