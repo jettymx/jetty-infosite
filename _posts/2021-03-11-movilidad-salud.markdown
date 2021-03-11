@@ -10,11 +10,13 @@ categories: update
 
 En el año 2020 en todo el mundo vivimos un cambio sin precedentes, un cambio en nuestra manera de vivir, trabajar y por supuesto un cambio en la forma de movernos, la cual se vio fuertemente modificada por las medidas de confinamiento.
 
-La llegada de este nuevo virus a nuestras vidas, trajo a la mesa un tema en el que Jetty ya había estado trabajando años atrás, tecnología para mejorar el transporte y con ello la seguridad de los usuarios y usuarias al viajar.
+La llegada de este nuevo virus a nuestras vidas, trajo a la mesa un tema en el que Jetty ya había estado trabajando años atrás, <b>tecnología para mejorar el transporte</b> y con ello la seguridad de los usuarios y usuarias al viajar.
 
-Gracias a la colaboración entre gobierno y transportistas, se pudo impulsar el piloto Movilidad con Sector Salud: Toluca, que también surge gracias al programa Ideamos, impulsado por el Instituto de Políticas para el Transporte y el Desarrollo (ITDP), el Banco Interamericano de Desarrollo (BID) y el BID Lab.
+Gracias a la colaboración entre gobierno y transportistas, se pudo impulsar el piloto Movilidad con Salud: Toluca, que también surge gracias al programa Ideamos, impulsado por el Instituto de Políticas para el Transporte y el Desarrollo (ITDP), el Banco Interamericano de Desarrollo (BID) y el BID Lab.
 
 A través del piloto se ofreció un servicio de transporte seguro y sanitizado al personal de diferentes hospitales de la zona de Toluca, lo que les permitió trasladarse a su lugar de trabajo con una ruta diseñada para hacer su recorrido lo más corto posible, evitando transbordos intermedios y disminuyendo el riesgo de contagio.
+
+<b>Los resultados obtenidos fueron más de 1,200 pases vendidos, 500 servicios completados y una calificación de servicio de 4.9 en promedio, durante los 3 meses que duró el piloto.</b>
 
 En Jetty, pusimos a prueba modelos de gestión, herramientas tecnológicas, estrategias de monitoreo y análisis de datos. Con ello promovimos un modelo escalable y  generamos aprendizajes para una movilidad sostenible e incluyente. Llevamos a cabo los ajustes para la implementación de las rutas de transporte y el desarrollo de nuevas características en nuestra app.
 
