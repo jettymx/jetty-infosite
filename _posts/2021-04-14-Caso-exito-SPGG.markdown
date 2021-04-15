@@ -30,8 +30,12 @@ Además, a través de nuestra tecnología garantizamos un servicio de transporte
 
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-spgg-usuarios.png)
 
-<div class="embed-responsive embed-responsive-4by3">
+<!-- <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://youtu.be/f_QqePo_KEQ"></iframe>
+</div> -->
+
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f_QqePo_KEQ" allowfullscreen></iframe>
 </div>
 
 Gracias a actualizaciones constantes es posible hacer ajustes y agregar cambios, e implementaciones. Por ejemplo en San Pedro se atendió la necesidad de trasladar a colaboradores que no contaban con un smartphone para usar el servicio, por lo que desarrollamos un QR personal e intransferible que les permitiría abordar las unidades.
