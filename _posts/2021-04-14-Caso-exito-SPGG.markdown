@@ -30,10 +30,6 @@ Además, a través de nuestra tecnología garantizamos un servicio de transporte
 
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-spgg-usuarios.png)
 
-<!-- <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://youtu.be/f_QqePo_KEQ"></iframe>
-</div> -->
-
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f_QqePo_KEQ" allowfullscreen></iframe>
 </div>
