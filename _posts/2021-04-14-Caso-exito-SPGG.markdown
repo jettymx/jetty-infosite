@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Caso de éxito: SPGG"
-date:   2021-04-14 10:00:00
+title:  "Conoce nuestro servicio en SPGG"
+date:   2021-04-10 10:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/jetty-SPGG.png
 categories: update

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tarifa por distancia"
-date:   2021-02-17 12:00:00
+date:   2021-04-15 10:00:00
 post_author: Jetty
 image: https://www.jetty.mx/imgs-blog/tarifa-por-distancia.png
 categories: update
