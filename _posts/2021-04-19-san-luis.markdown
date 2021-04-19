@@ -22,7 +22,7 @@ Esta nueva opción traería también más beneficios a sus usuarios, como la opc
 
 ![Jetty]({{site.baseurl}}/imgs-blog/jetty-san-luis-bus.png)
 
-Esta opción ha acumulado más de 1500 pases comprados y más de 500 usuarios registrados desde su implementación. Y ha ayudado a establecer una comunicación más directa con los usuarios, ya que al tener registro por la app, tienen la opción de asistencia con nuestro equipo de soporte y también al centro de mensajes, el cual funciona como medio de comunicación directo para poder enviarles notificaciones push para promociones, comunicados, etc.
+Esta opción ha acumulado más de 1500 pases comprados y más de 500 usuarios registrados desde su implementación (Marzo 2020) en menos de un año. Y ha ayudado a establecer una comunicación más directa con los usuarios, ya que al tener registro por la app, tienen la opción de asistencia con nuestro equipo de soporte y también al centro de mensajes, el cual funciona como medio de comunicación directo para poder enviarles notificaciones push para promociones, comunicados, etc.
 
 Gracias a la gran aceptación de tecnología en esta ruta, hace un par de meses se tomó la decisión de abarcar también las rutas 27 y 30. Poco a poco Transportes Tangamanga en San Luis Potosí revoluciona su servicio y se vuelve parte de la movilidad inteligente al brindar más opciones seguras y tecnológicas a su servicio.
 
