@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Pago libre de contacto en San Luis Potosí"
+date:   2021-04-19 10:00:00
+post_author: Jetty
+image: https://www.jetty.mx/imgs-blog/Jetty-San-Luis.png
+categories: update
+---
+![Jetty]({{site.baseurl}}/imgs-blog/Jetty-San-Luis.png)
+
+Hace 1 año, que transportes Tangamanga en San Luis Potosí decidió introducir tecnología a su ruta 28, que va de María Cecilia a Progreso.
+
+Decidieron comenzar con brindarle a sus usuarios la posibilidad de pagar sin contacto, por medio de nuestra app móvil Jetty al escanear un código QR, mismo que se colocó en todas las unidades de la ruta.
+
+Esta nueva opción traería también más beneficios a sus usuarios, como la opción  de realizar el pago de su transporte por medio de 3 formas de pago distintas:
+
+<ul>
+  <li><p>Tarjeta de crédito/ tarjeta de débito</p></li>
+  <li><p>Transferencia por SPEI</p></li>
+  <li><p>Pago en tiendas</p></li>
+</ul>
+
+![Jetty]({{site.baseurl}}/imgs-blog/jetty-san-luis-bus.png)
+
+Esta opción ha acumulado más de 1500 pases comprados y más de 500 usuarios registrados desde su implementación. Y ha ayudado a establecer una comunicación más directa con los usuarios, ya que al tener registro por la app, tienen la opción de asistencia con nuestro equipo de soporte y también al centro de mensajes, el cual funciona como medio de comunicación directo para poder enviarles notificaciones push para promociones, comunicados, etc.
+
+Gracias a la gran aceptación de tecnología en esta ruta, hace un par de meses se tomó la decisión de abarcar también las rutas 27 y 30. Poco a poco Transportes Tangamanga en San Luis Potosí revoluciona su servicio y se vuelve parte de la movilidad inteligente al brindar más opciones seguras y tecnológicas a su servicio.
+
+Con Jetty puedes implementar esta funcionalidad en tu servicio de transporte en menos de 2 semanas, para darle a tus usuarios un plus de experiencia y seguridad, y a ti un mejor control de pagos, sin perder el manejo total de tu servicio.
+
