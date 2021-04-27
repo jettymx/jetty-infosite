@@ -21,6 +21,8 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="http://jetty.mx">
 
+  <meta name="facebook-domain-verification" content="rw0guvpxl1vysmyp4ta8nspo06tp0p" />
+
   {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
   {% else %}
