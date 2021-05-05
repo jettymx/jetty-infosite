@@ -24,7 +24,7 @@ En palabras de Everardo Enríquez,  Presidente de Autotransportes San Pedro Sant
 “Hemos podido encontrar una sinergia con Jetty, que nos permite ofrecerles a nuestros usuarios mucho más.
 La tecnología es fundamental, ya que con ella podemos ver dónde están las unidades, pasajeros, quién conduce, hacia qué destino se dirige, las condiciones de conducción, podemos tener el control de nuestros ingresos y saber dónde está el usuario y encontrar áreas de oportunidad para seguir creciendo el negocio. Hoy quien diga que puede seguir en el negocio de transporte sin tecnología, ya está en otra época”.
 
-<div class="embed-responsive embed-responsive-4by3">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JqrlY3JsJO8" allowfullscreen></iframe>
 </div>
 
