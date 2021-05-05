@@ -10,7 +10,7 @@ categories: update
 
 Por fin la tecnología llegó a Indios Verdes, ahora contar con transporte que llega a tiempo, que es cómodo y seguro, es posible con Pasabus.
 
-Las rutas disponibles actualmente son: La ruta expresso de Ojo de Agua al Indios Verdes, y de Indios Verdes a Ojo de Agua, así como la ruta ordinaria de Indios Verdes hacia San Andrés Jaltenco.
+Las rutas disponibles actualmente son: La ruta expresso de Ojo de Agua a Indios Verdes, y de Indios Verdes a Ojo de Agua, así como la ruta ordinaria de Indios Verdes hacia San Andrés Jaltenco.
 
 Usar Pasabus es muy fácil, sólo descarga, paga y viaja.
 
@@ -21,8 +21,8 @@ Como socio transportista obtienes un canal de comunicación directa con tus usua
 
 En palabras de Everardo Enríquez,  Presidente de Autotransportes San Pedro Santa Clara- Pasabus, respecto a la tecnología:
 
-“Hemos podido encontrar una sinergia con Jetty, que nos permite ofrecerles a nuestros usuarios mucho más.
-La tecnología es fundamental, ya que con ella podemos ver dónde están las unidades, pasajeros, quién conduce, hacia qué destino se dirige, las condiciones de conducción, podemos tener el control de nuestros ingresos y saber dónde está el usuario y encontrar áreas de oportunidad para seguir creciendo el negocio. Hoy quien diga que puede seguir en el negocio de transporte sin tecnología, ya está en otra época”.
+“Hemos podido encontrar una sinergia con Jetty, que nos permite ofrecerles a nuestros usuarios mucho más. La tecnología es fundamental, ya que con ella podemos ver dónde están las unidades, pasajeros, quién conduce, hacia qué destino se dirige, las condiciones de conducción. Podemos tener el control de nuestros ingresos y saber dónde está el usuario, así como encontrar áreas de oportunidad para seguir creciendo el negocio.
+Hoy quien diga que puede seguir en el negocio de transporte sin tecnología, ya está en otra época”.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JqrlY3JsJO8" allowfullscreen></iframe>
