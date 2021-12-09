@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800');
 
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+
 * {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -19,7 +21,7 @@ img.imgResponsive{
 }
 
 body{
-  font-family: 'TT Commons';
+  font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
   color: #2D414D;
@@ -28,7 +30,7 @@ body{
 
 h1{
   color: #2D414D;
-  font-family: 'TT Commons';
+  font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 50px;
@@ -37,7 +39,7 @@ h1{
 
 h2{
   color: #2D414D !important;
-  font-family: 'TT Commons';
+  font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 38px;
@@ -46,7 +48,7 @@ h2{
 
 h3{
   color: #69808E !important;
-  font-family: 'TT Commons';
+  font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 28px;
@@ -54,10 +56,14 @@ h3{
 
 h4 {
   color: #69808E !important;
-  font-family: 'TT Commons';
+  font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 24px;
+}
+
+.lead{
+  font-size: 18px
 }
 
 .titleBold{
