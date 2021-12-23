@@ -20,7 +20,7 @@ img.imgResponsive{
   -webkit-animation-delay: .5s;
 }
 
-body{
+/*body{
   font-family: 'Readex Pro', sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -57,6 +57,49 @@ h3{
 h4 {
   color: #69808E !important;
   font-family: 'Readex Pro', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 24px;
+}*/
+
+
+body{
+  font-family: 'TT Commons';
+  font-weight: 300;
+  font-style: normal;
+  color: #2D414D;
+  font-size: 18px;
+}
+
+h1{
+  color: #2D414D;
+  font-family: 'TT Commons';
+  font-weight: 300;
+  font-style: normal;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+h2{
+  color: #2D414D !important;
+  font-family: 'TT Commons';
+  font-weight: 300;
+  font-style: normal;
+  font-size: 38px;
+  text-transform: uppercase;
+}
+
+h3{
+  color: #69808E !important;
+  font-family: 'TT Commons';
+  font-weight: 300;
+  font-style: normal;
+  font-size: 28px;
+}
+
+h4 {
+  color: #69808E !important;
+  font-family: 'TT Commons';
   font-weight: 300;
   font-style: normal;
   font-size: 24px;
