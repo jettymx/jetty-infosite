@@ -51,6 +51,7 @@
           <li>
             <a href="{{site.baseurl}}/centro-informacion-covid-19" target="_self">Centro de información Covid-19</a>
           </li>
+
         </ul>
       </div>
 
@@ -65,6 +66,9 @@
           </li>
           <li>
             <a href="{{site.baseurl}}/prestacion" target="_self">Prestación de servicio</a>
+          </li>
+          <li>
+            <a href="{{site.baseurl}}/eliminacion-cuentas" target="_self">Eliminación cuentas</a>
           </li>
         </ul>
       </div>
