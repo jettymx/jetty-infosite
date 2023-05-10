@@ -32,7 +32,7 @@ id: cobertura
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="cdmx">
             <div>
-              <img src="{{site.baseurl}}/imgs-blog/Jetty-Mapa-Rutas.png" alt="Cobertura Jetty CDMX" style="width: 100%">
+              <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Marzo-2023.png" alt="Cobertura Jetty CDMX" style="width: 100%">
             </div>
           </div>
           <div role="tabpanel" class="tab-pane" id="saltillo">
