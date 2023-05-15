@@ -24,9 +24,9 @@ id: cobertura
           <!-- <li role="presentation">
             <a href="#saltillo" aria-controls="saltillo" role="tab" data-toggle="tab"><b>SALTILLO</b></a>
           </li> -->
-          <li role="presentation">
+          <!-- <li role="presentation">
             <a href="#monterrey" aria-controls="monterrey" role="tab" data-toggle="tab">MONTERREY</a>
-          </li>
+          </li> -->
         </ul>
 
         <div class="tab-content">
