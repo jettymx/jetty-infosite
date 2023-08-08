@@ -32,19 +32,19 @@ id: cobertura
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="cdmx">
             <div>
-              <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Marzo-2023.png" alt="Cobertura Jetty CDMX" style="width: 100%">
+              <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Agosto-2023.png" alt="Cobertura Jetty CDMX" style="width: 100%">
             </div>
           </div>
-          <div role="tabpanel" class="tab-pane" id="saltillo">
+          <!-- <div role="tabpanel" class="tab-pane" id="saltillo">
             <div>
               <img src="{{site.baseurl}}/imgs-blog/Mapa-Rutas-Saltillo.jpg" alt="Cobertura Jetty Saltillo" style="width: 100%">
             </div>
-          </div>
-          <div role="tabpanel" class="tab-pane" id="monterrey">
+          </div> -->
+          <!-- <div role="tabpanel" class="tab-pane" id="monterrey">
             <div>
               <img src="{{site.baseurl}}/imgs-blog/Jetty-Rutas-MTY.png" alt="Cobertura Jetty Saltillo" style="width: 100%">
             </div>
-          </div>
+          </div> -->
         </div>
 
       </div>
